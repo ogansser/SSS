@@ -3,7 +3,7 @@ author: Prof. Dr. Oliver A. Gansser
 date: "2021-04-20"
 description: Seeschiffahrtsküstenschein
 menu: main
-title: Seeschiffahrtsküstenschein - Wichtige Themen für Prüfung und Praxis
+title: Sportseeschiffartsschein - Wichtige Themen für Prüfung und Praxis
 ---
 
 ![](/./about_files/izola.jpg)

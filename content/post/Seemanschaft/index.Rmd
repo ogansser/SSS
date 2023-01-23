@@ -82,7 +82,7 @@ Nach dem Starten kontrolle von:
 
 => Entlüftungsschrauben (Gehäusedeckel Hauptkraftstofffilter und Einspritzpumpe) öffnen => Handhebel Kraftstoffförderpumpe betätigen => Diesel wird angesaugt und zum Hauptfilter gepumpt => Wenn voll und keine Luft mehr kommt, dann schließen => Weiterpumpen bis aus Einspritzpumpe keine Luft mehr austritt => Entlüftungsschraube schließen
 
-Falls nach dieser Entlüftung der MOtor nicht startet, kann man noch die Hochdruckleitungen von der Einspritzpumpe zu den Einspritzdüsen entlüften => Überwurfmuttern an den Einspritzdüsen lockern => Motor mit Anlasser durchdrehen => feiner Dieselstrahl => Muttern festdrehen => neu starten
+Falls nach dieser Entlüftung der Motor nicht startet, kann man noch die Hochdruckleitungen von der Einspritzpumpe zu den Einspritzdüsen entlüften => Überwurfmuttern an den Einspritzdüsen lockern => Motor mit Anlasser durchdrehen => feiner Dieselstrahl => Muttern festdrehen => neu starten
 
 13. Um unter Motor möglichst **enge Kurven** zu fahren stoppt man erst auf, um beim erneuten Anfahren den Anstrahleffekt zu nutzen.
 
