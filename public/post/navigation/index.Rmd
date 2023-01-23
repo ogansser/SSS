@@ -1,0 +1,651 @@
+---
+title: Navigation
+author: Oliver Gansser
+date: []
+slug: []
+categories: []
+tags: [Nautische Veröffentlichungen, Kursumwandlungen, Koppelnavigation, Terrestrische Schiffsorte, Terrestrische Kompasskontrolle, Gezeitenkunde, Gezeitenrechnung, GPS, Wegpunktnavigation, Radar, Elektronische Seekarten und ECDIS, AIS]
+summary: Nautische Veröffentlichungen, Kursumwandlungen, Koppelnavigation, Terrestrische Schiffsorte, Terrestrische Kompasskontrolle, Gezeitenkunde, Gezeitenrechnung, GPS, Wegpunktnavigation, Radar, Elektronische Seekarten und ECDIS, AIS
+output:
+  blogdown::html_page:
+    toc: TRUE
+    number_sections: TRUE
+---
+
+![](https://vg08.met.vgwort.de/na/5fee9ac6c95241de803820d022d2ed08){width=1px height=1px}
+
+
+# Nautische Veröffentlichungen
+
+1. Nautischen Veröffentlichungen gibt es beim **Bundesamt für Seeschifffahrt und Hydrographie (BSH)**.
+
+2. Für einen bestimmten Törn werden Seekarten für die ganze Reise auf der Karte mit dem größten Maßstab benötigt. 
+
+3. Die Bedeutung von Abkürzungen und Symbolen sind auf der **Karte 1/INT 1**.
+
+4. Tiefenangaben beziehen sich auf **Seekartennull** und Höhenangaben auf **Normalnull**. 
+
+5. Seekarten werden in der Berufsschiffahrt berichtigt in dem die **Nachrichten für Seefahrer (NFS) wöchentlich** in Heftform herausgegeben werden und von den Vertriebsstellen zu beziehen sind. In der Sportschiffahrt erscheinen **im Internet kostenlose** Sammelberichtigungen unter [www.bsh.de](https://www.bsh.de/DE/Home/home_node.html).
+
+6. Die Sendezeiten und -stationen für Nautische Warnnachrichten sind im **Jachtfunkdienst** und im **Handbuch Nautischer Funkdienst** zu finden. 
+
+7. Nationale Verkehrsvorschriften anderer Staaten findet man in den Bänden der **Admiralty List of Lights and Fog Signals**.
+
+**Merke**:
+
+> Verlegung einer Leuchttonne wird rechtzeitig durch P-Nachricht (preliminary = beabsichtigt) in NFS mitgeteilt. Mit Bleistift in Seekarte eintragen (wg. Änderung, Löschung, Belassung). Bei neuen Seekarten ab Stempel nachtragen aus NFS oder NMs (Notices of Mariners).
+
+> Stempel in der Karte oder auf Rückseite (engl. Karten) = Berichtungsstand
+
+> Berichtigung über vorübergehenden Zustand = T (Temporary)
+
+> Berichtigung über bevorstehende Maßnahme = P
+
+> "Inshore Traffic Zone": Ist der Bereich zw. Küstenlinie und VTG. Vorbehalten für kleinere Boote, Segelschiffe und Motorschiffe mit Länge bis 20m. 
+
+>Berichtigung von Tonnen: Neue Position mit rotem Kreuz und Kreis herum zu kennzeichen und Pfeil von alter zu neuer Position.
+
+>BFS = Bekanntmachungen für Seefahrer: Betonnungsänderungen
+
+>NfS = Nachrichten für Seefahrer: Kartenberichtigungen
+ 
+>NWN = Nautische Warnnachrichten: Wichtige Gefahrenmeldungen oder Nachrichten
+
+>Berichtigungen werden eingetragen mit [Nr/Datum]
+
+
+# Die Kursumwandlung
+
+1. Der **MgK (Magnetkompasskurs)** ist der Winkel zwischen Rechtvorausrichtung und Magnetkompass-Nord.
+
+2. Der **rwK (rechtweisender Kurs)** ist der Winkel zwischen Rechtvorausrichtung und rechtweisend Nord.
+
+3. Die **Kompassablenkung** entsteht durch das magnetische Feld, das auf dem Schiff in der Umgebung des Kompasses von fest installierten Metallteilen, Elektrik und vor allem Lautsprechern mit starken Magneten und ist **vom Kurs des Schiffes abhängig** weil das Feld das Erdmagnetfeld verstärkt, wenn das Schiff so gedreht wird, dass beide Felder fluchten.
+
+4. Man unterscheidet zwischen **Steuertafel** und **Ablenkungstafel**, weil ersteres für die Berichtigung des missweisenden Kurses (mwK) ist, zweites für die Korrektur des Magnetkompasskurses (MgK) ist.
+
+5. Die **Missweisung (Mw)** ist ortsgebunden, kursunabhängig** und zeitabhängig.
+
+6. Die **Windversetzung** hängt ab vom Schiffstyp, seiner Besegelung, vom Kurs zum Wind, von der Fahrt durchs Wasser und vom Seegang. Der Navigator erhält den aktuellen Wert aufgrund von **Erfahrungswerten** für das jeweilige Schiff, deren **Größenordnung** und **Zusammenhänge**.
+
+7. Bei Wind von Steuerbord ist das Vorzeichen der **Beschickung für Wind (BW)** negativ.
+
+8. Der **Strom** *setzt in* der angegebenen Richtung.
+
+9. Der Navigator erhält die **aktuellen Stromangaben** aus Seekarten, dem Seehandbuch, dem Atlas der Gezeitenströme oder auch anderen nautischen Veröffentlichungen.  
+
+Kursumwandlungsschema:
+    
+    MgK   
+    +Abl  
+    =mwK  
+    + MW  
+    =rwK  
+    +BW  
+    =KdW  
+    +BS  
+    =KüG  	 
+
+**Merke**:
+
+> VTG sind im rechten Winkel (rwK) zu durchqueren. In Karte 2656 ist rwK entweder 164 oder 344 Grad. 
+
+> Im VTG umsichtig fahren, Kielrichtung von 90 Grad einhalten. 
+
+> Westliche und östliche Missweisung Karte 2652: 
+
+  MW 2000 = 4 Grad 00'W  
+- Änd. 5 * 9' = 45'E  
+----------------------------  
+MW 2005 = 3 Grad 15'W ~ 3 Grad W
+
+  MW 2000 = 3 Grad 05'W  
+- Änd. 5 * 8' = 30'E  
+----------------------------  
+MW 2005 = 2 Grad 25'W ~ 2 Grad W
+
+
+# Koppelnavigation
+
+1. **Beobachtete Orte (Ob)** sind die Orte, die direkt vermessen werden und genauer sind (durch Kreis mit Kreuz gekennzeichnet). **Koppelorte (Ok)** sind die Orte,  die durch den Magnetkompasskurs (Mgk) gesteuert wurden, mit richtiger Einschätzung der Beschickung durch Wind (BW), der Setzung des Stroms und die Meilenanzeige des Logs (durch Kreuz oder senkrechtem Strich zur Kurslinie gekennzeichnet).
+
+2. Normalerweise ist der **Kartenkurs** ein **KüG**. Wenn kein Strom setzt, ist der KdW zugleich KüG, und wenn auch keine Windversetzung besteht, ist der rwK also die Rechtsvorausrichtung zugleich KüG.
+
+3. Die voraussichtliche Ankunftszeit an einem Zwischenziel errechnet sich durch $$Minuten = \frac{sm*60}{FüG(kn)}$$
+
+4. Der Navigator stellt den augenblicklichen Koppelort bei Strom mit der Fahrt über Grund (FüG) nach der Formel $$sm = \frac{Minuten*FüG(kn)}{60}$$ fest. Ohne Strom genügt die Log. 
+
+5. Die **Besteckversetzung (BV)** dient der Ermittlung von Strom- oder Windversatz, von Fahrtfehlern oder Steuertendenzen. **BV = Vektor vom Ok zum Ob**. 
+
+6. In Gewässern mit Tidenstrom koppelt man praktischerweise in den **Stundenintervallen**, für die die Seiten des Stromatlas gelten. Es ergibt sich für jede Stunde ein **neuer Steuerkurs (MgK)**.
+
+**Merke:**
+
+>Stromrauten in der Karte sind immer bezogen auf Dover. Strom in Richtung (StR) und Stärke (StS) für NpZ und SpZ kann man in Stundenintervallen aus der Karte entnehmen. Für Mittzeit muss man die beiden Werte mitteln. 
+
+>Wenn KaK gegeben und KdW gesucht, dann muss der Strom vorgehalten werden (d. h. zu Beginn der Strecke einkalkuliert).
+
+# Terrestrische Schiffsorte
+
+1. Das Peilergebnis eines Handpeilkompasses wird nur um die Missweisung berichtigt. Es geht nur eine unbekannter Ablenkungsbetrag als **Fehler** in den Schiffsstandort ein. Störende Magnetfelder sind mit größtmöglichem Abstand zu meiden. 
+
+2. Mit der Peilscheibe peilt man, in dem man die Summe aus rwK und Seitenpeilung (SP) bildet: $$rwP=rwK+SP$$
+
+3. Die Standardfehlerquelle bei der Peilungsumwandlung steckt darin, dass natürlich der **Ablenkungswert des Steuerkompasskurses der Ablenkungstabelle** entnommen werden muss. Jede Art von Peilung muss in **rwP** umgewandelt werden, damit man sie in die Karte einzeichnen kann.
+
+4. Je weiter man von einem Peilobjekt entfernt ist, desto größer ist die seitliche Ablage bei einer ungenauen Ablesung. 
+
+5. Peilobjekte wählt man aus unter dem Gesichtspunkt, dass zwei Objekte einen Winkel von mindestens 30 Grad zueinander bilden.
+
+6. Den Standort in einem **Fehlerdreieck** wählt man im Flächenschwerpunkt bzw. zu der Dreiecksseite hin, die die sicherere Peilung darstellt.
+
+7. Um die Lotung mit der Kartentiefe vergleichen zu können, muss sie in Gewässern mit Gezeiten beschickt werden.
+
+8. Drei Methoden, bei denen die Lotung zu Navigationszwecken benutzt wird, sind:
+
+-  Zeichnung einer anderweitigen Standlinie, z. B. die Peilung eines Leuchtfeuers, in die Karte und benutzt die **Wassertiefe als Entfernungsmarke** (Achtung: ggf. Koppelnavigation falls mehr Wassertiefen auf der Standlinie gleich sind).
+-  Verlaufen bei ausreichenden Gradienten die Tiefenlinien auf der Karte parallel zum gewünschten Kurs, wird das Lot auch zur **Steuerung bei unsichtigem Wetter** eingesetzt.
+-  Mit einer Reihenlotung lässt sich der Standort auch ohne zweite Standlinie ermitteln, was bei **unsichtigem Wetter** hilfreich sein kann (geht nur, wenn Meeresboden unverwechselbares Profil hat).
+
+9. Mit dem Verfahren *Feuer über Kimm* gewinnt man eine Standort mit $$ Distanz = 2,075( \sqrt{Feuerhöhe} + \sqrt{Augenhöhe})$$   
+10. Für die Abstandsmessung *Feuer in der Kimm* nimmt man im Leuchtfeuerverzeichnis für das Leuchtfeuer **die Höhe des Feuers (elevator) über dem Wasser**. 
+
+Peilungsschema:
+
+    MgP  
+    +Abl  
+    =mwP  
+    +Mw  
+    =rwP  
+
+**Merke:** 
+
+> Augeshöhe bleibt auf einem Schiff während einer Fahrt immer gleich.
+
+> Feststehende Türme können als Peilobjekt genutzt werden. 
+
+> Bei Tag => Feuer in der Kimm
+
+> Bei Nacht: Nenntragweite
+
+>  Richtfeuer: Meist aus zwei Feuern (Unter- und Oberfeuer) => Deckpeilung => Kursfeuerlinie
+
+
+# Terrestrische Kompasskontrolle
+
+1. Kompasskontrollen (wegen Ablenkung) sind durchzuführen, bei baulichen Veränderungen, längere Standzeiten oder wenn jemand an den Kompensierschrauben gedreht hat. 
+
+2. Die Ablenkungen für einen recht voraus auf ein Peilobjekt zielenden Kurs ermittelt man, wenn bei sicherem Standort weit voraus eine eindeutige Landbarke erkennbar ist, man die Yacht genau darauf ausrichtet den mgK abliest und der Karte den rechtweisenden Kurs vom Standort zur Landmarke voraus entnimmt (Unterwegsmethode). Die Differenz ist dann die Ablenkung. 
+
+3. Bei einer Kompasskontrolle unterwegs wird hinreichende Genauigkeit sichergestellt, in dem man die **Unterwegsmethode** anwendet und mit den Angaben der Ablenkung abgleicht. Gleiches geht auch mit einer Richtfeuerlinie mit Peilung. 
+
+4. An einem Kompensierdalben manövriert man, in dem man gut abgefedert ganz vorsichtig in die Vorspring eindampft und mit dem Gegenruder die Yacht stabil hält. 
+
+5. Bei der **Kompasspeilung** bezieht sich die Ablenkung nicht auf den Betrag der Peilung, sondern auf den **anliegenden Kompasskurs**. 
+
+6. Praktisches Prüfverfahren unter Einsatz der Peilscheibe funktioniert so, dass man das Schiff ganz langsam am Dalben dreht. Dann die Peilscheibe auf die nächste Zehnermarke stellen und warten bis das Peilobjekt am Diopter einläuft, usw. und dann rückwärts. 
+
+7. Die Ablenkung aus MgP, Mw und $$rwP_{Karte}$$ errechnet sich mit der Formel 
+$$rwP_{Karte} - Mw = mwP_{Karte}$$
+$$mwP_{Karte} - MgP = Abl_{Kurs}$$
+
+Einfacher: Schema zur MgP aus Begleitheft und dann alle Werte von unten nach oben einsetzen und Ablenkung ausrechnen als Differenz von MgP und mwP.
+
+
+# Gezeitenkunde
+
+1. Erde/Mond kreisen in ihrem Umdrehungssystem um gemeinsamen Schwerpunkt, der 3/4 des Erdradius vom Erdmittelpunkt entfernt Richtung Mond liegt. Mond umläuft Erde in Ø 29,5 Tagen.  
+
+2. Anziehungskraft und Fliehkraft im Umdrehungssystem halten sich die Waage. Fliehkraft auf der Erde ist gleichgroß. Erde gleitet in diesem System starr und der Mond legt ca. 12 Grad pro Tag zurück. 
+
+3. Die Horizontalkraft, die letztlich die Antriebskraft des Gezeitenstroms darstellt, entsteht, weil die Anziehungskraft des Mondes auf der Erde nicht überall gleich ist. Der Mittelpunkt der Erde trennt Überschuss an Fliehkraft und Überschuss an Anziehungskraft. Diese Differenzkraft (Überschuss) ist am Bildpunkt des Mondes (da wo der Mond Senkrecht über der Erde steht) und der gegenüberliegenden Seite am stärksten. 
+
+4. Die Horizontalkraft auf der Erde ist am Bildpunkt, gegenüber und auf der Grenzfläche zwischen den beiden Erdhälften minimal (bzw. Null) und jeweils dazwischen maximal ausgeprägt. 
+
+5. Es gibt zwei konzentrische Gezeitenströme: Von der Grenzfläche (Großkreis, der die mondzugewandte von der mondabgewandten Erdhälfte trennt) zum Bildpunkt und zum Gegenpunkt.
+
+6. Ein Mondtag dauert im Mittel 24h und 50 min und kommt zustande, weil der Mond bei einer Erddrehung um sich selbst bereits 12 Grad weiter ist.
+
+7. Ursachen für eintägige, gemischte oder geringfügige Gezeiten können sein:
+
+-  Stellung Erde/Mod/Sonne zueinander
+-  Coriolisablenkung der Gezeitenströme
+-  Tiefenwasserwirkung der Gezeitenkräfte
+-  Eigenschwingung der Wassermassen im betreffenden Meeresbecken
+-  Küsten- und Bodenformen
+-  Interaktion mit einmündenden Ozeanen ( z. B. Nordsee)  
+    
+8. Der Tidenhub im Rahmen der Gezeitenerscheinungen entsteht durch das Stauen der Gezeitenströme.  
+
+9. Wenn Sonne/Mond/Erde in einer Linie stehen ist **Springzeit (SpZ)** (4 Tage). Also entweder bei Neumond (Mond zwischen Erde und Sonne) oder bei Vollmond (Erde zwischen Mond und Sonne). Kräfte des Mondes werden dadurch verstärkt (höheres Hochwasser und niedrigeres Niedrigwasser). Bei Halbmond (Mond steht zur Linie Erde/Sonne im rechten Winkel) ist **Nippzeit (NpZ)** (4 Tage). Gezeitenströme fallen folglich schwächer aus. Dazwischen ist **Mittzeit (MtZ)** (3 Tage). Die jeweilige Zeit wird auch **Alter der Gezeit (AgZ)** genannt.   
+
+10. Durch die Trägheit der schwingenden Wassermassen gibt es, abhängig vom Ort, eine **Springverspätung** (zeitliche Verschiebung zwischen Neu- und Vollmond und der tatsächlichen Springzeit.
+
+11. **Tägliche Ungleichheit**: Die Neigung der Umlaufbahn des Mondes gegenüber der Äquatorfläche verändert sich fortlaufend und ist am stärksten am Bildpunkt des Mondes und auf der gegenüberliegenden Seite der Erde. 
+
+12. Die tatsächlichen Wasserstände weichen häufig von den aus den Gezeitentafeln entnommenen ab, was auf die Dauer, Stärke und Richtung des vorherrschenden WIndes (Windtide) und - in weit geringerem Maße - auch auf den Luftdruck zurückzuführen ist. 
+
+13. Das **Seekartennull (SKN)** ist einen Bezugsfläche für Wassertiefen in der Seefahrt.
+
+14. Die **Kartentiefe (KT)** und die **Höhe der Gezeit (H)** beziehen sich auf das Seekartennull.
+
+15. Das Seekartennull wird in Gezeitengewässern nach dem Grundsatz des tiefsten vorkommenden Niedrigwassers festgelegt.
+
+16. Lowest Astronomical Tide (LAT) ist 0,5m tiefer als das mittlere Springniedrigwasser, wenn noch nicht auf LAT umgestellt.
+
+17. Schiffahrspegel zeigen einen Nullpunkt, der mit dem SKN übereinstimmt und die Differenz zu Normalnull (Bezugsniveau der Landvermessung).
+
+18. Die Umstellung des SKN auf LAT bringt Sicherheitsvorteile, weil ggf. mehr Wasser vorzufinden ist, als angegeben. 
+
+**Merke**:
+
+>Springverspätungen Nordsee: Cuxhafen und Helgoland 3 Tage, Rest 2 Tage 
+
+>SpZ: Erde-Mond-Sonne befinden sich auf einer Linie
+
+>NpZ: Mond steht zur Linie Erde/Sonne im rechten Winkel 
+
+>SKN neu ist um 0,5m tiefer als SKN alt => KT wird kleiner und H größer => seltener negative KT => Sicherheit steigt
+
+>AgZ wichtig für: Wahl der mittleren Tidenkurven für Bestimmung der H oder der Eintrittszeit einer Soll-H, Gezeitenströme nach A.T.T. 
+
+
+# Gezeitenrechnung
+
+1. **Bezugsorte (Standard Ports)** sind die Orte in denen Hochwasser und Niedrigwasserzeiten und Hochwasserhöhen und Niedrigwasserhöhen angepasst an das Alter der Gezeit angegeben werden. Für jeden Bezugsort gib es **Anschlussorte (Secondary Ports)** mit Höhen- und Zeitunterschieden zum Bezugsort. 
+
+2. Die **mittleren Tidenkurven** dienen dem Zweck, dass Wasserstände zwischen Hoch- und Niedrigwasserzeiten berechnet werden können. Man findet sie abgedruckt in den **Admiral Tide Tables (A.T.T.)**. Zum Gebrauch müssen sie angepasst (rechnerische oder graphisch gestaucht oder gestreckt), so dass ihre Scheitelwerte den aktuellen Hoch- und Niedrigwasserzeiten und -höhen entsprechen. 
+
+3. Für einen bestimmten nach Koordinaten bestimmten Ankerplatz bestimmt man den nächstgelegenen Anschlussort über den **Geographical Index** der alphabetischen Namensliste hinten in den A.T.T.
+
+4. Der Ausdruck **Time Zone - 001** in den A.T.T. entspricht der Zeitzone Universal Time (UT) + 1 oder Mitteleuropäische Zeit (MEZ).
+
+5. In den Tidal Prediction for Standard Ports findet man die Gezeitenangaben zu den Bezugsorten.
+
+6. In den Standard Ports sind die Seasonal Changes bereits berücksichtigt. Für Anschlussorte sind die Änderungen vom Standard Port folglich erst einmal abzuziehen und beim Anschlussort wieder hinzuzuaddieren. 
+
+7. Das Alter der Gezeit (AdG) wird bei den Hight und Time Differences berücksichtigt, in dem fiktive Hoch- und Niedrigwasserzeiten des Standard Ports verwendet werden. 
+
+8. Das AdG ermittelt man nach A.T.T. in dem man im Kalendarium des Standardport den nächsten Vollmond oder Neumond zum Stichtag sucht. Zu diesem Datum addiert man die Springverspätung (unter den Tidenkurven angegeben). Von da an kann man zwei Tage Springzeit und 3 Tage Mittzeit zählen. Rest ist Nippzeit (ab 12:00 Uhr).
+
+9. Die gestrichelte Kurve bei den mittleren Tidenkurven dient der Ermittlung der Gezeitenwerte bei Nippzeit.
+
+10. Berechnung der Wassertiefe: 
+
+$$WT=Kartentiefe (KT) + HöheDerGezeit (H)$$  
+
+ 
+$$WT=Tiefgang (TG) + Wasser Unterm Kiel (WuK)$$  
+$$WT=Einbautiefe Des Echolots (Tel) + Echolotung (EL)$$
+
+MESZ: 27.03 bis 25.10
+
+**Uhrzeiten (MESZ: 27. März bis  30. Oktober):**
+
+$$UTC + 1h = MEZ$$
+$$UTC + 2h = MESZ$$
+
+**Merke:**
+
+>Tidenstieg/Tidenfall = Differenz zwischen LW/HW und HW/LW
+
+>Tidenhub = arithmetische Mittel aus Tidenstieg + Tidenfall
+
+>Falldauer/Steigdauer: Zeit zwischen LW/HW und HW/LW 
+
+>Adg: SpZ, MtZ, NtZ, abhängig von Mondphase und Springverspätung.
+
+>Beim Ankern: Wenn Zeitpunkt der Lotungzwischen LW und HW liegt => Tidenkurve 
+
+>Britische Sommerzeit = UTC + 1 = MEZ
+
+
+# Global Positioning System - GPS
+
+1. Systemgenauigkeitvon GPS in der zivilen Schiffahrt mit 95 Prozent bedeutet, dass nur jede 20. Messung außerhalb von 20 m liegt. 
+
+2. Nutzbarkeit des Standard **Positioning Service (SPS)** wird von den USA nur in begrenzten Regionen oder ganz ausgeschlossen, wenn es die nationale Sicherheit erfordert.
+
+3. Weil die Erdoberfläche eine unregelmäßige sphärische Gestalt hat, kann die Erde nicht ohne Weiteres als Standortkugel benutzt werden. 
+
+4. In Europäischen Gewässern können die Berichtigungen von GPS-Standorten zwischen 20 und 200 Metern liegen, wenn die Seekarte auf einem anderen **geodätischen Bezugssystem** als **Word Geodetic System 84 (WGS 84)** basiert. 
+
+5. Im Grundmodus liefert das GPS Daten in Form von **Koordinaten**, **Kurs über Grund (COG)** und **Fahrt über Grund (SOG)**.
+
+6. Zur Vermeidung von Fehlern bei der Übertragung des GPS Standortes in die Karte wird empfohlen, dass der Ort in der Nähe des letzten Kursstrichs (Koppelkurs) liegt. 
+
+7. Mit GPS Daten kann im Strom navigiert werden, in dem man den Strom entsprechend grob vorhält und die COG-Anzeige beobachtet. Bei Abweichung bessert man den Steuerkurs (MgK) nach, bis COG dem Kartenkurs entspricht. 
+
+8. **Differential GPS** schließt mängelbehaftete Satelliten aus, in dem Signalmängel über Abweichungen von Bodenstationen und Stelliten gemessen werden. 
+
+**Merke:**
+
+>Vorteile GPS gegenüberterrestrischen Navigationssystemen: Geht weltweit, frei von athmosphärischen Störungen, kein Dämmerungseffekt, geringe Positionsfehler.
+
+>Positionierungsgenauigkeit (95%CI): GPS<20m, DGPS<10m  
+
+>95%CI bedeutet, dass jede 20igste Messung außerhalb liegt (oder 5 von 100). [Kabellänge = 1/10sm = 185,2m]
+
+>Zuverlässigkeitsprüfung: Anzahl gepeilter Satelliten, HDOP (horizontal dilution of precision, Streuudaten der Satelliten)
+
+>WGS84 = Word Geodetic System 84: Geodätisches Bezugssystem für optimale Anpassung der Erde an Karten weil keine exakte Kugel.
+
+>Abweichung zu anderen System zwischen 0,1'' und 1' Kabellängen (kbl) , ca. 20 bis 200m
+
+>GPS-Anzeige ungenau durch Fremdstrahlung von Funktürmen, Flughäfen, Reflexionen durch Schiffe oder Bauten, Systemungenauigkeit, Abschattung. 
+
+>Funktionsbeeinträchtigung durch Rauschstörung militärischer Objekte, Systemabschaltung, UKW-Funk, Elektromotoren an Bord, Kontaktfehler.   
+
+>Deutsche GPS-Referenzstationen (DGPS): Helgoland, Groß Mohrdorf, Zeven. 
+
+>Funkortverfahren auf Sportbooten sind GPS, Radar, UKW-DSC Funkanlagen (GMDSS).
+
+>GPS Systeme sind am Boden und in der Luft weltweit verfügbar und zeitlich unbegrenzt.  
+
+# Wegpunktnavigation
+
+1. Wegpunkte sind selbst gewählte Punkte auf der Seekarte die angepeilt und angesteuert werden können. Sie können Wendepunkte, Ankerplätze, Durchfahrten oder Häfen markieren. 
+
+2. Vorteil von Wegpunkten gegenüber einfachen Standortkoordinaten ist die kontinuierliche exakte Anzeige der Schiffsposition in Bezug auf einen Punkt oder eine Kurslinie. 
+
+3. Wegpunkte werden in der Seekarte als Kreis gekennzeichnet mit abgekürztem Namen oder fortlaufender Nummer. 
+
+4. Eingabefehler (im elektr.. Navi) können vermieden werden, indem Peilung und Entfernung vom augenblicklichen Standort der Reihe nach abgefragt werden und auf Plausibilität überprüft werden. 
+
+5. Wegpunktkoordinaten sind vor der Eingabe ins Navi zu berichtigen, wenn das Bezugssystem der Karte von WGS 84 abweicht, wegen der Beschickung der GPS Anzeige.
+
+6. Bei der Berichtigung (Beschickung) ist zu beachten, dass die Korrekturangaben in der Karte umgekehrt angewendet werden müssen. Die Berichtigung bezieht sich auf die Korrektur von GPS auf Karte.   
+
+-  Bei Nordbreiten sind die Südkorrekturen zu addieren und die Nordkorrekturen zu subtrahieren.
+-  Bei Ostlängen sind die Westkorrekturen zu addieren und die Ostkorrekturen zu subtrahieren.  
+
+7. Wenn der Ansteuerungsmodus zum Wegpunkt gewählt hat, liefert das Navi meist:
+
+-  rechtweisende Peilung zum Wegpunkt (BRG, bearing)
+-  COG
+-  Distanz (RNG)
+-  SOG
+-  Bahnabweichung (XTE, cross track error)
+-  Straßenbreite  
+
+8. Für Hafeneinfahrten oder engen Durchfahren sollte man die Straßenbreite von 0,5 auf 0,2 sm Seitenabstand verringern.
+
+9. Um der virtuellen Straße zu folgenden, sollte der MgK vom KüG bestimmt und gesteuert werden (rechtsweisende Peilung entspricht dem Kartenkurs KüG). 
+
+10. Eine *Hundekurve* wird gefahren, steuert man rwP als Kompasskurs.
+
+11. Wenn rwP als Kompasskurs gesteuert wird, besteht die Gefahr des unbemerkten Fahrwasseraustritts. 
+
+12. Wenn Rudergänger ohne Hilfe eines Navigators einen Wegpunkt ansteuert, besteht die Gefahr, dass er aus der virtuellen Straße seitlich auswandert. Der Navigator ruft dem Rudergänger immer den umgewandelten MgK hoch.
+
+13. Korrekturen des Navigators
+
+-  Zum-Kurs-Korrektur: Korrektur des Steuerkurses um angemessenen Winkel.
+-  Auf-Kurs-Korrektur: Alter MgK nachgebessert um keinen Anteil des Korrekturwinkels.  
+
+14. Präzisionsansteuerung: Um ein Übersteuern zu vermeiden, wählt man zur Ansteuerung immer kleiner Korrekturwinkel. 
+
+15. Gefahr beim Übersteuern bei Präzisionsansteuerung ist ein Zickzackkurs. 
+
+16. Fehlerquellen beim Erreichen des Wegpunktes: 
+
+-  Wenn Distanz auf Null zurückgegangen, befindet man sich bei Versatz auf der Querablinie zum Wegpunkt.
+-  Sollkursline zum nächste Wegpunkt ist bei Versatz neben der geplanten Route.  
+
+17. Parallel zur Wegpunktnavigation sollt man auf der Seekarte die Sollkurslinie einzeichnen und den Standort von Zeit zu Zeit übertragen. Standorte durch Koppelnavigation gegenprüfen. Blick auf Wassertiefe und optische Peilung tragen zu Sicherheit bei. 
+
+18. Wir die **MOB Taste** gedrückt, wird der Standort als Wegpunkt abgespeichert. Je nach Gerätetyp erscheint automatisch eine graphische Lageskizze oder die laufende Peilung und Distanz zum MOB-Ort.
+
+19. Ein Rettungsmanöver, bei dem die Ansteuerung mithilfe der MOB-Lageskizze erfolgen soll, ist so anzulegen, dass sich eine längere geradlinige Ansteuerung ergibt. 
+
+20. Wenn nur Peilung und Distanz zum MOB-Ort angezeigt werden, lohnt es sich wegen der geringen Entfernung nicht, die Peilungswerte in MgK umzuwandeln. Steuerangaben sind vorausschauend zu machen.  
+
+21. Die Funktion der MoB Taste ohne diese kann man herbeiführen durch die Tastenfolge *Aufnahme des aktuellen Standortes als Wegpunkt* und *Go to*.
+
+22. Wenn der über Bord gestürzte sich nicht am festgehaltenen MOB-Ort befindet, liegt das daran, dass eine Reaktionszeit zwischen Sturz und Drücken der MOB-Taste vergeht. Die Person liegt auf der zurückliegenden Kurslinie. 
+
+23. Herrscht bei MOB Strom, so kann der Versatz bei 1kn Strom mit 30 Meter geschätzt werden. Versetzung durch Wind besteht i.d.R. nicht.   
+
+**Merke:**
+
+>Wegunkte werden benötigt um Ansteuerungspunkte festzulegen, um mit elektronischer Navigation ans Ziel zu kommen. 
+
+>Bei MOB-Taste liefert GPS die Peilung und Abstand zur MOB-Position.
+
+>Mob-Position durch evtl. Stromversatz des MOB nur Anhaltspunkt. Suche mit Streifenprinzip.
+
+# Radar
+
+Zur Unterstützung empfehle ich die [Zusammenfassung von Lunge nach Bobby Schenk](file:///C:/Users/Dr.%20Oliver%20Gansser/Downloads/porto-lindau-radarkunde.pdf) 
+
+1. Radar ist quasi ein *horizontal kreisendes Echolot* das den Horizont abtastet und alles mit Entfernung und Richtung meldet, was unterwegs ein Echo zurückwirft. 
+
+2. Ein taugliches Display für ein Yachtradar beginnt bei 480 x 640 Rasterpunkten auf einem7-10Zoll Bildschirm.
+
+3. Impulslänge bezogen auf Reichweite und Auflösungsvermögen bedeutet:
+
+-  dass je länger ein Impuls andauert, desto größer ist sein Durchsetzungsvermögen und
+-  desto ungenauer wird die Zeichnung  
+
+4. Konsequenzen des Zusammenhangs zwischen Impulsfolgefrequenz und Messbereich: 
+
+-  Impulsdauer muss dem Messbereich angepasst werden.
+-  Dauer der Pause zwischen den Inpulsen so gestalten, dass der Impuls due Messbereichsdistanz gerade eben ablaufen kann, sein Echo zurückkehrt und die Antenne von Sender auf Empfangen umschalten kann.  
+
+5. Bei der azimutalen Auflösung geht es darum, inwieweit die Radaranlage in der Lage ist, nebeneinander liegende Ziele getrennt darzustellen. Das Ausmaß der azimutalen Ausdehnung
+hängt von der Entfernung des Zielobjektes ab.
+
+6. Die Ausdehnung des Einzelechos auf dem Bildschirm wir bestimmt durch: 
+
+-  azimutale Ausdehnung (Zielpunkt wird als Kreisbogen dargestellt).
+-  radiale Ausdehnung (das Echo wird auf dem Bildschirm in Richtung seiner Peilung gestreckt)   
+-  Display  
+
+7. Nahauflösung ist die Mindestentfernung unter der ein Zielobjekt gerade noch abgebildet werden kann. Die Größe kommt zustande durch die Umschaltung der Antenne vom Sender zum Empfänger und dass ein Impuls mit seiner ganzen Länge die Antenne verlassen haben muss, bevor sie auf Empfang umgeschaltet werden kann.   
+
+8. Die Reflexionseigenschaften der abzubildenden Objekte hängen ab von
+
+-  der Größe der wirksamen Radarrückstrahlfläche
+-  der elektrischen Leitfähigkeit der Reflektionsfläche
+-  der Anstellung der Reflexionsfläche zum Einfallstrahl
+-  von der Rauigkeit der Oberfläche
+-  vom Vorhandensein von Reflexionsflächen, die in drei Ebenen rechtwinklig zueinander stehen (Tripelspiegel)  
+
+9. Regenenttrübung (Fast Time Constant, FTC) und Seegangsenttrübung (Sensitivity Time Control, STC) sind Gegenmaßnahmen für reflektierende Niederschläge oder Wellen. FTC unterdrückt Echos in deren Nachbarschaft sich Echos gleicher stärke befinden. STC werden Seegangsreflexe weggedämpft.
+
+10. Echos, Spiralen und Schatten
+
+-  Mehrfachechos kommen durch reflektierende Impulse zwischen Gebäuden oder Schiffswänden zustande. Erkennt man an der Formgleichkeit, zweite Darstellung ist immer radial nach außen versetzt.
+-  Nebenzipfelecho sind azimutal wiederholende Scheinechos und können als Rundum-Schmier-Reflexion erscheinen.
+-  Zweitauslenkungsecho kommen zustande bei kleineren Messbereichen und höheren Impulsfolgefrequenzen. Ein Echo des vorletzten Impulses komm herein, welches an irgendeinem außerhalb des Messbereichs liegenden Objektes reflextiert wurde.
+-  Störspiralen entstehen durch Inferenz eines anderen Radargeräts mit gleicher Trägerfrequenz. Kann durch Inferenzregelung (IR) reguliert werden.
+-  Radarschatten entstehen durch eigene Riggteile vor der Antenne. Sind erkennbar durch dunkle Strahlen in der Seegangstrübung. Erkennt man bei hochaufgedrehter Verstärkung (Gain).  
+
+11. Eigenschaften der verschiedenen Darstellungsarten
+
+| Merkmale                         | Head up                | North up                                 |
+| -------------------------------- | ---------------------- | ---------------------------------------- |
+| Bild stabilisiert                | nein                   | ja                                       |
+| Wie laufen Festziele             | ziehen nach unten      | ziehen entgegen der Rechtsvorausrichtung |
+| Was zeigt das Azimut             | Seitenpeilung          | rwP oder MgP                             |
+| Wie sieht ein Kollisionskurs aus | führt durchs Zentrum   | führt durchs Zentrum                     |    
+| Wie laufen bewegende Ziele       | ziehen auf Relativkurs | ziehen auf Relativkurs                   |
+
+-  Cours up: Ähnlich wie Head up, nur dass nicht zwingend Nord ausgerichtet, sondern individueller Kurs. 
+-  True Motion: Bewegliche Objekte werden in absoluter Bewegung und feste Objekte unbeweglich dargestellt.   
+
+12. Für eine stabilisierte Darstellung ist ein Fluxgate-Kompass notwendig. 
+
+13. Eine Selbststeuerungsanalyse wirkt sich vorteilhaft für den Radareinsatz auf einer Segelyacht aus, weil das Bild nicht schmiert. 
+
+14. Typische Falschdarstellungen, die die Radarinterpretation zu Navigationszwecken erschweren: 
+
+-  durchgehende Küstenlinien werden unterbrochen dargestellt
+-  flache Strände und Bänke werden nicht gezeichnet
+-  feingliedrige Hafeneinfahrten oder Flussmündungen verschwinden
+-  Schattenzonen hinter Erhebungen täuschen falsche Wasserflächen vor
+-  Erhebungen hinter flachen Küstenfeldern täuschen falsche Küstenlinien vor
+-  hinter dem Radarhorizont liegende Küsten mit langsam ansteigendem Gelände oder vorgelagerten Flachzonen erscheinen mit falschen Ein- und Ausbuchtungen und insgesamt zu weit entfernt  
+
+15. RACON: RACON-BAKE ist eine Radarantwortbake auf bestimmen Seeobjekten oder Booten und erhöht die Sichtbarkeit auf dem Radar indem sie einen antreffenden Radarimpuls reflektiert. Die Anzeige zeigt ein radial nach außen gerichtetes Echozeichen oder als Morseerkennung. 
+
+16. Verfahren zur Standortbestimmung mit Radar: 
+
+| Verfahren          | Vorteile                              | Nachteile                            |
+| ------------------ | ------------------------------------- | ------------------------------------ |
+| Peilung            |                                       | Peilung ist rechtweisend umzuwandeln |
+| Abstandsbestimmung | Ausschluss der azimuten Ungenauigkeit |                                      |
+
+
+17. Um beim Lotsen mit Radar festzustellen, dass während einer Kurskorrektur der gewünschte Weg wieder erreicht wird, behilft man sich durch eindeutige Kurskorrekturen mit einem runden Winkelbetrag um den Peilstrahl zur anderen Seite zu schwenken.  
+
+**Merke:** 
+
+>Funktionsprinzip: horizontal kreisendes Echolot
+
+>Head Up Darstellung (relativ vorausorientiert): Vorausanzeige nach oben (vorne), Radar als SP, Schiff im Zentrum, entspricht optischer Wahrnehmung, alle Echos sind relativ zum eigenen Schiff, Kollision schnell erkennbar, bei Seegang bewegen sich die Ziele entgegen der Gierbewegung (Schmieren).
+
+>North-UP Darstellung (relativ nordstabilisiert): Bild auf Kompass-Nord bezogen, Rechtsvorausrichtung als Strich dargestellt, Peilungen als Radar abgelesen, Schiff im Zentrum als Strich, Darstellung enspricht dem Kartenausschnitt, alle Echos relativ zueinander, Kollission schnell erkennbar, kein Verschmieren, Peilungen direkt in Karte übertragbar. 
+
+>True Motion Darstellung: absolute Darstellung
+
+>Wellenbereiche: X-Band (3cm), S-Band (10cm) 
+
+>Impulsfolgefrequenz: Anzahl ausgestrahter Wellenimpulse/Sec
+
+>Störquellen: Regen (große Flächen), Seegang (Echoanzeigen)
+
+>Radarbildoptimierung durch Bildhelligkeit (Brilliance), Verstärkung (Gain) und Abstimmung (Tuning).
+
+>Störunterdrückung: Regenenttrübung (FTC, Fast Time Constant), Seegangsenttrübung (STC, Sensitivity Time Controll)
+
+>FTC und STC können auch wichtige Racon-Signal unterdrücken (ufbassa!) 
+
+>Überlappung von Echoanzeigen mehrerer Objekte vermeiden durch Verkleinerung des Entfernungsbereichs (Impulslänge kürzer und radiale Aufllösung besser).
+
+>RACON-Kennung dient zur eindeutligen Identifikation von Objekten aus einer Seezeichenmenge. 
+
+>RACON-Signale erscheinen auf Radarschirm als radial nach außen gerichteter Balken (etwas vom Standort abgesetzt) und kann auch als Morsebuchstaben des Kennbuchstabens unterbrochen sein. 
+
+>RACON-Signal wird gesendet wenn von Radarimpuls getroffen. 
+
+>Wiederkehr beim RACON-Signal ist der Zeitraum nachdem das Signal wieder auf dem Schirm erscheint.
+
+>Radar-Echos von kleineren Objekten (Fahrzeuge, Tonnen) können verschwinden durch falsche Bedienung, zu große Entfernung, Gieren des Schiffes bei Head-Up, Seegang, Niederschlag.  
+
+>Falschdarstellungen:  flache Strände und Sandbänke fehlen, voranliegende Flachküsten fehlen (stattdessen zurückliegende Berge), enger Hafeneinfahrten oder Flussmündungen verschwinden, durchgehende Küstenlinienunterbrochen.
+
+>Überreichweite ensteht, wenn Radarstrahlen von der Grenzschicht (Warme Luft über kalte Luft) reflektiert werden und dieser mit der Erdkrümmung folgen.
+
+>Verhinderung von überlappenden Echoanzeigen (z. B. durch mehrere Tonnen) durch Messbereich verkleinern, kurze Impulslänge wählen. 
+
+>Für zweidimensionale GPS Ortung werden mindestens 3 Satelliten benötigt. 
+
+>Start-Positionsansteuerung: Regenenttrübung auf Min, Verstärkung auf max. Entfernungsbereich.  
+
+
+# Elektronische Seekarte und ECDIS (Electronic Chart Display and Information System)
+
+1. Einfache Rasterkarten werden hergestellt in dem herkömmliche Papierseekarten elektronisch eingescannt werden. 
+
+2. Beim Zoomen einfacher Rasterkarten erscheinen nicht mehr Informationen.
+
+3. Der Berichtigungsdienst bei Rasterkarten geschieht nach dem Prinzip der Berichtigungspausen. Für jede Änderung wird ein kleiner Kartenauschnitt gebildet. 
+
+4. Die weiterentwickelten Rasterkarten (RNC-Standard, Raster Nautical Chart) unterscheide sich von den einfachen Rasterkarten. Sie gehen übergangslos ineinander über und decken größere Räume ab. Sie sind teilweise mit vektorisierten Overlays bestückt, deren Informationen selektiv ein- und ausgeblendet werden können. 
+
+5. Vektorkarten werden aus ihren Einzelelementen zusammengesetzt. 
+
+6. Vektorkarten sind flexibler (variable Zugriffsmöglichkeit), allerdings ist die Ersterfassung sehr zeitraubend. Berichtigungen erfordern einen erheblich geringeren Datenaufwand. 
+
+7. Bei ECDIS erfolgt der Berichtigungsdienst von Seekarten und -büchern durch Einlesen eines Datensatzes des zuständigen hydrographischen Dienstes (BSH).
+
+8. GPS-gestützte Kartenplotter bieten die Besonderheit, dass sie den Schiffsort automatisch anzeigen und den Bildausschnitt nachführen. 
+
+9. Auf die manuelle Berichtigung von Seekarten und Seebüchern kann verzichtet werden, wenn zwei unabhängig voneinander arbeitende, baugleiche EXCIS-Anlagen installiert sind. 
+
+10. Gegen Falschanzeigen und Systemausfälle sichert man sich ab durch Disziplin, alle ergebnisrelevanten Arbeitsschritte gegenzuprüfen und dies möglichst nicht mit ein und demselben Verfahren. 
+
+**Merke:**
+
+>ECDIS = amtlich anerkanntes elektronisches Seekartensystem, ersetzt bei doppelt unabhängiger Ausführung Papierseekarten.
+
+>Rasterkarten: gescannte Papierkarten
+
+>Vektorkarten: digitalisierte Objekte
+
+>Berichtigung der ECDIS Daten erfolgt durch Softwareupdate
+
+>Darstellung von Seehandbücherrteilen, Handbuch Nautischer Funkdienst und LF Verzeichniss, digitalisierte Seekarte, Schiffsort, Kurslinie, Daten der Navigations- und Routenplanung, Symbole des AIS. 
+
+# AIS - Automatic Identification System
+
+1. Über das AIS werden folgende Arten von Informationen ausgestrahlt: 
+- Statische, die das Schiff beschreiben
+- dynamische, die dessen Bewegung darstellen  
+- reisespezifische  
+- Sicherheitsmeldungen  
+
+2. Das System erreicht ein dem Inhalt der Meldungen angemessene Aktualität, ohne die Sendekanäle zu verstopfen, weil die Intervalle der dynamischen Informationen *gestaffelt* sind (schnelle Schiffe alle 2 Sec, Sportboote alle 30 Sec, Ankerlieger alle 3 Min.).
+
+3. Die extrem hohe Mehrfachnutzung der Sendekanäle von über 2000 Zeitfenstern pro Minute gelingt, indem die Meldungen *zeitkomprimiert* sind. 
+
+4. Die AIS-Informationen werden dem Nutzer zugänglich gemacht über Plotdarstellung und Text.
+
+5. Im Sinne der Kollisionsverhütung liegt der wesentliche Vorteil des Systems darin, dass die Gefahr einer Kollision eher zu erkennen ist, als es mit Radar alleine möglich wäre. Außerdem spricht AIS auch Ziele an, die sich im Radarschatten befinden. 
+
+6. Die wesentlichen Leistungseinschränkungen von AIS liegt darin, dass nur die Berufsschiffahrt ab 300 BRT eine Ausrüstungspflicht haben. 
+
+7. Die weniger aufwendige Version für die Sportschiffart heißt **AIS Class-B**. Besitzt auf Empfängerseite die nahezu gleichen Eigenschaften wie die Hauptversion (A). Auf der Senderseite ist der Informationsumfang erheblich gekürzt und die Sendeintervalle sind deutlich länger. 
+
+**Merke:**
+
+>AIS = Automatic Identification System
+
+>Pflicht ab 300 BRT
+
+>Sendeinfos: statische, dynamische, reisspezifische, sicherheitsrelevante
+
+>Frequenzbereich: UKW-Seefunk
+
+>Reichweite: 20 bis 30 sm, abhäng von Antennenhöhe
+
+>Nutzen für Sportschiffahrt: Positionseinschätzung von und für Gegner, Verkehrslage
+
+>MMSI = Maritime Mobile Service Identity
+
+>NAVTEX = Navigational Information over Telex 
+
+>NAVTEX-Sendefrequenz: 528kHz Funk 
+
+>Aussendung: Sturmwanung, Nautische Warnnachrichten, Seenotmeldungen, Navi-Ausfälle, Seewetterberichte, 24h-Vorhersagen, Sperrgebiete mit zeitlicher Begrenzung.  
+
+>Kartenplotter nützlich für der Wegpunktplanung, Routenüberwachung, Wegaufzeichnung, Darstellungsskalierung. 
+
+# Wichtige Zeichen aus der Karte 1 / Int 1
+
+> `WD`: Tiefwasserweg (M1 oder M27)
+
+> Leuchtfloß (Q31)
+
+> `Magentafarbener Kreis mit innenliegendem Rhombus`: Lozenversetzstelle (T1.1)
+
+> `Dreieck mit einem Ausrufezeichen`: Vorsichtgebiet (M16, 435.2)
+
+> `WK mit einem Strich über der Zahl`: Wrack (K30, 422.5), geringste Tiefe unbekannt, die angegebene Tiefe kann jedoch als wahrscheinliche Mindesttife betrachtet werden. 
+
+> `Magentafarbener Kreis mit "Entry Prohib"`: M29.1 (435.7), zu meidendes Gebiet, hier wegen eines Wracks, dieses Gebiet soll umfahren werden. 
+
+> `rot gestrichelte Pfeile`: empfohlene Verkehrsrichtung zwischen Verkehrstrennungsgebieten (M26.1)
+
+> `zwei schwarze Wellenlienien über und unter einer Zahl`: Stromkabelung (H44)
+
+> `lange gewellte magentafarbene Linie`: Unterwasserkabel (L30.1)
+
+> `magentafarbene vollausgefüllte Rechtecke im Bereich des VTG`: Trennzone (M13), hier als Trennung der empfohlenen Verkehrsrichtungen im VTG
+
+> `Seezeichen mit zwei konzentrischen Kreisen umrandet, einmal mit und einmal ohne Unterbrechung, Bedeutung äußerer Kreis`: Grenze für Gebiete mit Schiffartsbeschränkungen (M29.1), hier "Area to be Avoided" Gebiet innerhalb des Kreises meiden.
+
+
+
+

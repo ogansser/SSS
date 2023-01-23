@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wetterregeln on Ollis Sailing page</title>
+    <link>https://gansser.info/tags/wetterregeln/</link>
+    <description>Recent content in Wetterregeln on Ollis Sailing page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="https://gansser.info/tags/wetterregeln/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wetterkunde</title>
+      <link>https://gansser.info/post/wetterkunde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gansser.info/post/wetterkunde/</guid>
+      <description>Grundlagen Wetterkunde, Wolken und Nebel, Druckgebilde, Regionale Wettererscheinungen, Wetterregeln, Seegang, Seewetter-Informationen, Verarbeitung vonSeewetterberichten, Meteorologische Geräte</description>
+    </item>
+    
+  </channel>
+</rss>

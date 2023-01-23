@@ -1,0 +1,390 @@
+---
+title: Schiffahrtsrecht
+author: Oliver Gansser
+date: []
+slug: []
+categories: []
+tags: [Schiffahrtsrecht allgemein, Rechtsvorschriften, Ausrüstungs- und Besetzungspflicht, Seeverkehrsrecht, Radarplotten, Seeunfalluntersuchung, Umweltschutz, Seenotrettung- und Sicherheitsfunkdienst]
+summary: Schiffahrtsrecht allgemein, Rechtsvorschriften, Ausrüstungs- und Besetzungspflicht, Seeverkehrsrecht, Radarplotten, Seeunfalluntersuchung, Umweltschutz, Seenotrettung- und Sicherheitsfunkdienst
+output:
+  blogdown::html_page:
+    toc: TRUE
+    number_sections: TRUE
+---
+
+![](https://vg08.met.vgwort.de/na/0187f9c3a0034944b27c6efe1344398b){width=1px height=1px}
+
+# Schiffahrtsrecht allgemein
+
+1. Maßnahmen des Schiffsführers für die Sicherheit der Mitsegler:
+
+- Muss dafür sorgen, dass bei allen über die bevorstehende Unternehmung Klarheit besteht und dass jeder an Bord dieser Herausforderung gewachsen ist. 
+- Rücksichtnahme bei Überforderung während des Törns, ggf. abbrechen.
+- Einweisung in alle Sicherheitsbelange.
+- Einhaltung der Sicherheitsvorkehrungen überwachen.
+- Gewährleistung von Vollständigkeit und einwandfreiem Zustand der Sicherheitsausrüstung. 
+- Abstellung vermeidbarer Verletzungsquellen am Schiff und an Teilen der Ausrüstung.
+- Vorbereiten und Einweisung der Mitsegler in die Verfahrenpläne (Not- oder Sicherheitsrollen).
+- Verteilung der Aufgaben für den Notfall vor Beginn der Reise. 
+- Bennenung eines stellvertretenden Schiffsführers.
+- Übung der Verfahren, soweit praktikabel.
+- MoB muss mindestens vom Stellvertreter zuverlässig gefahren werden können.
+
+2. Not- oder Sicherheitsrollen sind **Verfahrenpläne** für Notfälle. 
+
+3. Verletzungen von Mitseglern die nicht in der Lage sind sich bei herrschendem Wetter sicher an Deck zu bewegen, verantwortet der Schiffsführer.
+
+4. Für **verkehrsrechliche Fehlhandlungen** kann außer dem Schiffsführer noch der Seelotse, der Wachführer und sonst für die Sicherheit Zuständige verantwortlich gemacht werden. Fahrzeugführer ist **gesamtverantwortlich**, auch für die geeignete Delegierung der Aufgaben. Übertragung nur an Personen mit nötigen Kenntnissen und Fertigkeiten. Orndungsgemäße Durchführung der Aufgaben überwachen.  
+
+5. Verantwortlicher Schiffsführer ist vor Antritt der Fahrt zu bestimmen (§ 4.4 SeeSchStrO; VO Kollisionsverütungsregeln), auch wenn mehrere qualifizierte Personen an Board sind. Am besten Logbucheintrag. 
+
+6. Voraussetzung für Schadensersatzanspruch ist **schuldhaftes Verhalten**. 
+
+7. Schadensersatzansprüche richten sich generell gegen den Schädiger (Schiffsführer), wobei Skipper und Crew eine Gefahrengemeinschaft bilden.
+
+8. Die allgemeine **Sportboothaftpflichtversicherungen** decken die berechtigten Schadensersatzansprüche gegen den Eigner, den Schiffsführer und gegen Mitsegler, die unter der Verantwortung des Schiffsführers handeln. Bei gewerblicher Nutzung haftet im Grundsatz der Reeder (Eigner) für Schäden, die seine Schiffsbesatzung in "Dienstverrichtung" verursacht hat. Bei gecharterten Yachten haftet anstelle des Eigners der Charterer. 
+
+9. Verkehrsgefährdung ist in der Sportschiffahrt eine Straftat. Dazu gehört wer nicht in der Lage ist, sicher ein Fahrzeug zu führen oder als sonst für die Sicherheit Verantwortlicher durch **grob pflichtwidriges Verhalten** gegen Rechtsvorschriften zur Sicherung des Schiffsverkehrs verstößt und dadurch Leib und Leben eines anderen oder fremde Sachen von bedeutendem Wert gefährdet.   
+
+
+# Rechtsvorschriften
+
+1. **SOLAS (Safety of Life at Sea)** Kapitel V (Sicherung der Seefahrt) gelten uneingeschränkt auch für die Sportschiffahrt. 
+
+2. In SOLAS Kapitel V Regel 14 ist international vereinbart Maßnahmen zu unterhalten die gewährleisten, dass alle Schiffe ausreichend und sachgemäß besetzt sind. Durch die **Besatzungspflicht** ist die Verbindlichkeit für deutsche Sportboote und Traditionsschiffe verfügt.
+
+3. Regel 19 (Navigationsausrüstung) gilt nicht für Jollen. 
+
+4. Meldepflichtige Gefahren für die Seefahrt: 
+
+- Gefährliches Wrack
+- Gefährliches Eis
+- Gefährliche Vereisung
+- Tropischer Wirbelsturm
+- nicht angesagter Sturm mit 10 Bft oder mehr
+
+5. In **§ 2 der Verordnung über die Sicherung der Seefahrt** ist die Verpflichtung zur Hilfeleistung bei Seenot festgelegt. 
+
+6. Die gebräuchlichsten Schiffspapiere sind:
+
+- Schiffszertifikat (Eigentumsnachweis), über 15 m
+- Internationales Schiffsmessbrief (Eigentumsnachweis), über 24 m
+- Flaggenzertifikat (Nationalitätsnachwweis), unter 15 m
+- Internationale Bootsschein für Wassersportfahrzeuge 
+- Standerschein
+
+7. Die Nationalität der Yacht nachweisen zu können ist für den **Rechsstatus** des Schiffes von Bedeutung, 
+
+8. Hinsichtlich der Logbuchführung besteht die Pflicht nach dem Schiffssicherheitsgesetz (SchSG) und der Schiffssicherheitsverordnung (SchSV).
+
+9. Zu Beginn einer Reise sind die wichtigsten Eintragunge in das Logbuch: 
+
+- Crewliste mit Wacheinteilung und Rollenplan
+- Stand der Bevorratung (Brennstoff, Öl, Batterien, Trinkwasser, Verpfegung für...Tage)
+- Creweinweisung
+- Sicherheitsbellehrung
+- Ausklarieren und Abmelden bei der Hafenverwaltung
+
+10. Während der Reise sind die Eintragungen in das Logbuch: 
+
+- Alle Wachwechsel
+- die Routinekontrollen (Bilge, Toiletten, Gas, Laternen)
+- täglich einmal derVOrratsstand von Brennstoff, Wasser und Verpflegung
+- alle besonderen Beobachtungen (Verkehrssituation, Schiffahrshindernisse, veränderte Schiffahrtszeichen und Wassertiefen, Naturereignisse)
+- grundsätzlich zweistündlich (sonst nach Zweckmäßigkeit) die Navigationsdaten mit Uhrzeit, Standort, Logstand, Seemeielen, Kurs, Besegelung, Motormeilen und Wetter (die Navigationsaufzeichnungen sind nach SOLAS Kap. V Regel 34 Pflicht)
+- bei Unfällen oder rechtsbedeutsamen Vorgängen (Schleppen, Hilfeleisten) den Wortlaut wichtiger Vereinbarungen. 
+
+11. Pflichteintragungen ins Logbuch sind vorgeschrieben bei:
+
+- Mängel
+- Sicherheitrelevante Vorkommnisse
+- Unterlassene Hilfeleistung
+- Zusammnenstoß
+
+12. Ein Skipper findet rechtliche Rückendeckung in SOLAS Regel 34 und § 9 der Verordnung über die **Sicherung der Seefahrt(VSSee)**, wenn trotz bestehender Sicherheitsbedenken der Schiffseigner auf Auslaufen zu Zwecke der rechtzeitigen Rückkehr besteht. 
+
+13. Wenn es zu einem Zusammestoß gekommen ist, schreibt die VSSee § 6 vor:
+
+- allen von dem Unfall Betroffenen **Beistand zu leisten**
+- die Schiffe solange **beieinander zu bleiben** haben, bis die sich darüber Gewissheit veschafft haben, dass weiterer Beistand nicht mehr erforderlich ist. 
+
+
+# Ausrüstungs- und Besetzungspflicht
+
+1. Die navigatorische Ausrüstung von Sportbooten ist geregelt in den Vorschriften SOLAS Kap. V Regel 19. Diese sind nach dem SchSG für deutsch geflaggte Fahrzeuge rechtsverbindlich. 
+
+2. Sportboote im Sinne der Sportbootführerscheinverordnung sind nicht verpflichtet ausschließlich amtliche Seekarten und Seebücher mitzuführen.  
+
+3. Für die Sicherheitsausrüstung privat genutzter Sportboote müssen grundsätzliche Empfehlungen und Vorschriften beachtet werden (kein Standard):
+
+- Abwasserrückhalteanlage, wenn Toilette vorhanden (in der Ostsee bei Fahrt durch deutsches Hoheitsgebiet) und älter als Bj 1980 sind sowie älter als 2003 und Rumpflänge < 11,5 m oder Breite < 3,8 m. 
+- Lichter, Signalkörper und Schallsignalanlagen mit Baumuster vom BSH geprüft und zugelassen. 
+- Bei 220 Volt-Netz an Bord müssen die Geräte und Verkabelungen den VDE-Bestimmungen entsprechen. 
+- Flüssiggasanlagen unterliegen dem Regelwerk der DVGW (Deutsche Vereinigung des Gas- und Wasserfaches e. V.)
+
+4. Eine Segelyacht muss den Sicherheitsstandard der Richtlinie für Ausbildungsfahrzeuge aufweisen, wenn sie gewerblich genutzt wird oder Besatzungsmitglieder gegen Endgeld beschäftigt werden. 
+5. Eine nach SeeSpootV ordnungsgemäß ausgerüstete Charteryacht darf für die Ausbildung zum Erwerb von Befähigungsnachweisen verwendet werden.
+
+6. Mindestbesatzung privat genutzter Sportboote nicht vorgeschrieben, jedoch müssen Wachen ausreichend und qualifiziert besetzt werden können.
+
+7. Umstände in denen der Besitz von Befähigungsnachweisen bei gewerblicher Nutzung vorgeschrieben sind: 
+
+| Nachweis| Ausbildung|Überführungen|Ausflüge mit Traditionsschiffen|
+| --------|---------- | ----------- |-------------------------------|
+| SKS     |  |  | |
+| SSS     |  |  | |
+| HS      |  |  | |
+
+8. Befähigung der technische Besatzung von Traditionsschiffen
+
+| Typ              | bis 25 m Rumpflänge weltweit| bis 55 m Rumpflänge weltweit|
+| -----------------|------------------| ---------------------------------------|
+| Segelschiffe     |  ausr. Kenntnisse der Maschinenanlage| 1 x Befähigungsnachweis für Maschinisten (Motor)  |
+| Maschinenschiffe |  ausr. Kenntnisse der Maschinenanlag | 2 x Befähigungsnachweis für Maschinisten (Motor/Dampf)
+
+9. Für den Fall das dem Schiffsführer etwas zustößt oder er über Bord geht, sollte zumindest eine Person an Bord sein, die in der Lage ist, das Rettungsmanöver zu fahren und die Yacht in den nächsten sichern Hafen zu bringen. Deswegen sind für nicht gewerbsmäßig genutzte Sportboote über den Sportbootführerschein See hinaus angemessene Segelführerscheine zweckmäßig. 
+
+10. Im Falle eine nicht gewerbsmäßig genutzen Sportbootes ist der Schiffsführer für die ausreichende Bemannung verantwortlich. 
+
+# Seeverkehrsrecht
+
+## KVR
+
+1. Die KVR (Kollisionsverhütungsregeln) gelten für alle Fahrzeuge auf hoher See und auf den damit zusammenhängenden, von Seenotschiffen befahrbaren Gewässern. Nationalen Vorschriften der Küstenstaaten ergänzen diese wo aufgrund regionaler Gegebenheiten erforderlich. 
+
+2. Verfügungen für die Regelung zur Sicherheit des Seeverkehrs im deutschen Bereich unterhalb der Ebene der SeeSchStrO:
+
+- Bekanntmachungen der Wasser- und Schiffahrtsdirektionen Nordwest und Nord
+- Hafenverkehrsordnungen
+
+3. Die SeeSchStrO gilt auf den Wasserflächen der deutschen Seeschifffahrtsstraßen mit Außnahme der Emsmündung.
+
+4. Sichere Geschwindigkeit bedeutet: So fahren, dass geeignete und wirksame Maßnahmen einen Zusammenstoß vermeiden und das Fahrzeug innerhalb einer Entfernung zum Stehen gebracht werden kann, die den gegebenen Umständen und Bedinungen entsprechen. 
+
+5. Unterschied Ausweichpflicht und Nichtbehinderungsgebot:
+
+- Ausweichpflicht: Bei der **Möglichkeit der Gefahr eines Zusammenstoßes** gibt es den Zwang des Ausweichpflichtigen zum Ausweichen (frühzeitig und durchgreifend) und des Kurshalters zum Kurshalten.  
+- Nichtbehinderungsgebot: Ein Fahrzeug das verpflichtet ist, die Durchfahrt eines anderen Fahrzeugs nicht zu behindern muss frühzeitig Maßnahmen ergreifen, um genügend Raum für die sichere Durchfahrt des anderen Fahrzeugs zu lassen. 
+
+6. **Enge Fahrwasser:**
+
+- Ein Fahrzeug, das der Richtung eines engen Fahrwasser folgt, muss sich so **nahe am äußeren Rand** an seiner Steuerbordseite halten, wie dies ohne Gefahr möglich ist. 
+- Ein Fahrzeug **von weniger als 20 m** oder ein **Segelfahrzeug** darf nicht die Durchfahrt eines Fahrzeugs behindern, das nur innerhalb eines engen Fahrwassers sicher fahren kann.
+
+7. Der Einbahnweg eines Verkehrstrennugnsgebietes darf gequert werden, wenn ein Fahrzeug dazu gezwungen ist. Dies muss möglichst mit der Kielrichtug im rechten Winkel zur allgemeinen Verkehrsrichtung erfolgen. 
+
+8. Ein **Fahrzeug von weniger als 20 m** oder ein Segelfahrzeug darf die sichere Durchfahrt eines **Maschinen**fahrzeuges auf dem Einbahnweg nicht behindern. 
+
+9. Fahrzeuge von weniger als 20m, Segelfahrzeuge und fischende Fahrzeuge dürfen die **Küstenverkehrszone** benutzen. Ebenso Fahrzeuge die sich auf dem Weg zu oder von einem Hafen, einer Einrichtung, oder einem Bauwerk vor der Küste, eine Lotsenstation oder einem sonstigen innerhalb der Küstenverkehrszone gelegenen Ort befindet. 
+
+10. Auf den Einbahnwegen eines Verkehrstrennungsgebietes (VTG) gilt das **Rechtsfahrgebot** nicht.
+
+11. Jedes Fahrzeug muss beim Überholen dem anderen ausweichen. Der Überholer (mehr als 22,5 Grad achterlicher als querab) weicht immer aus. 
+
+12. Die Ausweichpflicht bei Segelfahrzeugen richtet sich nach der Stellung der Fahrzeuge zum Wind. Ausweichen muss: 
+
+- Das Fahrzeug das den Wind von Backbord hat (Bei Entgegenkommen)
+- Das luvwärtige Fahrzeug (Bei Wind von der gleichen Seite)
+
+13. Zwei Maschinenfahrzeuge auf entgegengesetzem Kurs müssen beide nach Steuerbord ausweichen. 
+
+14.  s. 11.
+
+15. Manövrierunfähige ist Fahrzeug durch einen **außergewöhnlichen Umstand** und manövrierbehindert ist ein Fahrzeug durch seine **Arte des Einsatzes**. Beiden können daher nicht ausweichen. 
+
+16. Fischende Fahrzeuge müssen manövrierunfähigen und manövrierbehuinderten Fahrzeugen ausweichen. 
+
+17. Ausweichpflicht bei Segelfahrzeugen gilt auch nachts.
+
+18. Um einen Zusammenstoß zu vermeiden darf/muss der Kurshalter folgene Maßnahmen treffen: 
+
+- Muss: Kurs und Geschwindigkeit beibehalten. 
+- Darf: selbst manövrieren zur Abwendung eines Zusammenstoßes (Manöver des vorletzten Augenblicks)
+- Muss: Wenn Zusammenstoß durch Manöver des Ausweichenden alleine nicht zu vermeiden ist (Manöver des letzten Augenblicks)
+
+19. Eine Yacht verhält sich in der Nähe von Nebelbänken folgendermaßen: Jedes Fahrzeug muss mit **sicherer Geschweindigkeit** fahren, die den gegebenen Umständen und Bedingungen der verminderten Sicht angepasst ist.
+
+20. Ein Fahrzeug manövriert nach Sb bei **unsichtigem Wetter unter Radar** gegenüber einem in den Nahbereich geratendem Fahrzeug in 130 Grad Seitenpeilung.
+
+21. Ein Fahrzeug manövriert nach Sb bei **unsichtigem Wetter unter Radar** gegenüber einem in den Nahbereich geratendem Fahrzeug in 300 Grad Seitenpeilung.
+
+22. Bei **Radarfahrt** wird nicht zwischen Ausweich- und Kurshaltepflicht unterschieden. Jeder manövriert so, dass ein Nahbereich vermieden wird.  
+
+23. Seenotsignale bei ...
+
+- Sichtverbindung zu anderen Schiffen: 
+  - Notzeichen NC
+  - Signal aus viereckiger Flagge, darüber oder darunter ein Ball oder etwas, dass einem Ball ähnlich sieht. 
+  - Langsames Heben und Senken der nach beiden Seiten ausgestreckten Arme.
+  - Flammensinale auf dem Fahrzeug
+  - rote Handfackel
+
+- Schiffen die man hinter der Kim erhofft: 
+  - Raketen oder Leuchtkugeln mit roten Sternen
+  - Sprechfunksignal MAYDAY
+  - rote Falschirmleuchtrakete
+
+- einsam auf offener See: 
+  - Morsesignal SOS per Telegraphiefunk
+  - Telegraphiefunkalarmzeichen
+  - Sprechfunkalarmzeichen
+  - Seenotfunkboje
+  - Radartransponder
+  - orangefarbenes Segeltuch mit einem schwarzen Quadrat oder Kreis
+  - Seewasserfärber
+  
+24. Ein Bodeneffektfahrzeuge das auf der Wasseroberfläche betrieben wird, muss die Ausweichregeln für Maschinenfahrzeuge erfüllen. Bei Start, Landung oder oberflächennahem Flug muss es sich von allen Fahrzeugen gut klar halten und vermeiden, deren Manöver zu behindern.  
+
+## SeeSchStrO
+
+1. Eine Yacht die zu dicht neben einer anderen Yacht ankert, verstößt gegen **[§ 3](https://www.gesetze-im-internet.de/seeschstro_1971/__3.html). Grundregeln für das Verhalten im Verkehr**
+
+2. **Festgemachte Fahrzeuge** zeigen bei Nacht ein weißes Rundumlicht (ab 50 m Länge eines vorn und eines hinten) mittschiffs an der Fahrwasserseite oder an dem am weitesten zum Fahrwasser reichenden Ende. Diese Lichter brauchen außer auf dem Nord-Ostsee-Kanal nicht geführt zu werden, wenn die Umrisse des Fahrzeugs durch andere Lichtquellen ausreichend und dauernd erkennbar sind.
+
+3. Segelfahrzeuge < 12 m die die nach KVR vorgeschriebene Lichter nicht führen können, müssen mindestens ein weißes Rundumlicht führen. 
+
+4. Segelfahrzeuge < 12 m und Maschinenfahrzeuge < 7 m die die nach KVR vorgeschriebene Lichter nicht führen können, dürfen in der Zeit in der Lichterführung vorgeschrieben ist (Nacht), nicht fahren, es sei denn, dass ein Notstand vorliegt. Für diesen Fall ist ein weißes Licht ständig gebrauchsfertig mitzuführen und rechtzeitig zuzeigen, um einen Zusammenstoß zu vermeiden.  
+
+5. **Achtungssignal** (einmal lang) ist zu geben in allen Fällen, in denen die Verkehrslage ein Achtungssignal erfordert:
+- Einlaufen/Auslaufen in andere Fahrwasser/Häfen/Schleusen
+- Verlassen von Liege- und Ankerplätze
+
+6. Die Fahrregeln der SeeSchStrO gelten **unabhängig von den Sichtverhältnissen**. Abweichend von den KVR gelten die Ausweichpflicht des Überholers (Regel 13) sowie das Verhalten von Maschinenfahrzeugen bei entgegengesetzten Kursen (Regel 14) auch dann, wenn die Farhzeuge einander nicht in Sicht, aber mittels Radar geortet haben ([§21](https://www.gesetze-im-internet.de/seeschstro_1971/__21.html)).
+
+7. [§23](https://www.gesetze-im-internet.de/seeschstro_1971/__23.html) **Überholverbot** bei: 
+- in der Nähe von in Fahrt befindlichen, nicht frei fahrenden Fähren. 
+- an engen Stellen und in unübersichtlichen Krümmungen.
+- vor und innerhalb von Schleusen.
+- innerhab von Strecken und zwischen Fahrzeugen die...bekannt gemacht sind. 
+
+8. [§25](https://www.gesetze-im-internet.de/seeschstro_1971/__25.html) Im **Fahrwasser** haben dem Fahrwasserverlauf folgende Fahrzeuge Vorfahrt gegenüber Fahrzeugen die...
+- in das Fahrwasser einlaufen
+- das Fahrzeug queren
+- im Fahrwasser drehen
+- irhe Anker- oder Liegeplätze verlassen
+
+9. **Vorfahrt** gewähren nach SeeSchStrO begrüdet eine Wartepflicht ([§25](https://www.gesetze-im-internet.de/seeschstro_1971/__25.html)). *Vorfahrt haben* bedeutet nicht *Vorfahrt erzwingen*. Gfg. müssen bei einer **Ausweichsituation** Maßnahmen zur Verhinderung einer drohenden Kollission nach KVR (Regel 2) ergriffen werden. 
+
+10. Sofern **Segelfahrzeuge** nicht deutlich der Richtung eines Fahrwassers folgen, haben sie sich untereinander nach den KVR zu verhalten, wenn sie dadurch vorfahrtsberechtigte Fahrzeuge nicht gefährden oder behindern.  
+
+11. **Querende Fahrzeuge** müssen Fahrzeugen, die dem Fahrwasserverlauf folgende, Vorfahrt gewähren ([§25](https://www.gesetze-im-internet.de/seeschstro_1971/__25.html)).
+
+12. Motoryachten und Segelyachten die auf Kollisionskurs sind und nicht dem Fahrwasserverlauf folgen verhalten sich nach KVR.
+
+13. Fahrzeuge im Fahrwasser haben unabhängig davon, ob Sie dem Fahrwasserverlauf folgen Vorfahrt vor Fahrzeugen, die in dieses Fahrwasser aus einem **abzweigenden oder einmündende Fahrwasser** einlaufen.
+
+14. Wenn zwei Fahrwasser ineinander einmüdnen hat das Hauptfahrwasser Priorität. 
+
+15. Bei **Einmündende bzw. abzweigende Fahrwasser** ist eine der beiden Einmündungstonnen Steuerbord- und Backbordtonne zuggleich. Die hat die Farbe der Fahrwasserseite des Hauptfahrwassers als Grundfarbe und die Farbe der Fahrwasserseite des Nebenfahrwassers als waagrechtes Band. 
+
+16. Fahrzeuge im Fahrwasser haben unabhängig davon, ob Sie dem Fahrwasserverlauf folgen Vorfahrt vor Fahrzeugen, die in dieses Fahrwasser aus einem **abzweigenden oder einmündende Fahrwasser** einlaufen.
+
+17. Hauptfaktoren für zulässige Geschwindigkeit: Sichere Geschwindigkeit zur Vermeidung von Gefährdung durch Sog oder Wellenschlag
+
+18. Fahrgeschwindigkeit ist zu reduzieren bei
+- Häfen, Schleusen, Sperrwerken
+- festliegenden Fähren
+- manövrierunfähigen und festgekommenen Fahrzeugen sowie an manövrierbehinderten Fahrzeugen
+- schwimmenden Geräten und schwimmenden Anlagen
+- außergewöhnlichen Schimmkörpern, die geschleppt werden 
+- an Stellen, die durch die Sichtzeichen über Geschwindigkeitsbeschränkungen oder durch die Flagge "A" gekennzeichnet sind. 
+
+19. Beim Wasserskifahren hat der Führer entsprechend der KVR auszuweichen. 
+
+20. Pflichten eines Schiffsführers bei einem Unfall bezüglich der Sicherheit des übrigen Verkehrs: 
+- Bei Gefahr des Sinkens ist das Fahrzeug möglichst so weit aus dem **Fahrwasser** zuschaffen, dass die Schiffahrt nicht beeinträchtigt wird. 
+- Zuständiges Wasser- und Schiffahrtsamt oder die Verkehrszentrale ist zu unterrichten. 
+- Der Ort eines **gesunkenen Fahrzeugs** ist unverzüglich behelfsmäßig zu bezeichnen.
+
+21. Alle mit einer UKW-Sprechfunkanalage ausgestatteten Fahrzeuge sind verpflichtet die von der **Verkehrszentrale** (Maritime Verkehrssicherung) gegebenen Verkehrsinformationen und -unterstützungen **abzuhören und zu berücksichtigen**. ([§3](https://www.gesetze-im-internet.de/seeschstro_1971/__3.html)) 
+
+# Radarplotten
+
+# Seeunfalluntersuchung
+
+1. Aufgaben der **Bundesstelle für Seefalluntersuchung**:
+- Ermittlung der **Umstände** des Vorkomnisses
+- Ermittlung der unmittelbaren und mittelbaren **Ursachen** durch die es zum Vorkommnis gekommen ist. 
+- Ermittlung der Faktoren, die den Eintritt des Schadens oder der Gefahr begünstigt haben, unter Einbeziehung möglicher **Schwachstellen** des Sicherheitssystems. 
+
+2. Ein schaden- oder gefahrenverursachendes Vorkommniss (Seeunfall) im Sinne des **Seesicherheits-Untersuchungs-Gesetz (SUG)** liegt vor bei:
+- Tod, das Verschwinden oder die schwere Verletzung eines Menschen
+- Verlust, der vermutliche Verlust, der Schiffbruch, das Aufgrundlaufen, die Aufgabe oder die Kollission eines Schiffes. 
+- ein maritimer Unfallschaden
+- eine Gefahr für einen Menschen oder für ein Schiff
+- Gefahr eines schweren Schadens an einem Schiff, an einem meerestechnischen Bauwerks oder an der Meeresumwelt. 
+
+3. Ein Führer eine Sportbootes muss einen Seeunfall **unverzügliche melden** (mit Bericht) an: 
+- Bundesstelle für Seeunfalluntersuchungen, alternativ
+- Wasserschutzpolizei des Einlaufhafens
+- Hafenbehörde (Ausland)
+
+4. Ob ein Seeunfall im Rahmen des SUG untersucht wird, entscheidet der Direktor der Bundesstelle. 
+
+5. Ein Bericht umfasst Angaben zum Meldenden, shum Schiff, zu dessen Betreiber, zum Schiffsführer, zum Schaden, zum Ablauf des Unfalls und zu den Begleitumständen (andere Schiffe, Wetter, Meeresverschmutzung). 
+
+6. In [§ 7 der Verordnung über die Sicherung des Seefahrt](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html) ist geregelt, Angaben der Bundesstelle bei einem schaden- oder gefahrenverursachenden Vorkommnis (Seeunfall) zu melden ist. 
+
+7. Verantwortlich für die Meldung eines Seeunfalls ist der **Schiffsführer**
+
+8. Die **Seeämter** (Kiel, Hamburg, Bremerhafen, Emden, Rostock) sind Untersuchungsausschüsse mit der **Aufgabe** zu Untersuchen, ob ein Befähigungszeugnis entzogen oder ein Fahrverbot verfügt werden soll. 
+
+
+# Umweltschutz
+
+1. MARPOL-Abkommen (Internationale Übereinkommen zur Verhütung der Meeresverschmutzung) gilt international und das Übereinkommen von Helsinki für die Anreinerstaaten der Ostsee für die Ostsee.
+
+2. Bei der Auswahl des Antifoulings kann man einen Beitrag zur Umweltentlastung leisten in dem moderne Anstriche verwendet werden die dem Bewuchs den Haftgrund entziehen. Als Alternative gelten Weich-Antifoulings.
+
+3. Boardtoilette kann mit Wasser und Bürste sauber und geruchsfrei gehalten werden. 
+
+4. Gegen Öl in der **Motor-Bilge** sichert man sich mit einem **Abscheidegefäß**
+
+5. Wenn Öl in die **allgemeine Schiffsbilge** gelangt ist sollte man mit einem **Ölbindemittel** abbinden, die Rückstände und betroffenes Gebrauchsmaterial in geeigneten Behältern sammeln und bei den Entsorgungsstationen in Häfen abgeben. 
+
+6. Die Grenzwerte für den Ölanteil bei Wasser, das bei Reinigungsarbeiten außenbords gepumpt wird beträgt 15 ppm (patrs per million)
+
+7. Sondergebiete nach MARPOL bedeuten, dass darin die **Beseitigung aller Kunsstoffgegenstände und sonstigen Mülls** verboten ist.
+
+8. Eine Ausbildungsyacht die für 12 Personen zugelassen ist und die über keine Abwasseraufbereitungsanlage verfügt, darf nur mindestens 12 sm vom nächstgelegenen Land entfernt einleiten, und auch nur in kleinen Mengen und bei über 4 kn Fahrt. 
+
+9. Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen zugelassen sind, die Auflage, dass jegliche Einleitung von Abwässern innerhalb der 12sm Zone verboten ist. Die Yachten müssen, ,soweitsich eine Toilette an Bord befindet, mit einem geschlossenen Fäkalientank ausgestattet sein. 
+
+Ausnahmen: 
+- Sportboote, die vor 2003 gebaut wurden und weniger als 11,50m lang und weniger als 3,80m breit sind
+- Sportboote, die vor 1990 gebaut wurden. 
+
+10. **Chemie-Toiletten** haben ein Umweltproblem. Die geruchsbindenden und desinfizierenden Zusätze behindern den natürlichen Klärprozess. Ins Meer geleitet würden sie wegen ihrer aggressiv gitigen Eigenschaften großen Schaden anrichten. Sie sollen nur an den dafür vorgesehenen Entsorgungsstationen gelehrt werden. 
+
+11. Der Sportschiffer erfährt die **Schutzauflagen für die Nationalparke** aus dem Eindruck in den amtlichen Seekarten. 
+
+12. Die **Zonen I** sind besondere in den Seekarten verzeichnete Schutzzonen, in denen man sich **nur innerhalb der Fahrwasser** unbeschränkt aufhalten darf. 
+
+13 Die Flächen **außerhalb der Fahrwasser** in Zone 1 dürfen nur von 3h von bis 3h nach Hochwasser mit max 15km/h FdW befahren werden. Motorisiertes Wasserskifahren, Wassermotorräder oder sonstige motoriserte Wassersportgeräte sind verboten 
+
+
+# Seenotrettung- und Sicherheitsfunkdienst
+
+1. **Umfang der Funkausrüstung** bei Seeschiffen richtet sich nach seinem Fahrgebiet. 
+2. Der Seenotruf bei **Digital Selective Calling (DSC)** funktioniert neben **Sicherheits- und Dringlichkeitsstufen als Seenotalarmierung**. Diese Prioritätsstufe lösen am Empfängergerät besondere akustische und optische Alarmierungszeichen aus. Der Notruf geht automatische "an alle", Sicherheits- und Dringlichkeitsrufe dagegen, wie eingetippt, "an alle" oder an eine Selektivnummer.
+
+3. DCS verbessert nicht die Sprechqualität der Funktelefonie, es wird allerdings die **Kapazität der Sprechwege** besser ausgenutzt.
+
+4. Die Ortung einer **COSPAS-SARSAT-Bake** durch Suchschiffe und durch Suchflugzeuge erfolgt durch das 406-MHz-Peilsignal und eine GPS Empfänger. Für die Feinansteuerung durch Flugfahrzeuge senden sie ein Peilsignal auf der Luftfahrnotfrequenz 121,5 Mhz.
+
+5. Ein **aktivierter Seenot-Radartransponder (SART)** erscheint auf dem Radarschirm von dem Standort des Transponders radial nach außen weisend eine Perlenschnur von 12 Echos, die einer Länge von 7,5 sm enstpricht. 
+
+6. Ein **NAVTEX-Nutzer** kann verhindern, dass er nicht mit einer Flut von unnötigen Meldungen überschüttet wird. Hierzu dient ein **Buchstabe als Sendererkennung**. Mit dem Buchstabe kann man den gewünschten Sender in den Empfänger eingeben, sodass nur dieser empfangen wird. Auf gleiche Weise kann man **Meldungsarten auswählen**. **SARMedlungen und Wetterwarnungen** erscheinen auf jeden Fall. 
+
+7. Von **Inmarsat** werden folgende Fernmeldedienste geleistet: 
+- B: Telefonie, Telex und Datenübertragung 
+- C: Telex und Datenübertragung => kann E-Mail und Fax übertragen
+
+
+
+
+
+
+
+
+

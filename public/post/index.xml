@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ollis Sailing page</title>
+    <link>https://gansser.info/post/</link>
+    <description>Recent content in Posts on Ollis Sailing page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="https://gansser.info/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigation</title>
+      <link>https://gansser.info/post/navigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gansser.info/post/navigation/</guid>
+      <description>Nautische Veröffentlichungen, Kursumwandlungen, Koppelnavigation, Terrestrische Schiffsorte, Terrestrische Kompasskontrolle, Gezeitenkunde, Gezeitenrechnung, GPS, Wegpunktnavigation, Radar, Elektronische Seekarten und ECDIS, AIS</description>
+    </item>
+    
+    <item>
+      <title>Schiffahrtsrecht</title>
+      <link>https://gansser.info/post/schiffahrtsrecht/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gansser.info/post/schiffahrtsrecht/</guid>
+      <description>Schiffahrtsrecht allgemein, Rechtsvorschriften, Ausrüstungs- und Besetzungspflicht, Seeverkehrsrecht, Radarplotten, Seeunfalluntersuchung, Umweltschutz, Seenotrettung- und Sicherheitsfunkdienst</description>
+    </item>
+    
+    <item>
+      <title>Seemanschaft</title>
+      <link>https://gansser.info/post/seemanschaft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gansser.info/post/seemanschaft/</guid>
+      <description>Segelfahrzeug, Stabilität, Sicherheitsausrüstung - Handhabung, Seetücjtigkeit, Verhalten in Notfällen, Kollision, Seenotfall, Mensch über Bord, Maßnahmen bei Verletzungen und Unterkühlung, Manövrierverhalten von Seeschiffen, Fahren in schwerem Wetter, Ankern</description>
+    </item>
+    
+    <item>
+      <title>Wetterkunde</title>
+      <link>https://gansser.info/post/wetterkunde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gansser.info/post/wetterkunde/</guid>
+      <description>Grundlagen Wetterkunde, Wolken und Nebel, Druckgebilde, Regionale Wettererscheinungen, Wetterregeln, Seegang, Seewetter-Informationen, Verarbeitung vonSeewetterberichten, Meteorologische Geräte</description>
+    </item>
+    
+  </channel>
+</rss>
