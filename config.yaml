@@ -1,0 +1,23 @@
+baseURL: https://gansser.info/
+title: Ollis Sailing page
+languageCode: de
+paginate: 10
+theme: Binario
+
+Author:
+  name: Prof. Dr. Oliver Gansser
+  avatar: img/avatar.png
+
+Params:
+  columns: 2
+  description: Sportseeschifferschein
+  colorTheme: "dark-blue" # dark-green, dark-blue, dark-red, dark-violet
+  mathjax: true
+  
+  Social:
+    email: oliver@gansser.de
+    twitter: ogansser
+    instagram: olli_projektzwo
+    linkedin: dr-oliver-gansser-a8585a88
+    youtubechannel: UCKwyVOVNXcOr9rPeuUk_NSQ
+
