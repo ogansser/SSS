@@ -22,9 +22,9 @@ output:
 
 2. Die **Düse**, das ist der Spalt zwischen zwei geringfügig überlappenden Segeln, wirkt sich vorteilhaft auf die Strömung der Leeseite aus. => Hintere Teil der Gesamtfläche erhält neue, unverwirbelte Anströmung. =>  verhindert Ablösen des Luftsromes => Vortrieb auf Amwindkurs 
 
-3. Das 7/8- oder das 3/4-Rigg einer **Slup** ermöglicht es, mit dem Achterstag den Mast so zu biegen, dass der Großsegelbaauch nach vorn herausgeszogen und das Segel flach getrimmt wird. 
+3. Das 7/8- oder das 3/4-Rigg einer **Slup** ermöglicht es, mit dem Achterstag den Mast so zu biegen, dass der Großsegelbauch nach vorn herausgezogen und das Segel flach getrimmt wird. 
 
-4. Bei einer **Yawl** (zusätzulich kleines Segel achtern) steht der Besanmast so weit achtern, damit er einen Hebelarm bildet => Trimmwirkung leichter => Gierigkeit wegtrimmen.
+4. Bei einer **Yawl** (zusätzlich kleines Segel achtern) steht der Besanmast so weit achtern, damit er einen Hebelarm bildet => Trimmwirkung leichter => Gierigkeit wegtrimmen.
 
 5. Bei einer **Ketsch** (Großegel wird in zwei aufgeteilt) fällt das Besansegel (achtern) kleiner aus => Strömung bei Amwindkursen wird durch Vor- und Großsegel nach innen abgelenkt => Besan wird nur noch in spitzem Winkel angeströmt => geringerer Anteil an Gesamtsegelkraft.
 
@@ -54,7 +54,7 @@ Harmonie zwischen Rundergehen und Schotführung:
 - Keilriemenspannung 
 - Motorbilge  
 
-Nach dem Starten kontrolle von:
+Nach dem Starten K ontrolle von:
 
 - Kühlwasseraustritt  
 - Öldruck  
@@ -68,7 +68,7 @@ Nach dem Starten kontrolle von:
   
 - Öldruck fällt: Motor unverzüglich abstellen  
 
-  Wenn Ölstand gering => Öl nachfüllen => Motor wieder starten => Ursache für Ölverlust klären => Sichtkontrolle gemater Motor, Ölkühler, Verbindungsschläuche, Motorbilge
+  Wenn Ölstand gering => Öl nachfüllen => Motor wieder starten => Ursache für Ölverlust klären => Sichtkontrolle gesamter Motor, Ölkühler, Verbindungsschläuche, Motorbilge
  
 - Motor springt nicht an
   - Batteriestrom zu gering => Umschalten auf Reservebatterie oder Dekompressionshebel der Zylinder öffnen und nacheinandere wieder schließen
@@ -88,17 +88,19 @@ Falls nach dieser Entlüftung der Motor nicht startet, kann man noch die Hochdru
 
 14. Bei ausgeprägtem Schraubeneffekt nimmt man rückwärts Fahrt auf in dem man voraussehend die Yacht vor dem **Fahrtaufnehmen rückwärts** entsprechend schräg zur vorgesehenen Fahrtrichtung anstellt. 
 
-15. Wenn eine Yacht bei Seitenwind aufgestoppt wird driftet der Bug nach Lee weg => Yacht in den Wind stellen undunter Motor im Wind halten
+15. Wenn eine Yacht bei Seitenwind aufgestoppt wird driftet der Bug nach Lee weg => Yacht in den Wind stellen und unter Motor im Wind halten
 
-16. Als schleppendes Fahrzeug wird die eigene Steuerfähigkeit sichergestellt in dem mit einem Stoppersteck ein zweites Tau  an der Schlepptrosse angeschlagen wird. Beide Tau werden durch die achterne Lippklampe auf die jeweilige Genuawinsch geführt. 
+16. Als schleppendes Fahrzeug wird die eigene Steuerfähigkeit sichergestellt in dem mit einem Stoppersteck ein zweites Tau an der Schlepptrosse angeschlagen wird. Beide Taue werden durch die achterne Lippklampe auf die jeweilige Genuawinsch geführt. 
 
 17. In eine durchhängende Schlepptrosse einzurucken sollte man vermeiden, weil die enstehenden Kräfte unbeherrschbar sind. Manchmal wird versuch so Yachten freizurucken. 
 
 18. **Längsseitsschleppen** bietet sich an, wenn das zuschleppende Fahrzeug in einen engen Hafen bugsiert werden muss. Ist nur bei ruhigem Wasser möglich, da sich die Fender sonst rausarbeiten. 
-19. Beim Längsseitsschleppen muss der Schlepper möglichst weit achtern beigetaut werden, damit die Schubrichtung möglichst längsgerichtet ist und nach beiden Seiten Manövrierspielraum lässt.    
-20. Bei der Übernahme einer Charteryacht muss an in Erfahrung bringen ob es sich bei der elektrischen Anlage um eine manuelle (zwei gleichwertige Batterien getrennt und zusammen schaltbar => getrennt entladen und zusammen laden) oder um eine automatische (Start- und Versorgungsbatterie getrennt, mit Versurgungsbatterie kann auch im Notfall gestartet werden => Hauptschalter umlegen) handelt.   
 
-21. Die Batterien einer manuellen Anlage sind beim Motoren zusammenzuschalten, so dass beide geladen werden. Beim Segeln sind sie zu trennen, wegen versehentlichem entladen der Reservebatterie
+19. Beim Längsseitsschleppen muss der Schlepper möglichst weit achtern beigetaut werden, damit die Schubrichtung möglichst längsgerichtet ist und nach beiden Seiten Manövrierspielraum lässt.    
+
+20. Bei der Übernahme einer Charteryacht muss man in Erfahrung bringen, ob es sich bei der elektrischen Anlage um eine manuelle (zwei gleichwertige Batterien getrennt und zusammen schaltbar => getrennt entladen und zusammen laden) oder um eine automatische (Start- und Versorgungsbatterie getrennt, mit Versorgungsbatterie kann auch im Notfall gestartet werden => Hauptschalter umlegen) handelt.   
+
+21. Die Batterien einer manuellen Anlage sind beim Motoren zusammenzuschalten so, dass beide geladen werden. Beim Segeln sind sie zu trennen, wegen versehentlichem entladen der Reservebatterie
 
 22. Die Sicherung der Starkstromkreise auf einer Segelyacht findet man üblicherweise im Zuge der Kabelführung.
 
@@ -116,15 +118,15 @@ Falls nach dieser Entlüftung der Motor nicht startet, kann man noch die Hochdru
 
 25. **Ladespannung** darf nie 14,3 Volt überschreiten => Batterien fangen sonst an zu kochen => Batterien leiden => explosiver Wasserstoff entsteht. 
 
-26. **Flüssiggasanlagen** an BOrd können gefährlich sein. Ausströmendes Gas sammelt sich im Schiff und kann, weil es schwerer als Luft ist, nicht von selbst entweichen. Mi Luft vermischt ist es schon in geringen Mengen explosiv. Außerdem besteht Erstickungsgefahr weil Gas fast doppelt so schwer wie Atemluft. 
+26. **Flüssiggasanlagen** an Bord können gefährlich sein. Ausströmendes Gas sammelt sich im Schiff und kann, weil es schwerer als Luft ist, nicht von selbst entweichen. Mit Luft vermischt ist es schon in geringen Mengen explosiv. Außerdem besteht Erstickungsgefahr weil Gas fast doppelt so schwer ist wie Atemluft. 
 
-27. Bei ausströmendem Gas sollte man eingeschaltete elektrische Anlagen nicht ausschalten, weil auch beim Ausschlaten elektrische Schaltfunkten enstehen können. 
+27. Bei ausströmendem Gas sollte man eingeschaltete elektrische Anlagen nicht ausschalten, weil auch beim Ausschalten elektrische Schaltfunken enstehen können. 
 
 28. Eine Gasanlage wird gemäß DVGW (Deutsche Vereinigung des Gas- und Wasserfachs) nach folgenden Grundsätzen installiert: 
 
-- Gasflasche muss in Raum gestaut sein, der nur von oben zugängich ist, zum Schiffsinneren dicht abgeschlossen ud mit einer nach außen führenden Lüftung versehen ist.
+- Gasflasche muss in Raum gestaut sein, der nur von oben zugängich ist, zum Schiffsinneren dicht abgeschlossen und mit einer nach außen führenden Lüftung versehen ist.
 
-- Flasche wird übereine Normanschluss mit verstellbarem Druckregler (50 mbar Ausgangsdruck), Sicherheitsvertnil (100 bis 120 mbar Ablassdruck) und Absperrhahn angeschlossen. 
+- Flasche wird über eine Normanschluss mit verstellbarem Druckregler (50 mbar Ausgangsdruck), Sicherheitsvertil (100 bis 120 mbar Ablassdruck) und Absperrhahn angeschlossen. 
 
 - Vor jedem Verbraucher ist ein Absperrhahn. 
 
@@ -169,7 +171,7 @@ Krängungsmoment > aufrichtende Moment => Zunahme der Neigung
 
 Krängungsmoment = aufrichtende Moment => **stabile Krängungswinkel** 
 
-Krängungsmoment < aufrichtende Moment => Abnhame der Neigung bis zum stabilen Krängungswinkel
+Krängungsmoment < aufrichtende Moment => Abnahme der Neigung bis zum stabilen Krängungswinkel
 
 3. **Stabilität** einer Segelyacht
 
@@ -185,7 +187,7 @@ Krängungsmoment < aufrichtende Moment => Abnhame der Neigung bis zum stabilen K
 
 **steife Yachten** 
 
-=> breite Spantform => hoher Anteil an Formstabilität => Bei kleinem Krängungswinkel steigt Kurve des aufrichtenden Moments steil an =>  hohe Anfangsstabilität => hohes Segeltragevermögen => steifes, unangenehmes Rollverhalten => Durch mögliche Segelfläche bessere Amwindeigenschaften => Bei größeren Krängungswinkel verkleinert sichHebelarm des aufrichtenden Moments => geringe Endstabilität => kleiner Stabilitätsumfang => Regattageeignet 
+=> breite Spantform => hoher Anteil an Formstabilität => Bei kleinem Krängungswinkel steigt Kurve des aufrichtenden Moments steil an =>  hohe Anfangsstabilität => hohes Segeltragevermögen => steifes, unangenehmes Rollverhalten => Durch mögliche Segelfläche bessere Amwindeigenschaften => Bei größeren Krängungswinkel verkleinert sich Hebelarm des aufrichtenden Moments => geringe Endstabilität => kleiner Stabilitätsumfang => Regattageeignet 
 
 
 # Sicherheitsausrüstung - Handhabung 
@@ -214,8 +216,8 @@ Durch drei jeweils rechtwinklig zueinander stehende Reflektionsflächen wird der
 
 6. Grundsätze einer Lenzanlage: 
 
-- Zwei Pumpen, manuell und Elektrisch)  
-- Die Pumpen sauen am Lenzbrunnen, dem tiefsten Punkt in der Bilg
+- Zwei Pumpen (manuell und elektrisch)  
+- Die Pumpen saugen am Lenzbrunnen, dem tiefsten Punkt in der Bilg
 - Die Lenzkörbe sind an beweglichen Ansaugschläuchen befestigt (müssen gehoben und gereinigt werden können)
 - Lenzleitung/-Systeme sollten direkt außenbords entleeren
 - Rückschlagventil nur bei Kreiselpumpen nötig, die ventillos arbeiten
@@ -272,7 +274,7 @@ Pulverlöscher: große Löschleistung bei offenen Bränden, schirmt Brandquelle 
 
 17. **Sicherheitsgurte und -leinen** müssen einen hohe Reisfestigkeit haben (2 Tonnen), dass sie das harte Einrucken bei einem freien Fall in der gesamten Länge aushalten => max 2 M lang => Sorgleine besser mit halber Länge einpiken.
 
-18. Eine moderne Automatik-Sicherungsweste funktioniert mit hilfe einer wasserlöslichen Tablette. Diese blockiert einen federspannenden Bolzen. Bei Wasserkontakt (durch z. B. Eintauchen in Wasser) löst sich die Sperre innerhlab von Sekunden, und der Schlagbolzen schlägt die Öffnung in die keine Druckflasche. Aus der strömt dann das Kohlendioxis in die Schwimmkörper. Es gibt noch eeinen Nachblaseschlauch und einen Signalpfeife. 
+18. Eine moderne Automatik-Sicherungsweste funktioniert mit hilfe einer wasserlöslichen Tablette. Diese blockiert einen federspannenden Bolzen. Bei Wasserkontakt (durch z. B. Eintauchen in Wasser) löst sich die Sperre innerhlab von Sekunden, und der Schlagbolzen schlägt die Öffnung in die keine Druckflasche. Aus der strömt dann das Kohlendioxis in die Schwimmkörper. Es gibt noch eeinen Nachblaseschlauch und eine Signalpfeife. 
 
 Die Ohnmachtssicherheit wird durch die übergroßen Brustschwimmkörper im Gleichgewicht mit dem Nackenkissen gewährleistet.  
 
@@ -288,7 +290,7 @@ Faustregeln (für Tragen von beidem):
 
 20. Einpicken mit Sicherheitsleine
 
-- Im Cockpit: Augenbolzen in außreicheder Anzahl im Cockpit
+- Im Cockpit: Augenbolzen in außreichender Anzahl im Cockpit
 
 - Auf dem Weg nach vorne: Strecktaue (Jackstagen) in beiden Wassergängen
 

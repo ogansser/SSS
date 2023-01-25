@@ -300,6 +300,44 @@ output:
 
 # Radarplotten
 
+**Ziele des Raradplottens:** 
+
+Kurs und Geschwindigkeit eines fremden Schiffes ermitteln,
+Kollisionsgefahren erkennen, Passierabstand vorhersagen, bestimmen wie bei unverändertem
+Kurs die eigene Fahrt und/oder Kurs zu reduzieren bzw. zu ändern ist, um einen vorgegebenen
+Passierabstand einzuhalten.
+
+**Abkürzungen**
+A  
+Eigenes Schiff  
+B,C  
+Fremde Schiffe  
+KA  
+Kurs des eigenen Schiffes  
+KB  
+Kurs des Schiffes B  
+KB - KA  
+Kursdifferenz, Winkel zwischen KB und KA (ergibt sich bei Head Up)  
+KBr  
+Kurs der relativen Bewegung von B  
+KBr – KA  
+Kursdifferenz, Winkel zwischen KBr und KA (ergibt sich bei Head Up)  
+CPA  
+Kleinster Passierabstand Closest Point of Approach  
+TCA  
+Zeitpunkt des CPA  
+TCPA  
+Zeitspanne bis zum Erreichen des CPA Time of CPA  
+SPCPA  
+Seitenpeilung Zum Gegner zum TCA  
+PCPA  
+Peilung zum Gegner zum TCA  
+vA  
+Eigene Geschwindigkeit vB Geschwindigkeit von B  
+vBr  
+Geschwindigkeit der relativen Bewegung von B  
+
+
 # Seeunfalluntersuchung
 
 1. Aufgaben der **Bundesstelle für Seefalluntersuchung**:
