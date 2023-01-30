@@ -4,8 +4,8 @@ author: Oliver Gansser
 date: []
 slug: []
 categories: []
-tags: [Segelfahrzeug, Stabilität, Sicherheitsausrüstung - Handhabung, Seetücjtigkeit, Verhalten in Notfällen, Kollision, Seenotfall, Mensch über Bord, Maßnahmen bei Verletzungen und Unterkühlung, Manövrierverhalten von Seeschiffen, Fahren in schwerem Wetter, Ankern]
-summary: Segelfahrzeug, Stabilität, Sicherheitsausrüstung - Handhabung, Seetücjtigkeit, Verhalten in Notfällen, Kollision, Seenotfall, Mensch über Bord, Maßnahmen bei Verletzungen und Unterkühlung, Manövrierverhalten von Seeschiffen, Fahren in schwerem Wetter, Ankern
+tags: [Segelfahrzeug, Stabilität, Sicherheitsausrüstung - Handhabung, Seetüchtigkeit, Verhalten in Notfällen, Kollision, Seenotfall, Mensch über Bord, Maßnahmen bei Verletzungen und Unterkühlung, Manövrierverhalten von Seeschiffen, Fahren in schwerem Wetter, Ankern]
+summary: Segelfahrzeug, Stabilität, Sicherheitsausrüstung - Handhabung, Seetüchtigkeit, Verhalten in Notfällen, Kollision, Seenotfall, Mensch über Bord, Maßnahmen bei Verletzungen und Unterkühlung, Manövrierverhalten von Seeschiffen, Fahren in schwerem Wetter, Ankern
 output:
   blogdown::html_page:
     toc: TRUE
@@ -210,14 +210,14 @@ Krängungsmoment < aufrichtende Moment => Abnahme der Neigung bis zum stabilen K
 
 Durch drei jeweils rechtwinklig zueinander stehende Reflektionsflächen wird der Einfallsstrahl genau in Einfallsrichtung zurückgeworfen.  
 
-4. **Yachtstellung** bedeutet, dass zwei Reflexionstrichter voraus und zwei achtern zu richten sind, weil Segelyacht von vorn und von achtern am wenigsten reflektiert wird. 
+4. **Yachtstellung** bei der Ausbringung von Radarreflektoren bedeutet, dass zwei Reflexionstrichter voraus und zwei achtern zu richten sind, weil Segelyacht von vorn und von achtern am wenigsten reflektiert wird. 
 
 5. Die **effektive Radarrückstrahlfläche** ist die Maßeinheit für die Reflexionsleistung
 
 6. Grundsätze einer Lenzanlage: 
 
 - Zwei Pumpen (manuell und elektrisch)  
-- Die Pumpen saugen am Lenzbrunnen, dem tiefsten Punkt in der Bilg
+- Die Pumpen saugen am Lenzbrunnen, dem tiefsten Punkt in der Bilge
 - Die Lenzkörbe sind an beweglichen Ansaugschläuchen befestigt (müssen gehoben und gereinigt werden können)
 - Lenzleitung/-Systeme sollten direkt außenbords entleeren
 - Rückschlagventil nur bei Kreiselpumpen nötig, die ventillos arbeiten
@@ -253,7 +253,7 @@ Pulverlöscher: große Löschleistung bei offenen Bränden, schirmt Brandquelle 
 - Dauer der Reise  
 - Gesundheitszustand Besatzungsmitglieder  
 - Alter der Besatzugnsmitglieder  
-- medizinische Vorbildung unter der Besetzung  
+- medizinische Vorbildung unter der Besatzung  
 
 13. Das Nummernverzeichnis im Zusammenhang mit der empfohlenen Inhaltsliste kann ein Sportschiffer als Anhalt für die Ausstattung mit Medikamenten und Heilmitteln nehmen. 
 
@@ -274,7 +274,7 @@ Pulverlöscher: große Löschleistung bei offenen Bränden, schirmt Brandquelle 
 
 17. **Sicherheitsgurte und -leinen** müssen einen hohe Reisfestigkeit haben (2 Tonnen), dass sie das harte Einrucken bei einem freien Fall in der gesamten Länge aushalten => max 2 M lang => Sorgleine besser mit halber Länge einpiken.
 
-18. Eine moderne Automatik-Sicherungsweste funktioniert mit hilfe einer wasserlöslichen Tablette. Diese blockiert einen federspannenden Bolzen. Bei Wasserkontakt (durch z. B. Eintauchen in Wasser) löst sich die Sperre innerhlab von Sekunden, und der Schlagbolzen schlägt die Öffnung in die keine Druckflasche. Aus der strömt dann das Kohlendioxis in die Schwimmkörper. Es gibt noch eeinen Nachblaseschlauch und eine Signalpfeife. 
+18. Eine moderne Automatik-Sicherungsweste funktioniert mit Hilfe einer wasserlöslichen Tablette. Diese blockiert einen federspannenden Bolzen. Bei Wasserkontakt (durch z. B. Eintauchen in Wasser) löst sich die Sperre innerhalb von Sekunden, und der Schlagbolzen schlägt die Öffnung in die keine Druckflasche. Aus der strömt dann das Kohlendioxis in die Schwimmkörper. Es gibt noch einen Nachblaseschlauch und eine Signalpfeife. 
 
 Die Ohnmachtssicherheit wird durch die übergroßen Brustschwimmkörper im Gleichgewicht mit dem Nackenkissen gewährleistet.  
 
@@ -304,7 +304,7 @@ Faustregeln (für Tragen von beidem):
 
 22. Rettungskragen und Markierungboje sind so am Heckkorb zu befestigen, dass man sie mit **zwei Griffen** (weil gegen überkommendes Wasser geschützt) entnehmen und über Bord werfen kann.
 
-23. Am Ende der Wurfleine sollte der zweite Rettungskragen und ein Kiessäckchen als Wurfgewicht befestigt sein. Man wirft den so beschwerten Rettungskragen mit freiem Schwung, die Leine wird imFlug ausgezogen. 
+23. Am Ende der Wurfleine sollte der zweite Rettungskragen und ein Kiessäckchen als Wurfgewicht befestigt sein. Man wirft den so beschwerten Rettungskragen mit freiem Schwung, die Leine wird im Flug ausgezogen. 
 
 24. Hochseeyacht muss mit einer Rettungsinsel (Rettungsfloß) ausgerüstet sein, dass die **gesamte Besatzung** aufzunehmen vermag. 
 
@@ -340,7 +340,7 @@ Faustregeln (für Tragen von beidem):
 - Tafel mit den Lebensrettungssignalen  
 - Nylongarn und Plastiktüten  
 - tragbares Sprechfunkgerät, Mobiltelefone, EPIRB, SAR-Transponder  
-- Logbuch, Schiffspapiere (nicht teil des ORC-Katalogs)
+- Logbuch, Schiffspapiere (nicht teil des ORC-Katalogs (Offshore Racing Council))
 
 28. **Vorbereitung zum Ausbooten**:
 
@@ -359,7 +359,7 @@ Zum **Übersteiegn** lässt man sich angeleint bäuchlings auf das Dach fallen u
 
 # Seetüchtigkeit 
 
-1. Beim Erwerb einer Yacht kann deren Tauglichkeit durch eine **CE-Kennzeichnung** bescheinigt werden. Danach müssen Hersteller nach einen vorgeschriebenen Prüfverfahren nachweisen, für welche Belastung ein Fahrzeug Sicherheit gewährt.  
+1. Beim Erwerb einer Yacht kann deren Tauglichkeit durch eine **CE-Kennzeichnung** bescheinigt werden. Danach müssen Hersteller nach einem vorgeschriebenen Prüfverfahren nachweisen, für welche Belastung ein Fahrzeug Sicherheit gewährt.  
 
 2. CE-Kennzeichnung Auslegungskategorie A bedeutet für Hochsee ausgelegt, d. h. über 8 Bft und über 4 m Wellenhöhe. 
 
@@ -367,17 +367,17 @@ Zum **Übersteiegn** lässt man sich angeleint bäuchlings auf das Dach fallen u
 
 4.  Die **Sicherheitsrichtlinien der Kreuzer-Abteilung** gilt als anerkannte Leitlinie bei Ausstattung einer Yacht mit Sicherheitsausrüstung.
 
-5. Nur wenn man allabendlich einen Hafen oder eine Ankerbucht anlaufen kann ist ein **Ein-Wachen-System** zu verantworten.
+5. Nur wenn man allabendlich einen Hafen oder eine Ankerbucht anlaufen kann, ist ein **Ein-Wachen-System** zu verantworten.
 
-6. Unter geeigneten Mitgliedern einer Besatzung sind solche zu verstahen, die unter dern knappen Anleitung mit den üblichen Kommandos ihren Part beim Manöver selbständig übernehmen können.
+6. Unter geeigneten Mitgliedern einer Besatzung sind solche zu verstehen, die unter der knappen Anleitung mit den üblichen Kommandos ihren Part beim Manöver selbständig übernehmen können.
 
 7. Werden längere Strecken auf See verbracht, ist ein **Mehr-Wachen-System** (mindestens zwei) erforderlich.
 
-8. Die Anzahl Tage für die verproviantiert wird richtet sich nach der Segelzeit bis zur nächsten **Einkaufsmöglichkeit**
+8. Die Anzahl Tage für die verproviantiert wird, richtet sich nach der Segelzeit bis zur nächsten **Einkaufsmöglichkeit**.
 
-9. Bei den veranschlagten **Etmalen** ist von eienr vernünftigen Durchschnittssegelleistung auszugehen, einschließlich der Großwetterlage angemessenen Sicherheitsabzugs für Schwachwindzonen und für Kreuzstrecken. Aufgrund des Motors auf eine höhere Streckenleistung zu setzen, gilt zunächst nur im Falle von zu schwachem Wind. 
+9. Bei den veranschlagten **Etmalen** ist von einer vernünftigen Durchschnittssegelleistung auszugehen, einschließlich der Großwetterlage angemessenen Sicherheitsabzugs für Schwachwindzonen und für Kreuzstrecken. Aufgrund des Motors auf eine höhere Streckenleistung zu setzen, gilt zunächst nur im Falle von zu schwachem Wind. 
 
-10. DasStauproblem bekommt man am besten in den Griff mit einer durchdachten **Stauordnung** bezgl. Geeicht, Verderblichkeit und Wiederfinden. => Besonderer Bereich für angebrochene Gebinde => Verantwortung durch einen Mitsegler.
+10. Das Stauproblem bekommt man am besten in den Griff mit einer durchdachten **Stauordnung** bezgl. Gewicht, Verderblichkeit und Wiederfinden. => Besonderer Bereich für angebrochene Gebinde => Verantwortung durch einen Mitsegler.
 
 11. Segelunternehmung den gegebenen Grenzen der Seetüchtigkeit von Schiff und Besatzung anpassen durch: 
 
@@ -405,7 +405,7 @@ Zum **Übersteiegn** lässt man sich angeleint bäuchlings auf das Dach fallen u
 Wenn keine Schlepphilfe in Sicht, weil z. B. Nacht: 
 
 - Größere Yachten können ihr motorisiertes Beibot als Schlepper ausbringen. 
-- Kleiner Yachten können Wriggen (Fortbewegen eines Bootes mittels nur eines, mittig nach hinten gerichteten Ruders (Riemens)) oder Paddeln.  
+- Kleiner Yachten können Wriggen (Fortbewegen eines Bootes mittels nur eines, mittig nach hinten gerichteten Ruders (Riemens) oder Paddeln.  
 
 4. Wenn in einem **engen Kanal** bei vorlichem Wind die Maschine ausfällt, sollte man sofort, unter Ausnutzung des Restschwungs, auf Gegenkurs gehen. 
 
@@ -417,7 +417,7 @@ Passiert das bei Aufstoppen => Hartruder und Stoppzug
 
 7. Das **Steuern mit der Notpinne** erleichtern => Fahrt herabsetzen und angnehmen Kurs zum Wind fahren. 
 
-Die meisten Yachten lass sich vom Amwind- bis Halbwindkurs völlig ohne Ruder nur **durch die Segelsteuerung steuern** => Vorsegel auf optimalen Vortrieb trimmen => steuern mit Großsegel oder Besan 
+Die meisten Yachten lassen sich vom Amwind- bis Halbwindkurs völlig ohne Ruder nur **durch die Segelsteuerung steuern** => Vorsegel auf optimalen Vortrieb trimmen => steuern mit Großsegel oder Besan 
 
 - Dichtholen => Anluven  
 - Fieren=> Abfallen
@@ -430,20 +430,20 @@ Reicht das nicht aus => Vorsegel gegenläufig zur Hilfe nehmen.
 
 - ständige Zeichen-, Ruf- oder Funkverbindung mit dem Schlepper  
 - kräftige Befestigung der Schleppleine an Deck mit Möglichkeit zum Loswerfen unter Zug  
-- SChleppleine durch die Bugklüse oder Lippklampe führen, Schamfilkontrollen in kurzen Abständen  
+- Schleppleine durch die Bugklüse oder Lippklampe führen, Schamfilkontrollen in kurzen Abständen  
 - Schlepptrosse möglichst lang und elastisch und auf Länge der See abgestimmt   
-- Verletzungsgefahr bei Bruch der Schlepptrosse bachten  
+- Verletzungsgefahr bei Bruch der Schlepptrosse beachten  
 - energisch Kurs halten, notfalls Kurs mit Bremsschleppen stabilisieren  
 
-10. Reflexhandlung, falls die Steuerung im Gefahrenbereich von Hindernissen oder bei Hafenmanövern ausfällt => **Maschine voll zurück** => Anker Fallen lassen
+10. Reflexhandlung, falls die Steuerung im Gefahrenbereich von Hindernissen oder bei Hafenmanövern ausfällt => **Maschine voll zurück** => Anker fallen lassen
 
 11. Bricht das Want oder der Stag unter großem Winddruck, dürfte auch mit einem Entlastungsmanöver der Mast nicht mehr zu halten sein. 
 
-12. Gebrochenes Stahdrahttauwerk (Wanten oder Stagen) repariert man oder ersetzt sie durch Fallen. Verbindungen werden mit Augen hergestellt, die am mit Drahtseilklemmen steckt. 
+12. Gebrochenes Stahdrahttauwerk (Wanten oder Stagen) repariert man oder ersetzt sie durch Fallen => Verbindungen werden mit Augen herstellen, die man mit Drahtseilklemmen steckt. 
 
 13. Ein gebrochenes Großfall ersetzt man mit der Dirk. 
 
-14. Ablauf der Sicherheitsrolle Wassereinbruch** => **all hands Manöver**
+14. Ablauf der Sicherheitsrolle Wassereinbruch => **all hands Manöver**
 
 - Alle sofort aus der Koje  
 - Lenzpumpen einschalten  
@@ -461,7 +461,7 @@ Reicht das nicht aus => Vorsegel gegenläufig zur Hilfe nehmen.
 - von außen    
   Lecksegel (Arbeitsfock) von vorn unter den Bug stülpen => Schothorn am Bugbeschlag befestigen => Segel vor dem Bug ins Wasser werfen => mit zwei Personen an Kopf und Hals hin nach achtern ziehen => Segel plan über die Leckstelle bekommen. 
   
-16. Bei einer Grundberührung versuch man das **Festkommen zu zuverhindern** durch schnelle Reaktion => Hart Ruder in die Richtung wo man das tiefere Wasser vermutet (oder hart abfallen) => Motor starten und Segel dichtholen => Schiff kränkt und Kiel wird angehoben. 
+16. Bei einer Grundberührung versuch man das **Festkommen zu verhindern** durch schnelle Reaktion => Hart Ruder in die Richtung wo man das tiefere Wasser vermutet (oder hart abfallen) => Motor starten und Segel dichtholen => Schiff kränkt und Kiel wird angehoben. 
 
 17. Sicherheits-Checks nach einer Grundberührung
 
@@ -499,25 +499,25 @@ Ablauf des Strandungsmanövers:
 - Ankerkette bzw. **Ankertrosse kappen**  
 - unter Fock fällt die Yacht ab  
 - Fahrt aufnehmen und **vierkant zu den Wellen** steuern  
-- hindernissfreie Stelle am Strand **mit ungehmmter Fahrt** anlaufen  
+- hindernissfreie Stelle am Strand **mit ungehemmter Fahrt** anlaufen  
 - **hoch aufgleiten**, dass die Yacht möglichst fest liegen bleibt und nicht angehoben und quergedreht werden kann. 
 
 # Kollision 
 
-1. Von der **Beistandspflicht** kann abgesehen werden, wenn durch die Hilfsmmaßnahmen das eigene Schiff und die Besatzung in unvertretbarem Maße gefährdet würden. Es gilt das Prinzip der Angemessenheit. 
+1. Von der **Beistandspflicht** kann abgesehen werden, wenn durch die Hilfsmaßnahmen das eigene Schiff und die Besatzung in unvertretbarem Maße gefährdet würden. Es gilt das Prinzip der Angemessenheit. 
 
 2. Maßnahmen zur Sicherung der Unfallstelle in verkehrsreichem Gebiet: 
 
-- Die Schiffahrt über Funk mit wiederholtenSicherheitsmeldungen vor dem Schiffshinderniss warnen  
-- Über die Küstenfunkstele oder den Revierfunkdienst ist das zuständige Wasser- und Schiffahrtsamt zu informieren  
-- Bei Schiffen über 12m sind die Lichter und Signalkörper manövrierunfähiger Fahrzeugenzu setzen (zwei schwarze Bälle oder zwei rote Rundumlichter)  
+- Die Schiffahrt über Funk mit wiederholten Sicherheitsmeldungen vor dem Schiffshinderniss warnen.   
+- Über die Küstenfunkstelle oder den Revierfunkdienst ist das zuständige Wasser- und Schiffahrtsamt zu informieren.  
+- Bei Schiffen über 12m sind die Lichter und Signalkörper manövrierunfähiger Fahrzeugenzu setzen (zwei schwarze Bälle oder zwei rote Rundumlichter).  
 - Bei unsichtigem Wetter sind Schallsignale für manövrierunfähige Schiffe (lang-kurz-lang) zu geben.
 
 3. Wenn eines der Schiffe zu sinken droht, so ist das bedrohte Schiff aus eigener Kraft und mit Hilfe des anderen Schiffes aus dem Fahrwasser heraus und möglichst auf flachen Grund zu bugsieren.
 
-4. Die beiden Schiffsführer tauschen für stätere Regelung der Haftung folgende Informationen aus: 
+4. Die beiden Schiffsführer tauschen für spätere Regelung der Haftung folgende Informationen aus: 
 
-- Schifsname und Unterscheidungssignal  
+- Schiffsname und Unterscheidungssignal  
 - Heimathafen  
 - Bestimmungshafen  
 - Name und Adresse des Schiffsführers  
@@ -531,7 +531,7 @@ Ablauf des Strandungsmanövers:
 - Standort genau vermessen und festhalten  
 - letzter Kurs und Peilung des anderen Schiffes bei Annäherung notieren  
 - Namen und Funkstationen der Mitglieder der Seewache und mögliche besondere Anweisungen, die zur Zeit der Kollision galten, sind aufzuschreiben  
-- Schäden an beiden SChiffen fotografieren und Skizzieren  
+- Schäden an beiden Schiffen fotografieren und skizzieren  
 - Alle o. g. Informationen im Logbuch festhalten  
 - Auf getrennte Zeichnungen und Fotografien ist im Logbuch hinzuweisen  
 
@@ -544,7 +544,7 @@ Ablauf des Strandungsmanövers:
 
 # Seenotfall 
   
-1. Seenotfall unterscheidet sich vom Notfall im Betrieb einer Yacht der Seenotfall eine besondere Situation ist, **in der eine echte Gefahr für Schiff oder Besatzung besteht und fremde Hilfe zur Abwendung dieser Gefahr erforderlich ist**
+1. Seenotfall unterscheidet sich vom Notfall im Betrieb einer Yacht da der Seenotfall eine besondere Situation ist, **in der eine echte Gefahr für Schiff oder Besatzung besteht und fremde Hilfe zur Abwendung dieser Gefahr erforderlich ist**.
 
 2. Hilfe ist anzufordern mit den in der KVR **vorgeschriebenen Notzeichen**, am besten jedoch über Funk.
 
@@ -573,7 +573,7 @@ Ablauf des Strandungsmanövers:
 
 6. Um einen **geordneten Ablauf** der anstehenden Handlungen zu gewährleisten, besteht der Schiffsführer auf der Aufgabenverteilung nach den vorbereiteten **Sicherheitsrollen**.
 
-7. Um sich im Sinne des Überlebens einzurichten ist nach dem Aussteigen in das **Rettungsfloß** das ***Verhalten** wie folgt zu regeln:
+7. Um sich im Sinne des Überlebens einzurichten ist nach dem Aussteigen in das **Rettungsfloß** das **Verhalten** wie folgt zu regeln:
 
 - **Ausrüstung** begutachten und sichern  
 - Innenraum **trockenösen** und unnötige **Auskühlung** vorbeugen  
@@ -583,8 +583,8 @@ Ablauf des Strandungsmanövers:
 - **Seenotsignale** nur abfeuern, wenn im vorlichen Halbsektor von nahenden Schiffen  
 - Nur nachts Fallschirmrakten (10-20sm erkennbar) mit **zwei Schuss** in ca. 30 Sec. Abstand abfeuern (Alarmierung und Peilung)  
 - Bei Sonne jedes herannahende Schiff mit **Tagessignalspiegel** anblicken
-- Mit Handsprechfunkgerät von Zeit zu Zeit **Notrfequenz abhören**. Nur senden, wenn Schiff in Sicht, wegen Sendeleistung  
-- **Trinwasser und Verpflegung** rationieren und Regeln penibel einhalten => Min. 0,4 L pro Person/Tat
+- Mit Handsprechfunkgerät von Zeit zu Zeit **Notfrequenz abhören**. Nur senden, wenn Schiff in Sicht, wegen Sendeleistung  
+- **Trinkwasser und Verpflegung** rationieren und Regeln penibel einhalten => Min. 0,4 L pro Person/Tag
 
 8. Alle 10 Minuten **Horizont** nach Schiffsverkehr absuchen 
 
@@ -597,16 +597,16 @@ Ablauf des Strandungsmanövers:
 - So lange wie möglich an Bord bleiben  
 - Alle Kleidung und Schuhe anbehalten  
 - ruhige Körperlage, nicht schwimmen  
-- Zusammenbleiben, Körperkontakt mit anderen halten, um den Wärmestrom zuverringern  
+- Zusammenbleiben, Körperkontakt mit anderen halten, um den Wärmestrom zu verringern  
 - Atmungsöffnungen vor Spritzwasser schützen  
-- NAchts oder bei schlechter Sicht sich mit Signalpfeife bemerkbar machen undum ein schwimmfähiges Rettungslicht sammeln  
+- Nachts oder bei schlechter Sicht sich mit Signalpfeife bemerkbar machen und um ein schwimmfähiges Rettungslicht sammeln  
 - Nicht versuchen eine sichtbare Küste schwimmend zu erreichen (Strandnähe ausgenommen)
 
 12. **Im Seegang** arbeitet sich der Rettungskreuzer mit dem Bug von Lee achtern an den Havaristen heran, von wo ein Decksmann versucht eine Leine überzuwerfen. Mit ihr können weitere Leinen zum abbergen von Personen oder auch die Schlepptrosse übergebracht werden.  
 
-13. Hauptgefahr beim Abbergen von Personen durch ein Frachtschiff liegt im **schlagendem Mast** => Abstand halten
+13. Hauptgefahr beim Abbergen von Personen durch ein Frachtschiff liegt im **schlagenden Mast** => Abstand halten
 
-14. Frachtschiffe können bei schwerer See Hilfe leisten indem sie sich in Luv quer vor den Havaristen legen. Mit Funk des GMDSS kan weitere Hilfe angefordert werden (z. B. Hubschrauber). 
+14. Frachtschiffe können bei schwerer See Hilfe leisten indem sie sich in Luv quer vor den Havaristen legen. Mit Funk des GMDSS kann weitere Hilfe angefordert werden (z. B. Hubschrauber). 
 
 15. Vorbereitungen einer Yacht zum Abbergen durch einen Hubschrauber: 
 
@@ -615,10 +615,10 @@ Ablauf des Strandungsmanövers:
 - **Treibanker** über Bug ausbringen  
 - **Abbergebereit** auf dem Achterschiff versammeln  
 
-16. Die Rettungsschlinge wird mit dem Verschluss nach vorne über den Kopf und Arme gestülpt, sodass die **unter den Achseln** trägt. Es ist unbedingt darauf zuachten, dass das Kabel direkt ins Wasser hängt und nicht irgendwo **hinterhakt**. Auf Zeichen "Daumen nach oben" taut der Hubschrauber an und zieht die Person in der Schlinge **schräg seitlich vom Achterstag weg** nach oben. Nicht schaugeln und darauf achten, dass das Kabel sich nicht um das Achterstag schlingt.
+16. Die Rettungsschlinge wird mit dem Verschluss nach vorne über den Kopf und Arme gestülpt, sodass die **unter den Achseln** trägt. Es ist unbedingt darauf zu achten, dass das Kabel direkt ins Wasser hängt und nicht irgendwo **hinterhakt**. Auf Zeichen "Daumen nach oben" taut der Hubschrauber an und zieht die Person in der Schlinge **schräg seitlich vom Achterstag weg** nach oben. Nicht schaukeln und darauf achten, dass das Kabel sich nicht um das Achterstag schlingt.
 
 
-# Mensch über Bordn (MOB)
+# Mensch über Bord (MOB)
 
 1. Unmittelbare Aufgabe des Rudergängers, wenn jemand über Bord fällt: 
 
@@ -628,15 +628,15 @@ Ablauf des Strandungsmanövers:
 
 2. Mit dem Ausbringen der Rettungsmittel sollte man sich nicht aufhalten, wenn 
 
-- Vom Sichtkontakt und dem Manövver abgelenkt wird  
-- Markierung der Stelle wegen nicht hohem Seegang notwenig  
-- Über Bord gefallene Person trägt einen Rettungsweste
+- Vom Sichtkontakt und dem Manöver abgelenkt wird  
+- Markierung der Stelle wegen nicht hohem Seegang nicht notwenig  
+- Über Bord gefallene Person trägt eine Rettungsweste
 
 3. Gesichtspunkten nach denen die Art des Bergemanövers entschieden wird:
 
 - Sichtverhältnisse,   
 - Seegang,  
-- Wassertemperatur   
+- Wassertemperatur,   
 - Anzahl der für das Manöver zur Verfügung stehenden Personen,   
 - Manöverbeherrschung 
 
@@ -687,7 +687,7 @@ Ablauf des Strandungsmanövers:
 
 1. Kenntnisse in Erster Hilfe für Unfälle oder Krankheitsfälle an Bord von Yachten sind nicht ausreichend, weil man an Bord in der Regel ohne den herbeigerufenen Arzt auskommen und sich gegebenenfalls mit der funkärztlichen Beratung begnügen muss.
 
-2. Der Schiffsführer einer Yacht muss als medizinischen Hilfsmittel über mindestens eine auf das Fahrtgebiet, Anzahl, Dauer der Reise, Alter und gesundheitlichen Zustand der Besatzung abgestimmte **Bordapotheke** und Anwendungsanweisung verfügen.
+2. Der Schiffsführer einer Yacht muss als medizinischen Hilfsmittel über mindestens eine auf das Fahrtgebiet, Anzahl, Dauer der Reise, Alter und gesundheitlichen Zustand der Besatzung abgestimmte **Bordapotheke** und Anwendungsanweisungen verfügen.
 
 3. Der Schiffsführer findet Angaben über das Verfahren der funkärztlichen Beratung im **Yachtfunkdienst** (Weiße Seiten).
 
@@ -702,7 +702,7 @@ Ablauf des Strandungsmanövers:
 8. Wichtigsten Maßnahmen zur Blutstillung bei offenen Verletzungen:
 
 - **Druckverband**: Man legt eine sterile Kompresse auf die Wunde und wickelt eine elastische Binde weitstreckig fest an.   
-- Eine weitere Maßnahme ist das **Ruhigstellen**
+- Eine weitere Maßnahme ist das **Ruhigstellen**.
 
 9. Saubere **frische Wunden** werden unverzüglich verschlossen (Pflaster oder Kompressionsverband). Bei **Wunden die älter als 8 Stunden sind**, tiefen Wunden, Fleischmesserwunden, sowie tiefen verschmutzten Wunden ist von einem unverzüglichen Verschluss abzuraten. Die Wunde sollte mit Jodseife, Wasser und Pinzette gereinigt werden. Tetanus Schutz wird empfohlen.
 
@@ -724,9 +724,9 @@ Ablauf des Strandungsmanövers:
 
 18. Bei Unterkühlung 1.Grades: Körpertemperatur zwischen 34°-37°, zittert, bei klarem Bewusstsein, Puls verlangsamt (60- 80/min.) => nicht bewegen, langsam aufwärmen, Mütze aufsetzen, heißes Getränk geben, Warmwasserbeutel unter den Achsenhöhlen, erst wenn das Zittern aufhört, trockene warme Kleidung anziehen. 
 
-Bei Unterkühlung 2.Grades: Muskelstarre, 24°-34° Körpertemperatur, unregelmäßigen Puls, Bewusstseinstrübung => Behandlung wie oben. 
+Bei Unterkühlung 2. Grades: Muskelstarre, 24°-34° Körpertemperatur, unregelmäßigen Puls, Bewusstseinstrübung => Behandlung wie oben. 
 
-Bei Unterkühlung 3.Grades: „Scheintod", Körpertemperatur unter 24°C, nicht oder kaum mehr wahrnehmbarer Puls und kaum vorhandene Atmung => zwei Stunden lang Herzdruckmassage und Atemspende versuchen. 
+Bei Unterkühlung 3. Grades: „Scheintod", Körpertemperatur unter 24°C, nicht oder kaum mehr wahrnehmbarer Puls und kaum vorhandene Atmung => zwei Stunden lang Herzdruckmassage und Atemspende versuchen. 
 
 19. Erkennen innerer Verletzungen: Neben dem **lokalen Schmerz** stellen sich beim Patienten die Zeichen des **Blutungsschocks** ein: Blässe, kalter Schweiß, Puls schwach ausgeprägt und sehr schnell, Übelkeit, Durst, Erbrechen, Unruhe. Fachärztliche Beratung ist notwendig und schnelle ärztliche Hilfe
 
