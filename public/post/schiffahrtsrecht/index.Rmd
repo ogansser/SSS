@@ -166,6 +166,8 @@ output:
 - Ausweichpflicht: Bei der **Möglichkeit der Gefahr eines Zusammenstoßes** gibt es den Zwang des Ausweichpflichtigen zum Ausweichen (frühzeitig und durchgreifend) und des Kurshalters zum Kurshalten.  
 - Nichtbehinderungsgebot: Ein Fahrzeug das verpflichtet ist, die Durchfahrt eines anderen Fahrzeugs nicht zu behindern muss frühzeitig Maßnahmen ergreifen, um genügend Raum für die sichere Durchfahrt des anderen Fahrzeugs zu lassen. 
 
+>Wenn Peilung eines nächerkommenden Fahrzeugs deutlich ausweandert => Nichts unternehmen => Keine Kurshaltepflicht
+
 6. **Enge Fahrwasser:**
 
 - Ein Fahrzeug, das der Richtung eines engen Fahrwasser folgt, muss sich so **nahe am äußeren Rand** an seiner Steuerbordseite halten, wie dies ohne Gefahr möglich ist. 
