@@ -1,5 +1,5 @@
 ---
-title: Seemanschaft
+title: Seemannschaft
 author: Oliver Gansser
 date: []
 slug: []
