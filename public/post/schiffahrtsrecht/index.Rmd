@@ -108,6 +108,13 @@ output:
 - allen von dem Unfall Betroffenen **Beistand zu leisten**
 - die Schiffe solange **beieinander zu bleiben** haben, bis die sich darüber Gewissheit veschafft haben, dass weiterer Beistand nicht mehr erforderlich ist. 
 
+>Pflichten für den Schiffsführer laut Verordnung über die Sicherung der Seefahrt:  
+- Meiden von Eisgebieten und Fischgründen,  
+- unverzügliche Abgabe von Gefahrmeldungen (z.B. Eis, Wrack, Mine, Wirbelsturm) an in der Nähe  
+befindliche Schiffe und Küstenfunkstellen,  
+- Hilfeleistung in Seenotfällen  
+- besondere Beistandspflicht nach Zusammenstößen,  
+- Pflicht zur Benutzung ( in der Anlage 2 ) vorgeschriebener Rettungssignale.  
 
 # Ausrüstungs- und Besetzungspflicht
 
@@ -206,7 +213,11 @@ aufgehoben, Ausweichen hat Vorrang!
 
 15. Manövrierunfähige ist Fahrzeug durch einen **außergewöhnlichen Umstand** und manövrierbehindert ist ein Fahrzeug durch seine **Arte des Einsatzes**. Beiden können daher nicht ausweichen. 
 
-16. Fischende Fahrzeuge müssen manövrierunfähigen und manövrierbehuinderten Fahrzeugen ausweichen. 
+>Kennzeichnung manövrierunfähig ohne FdW: zwei rote Rundumlichter bzw. zwei schwarze Bälle senkrecht übereinander. 
+
+>Kennzeichnung manövrierunfähig mit FdW: bei Nacht zusätzlich Seitenlampen und Hecklicht. Am Tage kein Unterschied zur Situation ohne FdW.
+
+16. Fischende Fahrzeuge müssen manövrierunfähigen und manövrierbehinderten Fahrzeugen ausweichen.
 
 17. Ausweichpflicht bei Segelfahrzeugen gilt auch nachts.
 
@@ -247,10 +258,12 @@ aufgehoben, Ausweichen hat Vorrang!
   - orangefarbenes Segeltuch mit einem schwarzen Quadrat oder Kreis
   - Seewasserfärber
   
-24. Ein Bodeneffektfahrzeuge das auf der Wasseroberfläche betrieben wird, muss die Ausweichregeln für Maschinenfahrzeuge erfüllen. Bei Start, Landung oder oberflächennahem Flug muss es sich von allen Fahrzeugen gut klar halten und vermeiden, deren Manöver zu behindern.  
+24. Ein Bodeneffektfahrzeug das auf der Wasseroberfläche betrieben wird, muss die Ausweichregeln für Maschinenfahrzeuge erfüllen. Bei Start, Landung oder oberflächennahem Flug muss es sich von allen Fahrzeugen gut klar halten und vermeiden, deren Manöver zu behindern.  
 
->Schallsignal bei Nebel: lang, kurz, kurz => fischendem Fahrzeug (Fz.), manövrierbehindertem Fz. , manövrierunfähigem Fz., tiefgangbehindertem Fz.,
-Schleppzug, Segelfahrzeug.=> Ein Segelfahrzeug muss ausweichen: Allen Fz. außer einem Schleppzug und, abhängig vom Wind, ggf. einem anderen Segelfahrzeug. Bei einem tiefgangbehinderten Fz. darf die sichere Durchfahrt nicht behindert werden.
+>Schallsignal bei Nebel: lang, kurz, kurz => fischendem Fahrzeug (Fz.), manövrierbehindertem Fz. , manövrierunfähigem Fz., tiefgangbehindertem Fz., Schleppzug, Segelfahrzeug.=> Ein Segelfahrzeug muss ausweichen: Allen Fz. außer einem Schleppzug und, abhängig vom Wind, ggf. einem anderen Segelfahrzeug. Bei einem tiefgangbehinderten Fz. darf die sichere Durchfahrt nicht behindert werden.
+
+>Schallsignal ca. jede Minute zwei lange Töne: Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht. (2 lange Töne mindestens alle 2 min). Nach Regel 19 e die Fahrt verringern, so dass die Steuerfähigkeit erhalten bleibt. Erforderlichenfalls Fahrzeug aufstoppen und mit äußerster Vorsicht weiter manövrieren, bis die Gefahr des Zusammenstoßes vorüber ist. Vor Insichtkommen keine
+Kursänderung, kein Ausweichmanöver! (KVR Abschnitt III: Verhalten von Fahrzeugen bei verminderter Sicht). Nebelsignal: einen langen Ton mindestens alle 2 min geben.
 
 ## SeeSchStrO
 
@@ -311,7 +324,7 @@ Schleppzug, Segelfahrzeug.=> Ein Segelfahrzeug muss ausweichen: Allen Fz. außer
 19. Beim Wasserskifahren hat der Führer entsprechend der KVR auszuweichen. 
 
 20. Pflichten eines Schiffsführers bei einem Unfall bezüglich der Sicherheit des übrigen Verkehrs: 
-- Bei Gefahr des Sinkens ist das Fahrzeug möglichst so weit aus dem **Fahrwasser** zuschaffen, dass die Schiffahrt nicht beeinträchtigt wird. 
+- Bei Gefahr des Sinkens ist das Fahrzeug möglichst so weit aus dem **Fahrwasser** zu schaffen, dass die Schiffahrt nicht beeinträchtigt wird. 
 - Zuständiges Wasser- und Schiffahrtsamt oder die Verkehrszentrale ist zu unterrichten. 
 - Der Ort eines **gesunkenen Fahrzeugs** ist unverzüglich behelfsmäßig zu bezeichnen.
 
@@ -320,6 +333,17 @@ Schleppzug, Segelfahrzeug.=> Ein Segelfahrzeug muss ausweichen: Allen Fz. außer
 21. Alle mit einer UKW-Sprechfunkanalage ausgestatteten Fahrzeuge sind verpflichtet die von der **Verkehrszentrale** (Maritime Verkehrssicherung) gegebenen Verkehrsinformationen und -unterstützungen **abzuhören und zu berücksichtigen**. ([§3](https://www.gesetze-im-internet.de/seeschstro_1971/__3.html)) 
 
 >zweimal hintereinander das Schallsignal:lang-kurz-kurz-kurz-kurz =>  allgemeines Gefahr- und Warnsignal
+
+>Schiffahrtszeichen sind Sichtzeichen und Schallsignale, die Gebote, Verbote, Warnungen und Hinweise
+ausdrücken. 
+
+>Sichtzeichen sind Lichter, Signalkörper, Flaggen und Tafeln.
+
+>SFkl(3):  Tonne mit Ost-Kardinal-Zeichen => westlich gelegene Gefahrenstelle => östlich passieren => schwarz mit einem breiten waagrechten gelben Band => Toppzeichen: zwei schwarze Kegel übereinander, Spitzen voneinander. => Kardinalsystem (gibt Richtung an)
+
+>Wer eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Blutalkoholmenge im Körper
+hat, die zu einer solchen Blutalkoholkonzentration führt, darf weder ein Fahrzeug führen noch dessen Kurs
+oder Geschwindigkeit selbständig bestimmen.
 
 # Radarplotten
 
