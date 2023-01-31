@@ -191,6 +191,11 @@ output:
 - Das Fahrzeug das den Wind von Backbord hat (Bei Entgegenkommen) (Regel 12 a i)
 - Das luvwärtige Fahrzeug (Bei Wind von der gleichen Seite) (Regel 12 a ii)
 
+>B muss A in jedem Falle ausweichen, weil er A in Luv sichtet und dessen Segelstellung nicht
+erkennen kann (Regel 12 a iii). A ist Kurshalter.  
+>Wenn Kurshaltepflicht und Ausweichpflicht kollidieren, ist die Kurshaltepflicht nach Regel 2b KVR
+aufgehoben, Ausweichen hat Vorrang!
+
 13. Zwei Maschinenfahrzeuge auf entgegengesetzem Kurs müssen beide nach Steuerbord ausweichen. 
 
 14.  s. 11.
