@@ -167,8 +167,11 @@ output:
 - Nichtbehinderungsgebot: Ein Fahrzeug das verpflichtet ist, die Durchfahrt eines anderen Fahrzeugs nicht zu behindern muss frühzeitig Maßnahmen ergreifen, um genügend Raum für die sichere Durchfahrt des anderen Fahrzeugs zu lassen. 
 
 >Wenn Peilung eines nächerkommenden Fahrzeugs deutlich auswandert => Nichts unternehmen => Keine Kurshaltepflicht (Regel 17)
+
 >...eine solche Möglichkeit (der Gefahr eines Zusammenstoßes) ist anzunehmen, wenn die Kompasspeilung eines sich nähernden Fahrzeugs sich nicht merklich ändert...(Regel 7d)
+
 >Regel 18 a), b) iii): Ein Maschinenfahrzeug sowie ein Segelfahrzeug in Fahrt müssen einem fischenden Fahrzeug ausweichen.
+
 >Regel 17: B muss Kurs und Geschwindigkeit beibehalten, wenn A ausweichpflichtig.
 
 6. **Enge Fahrwasser:**
@@ -192,7 +195,8 @@ output:
 - Das luvwärtige Fahrzeug (Bei Wind von der gleichen Seite) (Regel 12 a ii)
 
 >B muss A in jedem Falle ausweichen, weil er A in Luv sichtet und dessen Segelstellung nicht
-erkennen kann (Regel 12 a iii). A ist Kurshalter.  
+erkennen kann (Regel 12 a iii). A ist Kurshalter. 
+
 >Wenn Kurshaltepflicht und Ausweichpflicht kollidieren, ist die Kurshaltepflicht nach Regel 2b KVR
 aufgehoben, Ausweichen hat Vorrang!
 
