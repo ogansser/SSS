@@ -188,8 +188,8 @@ output:
 
 12. Die Ausweichpflicht bei Segelfahrzeugen richtet sich nach der Stellung der Fahrzeuge zum Wind. Ausweichen muss: 
 
-- Das Fahrzeug das den Wind von Backbord hat (Bei Entgegenkommen)
-- Das luvwärtige Fahrzeug (Bei Wind von der gleichen Seite)
+- Das Fahrzeug das den Wind von Backbord hat (Bei Entgegenkommen) (Regel 12 a i)
+- Das luvwärtige Fahrzeug (Bei Wind von der gleichen Seite) (Regel 12 a ii)
 
 13. Zwei Maschinenfahrzeuge auf entgegengesetzem Kurs müssen beide nach Steuerbord ausweichen. 
 
