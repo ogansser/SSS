@@ -89,7 +89,7 @@ output:
 
 - Alle Wachwechsel
 - die Routinekontrollen (Bilge, Toiletten, Gas, Laternen)
-- täglich einmal derVOrratsstand von Brennstoff, Wasser und Verpflegung
+- täglich einmal der Vorratsstand von Brennstoff, Wasser und Verpflegung
 - alle besonderen Beobachtungen (Verkehrssituation, Schiffahrshindernisse, veränderte Schiffahrtszeichen und Wassertiefen, Naturereignisse)
 - grundsätzlich zweistündlich (sonst nach Zweckmäßigkeit) die Navigationsdaten mit Uhrzeit, Standort, Logstand, Seemeielen, Kurs, Besegelung, Motormeilen und Wetter (die Navigationsaufzeichnungen sind nach SOLAS Kap. V Regel 34 Pflicht)
 - bei Unfällen oder rechtsbedeutsamen Vorgängen (Schleppen, Hilfeleisten) den Wortlaut wichtiger Vereinbarungen. 
@@ -115,6 +115,19 @@ befindliche Schiffe und Küstenfunkstellen,
 - Hilfeleistung in Seenotfällen  
 - besondere Beistandspflicht nach Zusammenstößen,  
 - Pflicht zur Benutzung ( in der Anlage 2 ) vorgeschriebener Rettungssignale.  
+
+> Nationalen Gesetze und Verordnungen die Vorschriften über das Verhalten nach einem Zusammenstoß enthalten:  
+Das Seeunfalluntersuchungsgesetz, die Verordnung über die Sicherung der Seefahrt, und die Seeschifffahrtsstraßen-Ordnung
+
+> Wie kommen Sie Ihrer verkehrsrechtlichen Verantwortung einschließlich Schiffsführung und Wachdienst nach (längerer Segeltörn, bei dem nachts nicht immer ein Hafen angelaufen werden kann)?
+- Vor Antritt der Reise ist ggf. festzulegen, wer verantwortlicher Fahrzeugführer ist. 
+- Da abends kein Hafen angelaufen wird, hat der Schiffsführer darauf zu achten, dass mindestens ein weiteres Besatzungsmitglied über die nötige Qualifikation verfügt, verantwortlich eine Seewache zu gehen. Der Schiffsführer hat sich von der Qualifikation zu überzeugen.  
+- Es muss eine ordentliche Wachübergabe erfolgen. Dabei sind die jeweilige Position, der Kurs und die Fahrt der Yacht sowie das Vorhandensein von anderen Fahrzeugen zu übergeben.  
+- Auf die eigene vorgeschriebene Lichterführung ist zu achten.  
+- Der jeweilige Wachwechsel ist im Logbuch zu vermerken, damit immer Klarheit besteht, wer der jeweilige Wachgänger war.  
+- Falls der Schiffsführer nicht selbst die Wache geht, hat er zu veranlassen, dass er bei besonderen Ereignissen unverzüglich und rechtzeitig vom jeweiligen Wachgänger informiert wird
+
+
 
 # Ausrüstungs- und Besetzungspflicht
 
@@ -177,6 +190,8 @@ befindliche Schiffe und Küstenfunkstellen,
 
 >...eine solche Möglichkeit (der Gefahr eines Zusammenstoßes) ist anzunehmen, wenn die Kompasspeilung eines sich nähernden Fahrzeugs sich nicht merklich ändert...(Regel 7d)
 
+>Fz. C ist als Maschinenfahrzeug nach [Regel 18 KVR](https://www.gesetze-im-internet.de/seestro_1972/regel_18.html) ausweichpflichtig gegenüber dem Segelfahrzeug A. Fahrzeug A muss Kurs und Geschwindigkeit beibehalten
+
 >Regel 18 a), b) iii): Ein Maschinenfahrzeug sowie ein Segelfahrzeug in Fahrt müssen einem fischenden Fahrzeug ausweichen.
 
 >Regel 17: B muss Kurs und Geschwindigkeit beibehalten, wenn A ausweichpflichtig.
@@ -196,7 +211,7 @@ befindliche Schiffe und Küstenfunkstellen,
 
 11. Jedes Fahrzeug muss beim Überholen dem anderen ausweichen. Der Überholer (mehr als 22,5 Grad achterlicher als querab) weicht immer aus. 
 
-12. Die Ausweichpflicht bei Segelfahrzeugen richtet sich nach der Stellung der Fahrzeuge zum Wind. Ausweichen muss: 
+12. Die **Ausweichpflicht** bei Segelfahrzeugen richtet sich nach der Stellung der Fahrzeuge zum Wind. Ausweichen muss: 
 
 - Das Fahrzeug das den Wind von Backbord hat (Bei Entgegenkommen) (Regel 12 a i)
 - Das luvwärtige Fahrzeug (Bei Wind von der gleichen Seite) (Regel 12 a ii)
@@ -226,6 +241,11 @@ aufgehoben, Ausweichen hat Vorrang!
 - Muss: Kurs und Geschwindigkeit beibehalten. 
 - Darf: selbst manövrieren zur Abwendung eines Zusammenstoßes (Manöver des vorletzten Augenblicks)
 - Muss: Wenn Zusammenstoß durch Manöver des Ausweichenden alleine nicht zu vermeiden ist (Manöver des letzten Augenblicks)
+
+>Kurshalter bedeutet: Kurs und Geschwindigkeit beibehalten.  
+- Man behält zunächst Kurs und Geschwindigkeit bei und gibt mindestens 5kurze Töne, um das andere Fahrzeug auf seine Ausweichpflicht aufmerksam zu machen.  
+- Der Kurshalter darf jedoch zur Abwendung eines Zusammenstoßes selbst manövrieren, sobald klar wird, dass der Ausweichpflichtige nicht angemessen nach diesen Regeln handelt.  
+- Ist man als Kurshalter dem Ausweichpflichtigen aus irgend einem Grunde so nahe gekommen, dass ein Zusammenstoß durch Manöver des letzteren allein nicht vermieden werden kann, so muss der Kurshalter so manövrieren, wie es zur Vermeidung eines Zusammenstoßes am dienlichsten ist.
 
 19. Eine Yacht verhält sich in der Nähe von Nebelbänken folgendermaßen: Jedes Fahrzeug muss mit **sicherer Geschweindigkeit** fahren, die den gegebenen Umständen und Bedingungen der verminderten Sicht angepasst ist.
 
@@ -265,11 +285,25 @@ aufgehoben, Ausweichen hat Vorrang!
 >Schallsignal ca. jede Minute zwei lange Töne: Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht. (2 lange Töne mindestens alle 2 min). Nach Regel 19 e die Fahrt verringern, so dass die Steuerfähigkeit erhalten bleibt. Erforderlichenfalls Fahrzeug aufstoppen und mit äußerster Vorsicht weiter manövrieren, bis die Gefahr des Zusammenstoßes vorüber ist. Vor Insichtkommen keine
 Kursänderung, kein Ausweichmanöver! (KVR Abschnitt III: Verhalten von Fahrzeugen bei verminderter Sicht). Nebelsignal: einen langen Ton mindestens alle 2 min geben.
 
+>Nebelsignale:  
+- Segler: -lang, kurz, kurz - mindestens alle 2 Minuten  
+- Schleppende Fahrzeuge: -lang, kurz, kurz - mindestens alle 2 Minuten, unmittelbar danach wird vom letzten geschleppten Fahrzeug -lang, kurz, kurz, kurz - gegeben, - wenn dieses bemannt ist.  
+- Unter Motor: einen langen Ton mindestens alle 2 Minuten.  
+
+>Tagsignale:  
+- Segelboot: einen Kegel, Spitze nach unten  
+- schleppendes Fahrzeug: Rhombus
+
+>Falggensignale:  
+- O: gelb-rot diagonal geteilt
+- Q: gelb  
+=> Mit diesem Flaggensignal O über Q wird angezeigt, dass dieses Schiff zur Regulierung nautischer Instrumente dreht.
+
 ## SeeSchStrO
 
 1. Eine Yacht die zu dicht neben einer anderen Yacht ankert, verstößt gegen **[§ 3](https://www.gesetze-im-internet.de/seeschstro_1971/__3.html). Grundregeln für das Verhalten im Verkehr**
 
-2. **Festgemachte Fahrzeuge** zeigen bei Nacht ein weißes Rundumlicht (ab 50 m Länge eines vorn und eines hinten) mittschiffs an der Fahrwasserseite oder an dem am weitesten zum Fahrwasser reichenden Ende. Diese Lichter brauchen außer auf dem Nord-Ostsee-Kanal nicht geführt zu werden, wenn die Umrisse des Fahrzeugs durch andere Lichtquellen ausreichend und dauernd erkennbar sind.
+>2. **Festgemachte Fahrzeuge** zeigen bei Nacht ein weißes Rundumlicht (ab 50 m Länge eines vorn und eines hinten) mittschiffs an der Fahrwasserseite oder an dem am weitesten zum Fahrwasser reichenden Ende. Diese Lichter brauchen außer auf dem Nord-Ostsee-Kanal nicht geführt zu werden, wenn die Umrisse des Fahrzeugs durch andere Lichtquellen ausreichend und dauernd erkennbar sind.
 
 3. Segelfahrzeuge < 12 m die die nach KVR vorgeschriebene Lichter nicht führen können, müssen mindestens ein weißes Rundumlicht führen. 
 
@@ -289,15 +323,19 @@ Kursänderung, kein Ausweichmanöver! (KVR Abschnitt III: Verhalten von Fahrzeug
 
 >§24: Beim Begegnen auf entgegengesetzten oder fast entgegengesetzten Kursen im Fahrwasser ist nach Steuerbord auszuweichen.
 
-8. [§25](https://www.gesetze-im-internet.de/seeschstro_1971/__25.html) Im **Fahrwasser** haben dem Fahrwasserverlauf folgende Fahrzeuge Vorfahrt gegenüber Fahrzeugen die...
+>8. [§25](https://www.gesetze-im-internet.de/seeschstro_1971/__25.html) Im **Fahrwasser** haben dem Fahrwasserverlauf folgende Fahrzeuge Vorfahrt gegenüber Fahrzeugen die...
 - in das Fahrwasser einlaufen
 - das Fahrzeug queren
 - im Fahrwasser drehen
 - ihre Anker- oder Liegeplätze verlassen
 
-9. **Vorfahrt** gewähren nach SeeSchStrO begrüdet eine Wartepflicht ([§25](https://www.gesetze-im-internet.de/seeschstro_1971/__25.html)). *Vorfahrt haben* bedeutet nicht *Vorfahrt erzwingen*. Gfg. müssen bei einer **Ausweichsituation** Maßnahmen zur Verhinderung einer drohenden Kollission nach KVR (Regel 2) ergriffen werden. 
+9. **Vorfahrt** gewähren nach SeeSchStrO begründet eine Wartepflicht ([§25](https://www.gesetze-im-internet.de/seeschstro_1971/__25.html)). *Vorfahrt haben* bedeutet nicht *Vorfahrt erzwingen*. Gfg. müssen bei einer **Ausweichsituation** Maßnahmen zur Verhinderung einer drohenden Kollission nach KVR (Regel 2) ergriffen werden. 
 
-10. Sofern **Segelfahrzeuge** nicht deutlich der Richtung eines Fahrwassers folgen, haben sie sich untereinander nach den KVR zu verhalten, wenn sie dadurch vorfahrtsberechtigte Fahrzeuge nicht gefährden oder behindern.  
+>10. Sofern **Segelfahrzeuge** nicht deutlich der Richtung eines Fahrwassers folgen, haben sie sich untereinander nach den KVR zu verhalten, wenn sie dadurch vorfahrtsberechtigte Fahrzeuge nicht gefährden oder behindern. 
+
+>Abweichungen von der Richtung des Fahrwassers von mehr als 10° nach einer Seite.  
+Generelle Richtung des Fahrwassers ist häufig durch Richtfeuerlinie und/oder Radarlinie in der Seekarte
+angegeben.
 
 11. **Querende Fahrzeuge** müssen Fahrzeugen, die dem Fahrwasserverlauf folgende, Vorfahrt gewähren ([§25](https://www.gesetze-im-internet.de/seeschstro_1971/__25.html)).
 
@@ -344,6 +382,8 @@ ausdrücken.
 >Wer eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Blutalkoholmenge im Körper
 hat, die zu einer solchen Blutalkoholkonzentration führt, darf weder ein Fahrzeug führen noch dessen Kurs
 oder Geschwindigkeit selbständig bestimmen.
+
+
 
 # Radarplotten
 
@@ -431,6 +471,9 @@ Geschwindigkeit der relativen Bewegung von B
 6. Die Grenzwerte für den Ölanteil bei Wasser, das bei Reinigungsarbeiten außenbords gepumpt wird beträgt 15 ppm (patrs per million)
 
 7. Sondergebiete nach MARPOL bedeuten, dass darin die **Beseitigung aller Kunsstoffgegenstände und sonstigen Mülls** verboten ist.
+
+> Sondergebiete in Europa sind: Ostsee, Nordsee, Mittelmeer 
+> In Sondergebieten ist das Einleiten jeglicher Art von Schadstoffen verboten.
 
 8. Eine Ausbildungsyacht die für 12 Personen zugelassen ist und die über keine Abwasseraufbereitungsanlage verfügt, darf nur mindestens 12 sm vom nächstgelegenen Land entfernt einleiten, und auch nur in kleinen Mengen und bei über 4 kn Fahrt. 
 
