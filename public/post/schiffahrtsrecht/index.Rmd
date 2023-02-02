@@ -209,7 +209,7 @@ Das Seeunfalluntersuchungsgesetz, die Verordnung über die Sicherung der Seefahr
 
 10. Auf den Einbahnwegen eines Verkehrstrennungsgebietes (VTG) gilt das **Rechtsfahrgebot** nicht.
 
-11. Jedes Fahrzeug muss beim Überholen dem anderen ausweichen. Der Überholer (mehr als 22,5 Grad achterlicher als querab) weicht immer aus. 
+11. Jedes Fahrzeug muss beim Überholen dem anderen ausweichen ([Regel13](https://www.gesetze-im-internet.de/seestro_1972/regel_13.html)). Der Überholer (mehr als 22,5 Grad achterlicher als querab) weicht immer aus. 
 
 12. Die **Ausweichpflicht** bei Segelfahrzeugen richtet sich nach der Stellung der Fahrzeuge zum Wind. Ausweichen muss: 
 
@@ -293,6 +293,10 @@ Kursänderung, kein Ausweichmanöver! (KVR Abschnitt III: Verhalten von Fahrzeug
 >Tagsignale:  
 - Segelboot: einen Kegel, Spitze nach unten  
 - schleppendes Fahrzeug: Rhombus
+- Außergewöhnliche Schiffahrtsbehinderung: zwei schwarze Bälle übereinander und darunter ein schwarzer Kegel Spitze unten.
+
+>Nachtsignale: 
+Außergewöhnliche Schiffahrtsbehinderung:: drei feste Lichter übereinander, die beiden oberen rot, das untere grün.
 
 >Falggensignale:  
 - O: gelb-rot diagonal geteilt
@@ -331,9 +335,15 @@ Kursänderung, kein Ausweichmanöver! (KVR Abschnitt III: Verhalten von Fahrzeug
 
 9. **Vorfahrt** gewähren nach SeeSchStrO begründet eine Wartepflicht ([§25](https://www.gesetze-im-internet.de/seeschstro_1971/__25.html)). *Vorfahrt haben* bedeutet nicht *Vorfahrt erzwingen*. Gfg. müssen bei einer **Ausweichsituation** Maßnahmen zur Verhinderung einer drohenden Kollission nach KVR (Regel 2) ergriffen werden. 
 
+>„Vorfahrt beachten“ begründet eine Wartepflicht. Wer die Vorfahrt zu beachten hat, muss rechtzeitig
+durch sein Fahrverhalten erkennen lassen, dass er warten wird. Er darf nur weiterfahren, wenn er übersehen
+kann, dass die Schiffahrt im Fahrwasser nicht beeinträchtigt wird. Ggf. hat der Wartepflichtige seinen Kurs
+und/oder seine Geschwindigkeit zu ändern (gilt rechtlich nicht als Ausweichen!)
+
 >10. Sofern **Segelfahrzeuge** nicht deutlich der Richtung eines Fahrwassers folgen, haben sie sich untereinander nach den KVR zu verhalten, wenn sie dadurch vorfahrtsberechtigte Fahrzeuge nicht gefährden oder behindern. 
 
->Abweichungen von der Richtung des Fahrwassers von mehr als 10° nach einer Seite.  
+> Queren bedeutet deutliches Abweichen vom Fahrwasserverlauf, nach allgemeiner Verkehrsmeinung
+mehr als 10°.    
 Generelle Richtung des Fahrwassers ist häufig durch Richtfeuerlinie und/oder Radarlinie in der Seekarte
 angegeben.
 
@@ -411,7 +421,9 @@ Kurs der relativen Bewegung von B
 KBr – KA  
 Kursdifferenz, Winkel zwischen KBr und KA (ergibt sich bei Head Up)  
 CPA  
-Kleinster Passierabstand Closest Point of Approach  
+Kleinster Passierabstand Closest Point of Approach 
+BCR
+Passierabstand voraus (auf der Kurslinie) Bow crossing range
 TCA  
 Zeitpunkt des CPA  
 TCPA  
@@ -424,6 +436,7 @@ vA
 Eigene Geschwindigkeit vB Geschwindigkeit von B  
 vBr  
 Geschwindigkeit der relativen Bewegung von B  
+
 
 
 # Seeunfalluntersuchung
@@ -455,6 +468,15 @@ Geschwindigkeit der relativen Bewegung von B
 
 8. Die **Seeämter** (Kiel, Hamburg, Bremerhafen, Emden, Rostock) sind Untersuchungsausschüsse mit der **Aufgabe** zu Untersuchen, ob ein Befähigungszeugnis entzogen oder ein Fahrverbot verfügt werden soll. 
 
+>Generell sollen Ursachen und Umstände eines Seeunfalles festgestellt werden und ob ein fehlerhaftes Verhalten eines Beteiligten vorliegt, auch wenn letzteres nicht unfallursächlich war.  
+So betreffen z.B. den Skipper eines Sportbootes:
+- Mängel in der Besatzung des Schiffes,  
+- Fehler bei der Führung oder dem Betrieb des Schiffes,  
+- Verstoß gegen Verkehrs-, Sicherheits- und Umweltvorschriften,  
+- Unterlassung einer Hilfe- der Beistandsleistung,  
+- Fehlen der notwendigen Eigenschaft zur Führung eines Sportbootes  
+
+>Die Seeunfalluntersuchung wird von den Seeämtern (Hamburg, Kiel,Rostock, Bremerhaven und Emden) durchgeführt. Widerspruch gegen einen Seeamtsspruch ist möglich beim Bundesoberseeamt (BOSA) in Hamburg. Gegen Entscheidungen des BOSA kann Berufung/Klage beim Verwaltungsgericht Hamburg erhoben werden.
 
 # Umweltschutz
 
