@@ -303,6 +303,9 @@ Außergewöhnliche Schiffahrtsbehinderung:: drei feste Lichter übereinander, di
 - Q: gelb  
 => Mit diesem Flaggensignal O über Q wird angezeigt, dass dieses Schiff zur Regulierung nautischer Instrumente dreht.
 
+>Nebelmaßnahmen von Segelyacht bei Dichtem Nebel: Lichter kontrollieren (bereits gesetzt, da nachts); Ausguck; Ruhe im Schiff; Rettungswesten anlegen; mit sicherer Geschwindigkeit laufen; Nebelsignale geben, mind. Alle 2 Minuten lang-kurz-kurz. Ggfs. Segel einholen und Maschine starten, dann Nebelsignal ein langer Ton mind. Alle 2
+Minuten.
+
 ## SeeSchStrO
 
 1. Eine Yacht die zu dicht neben einer anderen Yacht ankert, verstößt gegen **[§ 3](https://www.gesetze-im-internet.de/seeschstro_1971/__3.html). Grundregeln für das Verhalten im Verkehr**
@@ -358,6 +361,21 @@ angegeben.
 15. Bei **Einmündende bzw. abzweigende Fahrwasser** ist eine der beiden Einmündungstonnen Steuerbord- und Backbordtonne zuggleich. Die hat die Farbe der Fahrwasserseite des Hauptfahrwassers als Grundfarbe und die Farbe der Fahrwasserseite des Nebenfahrwassers als waagrechtes Band. 
 
 16. Fahrzeuge im Fahrwasser haben unabhängig davon, ob Sie dem Fahrwasserverlauf folgen Vorfahrt vor Fahrzeugen, die in dieses Fahrwasser aus einem **abzweigenden oder einmündende Fahrwasser** einlaufen.
+
+>Wind „gegenan“ bedeutet: häufiges Kreuzen des Fahrwassers. Dabei dürfen die im Fahrwasser in Fahrwasserrichtung fahrenden Fahrzeuge nicht durch kreuzende Segelfahrzeuge behindert werden, die dem Fahrwasser folgenden Schiffe haben Vorfahrt. Segelfahrzeuge dürfen nur kreuzen, wenn die durchgehende Schiffahrt nicht behindert wird.
+>„Mit dem Wind“ segelnd bewegt sich das Segelfahrzeug in Richtung des Fahrwassers, es muss sich auf der rechten Fahrwasserseite halten. Segler haben Vorfahrt vor kreuzenden Fahrzeugen sowie in das Fahrwasser einlaufenden Fahrzeugen bzw. im Fahrwasser drehenden Fahrzeugen bzw. ihre Anker- oder Liegeplätze verlassenden Fahrzeugen.
+>Ankern ist im Fahrwasser mit Ausnahme auf den Reeden und den bekanntgemachten Wasserflächen verboten. Außerhalb des Fahrwassers ist Ankern erlaubt:  
+- entfernt von engen Stellen und unübersichtlichen Krümmungen  
+- mehr als 300 m entfernt von schwimmenden Geräten, Wracks usw.  
+- mehr als 300 m entfernt bei verminderter Sicht von Hochspannungsleitungen - entfernt von Hafeneinfahrten, Anlegestellen, Schleusen, Fährstrecken usw. (ausführlich siehe § 32
+SeeSchStrO).
+
+>Ankerlieger: Unterschied Grundsitzer:  
+- Ankerlieger am Tag 1 schwarzer Ball, Grundsitzer am Tag 3 schwarze Bälle im vorderen Teil senkrecht übereinander.  
+- Ankerlieger nachts 1. weißes Rundumlicht (< 50m), 2. weißes Rundumlicht hinten tiefer als das 1. vorn (>= 50m, < 100m), ab 100m Länge zusätzlich Decksbeleuchtung  
+- Grundsitzer nachts Nacht zusätzlich zu den Lichtern eines Ankerliegers zwei rote Rundumlichter im vorderen Teil senkrecht übereinander.
+- Ankerlieger bei Nebel mind. jede Minute etwa 5s rasches Läuten der Glocke (< 100m), wenn >= 100m unmittelbar danach 5sec rasches schlagen des Gongs im hinteren Schiffsbereich  
+- Grundsitzer zu den Schallsignalen des Ankerliegers zusätzlich unmittelbar vor und nach dem raschen Läuten der Glocke jeweils 3 einzelne Glockenschläge. Als Warnung an sich nähernde Fahrzeuge kann zusätzlich das Pfeifensignal kurz-lang-kurz gegeben werden.
 
 17. Hauptfaktoren für zulässige Geschwindigkeit: Sichere Geschwindigkeit zur Vermeidung von Gefährdung durch Sog oder Wellenschlag
 
@@ -422,8 +440,9 @@ KBr – KA
 Kursdifferenz, Winkel zwischen KBr und KA (ergibt sich bei Head Up)  
 CPA  
 Kleinster Passierabstand Closest Point of Approach 
-BCR
-Passierabstand voraus (auf der Kurslinie) Bow crossing range
+>BCR
+>Passierabstand voraus (auf der Kurslinie) Bow crossing range  
+
 TCA  
 Zeitpunkt des CPA  
 TCPA  
@@ -480,7 +499,7 @@ So betreffen z.B. den Skipper eines Sportbootes:
 
 # Umweltschutz
 
-1. MARPOL-Abkommen (Internationale Übereinkommen zur Verhütung der Meeresverschmutzung) gilt international und das Übereinkommen von Helsinki für die Anreinerstaaten der Ostsee für die Ostsee.
+>1. MARPOL-Abkommen (Internationale Übereinkommen zur Verhütung der Meeresverschmutzung) gilt international und das Übereinkommen von Helsinki für die Anreinerstaaten der Ostsee für die Ostsee.
 
 2. Bei der Auswahl des Antifoulings kann man einen Beitrag zur Umweltentlastung leisten in dem moderne Anstriche verwendet werden die dem Bewuchs den Haftgrund entziehen. Als Alternative gelten Weich-Antifoulings.
 
@@ -492,10 +511,12 @@ So betreffen z.B. den Skipper eines Sportbootes:
 
 6. Die Grenzwerte für den Ölanteil bei Wasser, das bei Reinigungsarbeiten außenbords gepumpt wird beträgt 15 ppm (patrs per million)
 
-7. Sondergebiete nach MARPOL bedeuten, dass darin die **Beseitigung aller Kunsstoffgegenstände und sonstigen Mülls** verboten ist.
+>7. Sondergebiete nach MARPOL bedeuten, dass darin die **Beseitigung aller Kunsstoffgegenstände und sonstigen Mülls** verboten ist.
 
 > Sondergebiete in Europa sind: Ostsee, Nordsee, Mittelmeer 
 > In Sondergebieten ist das Einleiten jeglicher Art von Schadstoffen verboten.
+
+>Für Yachten gilt in Sondergebieten das Verbot des Einleitens von Öl, festen und flüssigen Schadstoffen jeglicher Art sowie Schiffsmüll. Lebensmittelabfälle, zerkleinert oder nicht, dürfen nur im Mindestabstand 12 sm von Land ins Meer geleitet werden.
 
 8. Eine Ausbildungsyacht die für 12 Personen zugelassen ist und die über keine Abwasseraufbereitungsanlage verfügt, darf nur mindestens 12 sm vom nächstgelegenen Land entfernt einleiten, und auch nur in kleinen Mengen und bei über 4 kn Fahrt. 
 
