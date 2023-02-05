@@ -46,6 +46,12 @@ output:
 
 9. Verkehrsgefährdung ist in der Sportschiffahrt eine Straftat. Dazu gehört wer nicht in der Lage ist, sicher ein Fahrzeug zu führen oder als sonst für die Sicherheit Verantwortlicher durch **grob pflichtwidriges Verhalten** gegen Rechtsvorschriften zur Sicherung des Schiffsverkehrs verstößt und dadurch Leib und Leben eines anderen oder fremde Sachen von bedeutendem Wert gefährdet.   
 
+>Das Seeschiffsregister wird bei bestimmten Amtsgerichten geführt. 3.2 Ein zur Seefahrt bestimmtes Sportfahrzeug muss in das Schiffsregister eingetragen werden, wenn seine Rumpflänge, gemessen zwischen den äußersten Punkten des Vorstevens und des Hinterstevens, mehr als 15 m beträgt. Zur Seefahrt bestimmte Yachten unterhalb dieses Grenzwertes können eingetragen werden.  
+>Vor der Eintragung muss das Schiff durch das BSH vermessen werden und der Eigentumsnachweis erfolgen. Der Eigentümer muss Deutscher sein.  
+>Das Registergericht stellt das Schiffszertifikat aus. An Bord wird nur ein amtlich beglaubigter Auszug mitgeführt.  
+>Mit den unter 3.4 ausgestellten Dokument entsteht das Recht und die flicht, die Bundesflagge zu führen. Der Name des Sportfahrzeuges und der Heimathafen sind außen gut sichtbar und fest anzubringen. Das Fz. bekommt ein Rufzeichen zugeteilt.  
+>Nicht eintragungspflichtige Wassersportfahrzeuge können das Recht zur Führung der deutschen Bundesflagge nachweisen durch das Flaggenzertifikat.
+
 
 # Rechtsvorschriften
 
@@ -181,6 +187,14 @@ Das Seeunfalluntersuchungsgesetz, die Verordnung über die Sicherung der Seefahr
 
 4. Sichere Geschwindigkeit bedeutet: So fahren, dass geeignete und wirksame Maßnahmen einen Zusammenstoß vermeiden und das Fahrzeug innerhalb einer Entfernung zum Stehen gebracht werden kann, die den gegebenen Umständen und Bedinungen entsprechen. 
 
+>Regel 2 b KVR: so navigieren, wonach bei der Auslegung und Befolgung dieser Regeln stets alle Gefahren der Schiffahrt und des Zusammenstoßes sowie alle besonderen Umstände einschließlich Behinderungen der betroffenen Fahrzeuge gebührend zu berücksichtigen sind, die zum Abwenden unmittelbarer Gefahr ein Abweichen von diesen Regeln erfordern.
+
+>Kollisionsgefahr ist eindeutig erkennbar durch stehende Kompasspeilung (bzw. stehende Seitenpeilung bei anliegendem Sollkurs) und Annäherung.
+
+set.seed(100); rnorm(100)
+fd <- optFederov( ~ .,vd,18)
+fd$design
+
 5. Unterschied Ausweichpflicht und Nichtbehinderungsgebot:
 
 - Ausweichpflicht: Bei der **Möglichkeit der Gefahr eines Zusammenstoßes** gibt es den Zwang des Ausweichpflichtigen zum Ausweichen (frühzeitig und durchgreifend) und des Kurshalters zum Kurshalten.  
@@ -201,15 +215,22 @@ Das Seeunfalluntersuchungsgesetz, die Verordnung über die Sicherung der Seefahr
 - Ein Fahrzeug, das der Richtung eines engen Fahrwasser folgt, muss sich so **nahe am äußeren Rand** an seiner Steuerbordseite halten, wie dies ohne Gefahr möglich ist. 
 - Ein Fahrzeug **von weniger als 20 m** oder ein **Segelfahrzeug** darf nicht die Durchfahrt eines Fahrzeugs behindern, das nur innerhalb eines engen Fahrwassers sicher fahren kann.
 
+>Engstellen sind solche Stellen im Fahrwasser, an denen von der Fahrwasserbreite hergesehen nicht zwei oder mehrere Schiffe gleichzeitig nebeneinander fahren können. Fahrwasser können z.B. durch Bauarbeiten oder Brückendurchfahrten eingeengt sein. An engen Stellen darf nicht überholt werden. Wenn ein Begegnungsverbot an Engstellen besteht, wird dieses in der Regel z.B durch das Sichtzeichen A.2 (rechteckige weiße Tafeln mit rotem Rand, rotem Schrägstrich und zwei senkrechten schwarzen Pfeilen, Spitzen entgegengesetzt) angezeigt (§ 25 Abs. 3). Es hat Vorfahrt - In Tidengewässern und in tidefreien Gewässern mit Strömungen - das mit dem Strom fahrende Fahrzeug, bei Stromstillstand das Fahrzeug, das vorher gegen den Strom gefahren ist, in tidefreien Gewässern ohne Strömung das Fahrzeug, das grundsätzlich die Steuerbordseite des Fahrwassers zu benutzen hat. Das wartepflichtige Fahrzeug muss außerhalb der Engstelle so lange warten, bis das andere Fahrzeug vorbeigefahren ist.
+
+>Wegerechtschiffe sind Fahrzeuge (mit Ausnahme auf dem NOK), welche die für eine Seeschiffahrtstraße bekanntgemachten Abmessungen überschreiten oder die wegen ihres Tiefganges, ihrer Länge oder wegen anderer Eigenschaften gezwungen sind, den tiefsten Teil des Fahrwassers für sich in Anspruch zu nehmen. Hinzu kommen bestimmte Fahrzeuge im Bereich der Erweiterung des Küstenmeeres in der Deutschen Bucht. Wegerechtschiffe gelten als manövrierbehinderte Fahrzeuge im Sinne von Regel 3 g KVR (=manövrierbehinderte Fahrzeuge). Wegerechtschiffe führen am Tage senkrecht untereinander BallRhombus-Ball und bei Nacht zusätzlich zu den vorgeschriebenen Lichtern eines Maschinenfahrzeuges in Fahrt drei Rundumlichter senkrecht übereinander, rot-weiß-rot. Nebelsignal: lang, kurz, kurz mindestens alle 2 Minuten.
+
 7. Der Einbahnweg eines Verkehrstrennugnsgebietes darf gequert werden, wenn ein Fahrzeug dazu gezwungen ist. Dies muss möglichst mit der Kielrichtug im rechten Winkel zur allgemeinen Verkehrsrichtung erfolgen. 
 
-8. Ein **Fahrzeug von weniger als 20 m** oder ein Segelfahrzeug darf die sichere Durchfahrt eines **Maschinen**fahrzeuges auf dem Einbahnweg nicht behindern. 
+8. Ein **Fahrzeug von weniger als 20 m** oder ein Segelfahrzeug darf die sichere Durchfahrt eines **Maschinen**fahrzeuges auf dem Einbahnweg nicht behindern, [Regel 10 j](https://www.gesetze-im-internet.de/seestro_1972/regel_10.html#:~:text=i)%20Ein%20fischendes%20Fahrzeug%20darf,auf%20dem%20Einbahnweg%20nicht%20behindern.). 
 
 9. Fahrzeuge von weniger als 20m, Segelfahrzeuge und fischende Fahrzeuge dürfen die **Küstenverkehrszone** benutzen. Ebenso Fahrzeuge die sich auf dem Weg zu oder von einem Hafen, einer Einrichtung, oder einem Bauwerk vor der Küste, eine Lotsenstation oder einem sonstigen innerhalb der Küstenverkehrszone gelegenen Ort befindet. 
+>Nach Regel 10 a wird ein Fahrzeug nicht von seiner Verpflichtung aufgrund einer anderen Regel befreit.
 
 10. Auf den Einbahnwegen eines Verkehrstrennungsgebietes (VTG) gilt das **Rechtsfahrgebot** nicht.
 
 11. Jedes Fahrzeug muss beim Überholen dem anderen ausweichen ([Regel13](https://www.gesetze-im-internet.de/seestro_1972/regel_13.html)). Der Überholer (mehr als 22,5 Grad achterlicher als querab) weicht immer aus. 
+
+>Eine Lageänderung beider Fahrzeuge zueinander ist ohne Belang. Maßgeblich für die Ausweichpflicht ist der Augenblick des Insichtkommens.
 
 12. Die **Ausweichpflicht** bei Segelfahrzeugen richtet sich nach der Stellung der Fahrzeuge zum Wind. Ausweichen muss: 
 
@@ -222,9 +243,11 @@ erkennen kann (Regel 12 a iii). A ist Kurshalter.
 >Wenn Kurshaltepflicht und Ausweichpflicht kollidieren, ist die Kurshaltepflicht nach Regel 2b KVR
 aufgehoben, Ausweichen hat Vorrang!
 
-13. Zwei Maschinenfahrzeuge auf entgegengesetzem Kurs müssen beide nach Steuerbord ausweichen. 
+13. Zwei Maschinenfahrzeuge auf entgegengesetzem Kurs müssen beide nach Steuerbord ausweichen.
 
-14.  s. 11.
+> Beide Fahrzeuge ändern Kurs nach Stb. (Regel 14) und zeigen dieses durch einen kurzen Ton an (Regel 34 a).
+
+> (14.) Regel 15 Kreuzende Kurse: Wenn die Kurse zweier Maschinenfahrzeuge einander so kreuzen, daß die Möglichkeit der Gefahr eines Zusammenstoßes besteht, muß dasjenige ausweichen, welches das andere an seiner Steuerbordseite hat; wenn die Umstände es zulassen, muß es vermeiden, den Bug des anderen Fahrzeugs zu kreuzen.
 
 15. Manövrierunfähige ist Fahrzeug durch einen **außergewöhnlichen Umstand** und manövrierbehindert ist ein Fahrzeug durch seine **Arte des Einsatzes**. Beiden können daher nicht ausweichen. 
 
@@ -288,7 +311,7 @@ Kursänderung, kein Ausweichmanöver! (KVR Abschnitt III: Verhalten von Fahrzeug
 >Nebelsignale:  
 - Segler: -lang, kurz, kurz - mindestens alle 2 Minuten  
 - Schleppende Fahrzeuge: -lang, kurz, kurz - mindestens alle 2 Minuten, unmittelbar danach wird vom letzten geschleppten Fahrzeug -lang, kurz, kurz, kurz - gegeben, - wenn dieses bemannt ist.  
-- Unter Motor: einen langen Ton mindestens alle 2 Minuten.  
+- Unter Motor: einen langen Ton mindestens alle 2 Minuten. Ohne Fdw:zwei lange Töne mindestens alle 2 min  
 
 >Tagsignale:  
 - Segelboot: einen Kegel, Spitze nach unten  
@@ -305,6 +328,15 @@ Außergewöhnliche Schiffahrtsbehinderung:: drei feste Lichter übereinander, di
 
 >Nebelmaßnahmen von Segelyacht bei Dichtem Nebel: Lichter kontrollieren (bereits gesetzt, da nachts); Ausguck; Ruhe im Schiff; Rettungswesten anlegen; mit sicherer Geschwindigkeit laufen; Nebelsignale geben, mind. Alle 2 Minuten lang-kurz-kurz. Ggfs. Segel einholen und Maschine starten, dann Nebelsignal ein langer Ton mind. Alle 2
 Minuten.
+
+>In der Seefahrt wird die Lage der Objekte anhand von Peilstrichen beschrieben. Ein Strich (Steuerbord oder Backbord) sind 11,25°. 4 Strich sind dementsprechend 45°, 8 Strich ist gleichbedeutend mit querab.
+
+> KÜMO = Küstenmtorschiff
+
+>Ein Segelfahrzeug von 12,5 m Länge führt, wenn sie auf Grund sitzt, am Tage drei Bälle senkrecht übereinander und bei Nacht im vorderen Teil ein weißes Rundumlicht und zwei rote Rundumlichter senkrecht übereinander (wo sie am besten gesehen werden können (Regel 30 d KVR))
+
+>Als Nebelsignal ist in der Elbmündung außerhalb der Seeschiffahrtstraßenordnung von einem Grundsitzer zu geben: Mindestens jede Minute etwa 5 Sekunden lang die Glocke rasch läuten sowie zusätzlich unmittelbar vor und nach dem raschen Glockenläuten drei scharf voneinander getrennte Glockenschläge.   
+Ein Fahrzeug auf Grund darf zusätzlich ein Pfeifsignal kurz-lang-kurz geben (Regel 35 h)
 
 ## SeeSchStrO
 
@@ -411,7 +443,13 @@ ausdrücken.
 hat, die zu einer solchen Blutalkoholkonzentration führt, darf weder ein Fahrzeug führen noch dessen Kurs
 oder Geschwindigkeit selbständig bestimmen.
 
+>Schleppverband: die Zusammenstellung von einem oder mehreren schleppenden Maschinenfahrzeugen (Schlepper) mit einem oder mehreren dahinter oder daneben geschleppten Anhängen, die keine oder keine betriebsbereite Antriebsanlage besitzen oder in ihrer Manövrierfähigkeit eingeschränkt sind. (§ 2 Nr.7). 
 
+>Schubverband: eine starre Verbindung von schiebenden Fz. und geschobenen Fz.; mindestens ein geschobenes Fahrzeug befindet sich vor dem Fahrzeug mit Maschinenantrieb. (§ 2 Nr.8).
+
+>Schleppverband und Schubverband gelten jeweils als ein Maschinenfahrzeug.
+
+>Motorsportfahrzeuge beim Schleppen gelten nicht als schleppende Machinenfahrzeuge im Sinne der KVR (§ 2 Nr.7), Sie müssen nicht besonders gekennzeichnet sein.
 
 # Radarplotten
 
