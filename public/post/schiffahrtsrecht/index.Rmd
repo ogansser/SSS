@@ -237,6 +237,9 @@ fd$design
 - Das Fahrzeug das den Wind von Backbord hat (Bei Entgegenkommen) (Regel 12 a i)
 - Das luvwärtige Fahrzeug (Bei Wind von der gleichen Seite) (Regel 12 a ii)
 
+>Wenn Wind von Bb => Baum wird an Stb geführt
+>Wenn Wind von Stb => Baum wird an Bb geführt
+
 >B muss A in jedem Falle ausweichen, weil er A in Luv sichtet und dessen Segelstellung nicht
 erkennen kann (Regel 12 a iii). A ist Kurshalter. 
 
@@ -312,6 +315,7 @@ Kursänderung, kein Ausweichmanöver! (KVR Abschnitt III: Verhalten von Fahrzeug
 - Segler: -lang, kurz, kurz - mindestens alle 2 Minuten  
 - Schleppende Fahrzeuge: -lang, kurz, kurz - mindestens alle 2 Minuten, unmittelbar danach wird vom letzten geschleppten Fahrzeug -lang, kurz, kurz, kurz - gegeben, - wenn dieses bemannt ist.  
 - Unter Motor: einen langen Ton mindestens alle 2 Minuten. Ohne Fdw:zwei lange Töne mindestens alle 2 min  
+- fischender Trawler: lang-kurz-kurz mindestens alle 2 min. 
 
 >Tagsignale:  
 - Segelboot: einen Kegel, Spitze nach unten  
@@ -337,6 +341,13 @@ Minuten.
 
 >Als Nebelsignal ist in der Elbmündung außerhalb der Seeschiffahrtstraßenordnung von einem Grundsitzer zu geben: Mindestens jede Minute etwa 5 Sekunden lang die Glocke rasch läuten sowie zusätzlich unmittelbar vor und nach dem raschen Glockenläuten drei scharf voneinander getrennte Glockenschläge.   
 Ein Fahrzeug auf Grund darf zusätzlich ein Pfeifsignal kurz-lang-kurz geben (Regel 35 h)
+
+>Eine Motoryacht, Länge 8 m, treibt nachts manövrierunfähig in der Nordsee und sieht ein großes Fahrzeug direkt auf sich zukommen. Welche Maßnahmen hat das Fahrzeug zu ergreifen?   
+Ein Fahrzeug von weniger als 12 m Länge, das die roten Rundumlichter senkrecht übereinander nicht führt, muss folgende Maßnahmen ergreifen:   
+1. Durch jedes andere verfügbare Mittel anzeigen, dass es manövrierunfähig ist, z.B. über UKWSprechfunk oder durch ein Schallsignal oder Lichtsignal lang, kurz, kurz.  
+2. Bei weiterer Annäherung das andere Fahrzeug mit einer starken Handlampe anleuchten und so auf sich aufmerksam machen.  
+3. Führen eines weißen Rundumlichtes, das mit keinem anderen Licht verwechselt werden kann. 4. Abfeuern eines Signals „weißer Stern“ oder „Blitz-Knall“.  
+5. Sofort bei Eintritt der Manövrierunfähigkeit Verkehrszentrale informieren (wenn vorhanden).  
 
 ## SeeSchStrO
 
@@ -451,6 +462,23 @@ oder Geschwindigkeit selbständig bestimmen.
 
 >Motorsportfahrzeuge beim Schleppen gelten nicht als schleppende Machinenfahrzeuge im Sinne der KVR (§ 2 Nr.7), Sie müssen nicht besonders gekennzeichnet sein.
 
+> Auf einem Containerschiff einen roten Doppelstander (Flagge B): Containerschiff, das Explosivstoffe geladen hat.
+
+>bei Tage mitten im Fahrwasser ein Fahrzeug mit folgenden Signalkörpern: Ball-Rhombus-Ball senkrecht übereinander und auf beiden Seiten Rhombus-Rhombus senkrecht übereinander.: Manövrierbehindertes Fahrzeug mit oder ohne FdW (jeweils z.B. am Bugstau zu erkennen), das im Fahrwasser baggert und das an beiden Seiten passiert werden kann.
+
+>Seeamt und Bundesoberseeamt als Widerspruchstelle haben die Aufgabe, Seeunfälle zu untersuchen und die Ursachen für solche Seeunfälle festzustellen. Außerdem haben sie zu prüfen, ob der Seeunfall auf Mängel zurückzuführen ist, die mit dem Schiff, der Ladung, der Wasserstraße usw. zu tun haben oder ob Mängel in der Besetzung des Schiffes vorhanden waren bzw. ob der Unfall auf einen Verstoß gegen Verkehrsvorschriften oder auf einen Fehler bei der Führung oder dem Betrieb des Schiffes zurückzuführen ist.
+>Die Spruchkörper der Seeämter und des Bundesoberamtes sind besetzt mit einem Vorsitzenden und vier Beisitzern (ein [hauptamtlicher] Ständiger Beisitzer, drei ehrenamtliche Beisitzer).
+>Seeamt und Bundesoberseeamt können beim Vorliegen eines fehlerhaften Verhaltens bei einem der Beteiligten, hier Segler, den Sportbootführerschein entziehen, soweit der Segler im Besitz eines solchen Sportbootführerscheines ist. Sportsee- und/oder Sporthochseeschifferscheine können als freiwillige
+staatliche Scheine ebenfalls entzogen werden.
+
+>Rotes Rundumlicht, fortwährend das Schallsignal kurz – lang: Es handelt sich um das Bleib-weg-Signal, das von einem Fahrzeug gegeben wird, bei dem bestimmte gefährliche Güter oder radioaktive Stoffe frei werden oder drohen freizuwerden oder es besteht Explosionsgefahr. Man hat sich mit seinem Fahrzeug möglichst weit von dem anderen Fahrzeug zu entfernen (sicherer
+Abstand) und keine elektrischen Schalter bedienen, kein offenes Feuer.
+
+>"Vorfahrt beachten:" begründet eine Wartepflicht. wer die Vorfahrt zu beachten hat, muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass er warten wird. Er darf nur weiterfahren, wenn er übersehen kann, dass die Schiffahrt im Fahrwasser nicht beeinträchtigt wird. Ggf. hat der Wartepflichtige seinen Kurs und/oder seine Geschwindigkeit zu ändern (gilt rechtlich nicht als Ausweichen!).
+
+>allgemeine Gefahrenstelle (z.B. Untiefe, Wracks) auf einer Seeschiffahrtsstraße südlich der Gefahrenstelle bei Tage und bei Nacht gekennzeichnet: Tonne mit Süd- Kardinal Zeichen; Farbe gelb über schwarz, Toppzeichen: zwei schwarze Kegel übereinander, Spitze unten. Feuer: weiß; Kennung: SFkl. (6) + Blk. oder Fkl. (6) + Blk.
+
+
 # Radarplotten
 
 **Ziele des Raradplottens:** 
@@ -478,8 +506,9 @@ KBr – KA
 Kursdifferenz, Winkel zwischen KBr und KA (ergibt sich bei Head Up)  
 CPA  
 Kleinster Passierabstand Closest Point of Approach 
->BCR
->Passierabstand voraus (auf der Kurslinie) Bow crossing range  
+
+>BCR  
+Passierabstand voraus (auf der Kurslinie) Bow crossing range  
 
 TCA  
 Zeitpunkt des CPA  
@@ -494,7 +523,7 @@ Eigene Geschwindigkeit vB Geschwindigkeit von B
 vBr  
 Geschwindigkeit der relativen Bewegung von B  
 
-
+>Verringerung des Passierabstandes, wenn Kompass- und Steuerfehler ausgeschlossen werden: Die Yacht wird durch Strom und/oder Wind nach Bb. versetzt.
 
 # Seeunfalluntersuchung
 
@@ -534,6 +563,13 @@ So betreffen z.B. den Skipper eines Sportbootes:
 - Fehlen der notwendigen Eigenschaft zur Führung eines Sportbootes  
 
 >Die Seeunfalluntersuchung wird von den Seeämtern (Hamburg, Kiel,Rostock, Bremerhaven und Emden) durchgeführt. Widerspruch gegen einen Seeamtsspruch ist möglich beim Bundesoberseeamt (BOSA) in Hamburg. Gegen Entscheidungen des BOSA kann Berufung/Klage beim Verwaltungsgericht Hamburg erhoben werden.
+
+>Verordnung über die Sicherung der Seefahrt:  
+Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:  
+- sind Personen verletzt und benötigen diese Hilfe.  
+- ist gegenseitiger Beistand (materieller Art) erforderlich.  
+- Austauschen: Schiffsname, Abgangs- und Bestimmungshafen, evtl. Unterscheidungssignal Reise erst fortsetzen, wenn kein Beistand (mehr) benötigt wird. Kann ein Schiffsführer seiner Verpflichtung zur Hilfeleistung nicht nachkommen, so hat er dieses unter Angabe der Gründe ins Logbuch einzutragen und das für seinen Heimathafen zuständige Seeamt zu informieren.
+
 
 # Umweltschutz
 
