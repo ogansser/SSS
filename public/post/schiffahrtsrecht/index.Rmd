@@ -331,9 +331,9 @@ Kursänderung, kein Ausweichmanöver! (KVR Abschnitt III: Verhalten von Fahrzeug
 >Nachtsignale: 
 Außergewöhnliche Schiffahrtsbehinderung:: drei feste Lichter übereinander, die beiden oberen rot, das untere grün.
 
->Falggensignale:  
-- O: gelb-rot diagonal geteilt
-- Q: gelb  
+>Flaggensignale:  
+- O: gelb-rot diagonal geteilt   
+- Q: gelb   
 => Mit diesem Flaggensignal O über Q wird angezeigt, dass dieses Schiff zur Regulierung nautischer Instrumente dreht.
 
 >Nebelmaßnahmen von Segelyacht bei Dichtem Nebel: Lichter kontrollieren (bereits gesetzt, da nachts); Ausguck; Ruhe im Schiff; Rettungswesten anlegen; mit sicherer Geschwindigkeit laufen; Nebelsignale geben, mind. Alle 2 Minuten lang-kurz-kurz. Ggfs. Segel einholen und Maschine starten, dann Nebelsignal ein langer Ton mind. Alle 2
