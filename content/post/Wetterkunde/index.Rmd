@@ -505,6 +505,113 @@ Windstärke im Juli und August: 5 bis 7 Bft
 
 - Fronten verlagern sich in Richtung des Windes hinter ihnen. 
 
+
+## Regeln über die Bewegung von Zyklonen und Antizyklonen 
+
+1. Eine junge Zyklone (T) mit offenem Warmsektor (keine Okklusion) verlagert sich in Richtung der Isobaren dieses Warmsektors.  
+
+2. Mittlere Zuggeschwindigkeit: 
+langsam: < 15kn  
+ziehend: 15kn – 25kn  
+rasch ziehend: 25kn – 45kn   
+schnell/sehr rasch: > 45kn  
+- junge Zyklonen 25-30kn (entspricht 10-12 Breitengrade pro Tag)   
+- okkludierte Zyklonen 10-15kn (entspricht 4-6 Breitengrade pro Tag)  
+- im Sommer im Allgemeinen 5-10kn weniger
+
+3. Eine sich auffüllende Zyklone zieht langsamer als eine sich vertiefende
+
+4. Ausgeprägte Tiefs mit vielen Isobaren und starkem Luftdruckgradienten nach allen Seiten ziehen meist nur langsam
+
+5. Ein Randtief umkreist das Haupttief auf der N-Halbkugel gegen den Uhrzeigersinn. Zugbahn polwärts gekrümmt. Das Zentrum des Randtiefs ist nach 24h etwa auf der tiefsten 5 hPa-Isobare die das Randtief mit dem Haupttief verbindet (Rodewald-Regel)
+
+6. Am Okklusionspunkt entstehende Teiltiefs schwenken nicht gegen Uhrzeigersinn um das Haupttief sondern ziehen nach der Warmsektorregel (s. 1.) – oder Zugbahn schert leicht äquatorwärts aus
+
+7. Eine Zyklone mit starkem Wind auf der Vorderseite wird stationär und schwächt sich ab 
+
+8. Voll entwickelte Tiefs bewegen sich häufig in Richtung der stärksten Winde
+
+9. Größere festliegende Tiefs können lange lebensfähig bleiben, wenn sie an der Grenze zwischen kalter und warmer Unterlage liegen (z.B. an der Küste oder der Eisgrenze)
+
+10. Kleinere Zyklonen (T) umkreisen umfangreiche festliegende Antizyklonen (H) auf der N-Halbkugen
+im Uhrzeigersinn
+
+## Regeln über die Entwicklung von Luftdruckgebilden 
+
+11. Zyklonen mit ausgeprägtem Warmsektor vertiefen sich und beschleunigen meist ihre Bewegung
+
+12. Eine sich abschwächende Zyklone wird reaktiviert, wenn sich der Temperaturunterschied ihrer Luftmassen vergrößert (neue Kaltluft in der Rückseite oder neue Warmluft in der Vorderseite
+
+13. Eine Zyklone vertieft sich, wenn die Labilität ihrer Luftmassen zunimmt (im Sommer beim Übertritt vom Meer aufs Land, im Winter beim Übertritt vom Land aufs Meer – beim Ubertritt auf einen wärmeren Untergrund) 
+
+## Regeln über die Bewegung von Fronten 14. Kaltfronten ziehen schneller als Warmfronten, manchmal doppelt so schnell
+
+15. Fronten verlagern sich in Richtung des Windes hinter ihnen. Kaltfronten und Okklusionen fast mit der Geschwindigkeit des Bodenwindes hinter ihnen, Warmfronten etwas langsamer.
+
+16. Fronten bewegen sich um so rascher je mehr Isobaren sie schneiden 
+
+17. Fronten, bei denen die Isobaren im spitzen Winkel auf die Front treffen ziehen nur langsam 
+
+18. Nähert sich eine Front einem stationären Hochdruckgebiet verlangsamt sich ihre Bewegung 
+
+## Regeln über die Entwicklung von Fronten
+
+19. Fronten lösen sich in antizyklonalen Gebieten (H) auf
+
+## Regeln über die Eigenschaften von Luftmassen 
+
+20. Bewegt sich eine Luftmasse über eine kältere Unterlage nimmt die Stabilität ihrer Schichtung zu 
+
+21. Bewegt sich eine Luftmasse über eine wärmere Unterlage nimmt die Stabilität ihrer Schichtung ab 
+
+22. Tiefblauer Himmel zeigt meist trockene Luft an, hellblauer ist ein Zeichen für feuchte Luft
+
+
+## Luftdruckregeln 
+
+23. Gleichbleibender Luftdruck deutet auf beständiges Wetter hin 
+
+24. Langsamer und gleichmäßiger Luftdruckanstieg bedeutet meist nachhaltige Wetterbesserung 
+
+25. Bei schnellem Luftdruckanstieg ist die Wetterbesserung meist nur vorübergehend 
+
+26. Eine Luftdruckänderung von mehr als 4 hPa in 3 h kann Wind von 6-8 Bft bringen 
+
+27. Eine Luftdruckänderung von mehr als 10 hPa in 3 h kann schweren Sturm bringen
+
+## Regeln über den Wind 
+
+28. Ändert sich die schon längere Zeit beständige Windrichtung deutet das auf Wetteränderung hin 
+
+29. Land- und Seewind sind Anzeichen für beständiges Wetter
+
+## Wolkenregeln
+
+30. Kräftige Morgenrot bedeutet viel Wasserdampf in der Luft, das kann Wetterverschlechteung bedeuten
+
+31. Querwindregel: Dreht der Wind oberhalb der Reibungsschicht mit der Höhe recht, so führt er wärmere Luft heran (Vorderseite eines Tiefs). Dreht er mit der Höhe rück bringt er kältere Luft (Rückseite eines Tiefs)
+
+32. AC cast (Altocumulus castellanus) oder AC floc (Altocumulus flocus) am Morgen kündigen meist eine Gewitterfront für die 2. Tageshälfte an
+Weitere Regeln
+
+33. Hat ein Tief zwei  nahezu gleichgroße Kerne beginnen diese um den gemeinsamen Schwerpunkt zu kreisen
+
+34. Hochdruckkeile zwischen Zyklonen wandern mit den Zyklonen
+
+35. Wandernde Hochs auf der N-Halbkugel haben eine Tendenz äquatorwärts zu ziehen, wandernde Tiefs dagegen eine Tendenz polwärts
+
+36. Der Bodenwind hat etwa 65% der Stärke des geostrophischen Windes
+
+37. Bei gleichem Isobarenabstand ist die Windgeschwindigkeit bei antizyklonaler Krümmung größer als bei geraden parallelen Isobaren, bei Isobaren mit zyklonaler Krümmung ist die Windgeschwindigkeit geringer
+
+38. Die Windgeschwindigkeit nimmt bei gleichem Isobarenabstand bei geringerer Breite (Abstand zum Äquator) zu.
+
+39. Steht man mit dem Rücken zum Wind (Bodenwind) ist der Kern des Tiefs etwas vorlicher als links querab.
+
+40. Die Windrichtung schneidet die Isobaren in einem Winkel von etwa 22 Grad.
+
+
+
 # Seegang
 
 1. Welle
@@ -739,108 +846,3 @@ Windmessanlage besteht aus Windfahne(Richtung) und Schalenkreuz(Geschwindigkeit)
 - mechanische Geräte die feuchtigkeitsabhängig Längendehnung bestimmter Haararten oder die Verformung speziell beschichteter Metalle nutzen.  
 - elektrische Feuchtemessverfahren 
 
-# Wetterregeln
-
-## Regeln über die Bewegung von Zyklonen und Antizyklonen 
-
-1. Eine junge Zyklone (T) mit offenem Warmsektor (keine Okklusion) verlagert sich in Richtung der Isobaren dieses Warmsektors.  
-
-2. Mittlere Zuggeschwindigkeit: 
-langsam: < 15kn  
-ziehend: 15kn – 25kn  
-rasch ziehend: 25kn – 45kn   
-schnell/sehr rasch: > 45kn  
-- junge Zyklonen 25-30kn (entspricht 10-12 Breitengrade pro Tag)   
-- okkludierte Zyklonen 10-15kn (entspricht 4-6 Breitengrade pro Tag)  
-- im Sommer im Allgemeinen 5-10kn weniger
-
-3. Eine sich auffüllende Zyklone zieht langsamer als eine sich vertiefende
-
-4. Ausgeprägte Tiefs mit vielen Isobaren und starkem Luftdruckgradienten nach allen Seiten ziehen meist nur langsam
-
-5. Ein Randtief umkreist das Haupttief auf der N-Halbkugel gegen den Uhrzeigersinn. Zugbahn polwärts gekrümmt. Das Zentrum des Randtiefs ist nach 24h etwa auf der tiefsten 5 hPa-Isobare die das Randtief mit dem Haupttief verbindet (Rodewald-Regel)
-
-6. Am Okklusionspunkt entstehende Teiltiefs schwenken nicht gegen Uhrzeigersinn um das Haupttief sondern ziehen nach der Warmsektorregel (s. 1.) – oder Zugbahn schert leicht äquatorwärts aus
-
-7. Eine Zyklone mit starkem Wind auf der Vorderseite wird stationär und schwächt sich ab 
-
-8. Voll entwickelte Tiefs bewegen sich häufig in Richtung der stärksten Winde
-
-9. Größere festliegende Tiefs können lange lebensfähig bleiben, wenn sie an der Grenze zwischen kalter und warmer Unterlage liegen (z.B. an der Küste oder der Eisgrenze)
-
-10. Kleinere Zyklonen (T) umkreisen umfangreiche festliegende Antizyklonen (H) auf der N-Halbkugen
-im Uhrzeigersinn
-
-## Regeln über die Entwicklung von Luftdruckgebilden 
-
-11. Zyklonen mit ausgeprägtem Warmsektor vertiefen sich und beschleunigen meist ihre Bewegung
-
-12. Eine sich abschwächende Zyklone wird reaktiviert, wenn sich der Temperaturunterschied ihrer Luftmassen vergrößert (neue Kaltluft in der Rückseite oder neue Warmluft in der Vorderseite
-
-13. Eine Zyklone vertieft sich, wenn die Labilität ihrer Luftmassen zunimmt (im Sommer beim Übertritt vom Meer aufs Land, im Winter beim Übertritt vom Land aufs Meer – beim Ubertritt auf einen wärmeren Untergrund) 
-
-## Regeln über die Bewegung von Fronten 14. Kaltfronten ziehen schneller als Warmfronten, manchmal doppelt so schnell
-
-15. Fronten verlagern sich in Richtung des Windes hinter ihnen. Kaltfronten und Okklusionen fast mit der Geschwindigkeit des Bodenwindes hinter ihnen, Warmfronten etwas langsamer.
-
-16. Fronten bewegen sich um so rascher je mehr Isobaren sie schneiden 
-
-17. Fronten, bei denen die Isobaren im spitzen Winkel auf die Front treffen ziehen nur langsam 
-
-18. Nähert sich eine Front einem stationären Hochdruckgebiet verlangsamt sich ihre Bewegung 
-
-## Regeln über die Entwicklung von Fronten
-
-19. Fronten lösen sich in antizyklonalen Gebieten (H) auf
-
-## Regeln über die Eigenschaften von Luftmassen 
-
-20. Bewegt sich eine Luftmasse über eine kältere Unterlage nimmt die Stabilität ihrer Schichtung zu 
-
-21. Bewegt sich eine Luftmasse über eine wärmere Unterlage nimmt die Stabilität ihrer Schichtung ab 
-
-22. Tiefblauer Himmel zeigt meist trockene Luft an, hellblauer ist ein Zeichen für feuchte Luft
-
-
-## Luftdruckregeln 
-
-23. Gleichbleibender Luftdruck deutet auf beständiges Wetter hin 
-
-24. Langsamer und gleichmäßiger Luftdruckanstieg bedeutet meist nachhaltige Wetterbesserung 
-
-25. Bei schnellem Luftdruckanstieg ist die Wetterbesserung meist nur vorübergehend 
-
-26. Eine Luftdruckänderung von mehr als 4 hPa in 3 h kann Wind von 6-8 Bft bringen 
-
-27. Eine Luftdruckänderung von mehr als 10 hPa in 3 h kann schweren Sturm bringen
-
-## Regeln über den Wind 
-
-28. Ändert sich die schon längere Zeit beständige Windrichtung deutet das auf Wetteränderung hin 
-
-29. Land- und Seewind sind Anzeichen für beständiges Wetter
-
-## Wolkenregeln
-
-30. Kräftige Morgenrot bedeutet viel Wasserdampf in der Luft, das kann Wetterverschlechteung bedeuten
-
-31. Querwindregel: Dreht der Wind oberhalb der Reibungsschicht mit der Höhe recht, so führt er wärmere Luft heran (Vorderseite eines Tiefs). Dreht er mit der Höhe rück bringt er kältere Luft (Rückseite eines Tiefs)
-
-32. AC cast (Altocumulus castellanus) oder AC floc (Altocumulus flocus) am Morgen kündigen meist eine Gewitterfront für die 2. Tageshälfte an
-Weitere Regeln
-
-33. Hat ein Tief zwei  nahezu gleichgroße Kerne beginnen diese um den gemeinsamen Schwerpunkt zu kreisen
-
-34. Hochdruckkeile zwischen Zyklonen wandern mit den Zyklonen
-
-35. Wandernde Hochs auf der N-Halbkugel haben eine Tendenz äquatorwärts zu ziehen, wandernde Tiefs dagegen eine Tendenz polwärts
-
-36. Der Bodenwind hat etwa 65% der Stärke des geostrophischen Windes
-
-37. Bei gleichem Isobarenabstand ist die Windgeschwindigkeit bei antizyklonaler Krümmung größer als bei geraden parallelen Isobaren, bei Isobaren mit zyklonaler Krümmung ist die Windgeschwindigkeit geringer
-
-38. Die Windgeschwindigkeit nimmt bei gleichem Isobarenabstand bei geringerer Breite (Abstand zum Äquator) zu.
-
-39. Steht man mit dem Rücken zum Wind (Bodenwind) ist der Kern des Tiefs etwas vorlicher als links querab.
-
-40. Die Windrichtung schneidet die Isobaren in einem Winkel von etwa 22 Grad.
