@@ -12,8 +12,7 @@ output:
     number_sections: TRUE
 ---
 
-![](https://vg08.met.vgwort.de/na/26158e5c6a5f4472a81c23ae5c5578b2
-){width=1px height=1px}
+![](https://vg08.met.vgwort.de/na/26158e5c6a5f4472a81c23ae5c5578b2){width=1px height=1px}
 
 
 # Segelfahrzeug 
