@@ -168,19 +168,19 @@ Von Norden nach Südosten auf Mitteleuropa zu:
 
 # Wolken und Nebel
 
-1. Definitionen
+>1. Definitionen
 
 - **absolute Feuchte a** = Anteil des unsichtbaren Wasserdampfes an allen Molekülen in der Luft. 
-- **Sättigungsfeuchte A** = maximal mögliche Wasserdanpfmenge bei einer bestimmten Temperatur. 
+- **Sättigungsfeuchte A** = maximal mögliche Wasserdampfmenge bei einer bestimmten Temperatur. 
 
 $$relative\ Feuchte\ U= \frac{a}{A}*100$$ 
 
 - **Taupunkttemperatur** = Temperatur, bei der eine in der Luft vorhandene Wasserdampfmenge die Sättigungsmenge erreicht. 
 
-2. Luft kann zur Sättigung gebracht werden durch
+>2. Luft kann zur Sättigung gebracht werden durch
 
-- in dem Feuchte zugeführt wird (Feuchtezufuhr)
-- in dem die Temperatur gesenkt wird (Abkühlung)
+- in dem Feuchte zugeführt wird (Feuchtezufuhr) => Verdunstungsnebel im Herbst 
+- in dem die Temperatur gesenkt wird (Abkühlung) => Abkühlungsnebel im Frühjahr
 
 3. Folgende Prozesse führen zu Regen: 
 
@@ -272,6 +272,7 @@ Wolkenarten und -höhen:
 Hoher Barometerstand => Luft ist schwerer
 
 Zwei Möglichkeiten:  
+
 - Luft mit größerer Dichte: Wenn Luft kälter ist als die der Umgebung => **thermisch bedingt Hochs** 
 
 - Mehr Luft als in der Umgebung => **Luftstau in der Höhe**
@@ -279,13 +280,18 @@ Zwei Möglichkeiten:
 
 2. Wetter in Hochdruckgebieten
 
-**absteigende Luft** => **Wolken lösen sich auf**
+**absteigende Luft** => **Wolken lösen sich auf** 
+
+>Im Hoch steigt die Luft ab, kommt dabei unter höheren Druck, erwärmt sich, trocknet aus und die Wolken lösen sich auf.
 
 |Jahreszeit|Wetter bei Hochdruck|
 |----------|--------------------|
 |Sommer|Sonniges Wetter mit blauem Himmel. Am Tag vereinzelt Cumuli, bei großer Feuchte oft dunstig.|
-|Winter|- klirrender Frost bei strahlend blauem Himmel, aus trockener Kaltluft aufgebauten Hochs<br>- Vom Meer her kommende feuchte Luft => bodennahe zuNebel neigende feuchte, diesige Schicht, Oberhalb wolkenlos und klar = Inversion => Hochnebel mit manchmal Sprühnebel oder Schnee|
-|Übergangszeit|Sonnneneinstrahlung löst winterlicher nächstlicher Charakter auf => sommerliches Hochdruckwetter|
+|Winter|- klirrender Frost bei strahlend blauem Himmel, aus trockener Kaltluft aufgebauten Hochs<br>- Vom Meer her kommende feuchte Luft => bodennahe zu Nebel neigende feuchte, diesige Schicht, Oberhalb wolkenlos und klar = Inversion => Hochnebel mit manchmal Sprühnebel oder Schnee|
+|Übergangszeit|Sonnneneinstrahlung löst winterlicher nächtlicher Charakter auf => sommerliches Hochdruckwetter|
+
+>Oft nicht so schön, wie allgemein erwartet (z.B. im April/Mai in der Nordsee) weil Hochdruckgebiete haben eine warme Seite mit südlichen Winden und eine kalte Seite mit nördlichen Winden. Auf der kalten Seite wird über dem Wasser kalte, wolkenreiche Luft transportiert. In Hochdruckgebieten steigt erwärmte Luft ab, die die bodennahe Luft nicht wegräumen kann. Es bildet sich eine Übergangsschicht – eine Inversion. An dieser entstehen durchgehende Schichtwolken (Stratus).
+
 
 3. Hochdruckgebiete
 
@@ -298,8 +304,7 @@ Zwei Möglichkeiten:
 ![Konvergenzlinie zwischen zwei Hochdruckgebieten: Daueregen](Konvergenzlinie.png)
 
 5. Druckverteilung an Sattelpunkt
-
-![Sattelpunkt](Sattelpunkt.png)
+![](Sattelpunkt.png)
 
 6. Lebenslauf einer Zyklone/Entwicklungsstufen eines Tiefs
 
@@ -314,7 +319,7 @@ Zwei Möglichkeiten:
 
 8. **Luftströmungen** in einem Hoch und in einem Tief
 
-In Hochdruckgebieten steigt die Luft ab. Aus dem Hoch (Antizyklone) weht der Wind auf der Nordhalbkugel im Uhrzeigersinn (antizyklonal) heraus (22 Grad von den Isobaren vom Hoch weg).
+>In Hochdruckgebieten steigt die Luft ab. Aus dem Hoch (Antizyklone) weht der Wind auf der Nordhalbkugel im Uhrzeigersinn (antizyklonal) heraus (22 Grad von den Isobaren vom Hoch weg).
 Die Luft strömt entgegen dem Uhrzeigersinn (zyklonal) in ein Tief (Zyklone) hinein, wo sie aufsteigt und in höhere Schichten abfließt (22 Grad von den Isobaren zum Tief hin).
 
 9. **Regel von Buys-Ballot**
@@ -374,17 +379,15 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
   - Rückseitenwetter
 
 14. Spezielle Tiefdruckgebiete
-
 ![](Rand.png)
 
 16. **Trog** oder **Tiefdruckdrog** meint, dass die Isobaren eine Ausbeulung haben. 
-
 ![](Trog.png)
 
+>Bei einem trogförmig angeordneten Isobarenverlauf, der Ähnlichkeiten hat mit der unteren Hälfte eines Schüssel, spricht man von einem Trog. Außer der Winddrehung und den Niederschlägen im Bereich der Trogachse sind normale Tröge ungefährlich. Allerdings besteht Gewittergefahr. Liegen den Isobaren im Trog jedoch sehr eng beieinander, können in Trögen die gefährlichsten Stürme der gemäßigten Breiten auftreten. Durch die unterschiedliche Windrichtung hinter und vor der Trogachse entsteht Kreuzsee aus Dünung und Windsee.
+
 17. Zyklonenfamilie
-
 ![](Zyklonenfamilie.jpg)
-
 
  18. Abweichend von der Idealzyklonen können Tiefdruckgebiete **mehr als eine Kalt-,  Warm- oder Okklusionsfront** hintereinander haben. 
  
@@ -412,7 +415,6 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 - Fallwinde  
 
 3. Orographische Effekte
-
 ![](OrthographischeEffekte.png)
 
 4. Verschiedene Mistral-Wetterlagen
