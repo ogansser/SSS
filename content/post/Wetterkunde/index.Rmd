@@ -225,6 +225,24 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 |**Luftmassengewitter**|bilden sich durch aufsteigende Luft|- Erwärmung von unten (z. B. Sonneneinstrahlung), Wärmegewitter durch Thermik <br>- Hebung an Gebirgen (orthograpische Hebung, oder orthographische Gewitter) <br> - Stau von strömender Luft am Boden und Ausweichen in die Höhe (Konvergenz, Konvergenzlinie)|
 |**Frontgewitter**|enstehen an Fronten (Übergangszone/Grenzschicht) von Luftmassengrenzen|Durch sich darunter schiebende Kaltluft erfolgt eine Hebung und Labilisierung der Warmluft |
 
+>Gewitter treten bei Cumulonimbuswolken auf; diese Wolkenart ist beim bzw. nach dem Durchgang einer (ausgeprägten) Kaltfront sowie über Inseln und stark aufgeheizten Landflächen zu erwarten. (Die Atmosphäre muss hochreichend labil oder feuchtlabil geschichtet sein).
+
+>Gewitterarten über See: Luftmassengewitter (Wärmegewitter) und Frontgewitter (an Kaltfront)
+
+> Gefahren für Segelfahrzeug bei Gewitter:
+- Böen bis Orkanstärke aus häufig wechselnden Richtungen 
+- Starke Regenfälle mit erheblicher Sichtminderung 
+- Hagelschlag, Blitzschlag
+- Hoher Seegang, Kreuzseen
+
+>Markante Zeichen für das Herannahen eines Gewitters sind: 
+- mächtige, turmartige Haufenwolken (Cumulonimben), 
+- sehr dunkle Wolkenunterseite mit vorgelagerter Böenwalze 
+- der bisher vorhandene Wind flaut ab, frischt danach aus anderen Richtungen auf, 
+- einsetzende Abkühlung der Luft,
+- Auffallende Störgeräusche im Mittelwellenbereich des Rundfunkgerätes
+
+
 9. Böhen
 
 - **Böhenkragen**: Walzenförmige Wolke mit horizontal verlaufender Achse an der vordderseite des Gewitters
@@ -233,13 +251,14 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 10. Warmfront
 
 ![](Warmfront.jpg)
-Wolkenarten und -höhen:  
 
+>Wolkenarten und -höhen:  
 - Cirren Höhe 7.000 bis ca. 12.000m  
 - Cirrostratus ab ca. 5.000m  
 - Altostratus 2.500 bis 5.000m  
 - Nimbostratus wenige 100m bis 5.000m  
 
+>Erste Anzeichen für das Herannahen einer Warmfront: Cirren; sie bestehen aus kleinen Eiskristallen.
 
 11. Kaltfront
 
@@ -254,6 +273,8 @@ Wolkenarten und -höhen:
 
 ![Die Kaltfront-Okklusion](Kaltfront-Okklusion.png)  
 
+>Okklusion ist die Front in einem Tiefdruckgebiet, bei der die Kaltfront die Warmfront eingeholt hat.
+>Durch die höhere Verlagerungsgeschwindigkeit holt die Kaltfront die Warmfront ein und hebt die Warmluft vom Boden ab. Ist die Luft vor der Front kälter als hinter der Front, so nimmt diese Warmluftcharakter an (Warmfrontokklusion), im anderen Fall Kaltfrontcharakter (Kaltfrontokklusion).
 
 13. Nebelbildung
 
@@ -312,7 +333,7 @@ Zwei Möglichkeiten:
 - Wellenstörung  
 - junges Ideales Tief   
 - okkludierendes Tief 
-- Auflösung oder Weiterentwicklung zueiner Zentralzyklone (rießiges Tief)  
+- Auflösung oder Weiterentwicklung zu einer Zentralzyklone (rießiges Tief)  
 
 7. Lebenslauf einer Zyklone
 ![](Zyklone.png)
@@ -386,6 +407,8 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 
 >Bei einem trogförmig angeordneten Isobarenverlauf, der Ähnlichkeiten hat mit der unteren Hälfte eines Schüssel, spricht man von einem Trog. Außer der Winddrehung und den Niederschlägen im Bereich der Trogachse sind normale Tröge ungefährlich. Allerdings besteht Gewittergefahr. Liegen den Isobaren im Trog jedoch sehr eng beieinander, können in Trögen die gefährlichsten Stürme der gemäßigten Breiten auftreten. Durch die unterschiedliche Windrichtung hinter und vor der Trogachse entsteht Kreuzsee aus Dünung und Windsee.
 
+> So lässt sich ein herannahmender Trog in einem Tief erkennen: Nach Durchgang der Kaltfront dreht der Wind nicht auf NW bis NNW, ist also nicht rechtdrehend, sondern behält seine Richtung bei und ist sogar rückdrehend. Der Druck steigt nach Durchgang der Kaltfront nicht an, ist gleichbleibend und beginnt schließlich zu fallen. Die Bewölkung nimmt zu, und Niederschläge folgen.
+
 17. Zyklonenfamilie
 ![](Zyklonenfamilie.jpg)
 
@@ -401,9 +424,15 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
  1. Winde in Küstennähe
  
  - Seewind: Sonne => Land wird stärker erwärmt als See => Luftmassen über Land steigen auf => Druck in Bodennähe fällt => Druck auf See ist nun höher => Wind von See zum Land  
+ 
+ > Seewind: Mittags/nachmittags kommt von der See her eine leichte bis mäßige Brise. Maximum des Seewindes ca. 2 Stunden nach Sonnenhöchststand, er flaut gegen Abend wieder ab. Über Land bildet sich infolge der starken Sonneneinstrahlung und der dadurch bewirkten Aufheizung der Luft ein thermisches Tiefdruckgebiet, in das von See her Wind einströmt.
+
  - Landwind (Zirkulation dreht sich): Abkühlung des Landes nachts => See ist warm => Luft strömt von Land über das Wasser.
  
+ >Landwind: Gegen Mitternacht beginnt eine schwache Landbrise, die maximale Windstärke ist in der Regel zwischen ca. 03.00 Uhr und Sonnenaufgang. Nachts kühlt das Festland stärker ab als das Wasser, über dem Land bildet sich ein thermisches Hochdruckgebiet aus dem Luft zum Meer hin strömt.
+ 
 ![](Wind.jpg)
+>Wo: Bei intensiver Sonnenstrahlung in unmittelbarer Küstennähe. Verstärktes Auftreten bei trockener Küste, da sich dann das Land schneller erwärmt bzw. abkühlt.
 
 2. Effekte an gebirgigen Küsten: 
 
@@ -454,9 +483,11 @@ Wandert der Schirokko nach Norden => Feuchtigkeitsaufnahme => Schwüle
 
 **Meltemi**: Etesien in türkischen Gewässsern. 
 
-Dieser Wind ist an eine großräumige Druckverteilung gebunden: hoher Druck über Südeuropa, der bis zur Ägäis reicht, und tierer Druck über Kleinasien und dem östlichen Mittelmeer. 
+Dieser Wind ist an eine großräumige Druckverteilung gebunden: hoher Druck über Südeuropa, der bis zur Ägäis reicht, und tiefer Druck über Kleinasien und dem östlichen Mittelmeer. 
 
 Windstärke im Juli und August: 5 bis 7 Bft
+
+>Die Etesien (griechisch; türkisch: Meltemi) sind jährlich wiederkehrende, nördliche Winde in der Ägäis. Die Etesien entstehen zwischen einem Hoch über Südeuropa und in einem Tief in Kleinasien. Diese großräumige Druckverteilung ist sehr beständig. Insofern wehen die Etesien von Mai bis Oktober mit einer Beständigkeit von 80%. Die durchschnittliche Windgeschwindigkeit beträgt im Juli/ August 5 Bft in einem Streifen in der Mitte des Ägäischen Meeres. Der Seegang kann unangenehm sein. Da kontinentale Luft von den Etesien transportiert wird, herrscht wolkenloses Wetter mit guter Sicht.
 
 # Wetterregeln
 
@@ -496,6 +527,8 @@ Windstärke im Juli und August: 5 bis 7 Bft
 - Die Hochdruckkeile zwischen den Zyklonen der Westwindzone verlagern sich mit der Zuggeschwindigkeit der sie umgebenden Zyklonen. 
 
 - Wandernde Hochdruckgebiete haben in ihrer Zugbahn auf der Nordhalbkugel eine Tendenz nach rechts (zum Äquator hin). Im Gegensatz dazu tendieren Zyklonen nach links (polwärts).
+
+> Ein okkludiertes Tief schwenkt auf der Nordhalbkugel nach links von seiner bisherigen Bahn (Poltendenz). Die Bahngeschwindigkeit verringert sich.
 
 - Fronten bewegen sich umso rascher, je mehr Isobaren sie schneiden.
 
@@ -546,7 +579,9 @@ im Uhrzeigersinn
 
 13. Eine Zyklone vertieft sich, wenn die Labilität ihrer Luftmassen zunimmt (im Sommer beim Übertritt vom Meer aufs Land, im Winter beim Übertritt vom Land aufs Meer – beim Ubertritt auf einen wärmeren Untergrund) 
 
-## Regeln über die Bewegung von Fronten 14. Kaltfronten ziehen schneller als Warmfronten, manchmal doppelt so schnell
+## Regeln über die Bewegung von Fronten 
+
+14. Kaltfronten ziehen schneller als Warmfronten, manchmal doppelt so schnell
 
 15. Fronten verlagern sich in Richtung des Windes hinter ihnen. Kaltfronten und Okklusionen fast mit der Geschwindigkeit des Bodenwindes hinter ihnen, Warmfronten etwas langsamer.
 
@@ -594,7 +629,8 @@ im Uhrzeigersinn
 31. Querwindregel: Dreht der Wind oberhalb der Reibungsschicht mit der Höhe recht, so führt er wärmere Luft heran (Vorderseite eines Tiefs). Dreht er mit der Höhe rück bringt er kältere Luft (Rückseite eines Tiefs)
 
 32. AC cast (Altocumulus castellanus) oder AC floc (Altocumulus flocus) am Morgen kündigen meist eine Gewitterfront für die 2. Tageshälfte an
-Weitere Regeln
+
+# Weitere Regeln
 
 33. Hat ein Tief zwei  nahezu gleichgroße Kerne beginnen diese um den gemeinsamen Schwerpunkt zu kreisen
 
@@ -624,9 +660,11 @@ Weitere Regeln
 
 Ist die Wellenhöhe die BSH und DWD in ihren Berichten und Vorhersagen angeben. 
 
-H~1/3~ = mittlere Wellenhöhe aus dem drittel der höchsten Wellen eines Seegangs
+H~1/3~ = mittlere Wellenhöhe aus dem Drittel der höchsten Wellen eines Seegangs
 
 => Es gibt hohe, mittelhohe und niedrige Wellen 
+
+>Seegangshöhen in Europa werden in der Regel in Wetterberichten in Meter (m) angegeben. Die Seegangshöhe bezieht sich auf die durchschnittliche Höhe der höchsten Drittel der Wellen und wird oft als signifikante Wellenhöhe bezeichnet. Es ist jedoch wichtig zu beachten, dass die tatsächlichen Bedingungen auf See von vielen Faktoren abhängen, wie z.B. Windgeschwindigkeit, Wassertiefe und Strömungen, und dass es immer ratsam ist, spezifische Informationen von lokalen Wetterdiensten oder Behörden einzuholen, bevor man auf See geht.
 
 3. In den Seehandbüchern findet sich bei den Seegangsangaben stets der Zusatz, dass in einem Seegangsfeld höhere Wellen als die angegebene signifikante Wellenhöe auftreten. 
 
@@ -645,7 +683,7 @@ Wellenhöhe: 2,5 - 4
 
 7. Seegang ist ausgereift, wenn größere Wirkdauer sich nur bei einer höheren Wirkstrecke auswirkt.
 
-8. ***Windsee und Dünung**
+8. **Windsee und Dünung**
 
 Windsee: Die Windsee ist der Anteil des Seegangs, der unmittelbar vom Wind angetrieben wird.
 
@@ -657,14 +695,21 @@ Kreuzsee: Es überlagern sich Wellenzüge aus verschiedenen Richtungen
 
 ![](Kreuzsee.png)
 
+>Kreuzseen entstehen, wenn Wellen aus verschiedenen Richtungen aufeinandertreffen und sich kreuzen. Kreuzseen bewirken, dass die Wellen aus verschiedenen Richtungen auf die Yacht treffen, was zu einem instabilen Schwanken und Rollen führen kann. Wenn die Yacht nicht ausreichend stabilisiert ist, kann es zu Schäden am Rumpf oder anderen Teilen kommen. Im schlimmsten Fall kann die Yacht kentern und es besteht eine erhebliche Gefahr für die Besatzung. Es ist daher wichtig, in Kreuzseen vorsichtig zu sein und immer eine gute Seemannschaft zu praktizieren, um das Boot stabil zu halten und Unfälle zu vermeiden. Kreuzseen können in vielen Gewässern auftreten, insbesondere in Küstengewässern mit hohem Wellengang und starkem Wind. Sie treten oft auf, wenn eine Welle von einem Sturm oder starken Winden in eine andere Welle oder eine Strömung gerät, die aus einer anderen Richtung kommt. In Küstennähe können Kreuzseen auch durch die Reflektion von Wellen an Ufermauern, Klippen oder anderen Hindernissen entstehen. Es ist wichtig zu beachten, dass Kreuzseen nicht immer vorhersehbar sind und plötzlich auftreten können, insbesondere bei schwierigen Wetterbedingungen. Daher ist es wichtig, die Wetterbedingungen und die Gewässerbedingungen zu berücksichtigen und immer eine gute Seemannschaft zu praktizieren, um das Boot stabil zu halten und Unfälle zu vermeiden.
+
 9. In einer Meereswelle verläuft die Bewegung der Wasserteilchen kreisförmig.
 
 10. Einteilung der Wellen
+
+WT = Wassertiefe
+L = Wellenlänge
 
 $$Oberflächenwellen: WT < \frac{L}{2}$$ 
 $$Grundsee: WT > \frac{L}{2} $$ 
 $$Brandung:  \frac{H}{L} \ge  \frac{1}{8} $$ 
 Wellensteilheit H/L > 1/7 und Grundsee => Brandung
+ 
+>Man spricht allgemein von einer Grundsee, wenn eine Welle aufgrund ihrer Länge auf flachem Wasser vom Meeresboden beeinflusst werden. Die Wellen werden abgebremst, die Wellenlänge dadurch verkürzt und die Welle aufgesteilt. Es kommt zum Überbrechen der steilen Wellen. Ursache: Wenn relativ lange und verhältnismäßig hohe Wellen aus tieferem Wasser in Gebiete mit geringer Wassertiefe, also z.B. der Nordsee, einlaufen, so kommt es zur Störung der kreisförmigen (schleifenförmigen) Orbitalbewegung der Wasserteilchen durch „Grundberührung“, die Orbitalbewegung wird abgebremst. Die ursprüngliche Kreisbewegung nimmt eine stak elliptische Form an, dies führt zur Destabilisierung der Wellen. Die Brechung von Meereswellen setzt dann ein, wenn die Orbitalbewegung der Wasserteilchen in den Wellenkämmen größer als die Wellengeschwindigkeit ist (theoretisch ist das der Fall, wenn die Wellenhöhe 1/7 der Wellenlänge übersteigt) 
  
 11. "Fühlt" eine Welle in flachem Wasser den Boden, dann ändern sich ihre Geschwindigkeit und ihre Richtung. Bei geringer Wassertiefe laufen sie langsamer. Dies bewirkt bei einer langen Wellenfront zusätzlich eine Drehung, wenn ein Teil der Front sich in tiefem, der andere Teil sich in flachem Wasser ausbreitet. 
 
