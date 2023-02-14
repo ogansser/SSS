@@ -66,6 +66,10 @@ In Bodennähe gilt, dass ca. jede 8m p um 1hPa fällt. (vertigaler Druckgradient
 
 9. Der **Wind wird in der Richtung angegeben** aus der er kommt.  
 
+> Wind ist bewegte Luft. Die Bewegung entsteht durch die Druckunterschiede zwischen Hoch- und Tiefdruckgebieten.
+
+> Skala für Windrichtung: 8-teilige Skala mit Auflösung in 45° Stufen.
+
 10. Die **Stärke des Windes** kann in m/s, km/h, kn (Seemeilen/h) ausgedrückt werden. Der DWD gibt entsprechend der seemännischen Praxis die Stärke häufig in Beaufort-Graden an. Im Allgemeinen wird man die Windstärke nach dem Seegang beurteilen. 
 
 11. Zuordnungen Windstärke/-geschwindigkeit
@@ -258,7 +262,12 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 - Altostratus 2.500 bis 5.000m  
 - Nimbostratus wenige 100m bis 5.000m  
 
->Erste Anzeichen für das Herannahen einer Warmfront: Cirren; sie bestehen aus kleinen Eiskristallen.
+>Wolken als erste Anzeichen für das Herannahen einer Warmfront: Cirren; sie bestehen aus kleinen Eiskristallen.
+
+>Windstärken und –richtungen vom ersten Anzeichen einer aufziehenden Warmfront bis zu deren Durchzug: 
+Windstille oder schwach umlaufende Winde, u.U. auch rückdrehender Wind, schwache Winde aus SE-lichen Richtungen rechtdrehend unter langsamer Zunahme bis SW-liche Richtungen
+
+>Aus Altostratus kann bereits leichter Regen fallen. In einem 100 bis 300 km breiten Streifen vor der Front fällt aus Nimbostratus leichter bis starker Dauerregen (Landregen), bei entsprechender Temperatur auch Schnee. Direkt an oder hinter der Front geht der Niederschlag häufig in Sprühregen über.
 
 11. Kaltfront
 
@@ -346,6 +355,12 @@ Die Luft strömt entgegen dem Uhrzeigersinn (zyklonal) in ein Tief (Zyklone) hin
 9. **Regel von Buys-Ballot**
 
 Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der linken Seite, zwei Strich vorlicher als querab. Das Hoch liegt auf der rechten Seite, zwei Strich achterlicher als querab. Dies gilt für die Nordhalbkugel.
+
+>Sie segeln in der Ostsee vor dem Wind: 
+- Ein vor dem Winde segelndes Schiff hat auf der Nordhalbkugel den tieferen Druck stets etwas vorlicher
+(ca.20° ) als querab an Backbord. SP= 280° - 300°.  
+- Der hohe Druck befindet sich etwas achterlicher (ca. 20° ) als querab an Stb. SP=
+100° - 120°.
 
 10. **Rechtdrehend** bedeutet Änderung der Windrichtung im Uhrzeigersinn. **Rückdrehend** bedeutet Änderung der Windrichtung gegen den Uhrzeigersinn um mindestens 45°.
 
@@ -453,6 +468,24 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 - Mistral verstärkt durch ein Tieff mit Fronten, dessen Rückseite Luft aus Südfrankreich ansaugt.  
 - Mistral im Übergangsbereich zwischen einem ausgedehnten Tief über Nord- und Osteuropa und hohem Druck über West- und Südwesteuropa.
 
+>Mistralgegenden:
+- Mittelmeerküste Frankreich (Golf de Lion) bis zum Golf von Genua.  
+- Ebrotal bei Tarragona (Spanien), 
+- Düsenwirkung bei Perpignan durch Pyrenäen und Zentralmasiv, 
+- Düsenwirkung bei der Rhonemündung durch Zentralmasiv und Alpen bis,
+- Bereich Marseille-Toulon Hafen bis Bastia (Korsika).
+
+>Wettermäßig (Anzeichen!) bei einer „mistralverdächtigen“ Wetterlage zu achten auf:
+- Verlagerung einer Kaltfront über Frankreich nach Süden oder Südosten, 
+- merkbarer Temperaturrückgang hinter der Kaltfront, 
+- Bildung eines Leetiefs im Golf von Genua
+- Azorenhoch mit Ausbildung eines Keils über Biskaya/Spanien
+
+>Häufigkeiten eines Mistrals mit Sturmstärke und Dauer einer Mistralperiode:
+Volle Sturmstärke wird nur an wenigen Tagen im Jahr erreicht, Marseille z.B. an 10 bis 15 Tagen. Die Häufigkeit nimmt über See zu. Die häufigste Dauer beträgt 3,5 (3-4) Tage.
+
+>Amtlichen Publikation über den Mistral und seine Folgen (Seegang, Wellenhöhe usw.):
+Seehandbuch: Mittelmeer-Handbuch 
 
 5. **Boraartige und föhnartike Fallwinde** sind die an der kroatischen und albanischen Küste auftretenden kalten Fallwinde.
 
@@ -666,6 +699,8 @@ H~1/3~ = mittlere Wellenhöhe aus dem Drittel der höchsten Wellen eines Seegang
 
 >Seegangshöhen in Europa werden in der Regel in Wetterberichten in Meter (m) angegeben. Die Seegangshöhe bezieht sich auf die durchschnittliche Höhe der höchsten Drittel der Wellen und wird oft als signifikante Wellenhöhe bezeichnet. Es ist jedoch wichtig zu beachten, dass die tatsächlichen Bedingungen auf See von vielen Faktoren abhängen, wie z.B. Windgeschwindigkeit, Wassertiefe und Strömungen, und dass es immer ratsam ist, spezifische Informationen von lokalen Wetterdiensten oder Behörden einzuholen, bevor man auf See geht.
 
+> In Seehandbüchern, Seegangskarten und Wetterberichten wird stets die signifikante Wellenhöhe angegeben.
+
 3. In den Seehandbüchern findet sich bei den Seegangsangaben stets der Zusatz, dass in einem Seegangsfeld höhere Wellen als die angegebene signifikante Wellenhöe auftreten. 
 
 4. Entsprechend der Bft-Skala gibt es eine **Seegangsskala** nach den Seegangsstärken von 0 bis 9. 
@@ -709,7 +744,7 @@ $$Grundsee: WT > \frac{L}{2} $$
 $$Brandung:  \frac{H}{L} \ge  \frac{1}{8} $$ 
 Wellensteilheit H/L > 1/7 und Grundsee => Brandung
  
->Man spricht allgemein von einer Grundsee, wenn eine Welle aufgrund ihrer Länge auf flachem Wasser vom Meeresboden beeinflusst werden. Die Wellen werden abgebremst, die Wellenlänge dadurch verkürzt und die Welle aufgesteilt. Es kommt zum Überbrechen der steilen Wellen. Ursache: Wenn relativ lange und verhältnismäßig hohe Wellen aus tieferem Wasser in Gebiete mit geringer Wassertiefe, also z.B. der Nordsee, einlaufen, so kommt es zur Störung der kreisförmigen (schleifenförmigen) Orbitalbewegung der Wasserteilchen durch „Grundberührung“, die Orbitalbewegung wird abgebremst. Die ursprüngliche Kreisbewegung nimmt eine stak elliptische Form an, dies führt zur Destabilisierung der Wellen. Die Brechung von Meereswellen setzt dann ein, wenn die Orbitalbewegung der Wasserteilchen in den Wellenkämmen größer als die Wellengeschwindigkeit ist (theoretisch ist das der Fall, wenn die Wellenhöhe 1/7 der Wellenlänge übersteigt) 
+>Man spricht allgemein von einer Grundsee, wenn eine Welle aufgrund ihrer Länge auf flachem Wasser vom Meeresboden beeinflusst werden. Die Wellen werden abgebremst, die Wellenlänge dadurch verkürzt und die Welle aufgesteilt. Es kommt zum Überbrechen der steilen Wellen. Ursache: Wenn relativ lange und verhältnismäßig hohe Wellen aus tieferem Wasser in Gebiete mit geringer Wassertiefe, also z.B. der Nordsee, einlaufen, so kommt es zur Störung der kreisförmigen (schleifenförmigen) Orbitalbewegung der Wasserteilchen durch „Grundberührung“, die Orbitalbewegung wird abgebremst. Die ursprüngliche Kreisbewegung nimmt eine stak elliptische Form an, dies führt zur Destabilisierung der Wellen. Die Brechung von Meereswellen setzt dann ein, wenn die Orbitalbewegung der Wasserteilchen in den Wellenkämmen größer als die Wellengeschwindigkeit ist (theoretisch ist das der Fall, wenn die Wellenhöhe 1/7 der Wellenlänge übersteigt). Entstehung durch Untiefen oder in Küstennähe. Eine Grundsee kann etwa das 2,5 fache der signifikanten Wellenhöhe erreichen.
  
 11. "Fühlt" eine Welle in flachem Wasser den Boden, dann ändern sich ihre Geschwindigkeit und ihre Richtung. Bei geringer Wassertiefe laufen sie langsamer. Dies bewirkt bei einer langen Wellenfront zusätzlich eine Drehung, wenn ein Teil der Front sich in tiefem, der andere Teil sich in flachem Wasser ausbreitet. 
 
