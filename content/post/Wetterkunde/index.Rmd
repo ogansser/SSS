@@ -4,8 +4,8 @@ author: Oliver Gansser
 date: []
 slug: []
 categories: []
-tags: [Grundlagen Wetterkunde, Wolken und Nebel, Druckgebilde, Regionale Wettererscheinungen, Wetterregeln, Seegang, Seewetter-Informationen, Verarbeitung vonSeewetterberichten, Meteorologische Geräte]
-summary: Grundlagen Wetterkunde, Wolken und Nebel, Druckgebilde, Regionale Wettererscheinungen, Wetterregeln, Seegang, Seewetter-Informationen, Verarbeitung vonSeewetterberichten, Meteorologische Geräte
+tags: [Grundlagen Wetterkunde, Wolken und Nebel, Druckgebilde, Regionale Wettererscheinungen, Wetterregeln, Seegang, Seewetter-Informationen, Verarbeitung von Seewetterberichten, Meteorologische Geräte]
+summary: Grundlagen Wetterkunde, Wolken und Nebel, Druckgebilde, Regionale Wettererscheinungen, Wetterregeln, Seegang, Seewetter-Informationen, Verarbeitung von Seewetterberichten, Meteorologische Geräte
 output:
   blogdown::html_page:
     toc: TRUE
@@ -69,6 +69,8 @@ In Bodennähe gilt, dass ca. jede 8m p um 1hPa fällt. (vertigaler Druckgradient
 > Wind ist bewegte Luft. Die Bewegung entsteht durch die Druckunterschiede zwischen Hoch- und Tiefdruckgebieten.
 
 > Skala für Windrichtung: 8-teilige Skala mit Auflösung in 45° Stufen.
+
+>Die Schwankung in der Windrichtung kann bis zu 45 Grad um die Haupt windrichtung betragen, also bei Formulierung "Nordwest" von Westnordwest (WNW) bis Nordnordwest (NNW). Es können Böen auftreten, die etwa 1 bis 2 Bft über dem Mittelwind liegen.
 
 10. Die **Stärke des Windes** kann in m/s, km/h, kn (Seemeilen/h) ausgedrückt werden. Der DWD gibt entsprechend der seemännischen Praxis die Stärke häufig in Beaufort-Graden an. Im Allgemeinen wird man die Windstärke nach dem Seegang beurteilen. 
 
@@ -203,6 +205,8 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 - **Stratus oder Stratocumulus**: Wind und die allgemeine Rauhigleit der Landschaft lassen Luft bis zum Kondensationsniveau aufwirbeln (Turbulenzwolken). Es können dabei Schicht oder Schichthaufenwolken enstehen
 - **Wogenwolken**: Die Luft steigt wellenförmig in das Kondensationsniveau hinein und wieder heraus. Häufig in Lee von Gebirgen.
 
+>Es gibt Haufenwolken (Cumulus) und Schichtwolken (Stratus). Cirrus, Cirrostratus, Cirrocumulus, Altostratus, Altocumulus, Nimbostratus, Stratocumulus, Stratus, Cumulus, Cumulonimbus.
+
 5. Wolkenfamilien International, nach Aufbau und Höhe:
 
 - hohe Wolken 
@@ -210,6 +214,13 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 - tiefe Wolken  
 - Wolken mit vertikaler Entwicklung
 
+>Tiefe Wolken zwischen 0 und 2 km, mittelhohe Wolken zwischen 2 und 7 km und hohe Wolken zwischen 7 und 13 km.
+
+>Altocumulus castellanus kündigen oft schon vormittags kräftige Wärmegewitter an.
+
+>Haufenwolke (Cumulus) zeigen sich am späten Vormittag über Land am Himmel und kündigt Seewind an?
+
+ 
 6. Die zehn amtlichen Wolkengattungen
 
 |||
@@ -282,7 +293,9 @@ Windstille oder schwach umlaufende Winde, u.U. auch rückdrehender Wind, schwach
 
 ![Die Kaltfront-Okklusion](Kaltfront-Okklusion.png)  
 
+
 >Okklusion ist die Front in einem Tiefdruckgebiet, bei der die Kaltfront die Warmfront eingeholt hat.
+
 >Durch die höhere Verlagerungsgeschwindigkeit holt die Kaltfront die Warmfront ein und hebt die Warmluft vom Boden ab. Ist die Luft vor der Front kälter als hinter der Front, so nimmt diese Warmluftcharakter an (Warmfrontokklusion), im anderen Fall Kaltfrontcharakter (Kaltfrontokklusion).
 
 13. Nebelbildung
@@ -294,6 +307,9 @@ Windstille oder schwach umlaufende Winde, u.U. auch rückdrehender Wind, schwach
 |Mischungsnebel|Zwei Luftmassen mit untschiedlicher Temperatur und Feuchte vermischen sich. <br>Die eine Luft kühlt die andere ab oder reichert sie mit Wassersampf an.|Küstennebel, Frontnebel|
 |Strahlungsnebel|Erde strahlt  Wärme ins All ab (klare Nächte, Morgenstunden)<br>verdrifteter Nebel|Hochnebel|
 |Orthographischer Nebel|Luft mit hoher Feuchte wird an Gebirgen oder Inseln zum Aufsteigen gezwungen.<br>Geringerer Druck in der Höhe => Ausdehnung => Abkühlung => Sättigung => Nebel|Inselnebel|
+
+>Entstehung von Strahlungsnebel: Nach Sonnenuntergang kann sich bei klarem Himmel die bodennahe Luftschicht über Land bis unter die Taupunktstemperatur abkühlen; es entsteht Srahlungsnebel. Durch den Wind verdriftet der Strahlungsnebel in Küstennähe auf die See, er ist aber auch besonders auf Flüssen und in engen Durchfahrten (zwischen Inseln) vorhanden.
+
 
 # Druckgebilde
 
@@ -457,6 +473,12 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 - Düseneffekt  
 - Leewirbel  
 - Fallwinde  
+
+> Windverhältnisse in der Nähe von Steilkästen: 
+- Auflandiger Wind: Der Wind wird aus Küstenführung zum Teil beschleunigt wenn er nahezu auflandig oder parallel zur Küste weht.   
+- Ablandiger Wind: Weht der Wind ablandig, muss örtlich mit umlaufenden Winden und erhöhter Böigkeit (Fallwinden) gerechnet
+werden.
+
 
 3. Orographische Effekte
 ![](OrthographischeEffekte.png)
@@ -639,11 +661,11 @@ im Uhrzeigersinn
 
 ## Luftdruckregeln 
 
-23. Gleichbleibender Luftdruck deutet auf beständiges Wetter hin 
+>23. Gleichbleibender Luftdruck deutet auf beständiges Wetter (und Wind) hin 
 
-24. Langsamer und gleichmäßiger Luftdruckanstieg bedeutet meist nachhaltige Wetterbesserung 
+>24. Langsamer und gleichmäßiger Luftdruckanstieg bedeutet meist nachhaltige Wetterbesserung 
 
-25. Bei schnellem Luftdruckanstieg ist die Wetterbesserung meist nur vorübergehend 
+>25. Bei schnellem Luftdruckanstieg ist die Wetterbesserung meist nur vorübergehend 
 
 26. Eine Luftdruckänderung von mehr als 4 hPa in 3 h kann Wind von 6-8 Bft bringen 
 
@@ -722,6 +744,9 @@ Wellenhöhe: 2,5 - 4
 
 Windsee: Die Windsee ist der Anteil des Seegangs, der unmittelbar vom Wind angetrieben wird.
 
+>Windsee ist Seegang, der durch den Wind am Ort oder in der näheren Umgebung angefacht wird. Windsee hängt ab von:
+Windgeschwindigkeit, Fetch (Windwirklänge) und Wirkdauer des Windes.
+
 Die Wellenbewegung ist ein Schwingungszustand, der sich schneller ausbreitet, als das ihn hervorrufende Windfeld ziehen kann. 
 
 Dünung: Es läuft also eine See aus dem Windfeld heraus, ohne von dem Wind weiter bearbeitet zu werden. 
@@ -774,7 +799,20 @@ Wellensteilheit H/L > 1/7 und Grundsee => Brandung
 - SEEWIS-online, SEEWIS-Fax
 - Privater Informationsdienst (PID) der Deutschen Telekom
 - private Beratung des DWD
-- NAVTEXINhalte und Vorhersage
+- NAVTEX Inhalte und Vorhersage
+
+>Wetterinformationen an Bord erhältlich über
+- Hörfunksender (UKW, KW, MW, LW) 
+- Küstenfunkstellen, 
+- Verkehrszentralen, 
+- NAVTEX, 
+- Online- Dienste (z.B. Seewis- Online des Deutschen Wetterdienstes, T-Online, u.a.), 
+...weitere...
+- RTTY (Funkfernschreiben), 
+- Faksimile (Wetterfax), 
+- Faxpolling (z.B. SEEWIS-Fax des Deutschen Wetterdienstes),
+- Telefonabruf, Törnberatung
+
 
 3. Für die europäischen Meeresgebiete stehen Wetterinformationen hinsichtlich Inhalte und Vorhersagezeiten in Klartexten und Karten zur Verfügung.
 
@@ -793,7 +831,7 @@ Vorhersagen von 00,12,24,36,48,60,72 Stunden mit
 - Strömungen
 - Wasserstände
 
-# Verbreitung von Seewetterberichten
+# Verarbeitung von Seewetterberichten
 
 1. Möglichkeiten einen Seewetterbericht zu zeichnen
 
@@ -818,6 +856,10 @@ Vorhersagen von 00,12,24,36,48,60,72 Stunden mit
 4. Seewetterberichte Nord- und Ostsee z. B.über Deutschlandfunk (Frequenz 1269 hHz, Sendezeiten 0105, 0640 und 1105)
 
 Internetseite: [https://www.deutschlandfunk.de/](https://www.deutschlandfunk.de/)
+
+>Veröffentlichungen mit Sendezeiten und Frequenzen für Seewetterberichte:  
+- Amtlich: Der „Nautische Funkdienst Band 2“ (Funkordnung, Wetter- und Eisfunk) und der „Jachtfunkdienst Nord- und Ostsee“ des BSH, sowie die angelsächsische Veröffentlichung „Admiralty List of Radio Signals Volume 3“.  
+- Nicht-amtlich: „Sturmwarnungen und Seewetterberichte für die Sport- und Küstenschifffahrt“ des Deutschen Wetterdienstes (DWD).
 
 5. Vorschlag zur Gliederung von Wetterinformationen:
 
