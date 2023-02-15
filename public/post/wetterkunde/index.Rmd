@@ -16,6 +16,13 @@ output:
 
 # Grundlagen der Wetterkunde
 
+
+>Wetter: Ist der augenblickliche Zustand der Atmosphäre am Betrachtungsort.  
+Witterung: Ist die Beschreibung eines über mehrere Tage anhaltenden Wettergeschehens, gekennzeichnet durch z.B. kalt, feucht.  
+Klima: ist die großräumige, langfristige Darstellung des mittleren Wetterverlaufs.
+
+>Die Grundelemente des Wettergeschehens sind: Luftfeuchte, Temperatur, Luftdruck
+
 1. Gesetzliche Temperatureinheit (International) ist [Kelvin (K)](https://de.wikipedia.org/wiki/Kelvin) oder, als besonderer Name, in **Grad Celsius** gemessen. Eine Temperatur von 0 °C entspricht 273,15 K; der absolute Nullpunkt liegt bei 0 K (= −273,15 °C))
 
 Extremwerte in Deutschland: -35 bis +40 ohne Strahöungsanteil
@@ -102,6 +109,11 @@ Regel: 1 Bft = 5 kn; bei 1 bis 7 Bft +1; bei 11 und 12 Bft -1
 - Größe der ablenkenden Kräfte der Erdrotation => Breite
 - Reibung an der Erdoberfläche
 - Krümmung der Windbahn
+
+>Scheinkräfte die die Windgeschwindigkeit beeinflussen:   
+- Der Coriolis-Effekt dreht die Richtung des Windes rechtwinklig nach rechts, wenn man auf der Nordhalbkugel vom hohen zum tiefen Druck schaut (Nordhalbkugel). Bei gleichem Isobarenabstand ist durch den Coriolis-Effekt in niederen Breiten die Windgeschwindigkeit größer als in höheren Breiten.   
+- Die Reibungskraft verringert die Geschwindigkeit des Windes (auf 66% von der des geostrophischen Windes; Zahlenangabe nicht erforderlich!) und lenkt die Richtung über See um 22° zu den Isobaren zum tiefen Druck hin.   
+- Die Zentrifugalkraft verstärkt/verringert die Windgeschwindigkeit bei antizyklonal/zyklonal gekrümmten Isobaren gegenüber parallel verlaufenden Isobaren mit gleichem Isobarenabstand. Infolge der Zentrifugalkraft ist bei gleichem Isobarenabstand die Windgeschwindigkeit an Hochdruckgebieten  größer als an Tiefdruckgebieten.
 
 16. In amerikanischen Wetterkarten wird der geostrophische Wind auf 65% verringert, um eine gute Näherung an den Bodenwind zu erhalten. 
 
@@ -244,18 +256,18 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 
 >Gewitterarten über See: Luftmassengewitter (Wärmegewitter) und Frontgewitter (an Kaltfront)
 
-> Gefahren für Segelfahrzeug bei Gewitter:
-- Böen bis Orkanstärke aus häufig wechselnden Richtungen 
-- Starke Regenfälle mit erheblicher Sichtminderung 
-- Hagelschlag, Blitzschlag
-- Hoher Seegang, Kreuzseen
+> Gefahren für Segelfahrzeug bei Gewitter:  
+- Böen bis Orkanstärke aus häufig wechselnden Richtungen   
+- Starke Regenfälle mit erheblicher Sichtminderung   
+- Hagelschlag, Blitzschlag  
+- Hoher Seegang, Kreuzseen 
 
->Markante Zeichen für das Herannahen eines Gewitters sind: 
-- mächtige, turmartige Haufenwolken (Cumulonimben), 
-- sehr dunkle Wolkenunterseite mit vorgelagerter Böenwalze 
-- der bisher vorhandene Wind flaut ab, frischt danach aus anderen Richtungen auf, 
-- einsetzende Abkühlung der Luft,
-- Auffallende Störgeräusche im Mittelwellenbereich des Rundfunkgerätes
+>Markante Zeichen für das Herannahen eines Gewitters sind:  
+- mächtige, turmartige Haufenwolken (Cumulonimben),  
+- sehr dunkle Wolkenunterseite mit vorgelagerter Böenwalze  
+- der bisher vorhandene Wind flaut ab, frischt danach aus anderen Richtungen auf,  
+- einsetzende Abkühlung der Luft, 
+- Auffallende Störgeräusche im Mittelwellenbereich des Rundfunkgerätes 
 
 
 9. Böhen
@@ -275,10 +287,18 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 
 >Wolken als erste Anzeichen für das Herannahen einer Warmfront: Cirren; sie bestehen aus kleinen Eiskristallen.
 
+>Die Cirren als ersten Anzeichen einer ausgeprägten Warmfront erscheinen ca. 500-600 km vor der Bodenfront.
+
 >Windstärken und –richtungen vom ersten Anzeichen einer aufziehenden Warmfront bis zu deren Durchzug: 
 Windstille oder schwach umlaufende Winde, u.U. auch rückdrehender Wind, schwache Winde aus SE-lichen Richtungen rechtdrehend unter langsamer Zunahme bis SW-liche Richtungen
 
 >Aus Altostratus kann bereits leichter Regen fallen. In einem 100 bis 300 km breiten Streifen vor der Front fällt aus Nimbostratus leichter bis starker Dauerregen (Landregen), bei entsprechender Temperatur auch Schnee. Direkt an oder hinter der Front geht der Niederschlag häufig in Sprühregen über.
+
+>(Die Warmfront mit warmer, feuchter Luft gleitet auf die vor ihr liegende Kaltfront auf, wobei sich ein ausgedehntes Wolkenfeld entwickelt). Zuerst sind Cirren in großer Höhe zu erkennen (etwa 8-9 km hoch), die in Schichtwolken, wie Cirrostratus und Altosratus übergehen. Im weiteren Verlauf der Warmfrontverlagerung bilden sich Nimbusstratuswolken, also Schichtwolken in mittlerer Höhe, aber mit einer erheblichen horizontalen Ausdehnung. Bis zum Durchgang der Warmfront befindet sich über dem Beobachter eine dichte Wolkendecke, die geschlossen in Höhen von 6-8 km reicht.
+
+>Von den ersten Anzeichen bis zum Durchzug der Warmfront beobachtet man schwache Winde aus SE, langsam rechtdrehend aus Süd, Stärke Bft.3, weiter rechtdrehend auf SW und zunehmend bis Stärke Bft. 5. Das ausgedehnte Nimbus- Wolkenfeld bringt Schlechtwetter mit anhaltenden kräftigen Niederschlägen, die
+bei Durchzug der Bodenfront in Sprühregen übergehen.
+
 
 11. Kaltfront
 
@@ -365,16 +385,18 @@ Zwei Möglichkeiten:
 
 8. **Luftströmungen** in einem Hoch und in einem Tief
 
->In Hochdruckgebieten steigt die Luft ab. Aus dem Hoch (Antizyklone) weht der Wind auf der Nordhalbkugel im Uhrzeigersinn (antizyklonal) heraus (22 Grad von den Isobaren vom Hoch weg).
+>Im Zentrum des Hochs herrscht Flaute. In Hochdruckgebieten steigt die Luft ab. Aus dem Hoch (Antizyklone) weht der Wind auf der Nordhalbkugel im Uhrzeigersinn (antizyklonal) heraus (22 Grad von den Isobaren vom Hoch weg).  
 Die Luft strömt entgegen dem Uhrzeigersinn (zyklonal) in ein Tief (Zyklone) hinein, wo sie aufsteigt und in höhere Schichten abfließt (22 Grad von den Isobaren zum Tief hin).
+
+
 
 9. **Regel von Buys-Ballot**
 
 Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der linken Seite, zwei Strich vorlicher als querab. Das Hoch liegt auf der rechten Seite, zwei Strich achterlicher als querab. Dies gilt für die Nordhalbkugel.
 
->Sie segeln in der Ostsee vor dem Wind: 
+>Sie segeln in der Ostsee vor dem Wind:   
 - Ein vor dem Winde segelndes Schiff hat auf der Nordhalbkugel den tieferen Druck stets etwas vorlicher
-(ca.20° ) als querab an Backbord. SP= 280° - 300°.  
+(ca.20° ) als querab an Backbord. SP= 280° - 300°.    
 - Der hohe Druck befindet sich etwas achterlicher (ca. 20° ) als querab an Stb. SP=
 100° - 120°.
 
@@ -474,9 +496,9 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 - Leewirbel  
 - Fallwinde  
 
-> Windverhältnisse in der Nähe von Steilkästen: 
-- Auflandiger Wind: Der Wind wird aus Küstenführung zum Teil beschleunigt wenn er nahezu auflandig oder parallel zur Küste weht.   
-- Ablandiger Wind: Weht der Wind ablandig, muss örtlich mit umlaufenden Winden und erhöhter Böigkeit (Fallwinden) gerechnet
+> Windverhältnisse in der Nähe von Steilkästen:   
+- Auflandiger Wind: Der Wind wird aus Küstenführung zum Teil beschleunigt wenn er nahezu auflandig oder parallel zur Küste weht.     
+- Ablandiger Wind: Weht der Wind ablandig, muss örtlich mit umlaufenden Winden und erhöhter Böigkeit (Fallwinden) gerechnet  
 werden.
 
 
@@ -490,18 +512,18 @@ werden.
 - Mistral verstärkt durch ein Tieff mit Fronten, dessen Rückseite Luft aus Südfrankreich ansaugt.  
 - Mistral im Übergangsbereich zwischen einem ausgedehnten Tief über Nord- und Osteuropa und hohem Druck über West- und Südwesteuropa.
 
->Mistralgegenden:
-- Mittelmeerküste Frankreich (Golf de Lion) bis zum Golf von Genua.  
-- Ebrotal bei Tarragona (Spanien), 
-- Düsenwirkung bei Perpignan durch Pyrenäen und Zentralmasiv, 
-- Düsenwirkung bei der Rhonemündung durch Zentralmasiv und Alpen bis,
-- Bereich Marseille-Toulon Hafen bis Bastia (Korsika).
+>Mistralgegenden:  
+- Mittelmeerküste Frankreich (Golf de Lion) bis zum Golf von Genua.    
+- Ebrotal bei Tarragona (Spanien),   
+- Düsenwirkung bei Perpignan durch Pyrenäen und Zentralmasiv,   
+- Düsenwirkung bei der Rhonemündung durch Zentralmasiv und Alpen bis,  
+- Bereich Marseille-Toulon Hafen bis Bastia (Korsika).  
 
->Wettermäßig (Anzeichen!) bei einer „mistralverdächtigen“ Wetterlage zu achten auf:
-- Verlagerung einer Kaltfront über Frankreich nach Süden oder Südosten, 
-- merkbarer Temperaturrückgang hinter der Kaltfront, 
-- Bildung eines Leetiefs im Golf von Genua
-- Azorenhoch mit Ausbildung eines Keils über Biskaya/Spanien
+>Wettermäßig (Anzeichen!) bei einer „mistralverdächtigen“ Wetterlage zu achten auf:  
+- Verlagerung einer Kaltfront über Frankreich nach Süden oder Südosten,   
+- merkbarer Temperaturrückgang hinter der Kaltfront,   
+- Bildung eines Leetiefs im Golf von Genua  
+- Azorenhoch mit Ausbildung eines Keils über Biskaya/Spanien  
 
 >Häufigkeiten eines Mistrals mit Sturmstärke und Dauer einer Mistralperiode:
 Volle Sturmstärke wird nur an wenigen Tagen im Jahr erreicht, Marseille z.B. an 10 bis 15 Tagen. Die Häufigkeit nimmt über See zu. Die häufigste Dauer beträgt 3,5 (3-4) Tage.
@@ -520,9 +542,16 @@ Gebirgseinschnitte, Flusstäler und Fjorde => Verstärkung der Fallwinde
 - **antizyklische Bora**: Bora ensteht an der südlichen Flanke eines umfangreichen Hochs oder Hochkeils. 
 - **zyklonale Bora**: Gebiet der Adria liegt im Einflussbereich der nördlichen Seite eines Tiefs
 
-Windgeschwindigkeiten: 48 bis 55kn (schwerer Sturm)
-Richtung: ENE
-Dauer: Bis zu einem Tag
+Windgeschwindigkeiten: 48 bis 55kn (schwerer Sturm)  
+Richtung: ENE   
+Dauer: Bis zu einem Tag  
+
+>Die Bora ist in der Adria ein gefürchteter Wind, der aus NNE bis NE aus den nördlichen Hochlagen des Balkans als Fallwind mit Sturmstärken in die Adria einfällt. Ursache: Hoher Druck über Mitteleuropa und tiefer Druck im Mittelmeer (im Süden der Adria oder südlich davon )führen (je nach Einfluss der Druckgebilde und deren Lagen zueinander) zur zyklonalen oder antizyklonalen Bora. Im Winter gefährlicher wegen der großen Temperaturunterschiede: Kaltes Hinterland – warmes Meer. Führt zu länger anhaltendem Sturm. Im Sommer sind auch große Windstärken möglich, jedoch nicht so anhaltend wie im Winter.
+
+>Wettererscheinungen:  
+- Antizyklonale Bora: Es überwiegt der Einfluss des Hochdruckgebietes über dem mittel- oder osteuropäischen Festland. Wolkenbildung an den Gebirgskämmen, Wolkenauflösung über See; klare, trockene Luft. Cumuluswolken.  
+- Zyklonale Bora: Es überwiegt der Einfluss der Mittelmeerzyklone, die mit ihren Fronten bei zeitweiser Schichtbewölkung heftige Sturmböen, ergiebige Niederschläge (Regen, Hagel, zeitlich auch Schnee) mit
+sich bringt. Sie gilt als gefährlicher.
 
 7. **Schirokko** 
 
