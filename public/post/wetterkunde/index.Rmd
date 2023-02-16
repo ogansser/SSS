@@ -21,7 +21,8 @@ output:
 Witterung: Ist die Beschreibung eines über mehrere Tage anhaltenden Wettergeschehens, gekennzeichnet durch z.B. kalt, feucht.  
 Klima: ist die großräumige, langfristige Darstellung des mittleren Wetterverlaufs.
 
->Die Grundelemente des Wettergeschehens sind: Luftfeuchte, Temperatur, Luftdruck
+>Die Grundelemente des Wettergeschehens sind: Luftfeuchte, Temperatur, Luftdruck   
+weitere Parameter: Windrichtung- und stärke, Wolkenbild und Niederschläge
 
 1. Gesetzliche Temperatureinheit (International) ist [Kelvin (K)](https://de.wikipedia.org/wiki/Kelvin) oder, als besonderer Name, in **Grad Celsius** gemessen. Eine Temperatur von 0 °C entspricht 273,15 K; der absolute Nullpunkt liegt bei 0 K (= −273,15 °C))
 
@@ -42,6 +43,7 @@ Extremwerte in Europa: +75 mit Strahlungsanteil
 4. Ein Flüssigkeitsbarometer ähnelt einem umgedrehten U, wobei es ein offenes und geschlossenes Ende besitzt. Es ist mit genau 760 Millimetern Quecksilber gefüllt. Im geschlossenen Ende ist ein Vakuum. Ändert sich der Luftdruck, wird das Quecksilber mehr oder weniger in das Vakuum gedrückt und die Höhe der Säule ändert sich. Auf einer Skala lässt sich dann der Luftdruck ablesen.
 Unter Normalbedinungen steht die Quecksilbersäule 76 cm hoch (= 760 mmHG, HG=chemisches Zeichen für Quecksilber)
 
+>Luftdruck entsteht als Folge der Gewichtskraft (Masse mal Beschleunigung) der Atmosphäre. Durch den Druck der über einer Fläche in einem beliebigen Höhenniveau befindlichen Luftschichten wird die darunter liegende Luftmasse zusammengepresst und dadurch in Spannung versetzt. Diese Spannung hält zur Gewichtskraft der Luft ein Gleichgewicht.
 
 5. Druck wird in **Pascal** angegeben. Die Luftsäule in Meereshöhe erzeugt unter Normbedingungen einen Druck von 1013,2 Hektopascal (hPa): 
 
@@ -67,6 +69,10 @@ Der **horizontale Druckgradient** dient zur Bestimmung der Windstärke
 $$Drucktendenz = \frac{\Delta p}{\Delta t}$$ 
 
 Gutes Erklärvideo: [Kraft auf Luft durch Druckunterschied](https://www.youtube.com/watch?v=qAmAwRPDihI)
+
+>Gradient ist der Luftdruckunterschied in hPa auf einer Strecke von 60 sm senkrecht zu den Isobaren.
+
+>Berchnung des Gradienten: $$Druckgradient = \frac{\Delta hPa * 60}{Meilenabstand der Isobaren}$$  
 
 8. p nimmt mit der höhe über der Erdoberfläche ab. In einer Höhe von ca. 5400m beträgt p 500hPa. 
 In Bodennähe gilt, dass ca. jede 8m p um 1hPa fällt. (vertigaler Druckgradient)
@@ -116,6 +122,8 @@ Regel: 1 Bft = 5 kn; bei 1 bis 7 Bft +1; bei 11 und 12 Bft -1
 - Die Zentrifugalkraft verstärkt/verringert die Windgeschwindigkeit bei antizyklonal/zyklonal gekrümmten Isobaren gegenüber parallel verlaufenden Isobaren mit gleichem Isobarenabstand. Infolge der Zentrifugalkraft ist bei gleichem Isobarenabstand die Windgeschwindigkeit an Hochdruckgebieten  größer als an Tiefdruckgebieten.
 
 16. In amerikanischen Wetterkarten wird der geostrophische Wind auf 65% verringert, um eine gute Näherung an den Bodenwind zu erhalten. 
+
+>Die Höhe der Vorhersage für Bodenwind aus der Vorhersagekarte beträgt 10 m, die Einheit der Windgeschwindigkeit ist Knoten oder Beaufort für die Windstärke.
 
 17. Der geostrophische Wind wird in den Bordwetterkarten 9 (Nord- und Ostsee)und 11 (Mittelmeer) mit einem **geostrophisches Windlineal** für einen Isobarenabstand von 10hPa angewandt.
 
@@ -219,12 +227,11 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 
 >Es gibt Haufenwolken (Cumulus) und Schichtwolken (Stratus). Cirrus, Cirrostratus, Cirrocumulus, Altostratus, Altocumulus, Nimbostratus, Stratocumulus, Stratus, Cumulus, Cumulonimbus.
 
-5. Wolkenfamilien International, nach Aufbau und Höhe:
-
-- hohe Wolken 
-- mittelhohe Wolken 
-- tiefe Wolken  
-- Wolken mit vertikaler Entwicklung
+>5. Wolkenfamilien International, nach Aufbau und Höhe:  
+- hohe Wolken (5.000 bis 13.000m überlappend): Cirrus, Cirrostratus, Cirrocumulus  
+- mittelhohe Wolken (bis 7.000m) Altostratus, Altocumulus, Nimbostratus  
+- tiefe Wolken  (0 bis 2.000m) Stratus, Stratocumulus, Cumulus  
+- Wolken mit vertikaler Entwicklung  (ca. 600 bis 12.000 m, also von tiefen bis hohen Wolken): Cumulonimbus.  
 
 >Tiefe Wolken zwischen 0 und 2 km, mittelhohe Wolken zwischen 2 und 7 km und hohe Wolken zwischen 7 und 13 km.
 
@@ -239,13 +246,27 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 |-|-|
 |![](Wolkengattungen.png)|![](cloud.jpg)|
 
+
+>Wolkenarten   
+Niedrige Schichtwolken => Stratus  
+niedrige Haufenwolken => Cumulus  
+niedrige Schichthaufenwolken => Stratocumulus  
+mittelhohe Schichtwolken => Altostratus   
+mittelhohe Haufenwolken => Altocumulus   
+hohe Schäfchenwolken => Cirrocumulus   
+hohe Schleierwolken => Cirrostratus  
+hohe Federwolken => Cirrus (Cirren)   
+Gewitterwolken => Cumulonimbus  
+Regenwolken => Nimbostratus  
+
+
 7. Verschlüsselung der Wolken: 
 
 - C~L~ - tiefe Wolken (Stratocumulus, Stratus, Cumulus, Cumulonimbus)  
 - C~M~ - mittelhohe Wolken (Altocumulus, Altostratus, Nimbostratus)  
 - C~H~ - hohe Wolken (Cirrus, Cirrocumulus, Cirrostratus)  
 
-8. Gewitter
+>8. Gewitter
 
 | Art | Unterscheidung | Entstehung |
 |-----|-----------|-------------------|
@@ -255,6 +276,16 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 >Gewitter treten bei Cumulonimbuswolken auf; diese Wolkenart ist beim bzw. nach dem Durchgang einer (ausgeprägten) Kaltfront sowie über Inseln und stark aufgeheizten Landflächen zu erwarten. (Die Atmosphäre muss hochreichend labil oder feuchtlabil geschichtet sein).
 
 >Gewitterarten über See: Luftmassengewitter (Wärmegewitter) und Frontgewitter (an Kaltfront)
+
+>Entstehung:  
+- Luftmassengewitter entstehen durch die feuchtwarme Luftmasse (hohe Taupunkte!) im Zusammenhang mit einer Bodenkonvergenz.   
+- Bei den Frontgewittern werden insbesonders an und vor Kaltfronten die Luftmassen aktiv gehoben.   
+
+>Räumliches Auftreten:  
+- Bei den Luftmassengewittern treten die einzelnen Gewitterzellen im Bereich der Luftmasse verbreitet auf.   
+- Bei den Frontgewittern findet man die Gewitterentwicklungen direkt vor und an der Kaltfront.   
+
+>Für die Sportschifffahrt stellen neben der Blitztätigkeit die Böenlinien (Squall-lines) mit Böen bis Orkanstärke eine besondere Gefahr dar.
 
 > Gefahren für Segelfahrzeug bei Gewitter:  
 - Böen bis Orkanstärke aus häufig wechselnden Richtungen   
@@ -269,6 +300,7 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 - einsetzende Abkühlung der Luft, 
 - Auffallende Störgeräusche im Mittelwellenbereich des Rundfunkgerätes 
 
+>Die Böen weichen in der Windstärke insbesondere bei schweren Gewittern oft um ein Vielfaches vom Mittelwind ab, manchmal erreichen sie Orkanstärke. => Angabe deswegen extra in Seewetterberichten
 
 9. Böhen
 
@@ -318,7 +350,9 @@ bei Durchzug der Bodenfront in Sprühregen übergehen.
 
 >Durch die höhere Verlagerungsgeschwindigkeit holt die Kaltfront die Warmfront ein und hebt die Warmluft vom Boden ab. Ist die Luft vor der Front kälter als hinter der Front, so nimmt diese Warmluftcharakter an (Warmfrontokklusion), im anderen Fall Kaltfrontcharakter (Kaltfrontokklusion).
 
-13. Nebelbildung
+>Ein okkludiertes Tief schwenkt auf der Nordhalbkugel nach links von seiner bisherigen Bahn (Poltendenz). Die Bahngeschwindigkeit verringert sich.
+
+>13. Nebelbildung
 
 |Art|Prozess|Beispiel|
 |---|-------|--------|
@@ -389,6 +423,17 @@ Zwei Möglichkeiten:
 Die Luft strömt entgegen dem Uhrzeigersinn (zyklonal) in ein Tief (Zyklone) hinein, wo sie aufsteigt und in höhere Schichten abfließt (22 Grad von den Isobaren zum Tief hin).
 
 
+>Typischen Wetterverlauf, wenn eine Zyklone auf Nordbreite südlich von einem Beobachter vorbeizieht:
+Nördlich von einer vorbeiziehender Zyklone ist der Wetterverlauf gleichmäßiger als im Süden. Es gibt  
+- keine Fronten   
+- keine Temperatursprünge   
+- keine plötzlichen Luftdruckänderungen   
+- kein Ausschießen des Windes  
+Wolkenaufzug: von Cirren über Cirrostratus, Altostratus, Stratocumulus; in der Nähe des Kerns Stratus mit Regen, nach Passieren des Kerns in Schauer übergehend. Rückseitenwetter mit abnehmender Intensität.  
+Luftdruck: fällt allmählich vor dem Tief, um dahinter ebenso allmählich wieder anzusteigen.   
+Temperatur: ändert sich nicht auffällig, da der Beobachter immer im Bereich der Kaltluft bleibt.  
+Wind: rückdrehend von S/SE über E, NE, N auf NW.
+
 
 9. **Regel von Buys-Ballot**
 
@@ -435,22 +480,21 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
   - schlechte Sicht
 
 
-14. Wettererscheinungen an Kaltfront
+>14. Wettererscheinungen an Kaltfront  
 
 - Kurz vor der Kaltfront
- - Luftdruck fällt wieder
- - Windgeschwindigkeit nimmt zu
- - Wolkenwand aus tief hängenden Ns (Cb möglich)
- - beginnender Niederschlag
- 
-- Beim passieren der Front
+  - Luftdruck fällt wieder
+  - Windgeschwindigkeit nimmt zu
+  - Wolkenwand aus tief hängenden Nimbustratus (Cumulonimben möglich)
+  - beginnender Niederschlag
+- Beim passieren der Front  
   - Luftdruck steigt sprunghaft
   - Windsprung rechtsdrehend
   - Zunahme der Windgeschwindigkeit, Böhen
   - schauerartige Niederschläge, schlecht Sicht
   - Temperatur sinkt
-  - Sicht verbessert sich
-  - Rückseitenwetter
+  - Sicht verbessert sich, Rückseitenwetter
+
 
 14. Spezielle Tiefdruckgebiete
 ![](Rand.png)
@@ -458,9 +502,16 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 16. **Trog** oder **Tiefdruckdrog** meint, dass die Isobaren eine Ausbeulung haben. 
 ![](Trog.png)
 
->Bei einem trogförmig angeordneten Isobarenverlauf, der Ähnlichkeiten hat mit der unteren Hälfte eines Schüssel, spricht man von einem Trog. Außer der Winddrehung und den Niederschlägen im Bereich der Trogachse sind normale Tröge ungefährlich. Allerdings besteht Gewittergefahr. Liegen den Isobaren im Trog jedoch sehr eng beieinander, können in Trögen die gefährlichsten Stürme der gemäßigten Breiten auftreten. Durch die unterschiedliche Windrichtung hinter und vor der Trogachse entsteht Kreuzsee aus Dünung und Windsee.
+>Bei einem trogförmig angeordneten Isobarenverlauf an einem Tief spricht man von einem Trog. Außer der Winddrehung und den Niederschlägen im Bereich der Trogachse sind normale Tröge ungefährlich. Allerdings besteht Gewittergefahr. Liegen die Isobaren im Trog jedoch sehr eng beieinander, können in Trögen die gefährlichsten Stürme der gemäßigten Breiten auftreten. Durch die unterschiedliche Windrichtung hinter und vor der Trogachse entsteht Kreuzsee aus Dünung und Windsee.
 
 > So lässt sich ein herannahmender Trog in einem Tief erkennen: Nach Durchgang der Kaltfront dreht der Wind nicht auf NW bis NNW, ist also nicht rechtdrehend, sondern behält seine Richtung bei und ist sogar rückdrehend. Der Druck steigt nach Durchgang der Kaltfront nicht an, ist gleichbleibend und beginnt schließlich zu fallen. Die Bewölkung nimmt zu, und Niederschläge folgen.
+
+>Enstehung einer Trogwetterlage: Bei einem stark ausgeprägten Tief schwenken im Reifestadium die Fronten voraus und zusammen. Die Okklusionsfront schwenkt auf der Nordhalbkugel nach Norden und das Tief zieht eine Tiefdruckschleppe hinter sich her; diese wird als Trog bezeichnet.
+
+>Obwohl die Windstärke nach Durchgang der Kaltfront noch einmal leicht abnimmt, muss man im weiteren Verlauf mit erheblich zunehmendem Wind bis Sturmstärke und mit Rechtdrehung des Windes rechnen.
+
+>Mit der raschen Rechtdrehung des Windes im Bereich des Scheitels des Troges (Trogachse) wird eine sehr gefährliche Kreuzsee erzeugt
+
 
 17. Zyklonenfamilie
 ![](Zyklonenfamilie.jpg)
@@ -501,6 +552,15 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 - Ablandiger Wind: Weht der Wind ablandig, muss örtlich mit umlaufenden Winden und erhöhter Böigkeit (Fallwinden) gerechnet  
 werden.
 
+>Düseneffekt: Küsten, insbesondere Steilküsten, beeinflussen die Luftströmung. Bildet die Küstenformation einen engen Durchlass, wird (nach dem Venturiprinzip) die Strömungsgeschwindigkeit beschleunigt, das ist der Düseneffekt. Die Windstärke kann an diesen Stellen erheblich zunehmen. 
+
+>Regionen in Europa mit Düseneffekt: Straße von Gibraltar, Straße von Bonifacio, Westausgang des Skagerraks, zwischen den Inseln der Ägäis, Straße von Messina.
+
+>Düseneffekt zwischen Inseln: Zwischen zwei Hindernissen, zum Beispiel Inseln oder einer Meerenge, wird die Luft hindurchgepresst und durch die Verringerung des Querschnitts beschleunigt. Der Wind kann um etwa 2 bis 5 Windstärken stärker sein als der Mittelwind.
+
+>Kapeffekt: Ein aus einer Luftmasse herausragendes Kap engt den Luftstrom einseitig ein. Es wirkt ebenfalls der Venturieffekt. Zusätzlich wird die Windrichtung deutliche geändert, eine schräg auf die Steilküste treffende Luftströmung wird in die Richtung der Küste umgelenkt.
+
+>In einer Entfernung von etwa dem 10 bis maximal 30-fachen der Höhe des Hindernisses hat sich in etwa wieder ein normales Windfeld (in Lee von Hindernissen) eingestellt.
 
 3. Orographische Effekte
 ![](OrthographischeEffekte.png)
@@ -519,11 +579,17 @@ werden.
 - Düsenwirkung bei der Rhonemündung durch Zentralmasiv und Alpen bis,  
 - Bereich Marseille-Toulon Hafen bis Bastia (Korsika).  
 
->Wettermäßig (Anzeichen!) bei einer „mistralverdächtigen“ Wetterlage zu achten auf:  
+>Wettermäßig (Anzeichen!) bei einer „mistralverdächtigen“ Wetterlage zu achten auf:    
 - Verlagerung einer Kaltfront über Frankreich nach Süden oder Südosten,   
 - merkbarer Temperaturrückgang hinter der Kaltfront,   
 - Bildung eines Leetiefs im Golf von Genua  
 - Azorenhoch mit Ausbildung eines Keils über Biskaya/Spanien  
+
+>Merkmale von Mistral:  
+- Merkbarer Temperaturrückgang hinter der Kaltfront. 
+- Klarer Himmel, diesige Luft 
+- Heftiger Seegang (Windstärke im Golfe du Lion häufig über 8 Bft.)
+- Dauer meist 3,5 Tage.
 
 >Häufigkeiten eines Mistrals mit Sturmstärke und Dauer einer Mistralperiode:
 Volle Sturmstärke wird nur an wenigen Tagen im Jahr erreicht, Marseille z.B. an 10 bis 15 Tagen. Die Häufigkeit nimmt über See zu. Die häufigste Dauer beträgt 3,5 (3-4) Tage.
@@ -546,12 +612,31 @@ Windgeschwindigkeiten: 48 bis 55kn (schwerer Sturm)
 Richtung: ENE   
 Dauer: Bis zu einem Tag  
 
->Die Bora ist in der Adria ein gefürchteter Wind, der aus NNE bis NE aus den nördlichen Hochlagen des Balkans als Fallwind mit Sturmstärken in die Adria einfällt. Ursache: Hoher Druck über Mitteleuropa und tiefer Druck im Mittelmeer (im Süden der Adria oder südlich davon )führen (je nach Einfluss der Druckgebilde und deren Lagen zueinander) zur zyklonalen oder antizyklonalen Bora. Im Winter gefährlicher wegen der großen Temperaturunterschiede: Kaltes Hinterland – warmes Meer. Führt zu länger anhaltendem Sturm. Im Sommer sind auch große Windstärken möglich, jedoch nicht so anhaltend wie im Winter.
+>Die Bora ist in der Adria ein gefürchteter Wind, der aus NNE bis NE aus den nördlichen Hochlagen des Balkans als Fallwind mit Sturmstärken in die Adria einfällt. Ursache: Hoher Druck über Mitteleuropa und tiefer Druck im Mittelmeer (im Süden der Adria oder südlich davon) führen (je nach Einfluss der Druckgebilde und deren Lagen zueinander) zur zyklonalen oder antizyklonalen Bora. Im Winter gefährlicher wegen der großen Temperaturunterschiede: Kaltes Hinterland – warmes Meer. Führt zu länger anhaltendem Sturm. Im Sommer sind auch große Windstärken möglich, jedoch nicht so anhaltend wie im Winter.
 
 >Wettererscheinungen:  
 - Antizyklonale Bora: Es überwiegt der Einfluss des Hochdruckgebietes über dem mittel- oder osteuropäischen Festland. Wolkenbildung an den Gebirgskämmen, Wolkenauflösung über See; klare, trockene Luft. Cumuluswolken.  
-- Zyklonale Bora: Es überwiegt der Einfluss der Mittelmeerzyklone, die mit ihren Fronten bei zeitweiser Schichtbewölkung heftige Sturmböen, ergiebige Niederschläge (Regen, Hagel, zeitlich auch Schnee) mit
-sich bringt. Sie gilt als gefährlicher.
+- Zyklonale Bora: Es überwiegt der Einfluss der Mittelmeerzyklone, die mit ihren Fronten bei zeitweiser Schichtbewölkung heftige Sturmböen, ergiebige Niederschläge (Regen, Hagel, zeitlich auch Schnee) mit sich bringt. Sie gilt als gefährlicher.
+
+>Die Bora ist ein an der adriatischen Ost-Küste auftretender kalter Fallwind aus Richtung NE (evtl. NNE).  
+- Aufgrund der thermischen Gegensätze zwischen hochgelegener Kaltluft im dalmatinischen Hochland und warmer Adria kommt es zu Fallwinden, der Bora, die durch Gebirgseinschnitte, Flusstäler und Fjorde beschleunigt werden.  
+- Werden die Luftmassen zusätzlich durch ein Tief südlich der Adria oder im Süden der Adria in die Adria transportiert, spricht man von einer zyklonalen Bora. Da die Temperaturgegensätze innerhalb dieses Tiefs groß sind, verstärken noch hohe Windgeschwindigkeiten, heftige Sturmböen, Regen und Hagel die Bora.   
+- Werden die Luftmassen unter dem Einfluss eines Hochs über den Alpen oder nordlich der Alpen in die Adria transportiert, liegt eine antizyklonale Bora vor. Die mitgeführten Luftmassen bestehen aus kalter und trockener kontinentaler Luft. Dadurch ist die Luft an der Küste wolkenlos, eventuell Wolkenbänke über den Bergkämmen. Feuchtezunahme und Wolkenbildung (Cu, Cb) über der Adria. Die Dauer einer Boralage richtet sich nach der Beständigkeit der Hochs und Tiefs und ihrer Position. Im Mittel dauert eine Boralage 1 Tag lang an. Im Winter sind örtlich schon Windgeschwindigkeiten von über 100 kn beobachtet worden. Das mittlere Windmaximum liegt um 50 kn. Auch im Sommer können schwere Sturmböen auftreten. Eine antizyklonale Bora kündigt sich wie ein Hoch an: Druckanstieg, Himmel tiefblau, gute Sicht, Wind hier NE, böig. Die Ankündigung einer zyklonalen Bora erfolgt wie die eines Tiefs mit einer Front: Druckfall, Regen, Hagel.
+
+>Antizyklonale Bora: Es überwiegt der Einfluss des Hochdruckgebietes über dem mittel- oder osteuropäischen Festland. Wolkenbildung an den Gebirgskämmen, Wolkenauflösung über See, klare trockene Luft. Cummuluswolken.   
+Ankündigung:   
+- deutlicher Druckanstieg über einige Stunden   
+- Fernsicht wird plötzlich sehr gut, Himmel leuchtet tiefblau    
+- Wind dreht auf NE und wird etwas böig  
+
+>Zyklonale Bora: Es überwiegt der Einfluss der Mittelmeerzyklone, die mit ihren Fronten bei zeitweiliger Schichtbewölkung heftige Sturmböen, ergiebige Niederschläge (Regen, Hagel, zeitlich auch Schnee) mit sich bringt. Sie gilt als gefährlicher.   
+Ankündigung: 
+- es wird warm und diesig   
+- Regen zieht aus SE auf    
+- deutlicher Druckabfall  
+
+>Bora allgemein: Dauer: Im Sommer sind einige Stunden typisch, mehrere Tage sind möglich   
+Ende: meistens um die Mittagszeit, Bewölkung hat sich aufgelöst, Wind hat auf NW gedreht, Luftdruck ist deutlich gestiegen
 
 7. **Schirokko** 
 
@@ -572,6 +657,9 @@ Dieser Wind ist an eine großräumige Druckverteilung gebunden: hoher Druck übe
 Windstärke im Juli und August: 5 bis 7 Bft
 
 >Die Etesien (griechisch; türkisch: Meltemi) sind jährlich wiederkehrende, nördliche Winde in der Ägäis. Die Etesien entstehen zwischen einem Hoch über Südeuropa und in einem Tief in Kleinasien. Diese großräumige Druckverteilung ist sehr beständig. Insofern wehen die Etesien von Mai bis Oktober mit einer Beständigkeit von 80%. Die durchschnittliche Windgeschwindigkeit beträgt im Juli/ August 5 Bft in einem Streifen in der Mitte des Ägäischen Meeres. Der Seegang kann unangenehm sein. Da kontinentale Luft von den Etesien transportiert wird, herrscht wolkenloses Wetter mit guter Sicht.
+
+>Die Etesien - in türkischen Gewässern Meltemi genannt - ist ein großräumiger, die ganze Sommerzeit täglich wiederkehrender nordöstlicher Winde (Bft. 5 bis 7) in der Ägäis.  
+Er entsteht durch das festliegende Sommertief über Kleinasien und dem östlichen Mittelmeer und hohen Luftdruck über dem Balkan. Da das Sommertief im wesentlichen wolkenlos ist, beruht der Antrieb dieses Windsystems ausschließlich auf Thermik und bedingt die tägliche Wiederkehr mit dem Sonnenlicht.
 
 # Wetterregeln
 
@@ -611,8 +699,6 @@ Windstärke im Juli und August: 5 bis 7 Bft
 - Die Hochdruckkeile zwischen den Zyklonen der Westwindzone verlagern sich mit der Zuggeschwindigkeit der sie umgebenden Zyklonen. 
 
 - Wandernde Hochdruckgebiete haben in ihrer Zugbahn auf der Nordhalbkugel eine Tendenz nach rechts (zum Äquator hin). Im Gegensatz dazu tendieren Zyklonen nach links (polwärts).
-
-> Ein okkludiertes Tief schwenkt auf der Nordhalbkugel nach links von seiner bisherigen Bahn (Poltendenz). Die Bahngeschwindigkeit verringert sich.
 
 - Fronten bewegen sich umso rascher, je mehr Isobaren sie schneiden.
 
@@ -699,6 +785,10 @@ im Uhrzeigersinn
 26. Eine Luftdruckänderung von mehr als 4 hPa in 3 h kann Wind von 6-8 Bft bringen 
 
 27. Eine Luftdruckänderung von mehr als 10 hPa in 3 h kann schweren Sturm bringen
+
+>Windänderungserwartung, wenn der Druck nach längerem tiefen Stand stark anteigt: Starke Windzunahme (aufkommender stürmischer Wind) mit deutlicher Richtungsänderung.
+
+>Allmählichen Luftdruckabfall bedeutet: Wetterumschlag, Annäherung einer Zyklone, Bewölkungszunahme, Wind kommt auf, Niederschlag, Temperatur steigt (vor der Warmfront) oder bleibt nahezu konstant.
 
 ## Regeln über den Wind 
 
@@ -793,12 +883,16 @@ Kreuzsee: Es überlagern sich Wellenzüge aus verschiedenen Richtungen
 WT = Wassertiefe
 L = Wellenlänge
 
-$$Oberflächenwellen: WT < \frac{L}{2}$$ 
-$$Grundsee: WT > \frac{L}{2} $$ 
+$$Oberflächenwellen: WT > \frac{L}{2}$$ 
+$$Grundsee: WT < \frac{L}{2} $$ 
 $$Brandung:  \frac{H}{L} \ge  \frac{1}{8} $$ 
 Wellensteilheit H/L > 1/7 und Grundsee => Brandung
  
->Man spricht allgemein von einer Grundsee, wenn eine Welle aufgrund ihrer Länge auf flachem Wasser vom Meeresboden beeinflusst werden. Die Wellen werden abgebremst, die Wellenlänge dadurch verkürzt und die Welle aufgesteilt. Es kommt zum Überbrechen der steilen Wellen. Ursache: Wenn relativ lange und verhältnismäßig hohe Wellen aus tieferem Wasser in Gebiete mit geringer Wassertiefe, also z.B. der Nordsee, einlaufen, so kommt es zur Störung der kreisförmigen (schleifenförmigen) Orbitalbewegung der Wasserteilchen durch „Grundberührung“, die Orbitalbewegung wird abgebremst. Die ursprüngliche Kreisbewegung nimmt eine stak elliptische Form an, dies führt zur Destabilisierung der Wellen. Die Brechung von Meereswellen setzt dann ein, wenn die Orbitalbewegung der Wasserteilchen in den Wellenkämmen größer als die Wellengeschwindigkeit ist (theoretisch ist das der Fall, wenn die Wellenhöhe 1/7 der Wellenlänge übersteigt). Entstehung durch Untiefen oder in Küstennähe. Eine Grundsee kann etwa das 2,5 fache der signifikanten Wellenhöhe erreichen.
+>Grundsee: Meereswellen mit besonders hohen Brechern, die durch Untiefen oder Küstennähe entstehen. Die Höhe ist etwa das 2,5-fache der kennzeichnenden charakteristischen Wellenhöhe.
+
+>Man spricht allgemein von einer Grundsee, wenn eine Welle aufgrund ihrer Länge auf flachem Wasser vom Meeresboden aufgesteilt wird. Es kommt zum Überbrechen hoher bzw. steiler Wellen.
+Ursache: Wenn relativ lange und verhältnismäßig hohe Wellen aus tieferem Wasser in Gebiete mit geringer Wassertiefe einlaufen, so stellt sich der untere Teil der kreisförmig verlaufenden Wellenform auf und die Höhe der Wellen nimmt zu. Wenn (theoretisch) die Wellenhöhe 1/7 der Wellenlänge übersteigt, brechen die Wellen.
+
  
 11. "Fühlt" eine Welle in flachem Wasser den Boden, dann ändern sich ihre Geschwindigkeit und ihre Richtung. Bei geringer Wassertiefe laufen sie langsamer. Dies bewirkt bei einer langen Wellenfront zusätzlich eine Drehung, wenn ein Teil der Front sich in tiefem, der andere Teil sich in flachem Wasser ausbreitet. 
 
@@ -830,17 +924,17 @@ Wellensteilheit H/L > 1/7 und Grundsee => Brandung
 - private Beratung des DWD
 - NAVTEX Inhalte und Vorhersage
 
->Wetterinformationen an Bord erhältlich über
-- Hörfunksender (UKW, KW, MW, LW) 
-- Küstenfunkstellen, 
-- Verkehrszentralen, 
-- NAVTEX, 
-- Online- Dienste (z.B. Seewis- Online des Deutschen Wetterdienstes, T-Online, u.a.), 
-...weitere...
-- RTTY (Funkfernschreiben), 
-- Faksimile (Wetterfax), 
-- Faxpolling (z.B. SEEWIS-Fax des Deutschen Wetterdienstes),
-- Telefonabruf, Törnberatung
+>Wetterinformationen an Bord erhältlich über    
+- Hörfunksender (UKW, KW, MW, LW)  
+- Küstenfunkstellen,  
+- Verkehrszentralen,  
+- NAVTEX,  
+- Online- Dienste (z.B. Seewis- Online des Deutschen Wetterdienstes, T-Online, u.a.),  
+...weitere... 
+- RTTY (Funkfernschreiben),  
+- Wetterfax,  
+- Faxpolling (z.B. SEEWIS-Fax des Deutschen Wetterdienstes),   
+- Telefonabruf, Törnberatung  
 
 
 3. Für die europäischen Meeresgebiete stehen Wetterinformationen hinsichtlich Inhalte und Vorhersagezeiten in Klartexten und Karten zur Verfügung.
@@ -886,8 +980,12 @@ Vorhersagen von 00,12,24,36,48,60,72 Stunden mit
 
 Internetseite: [https://www.deutschlandfunk.de/](https://www.deutschlandfunk.de/)
 
->Veröffentlichungen mit Sendezeiten und Frequenzen für Seewetterberichte:  
-- Amtlich: Der „Nautische Funkdienst Band 2“ (Funkordnung, Wetter- und Eisfunk) und der „Jachtfunkdienst Nord- und Ostsee“ des BSH, sowie die angelsächsische Veröffentlichung „Admiralty List of Radio Signals Volume 3“.  
+>Veröffentlichungen mit Sendezeiten und Frequenzen für Seewetterberichte:   
+
+- Amtlich:   
+   - Handbuch Nautischer Funkdienst
+   - Funkdienst für die Klein- und Sportschifffahrt
+   - angelsächsische Veröffentlichung „Admiralty List of Radio Signals Volume 3“.    
 - Nicht-amtlich: „Sturmwarnungen und Seewetterberichte für die Sport- und Küstenschifffahrt“ des Deutschen Wetterdienstes (DWD).
 
 5. Vorschlag zur Gliederung von Wetterinformationen:
@@ -908,6 +1006,11 @@ seemännische Sorgfaltspflicht => rechtliche/versicherungsrechtliche Bedeutung
 |Wetternavigation|Nowcasting<br>Kürzestfristvorhersage<br>Korsfristvorhersage|Beschreibung des gegenwärtigen Wetters (Stationsmeldungen)<br>einige Windvorhersagen<br>Seewetterberichte|
 |Witterungsnavigation|Mittelfristvorhersage|Mittelfristseewetterbericht für die nächsten 5 Tage|
 |Klimanavigation|Langfristvorhersage|-|
+
+>Genauigkeit von Windvorhersagen:  
+- Windrichtung: Es werden nur die Hauptrichtungen (N, NE, E, SE, S, SW, W, NW) angegeben mit einer Genauigkeit von +/- 25°.    
+- Windrichtungsänderung: recht- und rückdrehend nur bei jeweils mindestens 45° Änderungen, umlaufender Wind nur bis 5 kn.   
+- Windstärke: Mittelwert über einen längeren Zeitraum; bei labilen Luftmassen (Schauern) ist mit Böen zu rechnen, die 2 Bft. über dem Mittelwert liegen können. Bei der Angabe „böig“ mit 2 Bft. stärkerem Wind rechnen.
 
 8. Prognose aus Wetterberichten zeichnen
  

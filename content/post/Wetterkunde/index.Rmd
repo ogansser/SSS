@@ -123,6 +123,8 @@ Regel: 1 Bft = 5 kn; bei 1 bis 7 Bft +1; bei 11 und 12 Bft -1
 
 16. In amerikanischen Wetterkarten wird der geostrophische Wind auf 65% verringert, um eine gute Näherung an den Bodenwind zu erhalten. 
 
+>Die Höhe der Vorhersage für Bodenwind aus der Vorhersagekarte beträgt 10 m, die Einheit der Windgeschwindigkeit ist Knoten oder Beaufort für die Windstärke.
+
 17. Der geostrophische Wind wird in den Bordwetterkarten 9 (Nord- und Ostsee)und 11 (Mittelmeer) mit einem **geostrophisches Windlineal** für einen Isobarenabstand von 10hPa angewandt.
 
 18. **Böhen** sind Winde aus höheren Luftschichten. Windgeschwindigkeiten liegen bis zu 2 Bft über Mittelwinde. In der aufkommenden Bö ist der Wind rechtdrehend, in der abflauenden Bö rückdrehend (Nordhalbkugel).
@@ -225,12 +227,11 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 
 >Es gibt Haufenwolken (Cumulus) und Schichtwolken (Stratus). Cirrus, Cirrostratus, Cirrocumulus, Altostratus, Altocumulus, Nimbostratus, Stratocumulus, Stratus, Cumulus, Cumulonimbus.
 
-5. Wolkenfamilien International, nach Aufbau und Höhe:
-
-- hohe Wolken 
-- mittelhohe Wolken 
-- tiefe Wolken  
-- Wolken mit vertikaler Entwicklung
+>5. Wolkenfamilien International, nach Aufbau und Höhe:  
+- hohe Wolken (5.000 bis 13.000m überlappend): Cirrus, Cirrostratus, Cirrocumulus  
+- mittelhohe Wolken (bis 7.000m) Altostratus, Altocumulus, Nimbostratus  
+- tiefe Wolken  (0 bis 2.000m) Stratus, Stratocumulus, Cumulus  
+- Wolken mit vertikaler Entwicklung  (ca. 600 bis 12.000 m, also von tiefen bis hohen Wolken): Cumulonimbus.  
 
 >Tiefe Wolken zwischen 0 und 2 km, mittelhohe Wolken zwischen 2 und 7 km und hohe Wolken zwischen 7 und 13 km.
 
@@ -245,13 +246,27 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 |-|-|
 |![](Wolkengattungen.png)|![](cloud.jpg)|
 
+
+>Wolkenarten   
+Niedrige Schichtwolken => Stratus  
+niedrige Haufenwolken => Cumulus  
+niedrige Schichthaufenwolken => Stratocumulus  
+mittelhohe Schichtwolken => Altostratus   
+mittelhohe Haufenwolken => Altocumulus   
+hohe Schäfchenwolken => Cirrocumulus   
+hohe Schleierwolken => Cirrostratus  
+hohe Federwolken => Cirrus (Cirren)   
+Gewitterwolken => Cumulonimbus  
+Regenwolken => Nimbostratus  
+
+
 7. Verschlüsselung der Wolken: 
 
 - C~L~ - tiefe Wolken (Stratocumulus, Stratus, Cumulus, Cumulonimbus)  
 - C~M~ - mittelhohe Wolken (Altocumulus, Altostratus, Nimbostratus)  
 - C~H~ - hohe Wolken (Cirrus, Cirrocumulus, Cirrostratus)  
 
-8. Gewitter
+>8. Gewitter
 
 | Art | Unterscheidung | Entstehung |
 |-----|-----------|-------------------|
@@ -261,6 +276,16 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 >Gewitter treten bei Cumulonimbuswolken auf; diese Wolkenart ist beim bzw. nach dem Durchgang einer (ausgeprägten) Kaltfront sowie über Inseln und stark aufgeheizten Landflächen zu erwarten. (Die Atmosphäre muss hochreichend labil oder feuchtlabil geschichtet sein).
 
 >Gewitterarten über See: Luftmassengewitter (Wärmegewitter) und Frontgewitter (an Kaltfront)
+
+>Entstehung:  
+- Luftmassengewitter entstehen durch die feuchtwarme Luftmasse (hohe Taupunkte!) im Zusammenhang mit einer Bodenkonvergenz.   
+- Bei den Frontgewittern werden insbesonders an und vor Kaltfronten die Luftmassen aktiv gehoben.   
+
+>Räumliches Auftreten:  
+- Bei den Luftmassengewittern treten die einzelnen Gewitterzellen im Bereich der Luftmasse verbreitet auf.   
+- Bei den Frontgewittern findet man die Gewitterentwicklungen direkt vor und an der Kaltfront.   
+
+>Für die Sportschifffahrt stellen neben der Blitztätigkeit die Böenlinien (Squall-lines) mit Böen bis Orkanstärke eine besondere Gefahr dar.
 
 > Gefahren für Segelfahrzeug bei Gewitter:  
 - Böen bis Orkanstärke aus häufig wechselnden Richtungen   
@@ -275,6 +300,7 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 - einsetzende Abkühlung der Luft, 
 - Auffallende Störgeräusche im Mittelwellenbereich des Rundfunkgerätes 
 
+>Die Böen weichen in der Windstärke insbesondere bei schweren Gewittern oft um ein Vielfaches vom Mittelwind ab, manchmal erreichen sie Orkanstärke. => Angabe deswegen extra in Seewetterberichten
 
 9. Böhen
 
@@ -397,6 +423,17 @@ Zwei Möglichkeiten:
 Die Luft strömt entgegen dem Uhrzeigersinn (zyklonal) in ein Tief (Zyklone) hinein, wo sie aufsteigt und in höhere Schichten abfließt (22 Grad von den Isobaren zum Tief hin).
 
 
+>Typischen Wetterverlauf, wenn eine Zyklone auf Nordbreite südlich von einem Beobachter vorbeizieht:
+Nördlich von einer vorbeiziehender Zyklone ist der Wetterverlauf gleichmäßiger als im Süden. Es gibt  
+- keine Fronten   
+- keine Temperatursprünge   
+- keine plötzlichen Luftdruckänderungen   
+- kein Ausschießen des Windes  
+Wolkenaufzug: von Cirren über Cirrostratus, Altostratus, Stratocumulus; in der Nähe des Kerns Stratus mit Regen, nach Passieren des Kerns in Schauer übergehend. Rückseitenwetter mit abnehmender Intensität.  
+Luftdruck: fällt allmählich vor dem Tief, um dahinter ebenso allmählich wieder anzusteigen.   
+Temperatur: ändert sich nicht auffällig, da der Beobachter immer im Bereich der Kaltluft bleibt.  
+Wind: rückdrehend von S/SE über E, NE, N auf NW.
+
 
 9. **Regel von Buys-Ballot**
 
@@ -465,7 +502,7 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 16. **Trog** oder **Tiefdruckdrog** meint, dass die Isobaren eine Ausbeulung haben. 
 ![](Trog.png)
 
->Bei einem trogförmig angeordneten Isobarenverlauf, der Ähnlichkeiten hat mit der unteren Hälfte eines Schüssel, spricht man von einem Trog. Außer der Winddrehung und den Niederschlägen im Bereich der Trogachse sind normale Tröge ungefährlich. Allerdings besteht Gewittergefahr. Liegen den Isobaren im Trog jedoch sehr eng beieinander, können in Trögen die gefährlichsten Stürme der gemäßigten Breiten auftreten. Durch die unterschiedliche Windrichtung hinter und vor der Trogachse entsteht Kreuzsee aus Dünung und Windsee.
+>Bei einem trogförmig angeordneten Isobarenverlauf an einem Tief spricht man von einem Trog. Außer der Winddrehung und den Niederschlägen im Bereich der Trogachse sind normale Tröge ungefährlich. Allerdings besteht Gewittergefahr. Liegen die Isobaren im Trog jedoch sehr eng beieinander, können in Trögen die gefährlichsten Stürme der gemäßigten Breiten auftreten. Durch die unterschiedliche Windrichtung hinter und vor der Trogachse entsteht Kreuzsee aus Dünung und Windsee.
 
 > So lässt sich ein herannahmender Trog in einem Tief erkennen: Nach Durchgang der Kaltfront dreht der Wind nicht auf NW bis NNW, ist also nicht rechtdrehend, sondern behält seine Richtung bei und ist sogar rückdrehend. Der Druck steigt nach Durchgang der Kaltfront nicht an, ist gleichbleibend und beginnt schließlich zu fallen. Die Bewölkung nimmt zu, und Niederschläge folgen.
 
@@ -517,8 +554,13 @@ werden.
 
 >Düseneffekt: Küsten, insbesondere Steilküsten, beeinflussen die Luftströmung. Bildet die Küstenformation einen engen Durchlass, wird (nach dem Venturiprinzip) die Strömungsgeschwindigkeit beschleunigt, das ist der Düseneffekt. Die Windstärke kann an diesen Stellen erheblich zunehmen. 
 
+>Regionen in Europa mit Düseneffekt: Straße von Gibraltar, Straße von Bonifacio, Westausgang des Skagerraks, zwischen den Inseln der Ägäis, Straße von Messina.
+
+>Düseneffekt zwischen Inseln: Zwischen zwei Hindernissen, zum Beispiel Inseln oder einer Meerenge, wird die Luft hindurchgepresst und durch die Verringerung des Querschnitts beschleunigt. Der Wind kann um etwa 2 bis 5 Windstärken stärker sein als der Mittelwind.
+
 >Kapeffekt: Ein aus einer Luftmasse herausragendes Kap engt den Luftstrom einseitig ein. Es wirkt ebenfalls der Venturieffekt. Zusätzlich wird die Windrichtung deutliche geändert, eine schräg auf die Steilküste treffende Luftströmung wird in die Richtung der Küste umgelenkt.
 
+>In einer Entfernung von etwa dem 10 bis maximal 30-fachen der Höhe des Hindernisses hat sich in etwa wieder ein normales Windfeld (in Lee von Hindernissen) eingestellt.
 
 3. Orographische Effekte
 ![](OrthographischeEffekte.png)
@@ -890,7 +932,7 @@ Ursache: Wenn relativ lange und verhältnismäßig hohe Wellen aus tieferem Wass
 - Online- Dienste (z.B. Seewis- Online des Deutschen Wetterdienstes, T-Online, u.a.),  
 ...weitere... 
 - RTTY (Funkfernschreiben),  
-- Faksimile (Wetterfax),  
+- Wetterfax,  
 - Faxpolling (z.B. SEEWIS-Fax des Deutschen Wetterdienstes),   
 - Telefonabruf, Törnberatung  
 
