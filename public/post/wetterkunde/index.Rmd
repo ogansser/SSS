@@ -134,9 +134,11 @@ Regel: 1 Bft = 5 kn; bei 1 bis 7 Bft +1; bei 11 und 12 Bft -1
 **Starkwindwarnung**: Erwartung von 6 bis 7 Bft
 **Sturmwarnung**: Erwarung ab 8 Bft
 
-20. Der **scheinbare Wind** setzt sich zusammen aus **wahrem Wind** und **Fahrtwind**.
+>20. Der **scheinbare Wind** setzt sich zusammen aus **wahrem Wind** und **Fahrtwind**.
 
 ![](Wind2.png)
+
+![](Wind.png)
 
 21. Die wahre Windstärke lässt sich durch Beobachtung seiner Einwirkung auf die See mit der Beaufort-Skala ermitteln. Die Richtung bekommt man durch Peilung der Windsee. 
 
