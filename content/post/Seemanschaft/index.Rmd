@@ -23,9 +23,16 @@ output:
 
 3. Das 7/8- oder das 3/4-Rigg einer **Slup** ermöglicht es, mit dem Achterstag den Mast so zu biegen, dass der Großsegelbauch nach vorn herausgezogen und das Segel flach getrimmt wird. 
 
+>Sturmbesegelung bei einer normalen Slup (etwa 12 m lang) mit Rollgenua:   
+Das Großsegel muss dreimal reffbar sein, oder es muss ein Trysegel vorhanden sein. Die teilweise eingerollte Genua ist als Sturmbesegelung nicht geeignet. Statt dessen sollte eine Sturmfock an einem zweiten Vorstag (Kutterstag oder auch Babystag) gesetzt werden können.
+
 4. Bei einer **Yawl** (zusätzlich kleines Segel achtern) steht der Besanmast so weit achtern, damit er einen Hebelarm bildet => Trimmwirkung leichter => Gierigkeit wegtrimmen.
 
 5. Bei einer **Ketsch** (Großegel wird in zwei aufgeteilt) fällt das Besansegel (achtern) kleiner aus => Strömung bei Amwindkursen wird durch Vor- und Großsegel nach innen abgelenkt => Besan wird nur noch in spitzem Winkel angeströmt => geringerer Anteil an Gesamtsegelkraft.
+
+>Bei einer Ketsch auf Amwindkurven darf das Großsegel nicht ganz mittschiffs bzw. zu dicht geholt werden:  
+Das Großsegel lenkt den Luftstrom um einen gewissen Winkel zur Mittelsschifflinie ab. Steht es zu dicht, bleibt ein zu geringer Anstellwinkel für den Besan, der dann keinen Vortrieb mehr gibt.
+
 
 6. **Schoner** (größstes Segel achtern => Schonersegel) => schlechtere Amwindleistung => bessere Raumwind und Vormwindeigenschaften.
 
@@ -63,6 +70,10 @@ Harmonie zwischen Rundergehen und Schotführung:
 => Feinfühligeres Manövieren  
 => Optimierung Vortrieb  
 => Unterstützung Anlufen und Abfallen  
+
+>Bedeutung von **Kommandos** für den Ablauf eines Segelmanövers:   
+Die Aktionen verschiedener Crewmitglieder bedürfen der Harmonisierung und Steuerung durch den Schiffsführer. Kommandos gewähren den geordneten zeitlichen Ablauf und das richtige Ausmaß der Einzelhandlungen.
+
 
 10. Tägliche Kontrollen für Betriebssicherheit des Motors:   
 - Ölstand    
@@ -172,12 +183,38 @@ Falls nach dieser Entlüftung der Motor nicht startet, kann man noch die Hochdru
 >Einrichtungen / Sicherheitsvorschriften Flüssiggasanlage/Gaskocheranlage:   
 Grundsätzlich muss die Anlage den geltenden Sicherheitsvorschriften entsprechen. Aus diesem Grunde durch autorisierten Fachmann abnehmen lassen. Gasbehälter entweder an Deck oder in einem geschlossenen Raum mit Öffnung in Bodennähe nach außenbords. Meßfühler als Kontrolleinrichtung an einem tiefliegenden Platz in der Bilge montieren, da Flüssiggas schwerer als Luft ist und demzufolge absinkt. Vor Inbetriebnahme Leitungen und Anschlüsse auf Dichtigkeit prüfen. Bei Außerbetriebsetzung alle Absperrventile schließen, möglichst beim Gasbehälter beginnen, dann in der Reihenfolge bis zum Verbraucher.
 
+>Grundsätzlich muss die Anlage den geltenden Sicherheitsvorschriften entsprechen und abgenommen sein.   
+- Gasbehälter im Kasten mit Ablauföffnung nach Außenbords  
+- Druckreduzierer, Absperrventile, weitgehend feste Leitungen, Kocher mit Zündsicherung.  
+
+>Nach Gebrauch des Kochers sind sowohl das Ventil am Kocher als auch das Ventil an der Flasche zu schließen. Eventuell Gasspürgerät in der Bilge montieren.
+
 >Zweck einscheibiger Block der Tagelage (stehendes und laufendes Gut):   
 - Der feste, einscheibige Block dient der Richtungsänderung des durchlaufenden Gutes.    
 - Die mehrscheibigen Taljen bestehen aus einem mehrscheibigen festen Block und einem mehrscheibigen beweglichen / losen Block, die durch den geschorenen Läufer (Tauwerk) miteinander verbunden sind. Eine Talje dient der Kraftersparnis. Diese hängt ab von der Anzahl Parten am losen / beweglichen Block.
 
 >Wenn bei einer Talje 4 Parten am beweglichen Block angreifen, ist die aufzuwendende Kraft ein Viertel der Last.
 
+>Informationen bei Yachtübernahme:   
+- Schiffspapiere (vollständig und aktuell)   
+- Wer ist Eigner der Yacht? Heimathafen? Unterscheidungssignale? Baujahr/Baumaterial/ Hersteller?    
+- Abmessungen des Schiffes (u.a. Länge, breite, Tg., Höhe den über Wasser, Vermessung)   
+- Rigg (u.a. Bauart, Bedienung, Zustand)   
+- Segel (u.a. Anzahl, Machart/Material, Zustand, Stauplatz)   
+- Maschinenanlage (u.a. Hersteller, Baujahr, Leistung, Bedienung, Wartung bzw. Instandhaltung)   
+- Stromversorgung (u.a. Kapazität)   
+- Schraube (u.a. Bauart, rechts- oder linksgängig und welche Steuerwirkung)   
+- Manövrierdaten unter Segel und Maschine (u.a. Geschwindigkeit)   
+- Ruderanlage (u.a. Bauart) und Notruderbedienug   
+- Ankereinrichtung - Sicherheitseinrichtung (baulich)   
+- Ausstattung und Zustand der pers. Sicherheitsausrüstung bzw. Rettungsmittel der Besatzung.   
+- Brennstoff,  
+- Frischwasser- und Gasvorräte (u.a. Mengen, Lagerort, Wartung und Instandhaltung)   
+- Funkanlage (u.a. Hersteller, Bedienung, Wartung und Instandhaltung)   
+- Mit welchen navigatorischen Geräten und Anlagen ist das Schiff ausgerüstet (u.a. Zustand , Wartung und Instandhaltung)  
+- Sind alle notwendigen und aktuellen Betriebsanleitungen vorhanden.   
+- Werkzeug und Reparaturmaterial vorhanden?    
+- Sonderausstattung (ggf. Bugstrahlruder)?
 
 # Stabilität 
 
@@ -343,9 +380,18 @@ CO2-Feuerlöscher nur für geschlossene Motorräume mit spezieller Löschöffnun
 
 17. **Sicherheitsgurte und -leinen** müssen einen hohe Reisfestigkeit haben (2 Tonnen), dass sie das harte Einrucken bei einem freien Fall in der gesamten Länge aushalten => max 2 M lang => Sorgleine besser mit halber Länge einpiken.
 
-18. Eine moderne Automatik-Sicherungsweste funktioniert mit Hilfe einer wasserlöslichen Tablette. Diese blockiert einen federspannenden Bolzen. Bei Wasserkontakt (durch z. B. Eintauchen in Wasser) löst sich die Sperre innerhalb von Sekunden, und der Schlagbolzen schlägt die Öffnung in die keine Druckflasche. Aus der strömt dann das Kohlendioxis in die Schwimmkörper. Es gibt noch einen Nachblaseschlauch und eine Signalpfeife. 
-
+>18. Eine moderne Automatik-Sicherungsweste funktioniert mit Hilfe einer wasserlöslichen Tablette. Diese blockiert einen federspannenden Bolzen. Bei Wasserkontakt (durch z. B. Eintauchen in Wasser) löst sich die Sperre innerhalb von Sekunden, und der Schlagbolzen schlägt die Öffnung in die keine Druckflasche. Aus der strömt dann das Kohlendioxid in die Schwimmkörper. Es gibt noch einen Nachblaseschlauch und eine Signalpfeife. 
 Die Ohnmachtssicherheit wird durch die übergroßen Brustschwimmkörper im Gleichgewicht mit dem Nackenkissen gewährleistet.  
+
+>Stichworte automatische Rettungsweste: CO2-Patrone, salzwasserlösliche Tablette, Auslösevorrichtung, manuelle Auslösevorrichtung, Mundaufblasvorrichtung, Gurte und Ringe, aufblasbarer Westenkörper, Signalpfeife, eventuell Nachtlicht mit
+Salzwasserbatterie.
+
+>Die Unversehrtheit der Tablette ist regelmäßig zu prüfen. Ist sie zerfallen, kann im Notfall die automatische Auslösung nicht mehr funktionieren. Die Füllung der Patrone (Gewicht) ist regelmäßig zu prüfen. Ist das Gewicht geringer, dann hat die Patrone Gas (i.d.R. Vollständig) verloren. Die Weste wird bei automatischer oder manueller Auslösung überhaupt nicht bzw. nicht vollständig aufgeblasen. Sie ist also mit dem Mund (fertig) aufzublasen.
+
+>Umgang mit Rettungswesten:   
+Rettungswesten bewahren den Träger beim unbeabsichtigten Sturz ins Wasser vor dem Untergang und Ertrinken, auch wenn er dabei bewusstlos werden sollte. Sie sind daher immer dann anzulegen, wenn die Gefahr des Außenbordfallens gegeben ist, z.B. bei zunehmendem Wind und Seegang. Desweiteren sind sie bei Beginn jeder Rettungsaktion anzulegen und dürfen weder im Wasser noch in einem Rettungsfloß abgelegt werden, da die Gefahr des Verlierens sehr groß ist. Muss man mit angelegter Rettungsweste ins Wasser springen, darf wegen einer möglichen Verletzungsgefahr nur aus geringen Höhen (nicht mehr als 5 m [Problem bei hochbordigen Motoryachten]) ins Wasser gesprungen werden, wobei die Rettungsweste mit beiden Händen fest nach unten zu halten ist (Verletzungsgefahr für das Genick). Das Anlegen der Rettungsweste sollte so oft geübt werden, bis jeder Handgriff im Dunkeln oder bei geschlossenen Augen sitzt. Gerade in der Sportschiffahrt garantiert nur die völlig einwandfreie Beherrschung
+aller Handgriffe ein optimales Funktionieren.
+
 
 19. Der **Schiffsführer entscheidet** für die ganze Crew verbindlich, wann Sicherheitsgurte und Rettungswesten getragen werden. Seine Entscheidung richtet sich nach Wetter und Seegang. 
 
@@ -415,12 +461,10 @@ Die Rettungsweste muss eine ausreichende, ohnmachtsichere Tragfähigkeit haben, 
 - tragbares Sprechfunkgerät, Mobiltelefone, EPIRB, SAR-Transponder  
 - Logbuch, Schiffspapiere (nicht teil des ORC-Katalogs (Offshore Racing Council))
 
-> Seenotfunkbake EPIRB (Emergency position-Indicating radiobeacon station):   
+> Funktionsweise Seenotfunkbake EPIRB (Emergency position-Indicating radiobeacon station):   
 - Cospas-Sarsat-Bake 406 Mhz (enthält Code und Identifizierungs-Nr.), Position wird mit Dopplereffekt vom Satelliten aus gemessen (auf ca. 5 km genau), bei neueren Geräten ist ein GPS integriert, sodass die GPSPosition mitgesendet wird. Die Seenotbake sendet auch auf der Notfrequenz 121,5 Mhz der Luftfahrt, somit können Rettungsboote, Rettungsflieger und -hubschrauber die Bake im Nahbereich (bis 20sm Entfernung) peilen. Die Alarmverzögerung kann im ungünstigen Fall einige Stunden dauern.  
 - Eine Inmarsat-E Bake sendet im L-Band (1,6Ghz), ist mit GPS-Empfänger ausgerüstet, sendet so auch exakte Position. Die Alarmverzögerung beträgt maximal 2 Minuten. Die Bake funktioniert nut in der Abdeckung von Inmarsat zwischen etwa 70Grad Nord und 70Grad Süd.
 - Beide Baken können per Hand ausgelöst werden, lösen sich aber auch automatisch z.B. bei Untergang des Schiffes aus.
-
-
 
 28. **Vorbereitung zum Ausbooten**:  
 - Sicherheitsrollen bei Einweisung  
@@ -477,6 +521,10 @@ Zum **Übersteiegn** lässt man sich angeleint bäuchlings auf das Dach fallen u
 
 >Das Schiff muss für einen seetüchtigen Zustand gehörig eingerichtet, ausgerüstet, bemannt und verproviantiert sein, so dass die bevorstehende Reise ohne Bedenken angetreten werden kann.   
 Verantwortlich für die Seetüchtigkeit zu Beginn der Reise ist der Schiffsführer.
+
+>Seetüchtigkeit der Inneneinrichtung:   
+Stand- und Trittfestigkeit überall?, Handläufe und Griffe?, Kojen zu sichern mit Leesegeln?, Pantry bei Seegang nutzbar?, Stauräume so sichern, dass auch unter schwersten Bedingungen alles in den Fächern bleibt?, Stauraum für nasses Ölzeug, angemessene Navigationsecke?, ...
+
 
 # Verhalten in Notfällen 
 
@@ -554,12 +602,27 @@ Lecksegel (Arbeitsfock) von vorn unter den Bug stülpen => Schothorn am Bugbesch
 
 > Leck im Vorschiff, weil Tonne gerammt: 
 Sofort auf den anderen Bug gehen, das Loch liegt jetzt oberhalb der Wasserlinie! Es ist zu überprüfen, ob das Leck von innen her dicht zu setzen ist. Dieses ist oft nur möglich, wenn der Innenausbau in diesem Bereich beseitigt wird. Evt. kann aber mit einem Kissen oder Holzpallen das Loch soweit abgedichtet werden, dass man Hafen erreichen kann, auch wenn die ganze Zeit gelenzt werden muss. Zusätzlich könnte man eine kleine Fock mit Schothorn und Hals an der Reelingsschiene (Fußleiste) befestigen. Am Kopf in den Reserveanker angeschäkeln und eine Leine befestigen, damit das Segel unter Wasser taucht. Mit dieser Leine holt man nun auf der nicht beschäfigten Seite den Kopf des Segels hoch und hat damit ein Lecksegel geriggt. Im Zubehörhandel kann man einen sogenannten Leckschirm käuflich erwerben. Man schiebt diesen von innen nach außen und öffnet ihn dann. Der Wasserdruck presst das Lecksegel gegen die Bordwand. Um den Schirm einsetzen zu können, muss freier Zugang von innen her zum Leck möglich sein.
+
+> Leck durch Kollision 20 cm über Wasserlinie:   
+- Bug wechseln, damit Steuerbordseite aus dem Wasser kommt    
+- dann vom Deck aus Abdeckung der Stelle versuchen (z.B. Folie aufkleben oder ein Stück Kojenbrett draufschrauben), eventuell Lecksegel ausbringen.   
+- Da Schaden über der Wasserlinie, vorsichtig weiterfahren und möglichst nächsten Hafen anlaufen.
   
 16. Bei einer Grundberührung versuch man das **Festkommen zu verhindern** durch schnelle Reaktion => Hart Ruder in die Richtung wo man das tiefere Wasser vermutet (oder hart abfallen) => Motor starten und Segel dichtholen => Schiff kränkt und Kiel wird angehoben. 
 
 17. Sicherheits-Checks nach einer Grundberührung  
 - Bilge und insbesondere **Kielaufhängung kontrollieren**   
 - **Motoraufhängung** kontrollieren (Neigung bei Drehmoment)
+
+>Folgende Schäden sind bei einer Grundberührung denkbar:   
+- Kiel (sichtbare Schäden außen, Schäden im Bereich der Kielbolzen)    
+- Ruderanlage (sichtbare Beschädigung, Schäden am Ruderlager, Schäden an Ruderanlage zwischen Steuerrad (bzw. Pinne) und Ruderquadrant),
+- Stevenrohr und Schraube,   
+- Rumpf (Außenhaut, Spanten, Verstärkungen (auch unter Bodenbretter schauen)),     
+- Ein- und Auslässe,   
+- Fahrtmessanlagen (Impeller)   
+- Echolotschwinger,  
+- Opferanoden  
  
 18. Freischleppmanöver funktionieren nach dem Prinzip, dass durch Kränkung der Kiel angehoben wird. 
 
@@ -633,6 +696,30 @@ Ablauf des Strandungsmanövers:
 1. Seenotfall unterscheidet sich vom Notfall im Betrieb einer Yacht da der Seenotfall eine besondere Situation ist, **in der eine echte Gefahr für Schiff oder Besatzung besteht und fremde Hilfe zur Abwendung dieser Gefahr erforderlich ist**.
 
 2. Hilfe ist anzufordern mit den in der KVR **vorgeschriebenen Notzeichen**, am besten jedoch über Funk.
+
+>Frequenzen für Seenotmeldung:    
+- Über Sprechfunk auf Grenzwelle 2182 kHz, UKW Kanal 16 (Seenot- und Anruffrequenz) ohne DSC     
+- Mit DSC über Sprechfunk auf Grenzwelle oder UKW – auch für die nicht ausrüstungspflichtigen Sportboote ist die Ausrüstung mit DSC zu empfehlen, da die Notmeldung sonst ohne Hörwache überhört werden kann.  
+- mit einer Seenotbake (z.B. Epirb)    
+
+>Anrufverfahren über Sprechfunk (kommt keine Antwort nach ca 1 – 4 Min wiederholen):   
+- 3x Mayday,   
+- Schiffsname und Rufzeichen   
+- Position   
+- Grund des Seenotfalls   
+- Art der erbetenen Unterstützung   
+- evtl. 2x10sec die Sprechtaste drücken, damit Antenne gepeilt werden kann   
+- Schiffsname und Rufzeichen   
+- OVER  
+
+>Anrufverfahren mit DSC:  
+- DSC-Alarmierung (evtl. vorher Position und Grund des Seenotfalls ergänzen) (kommt keine Antwort automatische Wiederholung alle 4 Minuten)  
+- nach Bestätigung des Empfangsweiter über Kanal 16 - Mayday this is MMSI + Schiffsname + Rufzeichen (evtl. Position und Grund des Seenotfalls)   
+- Art der erbetenen Unterstützung   
+- OVER
+
+>Anrufverfahren über Epirb:  
+- nach manueller oder automatischer Auslösung wird der Notruf automatisch über Satelit an das nächstliegende MRCC (maritim rescue and coordination centre) weitergeleitet.
 
 3. Nach Aufnahme des Funkkontakts sind dem Hilfeleistenden folgende Informationen zu übermitteln:  
 - Name  
@@ -730,21 +817,32 @@ Letztendlich die Leine zur Yacht lösen.
 
 16. Die Rettungsschlinge wird mit dem Verschluss nach vorne über den Kopf und Arme gestülpt, sodass die **unter den Achseln** trägt. Es ist unbedingt darauf zu achten, dass das Kabel direkt ins Wasser hängt und nicht irgendwo **hinterhakt**. Auf Zeichen "Daumen nach oben" taut der Hubschrauber an und zieht die Person in der Schlinge **schräg seitlich vom Achterstag weg** nach oben. Nicht schaukeln und darauf achten, dass das Kabel sich nicht um das Achterstag schlingt.
 
->Rote Leuchkugel in Sicht bei Nachtin wieter Entfernung:       
+>Rote Leuchkugel in Sicht bei Nacht in weiter Entfernung:       
 Alarmierung der Mannschaft, Richtung des Notsignals und eigene Position feststellen, Funkverkehr abhören, weiter beobachten. Beobachtung an Küstenfunkstelle und die in der Nähe befindliche Schiffahrt weitergeben. Wenn Küstenfunkstelle nicht reagiert oder alles schweigt, selber rufen und Mayday-Relais an KüFSt geben, Anweisungen befolgen. Wenn möglich, auf Havaristen zulaufen (es besteht Pflicht zur Hilfeleistung), Funkverkehr mit anderen Schiffen abhören oder suchen, ...
 
+>Planung zur Einleitung der Suche bei Hilfeleistung in entlegenem Seegebiet:    
+Zu Beginn der Suchplanung muss zunächst der Bezugspunkt (engl. datum) – Position des Schiffes in Not und Position des eigenen Schiffes - und das anfänglich wahrscheinlichste Aufenthaltsgebiet des Suchzieles bestimmt werden. Das wahrscheinlichste Gebiet wird festgelegt, nachdem mögliche Fehler bei der Bestimmung des Bezugspunktes aufgrund der Ungenauigkeit der gemeldeten Position des Unfalles und/oder bei der Schätzung der Vertreibung durch Strom und/oder Wind berücksichtigt worden sind.
 
 # Mensch über Bord (MOB)
 
 >MOB an Backbordseite, wenn hart am Wind und Wind von Backbord:  
-Man segelt einige Bootslängen weiter, um Höhe zu gewinnen. Ein Crewmitglied hat die Boje ständig unter Beobachtung. Nun fällt man ab, halst und luvt dann soweit an, dass ein Nahezuaufschießer gelingt. Bei diesem Manöver hat man einen Drehkreis gefahren. Die Boje hat man eben an Bbd. voraus. Durch Dichtholen der Segel kann jederzeit wieder kontrolliert Fahrt aufgenommen und reduziert werden. Nun Boje so ansteuern, dass man diese an Bb. bzw. an Stb. einholen kann. Evt. Schiff, wenn Boje querab an Bb. ist, beidrehen (Fock back, Großschot lose und Ruder nach Luv).  
-- Leebergung: Vorteil: Man treibt auf die Person zu. Nachteil: Bei Seegang kann Person durch Yacht erschlagen werden.   
+Gefahrenhalse: Man segelt einige Bootslängen weiter, um Höhe zu gewinnen. Ein Crewmitglied hat die Boje ständig unter Beobachtung. Nun fällt man ab, halst und luvt dann soweit an, dass ein Nahezuaufschießer gelingt. Bei diesem Manöver hat man einen Drehkreis gefahren. Die Boje hat man eben an Bbd. voraus. Durch Dichtholen der Segel kann jederzeit wieder kontrolliert Fahrt aufgenommen und reduziert werden. Nun Boje so ansteuern, dass man diese an Bb. bzw. an Stb. einholen kann. Evt. Schiff, wenn Boje querab an Bb. ist, Wende mit ehen (Fock back, Großschot lose und Ruder nach Luv).  
+- Leebergung: Vorteil: Man treibt auf die Person zu. Nachteil: Bei Seegang kann Person durch Yacht verletzt werden.   
 - Luvbergung: Vorteil: Person kann nicht durch Yacht verletzt werden. Nachteil: Yacht entfernt sich von Person.
 
 1. Unmittelbare Aufgabe des Rudergängers, wenn jemand über Bord fällt:   
 - Wenn er MOB wahrnimmt: "Mensch-über-Bord" brüllen
 - Schallsignalgeber drücken und Dauerton geben
 - Unter Motor: Reflexartig **Maschinenhebel auf Leerlauf** reißen und  **hart Ruder** zu der Seite, wo die Person über Bord gegangen ist. 
+
+>Maßnahmen bei ungesichertem MOB:  
+- Alarmierung der gesamten Besatzung,   
+- Nachwerfen von Rettungsmitteln,    
+- Person möglichst im Auge behalten,  
+- Position festhalten (MOB-Taste auf modernen elektronischen Navigatoren),   
+- Einleiten des Bergemanövers,   
+- Durchführen des Bergemanövers, Person an Bord nehmen, ...,  
+- wenn Person „verloren“ : PAN PAN – Meldung und Einleiten von Suchmanöver (Suchkurse fahren), ...
 
 2. Mit dem Ausbringen der Rettungsmittel sollte man sich nicht aufhalten, wenn   
 - Vom Sichtkontakt und dem Manöver abgelenkt wird  
@@ -873,7 +971,20 @@ Bei Unterkühlung 3. Grades: „Scheintod", Körpertemperatur unter 24°C, nicht
 >Maßnahmen bei Sonnenstich:   
 Verbringen in eine kühlere Umgebung, bequeme Lagerung, Öffnung einengender Kleidung, ausreichend Flüssigkeits- und Salzzufuhr, Kühlung des Kopfes mit feuchten Tüchern, eventuell schnellstens an Land und ins Krankenhaus, ...
 
+>"Medico-Gespräch" mit Arzt über Funk:   
+Informationen über ein solches Gespräch finden sich u.a. im Yachtfunkdienst. Funkärztliche Beratung kann man über die Küstenfunkstellen erhalten. Der Arzt braucht Angaben/Aussagen wie sie im Beratungsbogen festgelegt sind:   
+- Schiffsname und Rufzeichen   
+- vom Kranken: Name, Alter, Geschlecht, Vorgeschichte und Unfallhergang,   
+- Befund (Puls, Atmung, Geisteszustand, Körpertemperatur, Beschwerden, Verletzungen, Schock?, Blutverlust?, und einiges mehr)  
+- Bisherige Maßnahmen, Angaben über die Möglichkeiten der Behandlung an Bord (z.B. Medikamente, ...),  
+- Standort des Schiffes.
+
+>Allerletzte Maßnahme, wenn Beantmung nicht mehr möglich und Crewmitglied zu erstoicken droht:   
+Sollte in der Bordapotheke ein Kunststofftubus vorhanden sein, kann man versuchen, diesen in die Luftröhre zu schieben, was wegen zunehmender Schwellung aber schwierig wird. Letzte Maßnahme: Eröffnen der Luftröhre von außen mit einem spitzen Messer (Skalpell) zwischen Adamsapfel und Ringknorpel. Einlegen eines Schlauchstücks bzw. einer sonstigen Röhre (z.B. Kugelschreibervorderteil) und Beatmung hierdurch.
+
+
 # Manövrierverhalten von Seeschiffen
+
 
 1. Wird auf einem Großschiff Ruder gelegt, so reagiert es nicht sofort. Riesenmassen müssen beschleunigt und ihre Trägheit muss überwunden werden (Anfängliche Andrehverzögerung). Der Bewegungsablauf beginnt mit dem **Ausschwenken des Hecks** in die Gegenrichtung. Der Drehpunkt befindet sich dabei vor der Schiffsmitte weshalb der Bug weniger als das Heck ausschert. Obwohl der Rumpf nun schräg zur Fahrtrichtung angestellt ist, **schliert** das Schiff noch etwas in die alte Fahrtrichtung, bevor er sich langsam der neuen Richtung anpasst (Fahrwegbeharren). Durch diese seitliche Anstellung nimmt das Schiff eine verbreiterte Fahrspur ein, was hinsichtlich der Sicherheitsabstände zu Hindernissen und anderen Verkehrsteilnehmern zu bedenken ist. Erst nach mehreren Schiffslängen verlässt das Schiff seine bisherige Kurslinie. Befindet sich nun ein Segler im Vorausraum eines Seeschiffes, mit dessen Ausweichen er rechnet, muss er, 
 
@@ -900,6 +1011,9 @@ Sportboot.
 
 7. Bei höheren Fahrgeschwindigkeiten in flachen Gewässern unterliegen Großschiffe dem **SQUATEFFEKT**. Der Squat-Effekt ist ein Sog, der durch die hohe Wasserströmungsgeschwindigkeit in der Düse z.B. zwischen Rumpfunterseite und dem Grund entsteht und das Schiff veranlasst, mit dem Heck tiefer einzutauchen. Kalkuliert man den Manövrierraum der Großschifffahrt nach den Wassertiefen, sind für diesen Effekt ein paar Meter hinzuzugeben/rechnen. Die Flachwasserverhältnisse beinträchtigen auch die Steuerfähigkeit großer Schiffe. Sie drehen schwerer an und schwingen weiter über. Das wirkt sich besonders unangenehm aus, wenn sich in dem Squatbereich das Bodenprofil zu beiden Seiten hin unregelmäßig verändert, wenn z.B. eine Uferböschung oder eine Bank passiert wird. Der Ansaugeffekt tritt dann unsymmetrisch auf und zieht das Heck zu der Untiefe hin (BANKEFFEKT). Große Schiffe können im Extremfall aus dem Ruder laufen. Sie meiden deshalb die Nähe solcher Untiefen.
 
+>Wenn ein größeres Küstenmotorschiff mehrere zunächst nicht erklärbare Kursänderungen fährt:   
+Das Schiff steuert wahrscheinlich nach den Tiefenlinien, um einen Flachwassereffekt (Squat) – das bedeutet ein Absenken des Schiffes über den normalen Tiefgang hinaus - zu vermeiden.
+
 8. Großschiffe schieben in engen Fahrwassern und Kanälen, auch bei reduzierter Fahrt, zusätzlich zu der normalen Bugwelle einen Wasserstau vor sich her. Zum Ufer hin bildet dieser Stau stellenweise einen Berg von zwei bis drei Metern Höhe. Wird man mit einem Sportboot von einem solchen Schiff überholt, muss man mit gewaltigen **Wasserstandsänderungen** rechnen. Hinzu kommt, dass die Steuerfähigkeit auf dem eigenem Schiff reduziert wird.
 
 9. Nach IMO-Richtlinien (International Maritime Organisation) muss man von der Brücke aus die Wasseroberfläche **rechtvoraus** bis 10° nach beiden Seiten erst nach **zwei Schiffslängen**, höchstens jedoch in **500 Metern** sehen können. Bei einer Ladehöhe von 15 Metern über der Wasserlinie wäre eine drei Meter hohe Motoryacht bereits in 400 Meter Entfernung voll verdeckt! In allen anderen Richtungen muss von der Brücke aus lediglich der Horizont gesehen werden können.
@@ -919,12 +1033,15 @@ Besatzung.
 >Bedenken, wenn großes Schiff auf einen zukommt:   
 - Andere Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken),  
 - u.U. eingeschränkte Sicht des anderen Fahrzeugs insbesondere nach voraus,  
-- Möglichkeit des Übersehen-Werdens, weil man sich im Radarschatten befindet.  
+- Möglichkeit des Übersehenwerdens, weil man sich im Radarschatten befindet.  
 - Beeinträchtigung durch Bugwellen des großen Schiffes.  
 - Mögliche Beeinträchtigung der Manövrierfähigkeit des eigenen Bootes durch Windabdeckung.
 
 >Reaktion eins großes Schiffes, wenn bei ca. 20 kn Fahrt ein Ausweichmanöver durch Hartruderlage eingeleitet wird:   
 Der Steven bewegt sich in Richtung der Hartruderlage, das Heck schlägt relativ weit zur entgegengesetzten Richtung aus. Das Schiff verlässt mit seinem Heck erst nach mehreren Schiffslängen seine bisherige Kurslinie, bewegt sich also zunächst in der alten Kursrichtung fort. Diese Strecke kann bei 300 m langen Containerschiffen 1,5 bis 2,5 Schiffslängen, d.h. ca. 500 bis 600 m betragen.
+
+>Wenn Containerschiff im Abstand von 300 m hart Sb Rruder gibt:  
+Bei Andrehen nach Stb. schwenkt Heck deutlich nach Bb. aus („verbreiterte Fahrspur“). Bei einem großen (langen) Containerschiff muss damit gerechnet werden, dass es von Ihrer Segelyacht auf einer Distanz von 300m nicht mehr frei kommt, sondern Sie von dem nach Bb. ausschwenkendem Heck getroffen werden.
 
 10. Entfernungen aus denen ein Sportboot auf dem Radar eines Großschiffes auszumachen ist:  
 - Mit **Radarreflektor** aus einer Entfernung von ca. 3 bis 4 Seemeilen.   
@@ -945,7 +1062,6 @@ Die hohen Annährungsgeschwindigkeiten der Großschiffe müssen richtig eingesch
 14. Gesichtspunkten nach welchem ein Sportbootfahrer bestimmt, welcher Fahrt-und Passierabstand zu einem Großschiff der geeignete ist:
 
 Die Verkehrsumstände diktieren, was ein **sicherer Passierabstand** ist. Hierbei ist die Manöversituation des Großen sowie dessen Gefahrenbereich (Flachwasserzwänge, Spurerweiterung, Bankeffekt) zu beurteilen. Notfalls hilft die Flucht ins flache Gewässer, in die die Großschifffahrt nicht folgen kann.
-
 
 # Fahren in schwerem Wetter 
 
@@ -1116,8 +1232,17 @@ Wenn die Yacht sich nicht freikreuzen kann, droht Strandung.
 
 # Ankern
 
+>Weshalb sollte ein Schiffsführer seine Crewmitglieder vor Antritt der Reise mit der Bedienung des Ankergeschirrs vertraut machen?    
+- Auch ohne Mithilfe des Skippers muss die Mannschaft in der Lage sein, den Anker auszubringen.   
+- Dazu muss das Ankern im Notfall schnell gehen.
+
 1. Voraussetzungen eines geeigneten Ankerplatzes:  
 Es muss sich um eine Bucht mit **ablandigem Wind** handeln. Die Wetterlage muss so stabil sein, dass ein Wechsel der Windrichtung so gut wie ausgeschlossen ist. Die **Bucht muss geschützt sein**, d.h. es darf keine Dünung hinein stehen und die umliegenden Berge dürfen keine Düsenwirkung oder Fallwinde erzeugen. Es muss ausreichend hindernisfreier Seeraum mit geeigneten Wassertiefen zum **Schwojen** vorhanden sein. Einen **guten Ankergrund** und **nicht zu viele Ankerlieger** sind weitere Voraussetzungen.
+
+>Ankerboje:  
+- Eine Ankerboje ist ein Schwimmkörper, der mit einer Leine am Anker befestigt ist und vorrangig die Lage des Ankers anzeigt,  
+- bei Bruch der Ankerleine ist die Bergung des Ankers möglich. beim Festkommen an einem Unterwasserhindernis kann der Anker durch Ziehen entgegen
+der Zugrichtung der Ankerkette gelichtet werden.
 
 2. Anker mit hoher Haltekraft: Platten und Pflugscharanker
 
@@ -1143,6 +1268,15 @@ Es muss sich um eine Bucht mit **ablandigem Wind** handeln. Die Wetterlage muss 
 
 13. Normalee Ankermanöver unter Motor:  
 Über den gewünschten Punkt nimmt der Rudergänger kleine Fahrt zurück und ruft **Anker fall**. Ist die gewünschte Kettenlänge ausgelaufen, wird die Kette abgebremst und gestoppt. Wenn die Kette belegt ist und Kraft aufnehmen kann, wird die Halteprobe gefahren. Man fährt etwa 10m voraus um mit mäßigem Schwung in die Kette einzudampfen (rückwärts). Mit einem Fuß auf der steifen Kette fühlt man ob der Anker hält oder schliert.
+
+
+>Ankern bei nacht in einer Bucht:   
+- Der Wind muss auch nach der Vorhersage ablandig sein.   
+- Die Bucht muss Schutz vor Schwell und Dünung bieten.   
+- Der Ankergrund muss ausreichende Halteeigenschaften haben.   
+- Es muss für die erforderliche Kettenlänge genügend Schwojraum vorhanden sein.  
+- Die Wassertiefe muss zur Länge von Ankerkette und Ankerleine passen  
+
 
 14. Um zu verhinderen dass beim **Ankeraufgehen**, der ausbrechende Anker fremde Ketten fasst, steuert man die Yacht mit kleiner Fahrt über dem Anker während die Kette eingeholt wird und lässt den Anker mit senkrechter Kette ausbrechen.
 
@@ -1170,3 +1304,12 @@ Bei diesem Verfahren wird eine für das Festmachen vorgesehene Leine, z.B. eine 
 - Der Vorteil besteht darin, dass man beispielsweise vor der Abfahrt wegen der widrigen Windverhältnisse dieses Leinenmanöver durchführt, um dann ohne fremde Hilfe diese Leine als letzte einholen zu können, indem man von Bord aus Lose auf die Leine gibt, das Auge loswirft und die Leine einholt, die dabei in entsprechender Länge den Poller an Land passieren muss. Es bleibt erspart, dass ein Besatzungsmitglied an Land loswirft und dann auf das abtreibende Fahrzeug springen muss, was als unfallträchtig angesehen werden muss. Es kann unter gegebenen Umständen vorteilhaft sein, auf diese Weise die Landverbindung so lange zu behalten, bis das Schiff einen gewünschten Abstand zum Land hat oder auch in die passende
 Abfahrtsposition gelangt.   
 - Als Nachteil ist festzustellen, dass beim bordseitigen Einholen der Leine sich dieselbe oder das Auge an Konstruktionsteilen der Hafen- oder Pieranlagen oder am Poller verhaken kann.
+
+>Zweck eines Treibankers, wenn keine Segel mehr tragenbar:   
+Driftgeschwindigkeit nach Lee verringern, beim Ablaufen vor dem Wind Querschlagen verhindern, Bug oder Heck beim Treibenlassen im Wind halten.
+
+>Vorteil Leinenbucht gegenüber Treibanker:  
+Leinen sind immer verfügbar, leichter auszubringen, besser zu regulieren.
+
+>Probleme von Treibankern, insbesondere bei großen modernen Yachten:   
+Schiff wird zu großer Dimensionierung des Treibankers stark „festgehalten“, Schäden durch Seeschlag auf Bug oder Heck (ins Cockpit), Ruderbruch und Ausreißen der Decksbeschläge können die Folge sein.
