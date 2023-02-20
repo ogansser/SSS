@@ -45,6 +45,13 @@ output:
 Starkes Anluven des Schiffes auf neuer Seite, Querschlagen, Unfallgefahr für die Mannschaft, sehr starke Belastung im Rigg (Fußblock reißt aus, Wantbruch in Lee, Baum-Stauch in den Mast, ...   
 => Anbringen eines Bullenstanders (Talje von der Baumnock auf das Vorschiff), ...
 
+>Wenn Wind aus der Richtung des Bestimmungshafens kommt:   
+Um unter den vorgegebenen Windverhältnissen den Zielhafen zu erreichen, muss man kreuzen. Kreuzen heißt, in bestimmten Zeitabständen abwechselnd mit dem wind von Stb. oder Bb. zu segeln. Segeltechnisch muss demzufolge in ebenso gewissen Zeitabständen eine Wende gefahren werden.
+
+>Begriffe beim Kreuzen:    
+- Unter „Holebug“ versteht man den Kurs, auf dem man gegenüber dem Wind an Höhe gewinnt, sich aber dem Bestimmungsort nicht merklich nähert.  
+- Auf dem „Streckbug“ verfolgt man den Kurs, auf dem man wenig Höhe gewinnt, aber in Richtung des Zieles Strecke gutmacht, d.h. die Distanz zum Bestimmungshafen merklich verringert.
+
 
 9. Bedeutung der Crewfühung für das Manövrieren unter Segeln  
 Harmonie zwischen Rundergehen und Schotführung:  
@@ -121,6 +128,7 @@ Falls nach dieser Entlüftung der Motor nicht startet, kann man noch die Hochdru
 - Starkstromkontakte am Starter, Ankerwisch, Bugstrahlruder einmaö jährlich säubern, fette und Dichtungen kontrollieren. 
 
 25. **Ladespannung** darf nie 14,3 Volt überschreiten => Batterien fangen sonst an zu kochen => Batterien leiden => explosiver Wasserstoff entsteht. 
+
 26. **Flüssiggasanlagen** an Bord können gefährlich sein. Ausströmendes Gas sammelt sich im Schiff und kann, weil es schwerer als Luft ist, nicht von selbst entweichen. Mit Luft vermischt ist es schon in geringen Mengen explosiv. Außerdem besteht Erstickungsgefahr weil Gas fast doppelt so schwer ist wie Atemluft. 
 
 27. Bei ausströmendem Gas sollte man eingeschaltete elektrische Anlagen nicht ausschalten, weil auch beim Ausschalten elektrische Schaltfunken enstehen können. 
@@ -161,18 +169,23 @@ Falls nach dieser Entlüftung der Motor nicht startet, kann man noch die Hochdru
 
 - Wenn Herd in Betrieb => gründliche Belüftung
 
->Wenn Wind aus der Richtung des Bestimmungshafens kommt:   
-Um unter den vorgegebenen Windverhältnissen den Zielhafen zu erreichen, muss man kreuzen. Kreuzen heißt, in bestimmten Zeitabständen abwechselnd mit dem wind von Stb. oder Bb. zu segeln. Segeltechnisch muss demzufolge in ebenso gewissen Zeitabständen eine Wende gefahren werden.
+>Einrichtungen / Sicherheitsvorschriften Flüssiggasanlage/Gaskocheranlage:   
+Grundsätzlich muss die Anlage den geltenden Sicherheitsvorschriften entsprechen. Aus diesem Grunde durch autorisierten Fachmann abnehmen lassen. Gasbehälter entweder an Deck oder in einem geschlossenen Raum mit Öffnung in Bodennähe nach außenbords. Meßfühler als Kontrolleinrichtung an einem tiefliegenden Platz in der Bilge montieren, da Flüssiggas schwerer als Luft ist und demzufolge absinkt. Vor Inbetriebnahme Leitungen und Anschlüsse auf Dichtigkeit prüfen. Bei Außerbetriebsetzung alle Absperrventile schließen, möglichst beim Gasbehälter beginnen, dann in der Reihenfolge bis zum Verbraucher.
 
->Begriffe beim Kreuzen:    
-- Unter „Holebug“ versteht man den Kurs, auf dem man gegenüber dem Wind an Höhe gewinnt, sich aber dem Bestimmungsort nicht merklich nähert.  
-- Auf dem „Streckbug“ verfolgt man den Kurs, auf dem man wenig Höhe gewinnt, aber in Richtung des Zieles Strecke gutmacht, d.h. die Distanz zum Bestimmungshafen merklich verringert.
+>Zweck einscheibiger Block der Tagelage (stehendes und laufendes Gut):   
+- Der feste, einscheibige Block dient der Richtungsänderung des durchlaufenden Gutes.    
+- Die mehrscheibigen Taljen bestehen aus einem mehrscheibigen festen Block und einem mehrscheibigen beweglichen / losen Block, die durch den geschorenen Läufer (Tauwerk) miteinander verbunden sind. Eine Talje dient der Kraftersparnis. Diese hängt ab von der Anzahl Parten am losen / beweglichen Block.
+
+>Wenn bei einer Talje 4 Parten am beweglichen Block angreifen, ist die aufzuwendende Kraft ein Viertel der Last.
+
 
 # Stabilität 
 
 1. Solange der Formschwerpunkt F weiter in Krängungsrichtung auswandert als der Gewichtsschwerpunkt G, ergibt sich ein aufrichtendes Moment
 
 ![](Spantenriss.png)
+
+>Infolge der Neigung wandert der Formschwerpunkt F zur geneigten Seite und bildet nunmehr mit der Wirkungsgeraden des Massenmittelpunktes (Gewichtsschwerpunkt) ein Kräftepaar, das die aufrechte Schwimmlage wieder herstellen will.
 
 2. Das Krängungsmoment nimmt mit zunehmendem Lagewinkel ab => Windangriffsfläche verkleinert sich und Hebelarm (rot) verkleinert sich.  
 
@@ -197,6 +210,12 @@ Begriffe:
 - Auftrieb,   
 - aufrichtender Hebelarm.  
 Die Segelyacht muss sich aus jeder Schwimmlage wieder aufrichten, Gewichtsschwerpunkt muss tiefer als Formschwerpunkt liegen (Ballastkiel!).
+
+>Die Stabilität eines Schiffes wird beeinflusst von     
+- seiner Geometrie (Form),   
+- seiner Gewichtsverteilung im Schiff (Ausrüstung, Crew, Ballast) und  
+- von eventuell von außen wirkenden Störkräften (z.B. Wind, Seegang, Trossenzug).
+
 
 4. Der **Stabilitätsumfang** einer hochseetauglichen Segelyacht sollte zwischen 90 und 120 Grad liegen 
 
@@ -231,6 +250,21 @@ Für jedes Besatzungsmitglied eine Rettungsweste, 1 lifebelt; mindestens ein Ret
 - Lernerfolg vor Erledigung  
 - **Sicherheitsrollen** vor Beginn der Reise einteilen  
 - Rollenzuweisung für alle Notfälle (Maschinenausfall, Ruderausfall, Wassereinbruch, Feuer, Erste Hilfe, MoB, Ausbooten in Rettungsinsel)
+
+>Inhalte Sicherheitseinweisung der gesamten Besatzung vor Reisebeginn:   
+Einweisung in Gebrauch und Bedienung   
+- der Rettungswesten und Sicherheitsgurte,  
+- der Rettungsinsel,   
+- der Signalmittel,   
+- der Lenzpumpen,   
+- der Seeventile und des Bord-WC,   
+- der Kocheinrichtung,   
+- der Feuerlöscher,   
+- der Motoranlage,   
+- die Elektroanlage,   
+- des Rundfunkgerätes und der UKW-Seefunkstelle,   
+- Verhalten bei „MOB“,
+- Erkennen und Verhalten bei Seekrankheit. 
 
 >Notrolle "Wassereinbruch":    
 Aufteilung auf die Crewmitglieder: Lecksuche Vorschiff/WC, Salon/Pantry, Maschine/Achterschiff, Bedienung Handlenzpumpe, Bedienung elektr. Pumpe, Bereitschaft mit Pütz, Seenotfunkspruch (wenn notwendig).
@@ -270,14 +304,14 @@ Durch drei jeweils rechtwinklig zueinander stehende Reflektionsflächen wird der
 - CO~2-Löscher: Für enge Räume (Motorraum), muss nicht geziehlt auf Brandherd gerichtet werden, ist rückstandsfrei und ungiftig  
 - Pulverlöscher: große Löschleistung bei offenen Bränden, schirmt Brandquelle gegen Zuluft ab.  
 
-9. Feuerlöscher haben am besten ihren Bereitschaftsplatz in der Nähe des Niedergangs und zugleich unweit von Maschine (CO~2 Löscher) und Herd (Feuerlöschdecke). Zweite Löscher für schwerere Fälle (Pulverlöscher) sollte in der Backskiste gestaut sein. 
+9. Feuerlöscher haben am besten ihren Bereitschaftsplatz in der Nähe des Niedergangs und zugleich unweit von Maschine (CO~2~ Löscher) und Herd (Feuerlöschdecke). Zweite Löscher für schwerere Fälle (Pulverlöscher) sollte in der Backskiste gestaut sein. 
 
 >ABC-Pulverlöscher für die Anwendung in allen Bereichen, CO2-Löscher für Maschinenraum. Empfehlenswert: mehrere Löscher, auch einer in der Backskiste, damit von allen Seiten bekämpft werden kann (Pantry oft direkt neben dem Niedergang)
 
 >Feuerlöscher:   
 - Art: Pulver-, CO2 und Schaumlöscher nach den jeweiligen Brandklassen.  
 ABC-Feuerlöscher für Brandklassen A (feste Stoffe brennen), B(flüssige oder flüssig werdende Stoffe brennen) und C (Gase brennen)   
-CO2-Feuerlöscher nur für geschlossene Motorräume mit spezieller Löschöffnung verwenden. Lagerung nur so, dass austretendes CO2 (schwerer als Luft!) nicht ins Schiff strömen kann (Erstickungsgefahr)   
+CO2-Feuerlöscher nur für geschlossene Motorräume mit spezieller Löschöffnung verwenden. Lagerung nur so, dass austretendes CO~2~ (schwerer als Luft!) nicht ins Schiff strömen kann (Erstickungsgefahr)   
 - Aufstellung: Sichtbar oder mit entsprechendem Hinweisschild versehen, frei zugänglich.   
 - Wartung: Auf Einhaltung der vorgeschriebenen Wartungsintervalle achten bzw. bei Druckverlust und nach Benutzung sofort wieder auffüllen bzw. auffüllen lassen.
 
@@ -451,6 +485,14 @@ Verantwortlich für die Seetüchtigkeit zu Beginn der Reise ist der Schiffsführ
 - Kabelbrand: Motor abstellen => Batteriehauptschalter ausstellen   
 - Feuer im Maschinenraum:  Luftzufuhr unterbinden => Motor abstellen (Kraftstoffdruck und Lüfter wird dadurch deaktiviert) => CO~2 Löscher oder Pulverlöscher in Feuerlöschöffnung entleeren
 
+>Wirksame Bekämpfung von Bränden an Bord:   
+- Alle Öffnungen schließen,  
+- Brennstoffzufuhr (Hauptschalter) unterbrechen,  
+- Feuerlöscher erst am Brandherd betätigen,  
+- Feuer von unten und von vorn bekämpfen,  
+- Löschdecke einsetzen,
+- Flüssigkeitsbrände und Brände in der elektrischen Anlage nicht mit Wasser bekämpfen.
+
 2. Sobald erkennbar wird, dass sich ein Feuer trotz Löschbemühungen ausweitet, muss der Skipper die **Sicherheitsrolle Rettungsfloß** starten.
 
 3. Wenn inmitten von Schiffsverkehr bei Flaute der Motor ausfällt, ist das Signal für **Manövrierunfähigkeit** zu setzen. Es ist jeder Versuch zu unternehmen, aus Bereichen dichten Verkehrs hinauszugelangen. => **Sicherheitsmeldung an alle**
@@ -615,7 +657,7 @@ Ablauf des Strandungsmanövers:
 
 6. Um einen **geordneten Ablauf** der anstehenden Handlungen zu gewährleisten, besteht der Schiffsführer auf der Aufgabenverteilung nach den vorbereiteten **Sicherheitsrollen**.
 
->Maßnahmen bei Eintritt eines Seenotfalles:   
+>Maßnahmen bei Eintritt eines Seenotfalles, mit Möglichkeit die Yacht verlassern zu müssen:   
 - Boot auf keinen Fall zu früh verlassen   
 - Schiffsführer muss klare, eindeutige Weisungen erteilen und so einer evtl. entstehenden Panikstimmung an Bord entgegenwirken   
 - Meldung über Seenotsituation abgeben   
@@ -624,6 +666,23 @@ Ablauf des Strandungsmanövers:
 - vor dem Verlassen der Yacht reichlich wärmende Kleidung anziehen, an Hand- und Fußgelenken zubinden, um Wasserzirkulation und damit Wärmeverlust zu verhindern   
 - vor dem Verlassen des Schiffes Lebensmittel und reichlich Flüssigkeit zu sich nehmen   
 - besondere Sorgfalt beim Aussetzen der Rettungsinsel verwenden, damit diese nicht vor dem Bemannen abtreibt.
+
+>Maßnahmen an Bord bei Seenotfall laut Broschüre "Sicherheit im See- und Küstenbereich Sorgfaltsregeln für Wassersportler":   
+- Rettungswesten anlegen   
+- So lange wie möglich an Bord bleiben.   
+- Nicht rauchen, keinen Alkohol zu sich nehmen.   
+- Mit vorgeschriebenen Notzeichen Hilfe anfordern.   
+- Angabe machen über Zustand des Fahrzeugs und der Besatzung, Kurs und Geschwindigkeit, Wetter in dem betreffenden Seegebiet Einzelheiten über das Erkennen des Fahrzeugs.
+
+>Maßnahmen bei Verlassen der Yacht laut Broschüre "Sicherheit im See- und Küstenbereich Sorgfaltsregeln für Wassersportler":   
+- Möglicht viel (warme gesüßte) Flüssigkeit zu sich nehmen.   
+- Vor dem Vonbordgehen enganliegende wärmende Kleidung anziehen (möglichst reichlich, mit Schuhen und Handschuhen).  
+- Falls Überlebensfahrzeug vorhanden (Boot, Floß), Decken, Lebensmittel mit Getränken, Erste-HilfeVerbandskasten, Sprechfunkgerät, Notsender usw. in dieses Fahrzeug geben.  
+- Möglichst rot-weiß-farbige oder orangefarbige Gegenstände nach außenbords werfen, da diese aus der Luft gut auszumachen sind.  
+- Man sollte versuchen, möglicht trocken in ein Rettungsfahrzeug zu kommen.   
+- Nicht auf ein (bemanntes) Rettungsfloß springen.   
+- Ggf. mit angezogenen Beinen und Festhalten der Rettungsweste (mit beiden Händen) ins Wasser springen.
+
 
 >Einsatz einer Rettungsinsel von einer Yacht aus:   
 Solange wie möglich an Bord bleiben! Schiffe sind zäher als man denkt. Yacht nur auf Anweisung des Schiffsführers verlassen. Oft wird die Rettungsinsel während der Hafenliegezeit gesichert ( Kette/Schloss ). Vor dem Auslaufen ist die Rettungsinsel zu entsichern. Vor den Überbordwerfen Reißleine an Bord befestigen. Dann an der Reißleine ziehen, bis die Insel sich öffnet. Einsteigen: Man springt bäuchlings auf das Dach und krabbelt in die Insel. Sich innen so platzieren, dass man als Kontergewicht dient, wenn der nächste auf das Dach springt. Das Einsteigen vom Wasser her ist nicht einfach. Die bereits in der Insel sich aufhaltenden Personen müssen helfen.
@@ -850,12 +909,22 @@ Sportboot.
 >Empfehlungen der See-Berufsgenossenschaft bezüglich der Mindestsichtweite auf Containerschiff nach voraus:   
 Der tote Winkel nach voraus soll 2 Schiffslängen, höchstens jedoch 500 m nicht überschreiten.
 
->Zeit in derrd diese Strecke von Containerschiff bei einer Geschwindigkeit von 18 kn durchlaufen wird:   
+>Zeit in der diese Strecke von Containerschiff bei einer Geschwindigkeit von 18 kn durchlaufen wird:   
 500 m wurden bei 18 kn durchlaufen in 0,9 min, also in ca. 1 Minute.
 
 >Containerschiff 1 sm voraus, 16kn Fahrt:   
 Sichtfeldbeschränkung nach voraus darf nach IMO bzw. SeeBG Empfehlung bis 500m betragen. Das Containerschiff legt pro min 480m zurück, daher besteht nicht viel Zeit zum Queren „ohne Behinderung der durchgehenden Schiffahrt“. Es besteht außerdem die Gefahr, in den Bugstau oder in das Schraubenwasser zu geraten, dieses hätte eine kurzfristige Manövrierunfähigkeit zur Folge und somit Gefahr für Yacht und
 Besatzung.
+
+>Bedenken, wenn großes Schiff auf einen zukommt:   
+- Andere Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken),  
+- u.U. eingeschränkte Sicht des anderen Fahrzeugs insbesondere nach voraus,  
+- Möglichkeit des Übersehen-Werdens, weil man sich im Radarschatten befindet.  
+- Beeinträchtigung durch Bugwellen des großen Schiffes.  
+- Mögliche Beeinträchtigung der Manövrierfähigkeit des eigenen Bootes durch Windabdeckung.
+
+>Reaktion eins großes Schiffes, wenn bei ca. 20 kn Fahrt ein Ausweichmanöver durch Hartruderlage eingeleitet wird:   
+Der Steven bewegt sich in Richtung der Hartruderlage, das Heck schlägt relativ weit zur entgegengesetzten Richtung aus. Das Schiff verlässt mit seinem Heck erst nach mehreren Schiffslängen seine bisherige Kurslinie, bewegt sich also zunächst in der alten Kursrichtung fort. Diese Strecke kann bei 300 m langen Containerschiffen 1,5 bis 2,5 Schiffslängen, d.h. ca. 500 bis 600 m betragen.
 
 10. Entfernungen aus denen ein Sportboot auf dem Radar eines Großschiffes auszumachen ist:  
 - Mit **Radarreflektor** aus einer Entfernung von ca. 3 bis 4 Seemeilen.   
@@ -993,7 +1062,7 @@ Auf der Grundlage von Wetterinformationen **zeichnet man das Sturmgebilde** mit 
 
 14. Erwägt man die Reise abzubrechen und in einem Hafen oder einer Bucht **Schutz zu suchen**, ist dies sehr gewissenhaft zu überlegen, zu überprüfen und konsequent durchzudenken. Allein der Begriff „Schutzhafen" verleitet leicht zu einer voreiligen Entscheidung. Häfen oder Buchten in **Luv scheiden schon mal aus**. In Lee Schutz zu suchen heißt wertvollen Raum aufzugeben. Es gäbe kein zurück, außerdem sind **Ansteuerungen von Leeküsten** sehr gefährlich. Grundseen und Brandung sind zu überwinden. Navigationsfehler würden auf Legerwall führen. So bleiben nur Ziele, die im Bereich der Halbwindkurse zu erreichen sind. **Leebuchten** die ihrer Lage nach Schutz bieten, können, wenn sie unterhalb von Bergzügen liegen, derben Fallwinden oder starker Düsenwirkung ausgesetzt sein. Schließlich ist das Risiko beim manövrieren bei Sturm in einem vollbesetzten Hafen zu bedenken.
 
-15. Kotrolle der Fahrt bei Halbwind oder Amwindkursen in schwerem Seegang:  
+15. Kontrolle der Fahrt bei Halbwind oder Amwindkursen in schwerem Seegang:  
 Bei Amwind- oder Halbwindkursen muss durch leichtes variieren zum Wellenhang oder zum Wellental hin die Fahrt kontrolliert werden (eigentlich wie beim Surfen). Bei hohen Wellen hat das Bergauf- und Bergabkorrigieren mehr Einfluss auf die Fahrt als der Winkel zum Wind.
 
 16. Erleichterung des Rudergehens in schwerer See auf Vorwindkursen:  
@@ -1005,8 +1074,7 @@ Bei Vorwindkursen oder rauem Wind wird das Achterschiff von den heranrollenden W
 
 19. Um die Fahrt herabzusetzen bzw. um zu vermeiden, dass das Schiff bei achterlichem Wind bzw. bei rauem Kurs zu schnell wird werden **Bremsschleppen** ausgebracht.
 
-20. Lenzen bedeutet in diesem Zusammenhang in Zusammenhang mit den Abwettermethoden:
-
+20. Lenzen bedeutet in diesem Zusammenhang in Zusammenhang mit den Abwettermethoden:  
 Sogar ohne Sturmfock, also vor dem blanken Mast, nach Lee abzulaufen (**Lenzen vor Top und Takel**). Diese Methode wählt man, wenn der Vortrieb unter Sturmfock sich als zu groß erweist.
 
 21. **Beiliegen**  
@@ -1015,6 +1083,21 @@ Sogar ohne Sturmfock, also vor dem blanken Mast, nach Lee abzulaufen (**Lenzen v
 
 22. Unter der Abwettermethode **Treiben** versteht man, das Schiff sich selbst zu überlassen. Alle Segel werden weggenommen, das Ruder wird leicht auf Luv festgestellt, alles wird dichtgemacht und auch die Seewache wird unter Deck geholt. Das Schiff pendelt sich in diesem Zustand quer zu den Wellen ein und unterliegt einer sehr geringen Leedrift. Allerdings rollt es wie der Teufel und ist ein Spielball der Wellen. Brecher treffen es breitseits und bei äußerst steilen und sich überschlagenden Wellen ist ein seitlicher Absturz vorprogrammiert. Sich treiben zu lassen, kommt deshalb nur für stabile Stahlschiffe und hart gesottene Crews in Frage.
 
+>3 Möglichkeiten bei schwerem Wetter abzuwettern: 
+- Lenzen vor Topp und Takel: Wind und See ca. 3 Strich von achtern, ohne Segel, steuern   
+- Treiben: das Schiff sich selbst überlassen: Alle Segel weg, Ruder leicht nach Luv legen, alle unter Deck   
+- Beiliegen: Wirbelschleppe hilft anrollende Wellen zu dämpfen. Problematisch, wenn Wirbelschleppe zu schräg nach achter verläuft (Boot beigedreht noch zu schnell ist), querschlagen möglich. 
+Wind und See ca. 3 Strich von vorn: Das Schiff so in die See legen, dass die Wellen aus der ungefähren Seitenpeilung 20° bis 40° anrollen und das Schiff dabei steuerfähig bleibt, aber kaum noch Fahrt voraus macht. Leinen oder Treibanker ausbringen.    
+Diese Maßnahmen sind nicht zwingend, sondern können unterschiedlich sein in Abhängigkeit vom Schiffstyp. Vorher dafür sorgen, dass das gesamte Inventar gezurrt und vor Verrutschen und Übergehen gesichert ist. Großsegel reffen. vorzugsweise bergen. Vorsegel möglichst dichtholen. Ruder ständig zur Luvseite, da leegierig. Das Steuern erfordert größte Aufmerksamkeit, um das Schiff durch ständiges Beobachten des Seeganges
+„kursrecht“ zu halten.
+
+>Sturm abwettern:   
+durch Beiliegen, Lenzen vor Topp und Takel, Leinen achteraus schleppen, Liegen vor Treibanker, oder unter Sturmbesegelung aktiv segelnd und nach Möglichkeit brechende Seen aussteuernd.
+
+>Grundsatz hinsichtlich Zeitpunkt für das Einleiten von Maßnahmen:     
+Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken des Beidrehens befasst hat, dann soll man nicht zögern, sondern beidrehen bzw. die entsprechende Maßnahme einleiten. Damit vermeidet man meistens Schäden, die durch zu spätes Handeln entstehen.
+
+
 23. Freikämpfen aus einer **Legerwallsituation**:  
 - Sturmsegelsetzen und **um Höhe kämpfen**  
 - Motor mitschieben lassen  
@@ -1022,6 +1105,14 @@ Sogar ohne Sturmfock, also vor dem blanken Mast, nach Lee abzulaufen (**Lenzen v
 - Holepunkt weit nach außen  
 - gerefftes Groß oder Trysegel nicht völlig dicht fahren  
 - Fahrt im SChiff halten  
+
+
+>Gefahr bei Anlaufen eines Hafens bei auflandigem Starkwind bzw. schwerem Wetter:   
+- Gefahr durch Grundseen bzw. Kreuzseen.  
+- Möglichkeit von Querstrom.
+
+>Gefahr einer Leeküste bei schwerem Wetter:   
+Wenn die Yacht sich nicht freikreuzen kann, droht Strandung.
 
 # Ankern
 
