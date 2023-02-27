@@ -24,7 +24,7 @@ output:
 - Einhaltung der Sicherheitsvorkehrungen überwachen.
 - Gewährleistung von Vollständigkeit und einwandfreiem Zustand der Sicherheitsausrüstung. 
 - Abstellung vermeidbarer Verletzungsquellen am Schiff und an Teilen der Ausrüstung.
-- Vorbereiten und Einweisung der Mitsegler in die Verfahrenpläne (Not- oder Sicherheitsrollen).
+- Vorbereiten und Einweisung der Mitsegler in die Verfahrenspläne (Not- oder Sicherheitsrollen).
 - Verteilung der Aufgaben für den Notfall vor Beginn der Reise. 
 - Bennenung eines stellvertretenden Schiffsführers.
 - Übung der Verfahren, soweit praktikabel.
