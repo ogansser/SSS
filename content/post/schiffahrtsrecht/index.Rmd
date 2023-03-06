@@ -121,9 +121,8 @@ output:
 - die Schiffe solange **beieinander zu bleiben** haben, bis die sich darüber Gewissheit veschafft haben, dass weiterer Beistand nicht mehr erforderlich ist. 
 
 >Pflichten für den Schiffsführer laut Verordnung über die Sicherung der Seefahrt:  
-- Meiden von Eisgebieten und Fischgründen,  
-- unverzügliche Abgabe von Gefahrmeldungen (z.B. Eis, Wrack, Mine, Wirbelsturm) an in der Nähe  
-befindliche Schiffe und Küstenfunkstellen,  
+- Meiden von Eisgebieten und Fischgründen,   
+- unverzügliche Abgabe von Gefahrmeldungen (z.B. Eis, Wrack, Mine, Wirbelsturm) an in der Nähe befindliche Schiffe und Küstenfunkstellen,  
 - Hilfeleistung in Seenotfällen  
 - besondere Beistandspflicht nach Zusammenstößen,  
 - Pflicht zur Benutzung ( in der Anlage 2 ) vorgeschriebener Rettungssignale.  
@@ -197,10 +196,6 @@ Das Seeunfalluntersuchungsgesetz, die Verordnung über die Sicherung der Seefahr
 
 >Kollisionsgefahr ist eindeutig erkennbar durch stehende Kompasspeilung (bzw. stehende Seitenpeilung bei anliegendem Sollkurs) und Annäherung.
 
-set.seed(100); rnorm(100)
-fd <- optFederov( ~ .,vd,18)
-fd$design
-
 5. Unterschied Ausweichpflicht und Nichtbehinderungsgebot:
 
 - Ausweichpflicht: Bei der **Möglichkeit der Gefahr eines Zusammenstoßes** gibt es den Zwang des Ausweichpflichtigen zum Ausweichen (frühzeitig und durchgreifend) und des Kurshalters zum Kurshalten.  
@@ -221,15 +216,16 @@ fd$design
 - Ein Fahrzeug, das der Richtung eines engen Fahrwasser folgt, muss sich so **nahe am äußeren Rand** an seiner Steuerbordseite halten, wie dies ohne Gefahr möglich ist. 
 - Ein Fahrzeug **von weniger als 20 m** oder ein **Segelfahrzeug** darf nicht die Durchfahrt eines Fahrzeugs behindern, das nur innerhalb eines engen Fahrwassers sicher fahren kann.
 
->Engstellen sind solche Stellen im Fahrwasser, an denen von der Fahrwasserbreite hergesehen nicht zwei oder mehrere Schiffe gleichzeitig nebeneinander fahren können. Fahrwasser können z.B. durch Bauarbeiten oder Brückendurchfahrten eingeengt sein. An engen Stellen darf nicht überholt werden. Wenn ein Begegnungsverbot an Engstellen besteht, wird dieses in der Regel z.B durch das Sichtzeichen A.2 (rechteckige weiße Tafeln mit rotem Rand, rotem Schrägstrich und zwei senkrechten schwarzen Pfeilen, Spitzen entgegengesetzt) angezeigt (§ 25 Abs. 3). Es hat Vorfahrt - In Tidengewässern und in tidefreien Gewässern mit Strömungen - das mit dem Strom fahrende Fahrzeug, bei Stromstillstand das Fahrzeug, das vorher gegen den Strom gefahren ist, in tidefreien Gewässern ohne Strömung das Fahrzeug, das grundsätzlich die Steuerbordseite des Fahrwassers zu benutzen hat. Das wartepflichtige Fahrzeug muss außerhalb der Engstelle so lange warten, bis das andere Fahrzeug vorbeigefahren ist.
+>Engstellen sind solche Stellen im Fahrwasser, an denen von der Fahrwasserbreite her gesehen nicht zwei oder mehrere Schiffe gleichzeitig nebeneinander fahren können. Fahrwasser können z.B. durch Bauarbeiten oder Brückendurchfahrten eingeengt sein. An engen Stellen darf nicht überholt werden. Wenn ein Begegnungsverbot an Engstellen besteht, wird dieses in der Regel z.B durch das Sichtzeichen A.2 (rechteckige weiße Tafeln mit rotem Rand, rotem Schrägstrich und zwei senkrechten schwarzen Pfeilen, Spitzen entgegengesetzt) angezeigt (§ 25 Abs. 3). Es hat Vorfahrt - In Tidengewässern und in tidefreien Gewässern mit Strömungen - das mit dem Strom fahrende Fahrzeug, bei Stromstillstand das Fahrzeug, das vorher gegen den Strom gefahren ist, in tidefreien Gewässern ohne Strömung das Fahrzeug, das grundsätzlich die Steuerbordseite des Fahrwassers zu benutzen hat. Das wartepflichtige Fahrzeug muss außerhalb der Engstelle so lange warten, bis das andere Fahrzeug vorbeigefahren ist.
 
->Wegerechtschiffe sind Fahrzeuge (mit Ausnahme auf dem NOK), welche die für eine Seeschiffahrtstraße bekanntgemachten Abmessungen überschreiten oder die wegen ihres Tiefganges, ihrer Länge oder wegen anderer Eigenschaften gezwungen sind, den tiefsten Teil des Fahrwassers für sich in Anspruch zu nehmen. Hinzu kommen bestimmte Fahrzeuge im Bereich der Erweiterung des Küstenmeeres in der Deutschen Bucht. Wegerechtschiffe gelten als manövrierbehinderte Fahrzeuge im Sinne von Regel 3 g KVR (=manövrierbehinderte Fahrzeuge). Wegerechtschiffe führen am Tage senkrecht untereinander BallRhombus-Ball und bei Nacht zusätzlich zu den vorgeschriebenen Lichtern eines Maschinenfahrzeuges in Fahrt drei Rundumlichter senkrecht übereinander, rot-weiß-rot. Nebelsignal: lang, kurz, kurz mindestens alle 2 Minuten.
+>Wegerechtschiffe sind Fahrzeuge (mit Ausnahme auf dem NOK), welche die für eine Seeschiffahrtstraße bekanntgemachten Abmessungen überschreiten oder die wegen ihres Tiefganges, ihrer Länge oder wegen anderer Eigenschaften gezwungen sind, den tiefsten Teil des Fahrwassers für sich in Anspruch zu nehmen. Hinzu kommen bestimmte Fahrzeuge im Bereich der Erweiterung des Küstenmeeres in der Deutschen Bucht. Wegerechtschiffe gelten als manövrierbehinderte Fahrzeuge im Sinne von Regel 3 g KVR (=manövrierbehinderte Fahrzeuge). Wegerechtschiffe führen am Tage senkrecht untereinander Ball Rhombus-Ball und bei Nacht zusätzlich zu den vorgeschriebenen Lichtern eines Maschinenfahrzeuges in Fahrt drei Rundumlichter senkrecht übereinander, rot-weiß-rot. Nebelsignal: lang, kurz, kurz mindestens alle 2 Minuten.
 
-7. Der Einbahnweg eines Verkehrstrennugnsgebietes darf gequert werden, wenn ein Fahrzeug dazu gezwungen ist. Dies muss möglichst mit der Kielrichtug im rechten Winkel zur allgemeinen Verkehrsrichtung erfolgen. 
+7. Der Einbahnweg eines Verkehrstrennungsgebietes darf gequert werden, wenn ein Fahrzeug dazu gezwungen ist. Dies muss möglichst mit der Kielrichtug im rechten Winkel zur allgemeinen Verkehrsrichtung erfolgen. 
 
-8. Ein **Fahrzeug von weniger als 20 m** oder ein Segelfahrzeug darf die sichere Durchfahrt eines **Maschinen**fahrzeuges auf dem Einbahnweg nicht behindern, [Regel 10 j](https://www.gesetze-im-internet.de/seestro_1972/regel_10.html#:~:text=i)%20Ein%20fischendes%20Fahrzeug%20darf,auf%20dem%20Einbahnweg%20nicht%20behindern.). 
+8. Ein **Fahrzeug von weniger als 20 m** oder ein Segelfahrzeug darf die sichere Durchfahrt eines **Maschinen**fahrzeuges auf dem Einbahnweg nicht behindern [Regel 10 j](https://www.gesetze-im-internet.de/seestro_1972/regel_10.html#:~:text=i).
 
 9. Fahrzeuge von weniger als 20m, Segelfahrzeuge und fischende Fahrzeuge dürfen die **Küstenverkehrszone** benutzen. Ebenso Fahrzeuge die sich auf dem Weg zu oder von einem Hafen, einer Einrichtung, oder einem Bauwerk vor der Küste, eine Lotsenstation oder einem sonstigen innerhalb der Küstenverkehrszone gelegenen Ort befindet. 
+
 >Nach Regel 10 a wird ein Fahrzeug nicht von seiner Verpflichtung aufgrund einer anderen Regel befreit.
 
 10. Auf den Einbahnwegen eines Verkehrstrennungsgebietes (VTG) gilt das **Rechtsfahrgebot** nicht.
@@ -243,7 +239,7 @@ fd$design
 - Das Fahrzeug das den Wind von Backbord hat (Bei Entgegenkommen) (Regel 12 a i)
 - Das luvwärtige Fahrzeug (Bei Wind von der gleichen Seite) (Regel 12 a ii)
 
->Wenn Wind von Bb => Baum wird an Stb geführt
+>Wenn Wind von Bb => Baum wird an Stb geführt  
 >Wenn Wind von Stb => Baum wird an Bb geführt
 
 >B muss A in jedem Falle ausweichen, weil er A in Luv sichtet und dessen Segelstellung nicht
@@ -258,7 +254,7 @@ aufgehoben, Ausweichen hat Vorrang!
 
 > (14.) Regel 15 Kreuzende Kurse: Wenn die Kurse zweier Maschinenfahrzeuge einander so kreuzen, daß die Möglichkeit der Gefahr eines Zusammenstoßes besteht, muß dasjenige ausweichen, welches das andere an seiner Steuerbordseite hat; wenn die Umstände es zulassen, muß es vermeiden, den Bug des anderen Fahrzeugs zu kreuzen.
 
-15. Manövrierunfähige ist Fahrzeug durch einen **außergewöhnlichen Umstand** und manövrierbehindert ist ein Fahrzeug durch seine **Arte des Einsatzes**. Beiden können daher nicht ausweichen. 
+15. Manövrierunfähig ist Fahrzeug durch einen **außergewöhnlichen Umstand** und manövrierbehindert ist ein Fahrzeug durch seine **Arte des Einsatzes**. Beiden können daher nicht ausweichen. 
 
 >Kennzeichnung manövrierunfähig ohne FdW: zwei rote Rundumlichter bzw. zwei schwarze Bälle senkrecht übereinander. 
 
@@ -290,8 +286,7 @@ aufgehoben, Ausweichen hat Vorrang!
 23. Seenotsignale bei ...
 
 - Sichtverbindung zu anderen Schiffen: 
-  - Notzeichen NC
-  - Signal aus viereckiger Flagge, darüber oder darunter ein Ball oder etwas, dass einem Ball ähnlich sieht. 
+  - Notzeichen NC: Signal aus viereckiger Flagge, darüber oder darunter ein Ball oder etwas, dass einem Ball ähnlich sieht. 
   - Langsames Heben und Senken der nach beiden Seiten ausgestreckten Arme.
   - Flammensinale auf dem Fahrzeug
   - rote Handfackel
@@ -312,21 +307,23 @@ aufgehoben, Ausweichen hat Vorrang!
   
 24. Ein Bodeneffektfahrzeug das auf der Wasseroberfläche betrieben wird, muss die Ausweichregeln für Maschinenfahrzeuge erfüllen. Bei Start, Landung oder oberflächennahem Flug muss es sich von allen Fahrzeugen gut klar halten und vermeiden, deren Manöver zu behindern.  
 
->Schallsignal bei Nebel: lang, kurz, kurz => fischendem Fahrzeug (Fz.), manövrierbehindertem Fz. , manövrierunfähigem Fz., tiefgangbehindertem Fz., Schleppzug, Segelfahrzeug.=> Ein Segelfahrzeug muss ausweichen: Allen Fz. außer einem Schleppzug und, abhängig vom Wind, ggf. einem anderen Segelfahrzeug. Bei einem tiefgangbehinderten Fz. darf die sichere Durchfahrt nicht behindert werden.
+>Schallsignal bei Nebel: lang, kurz, kurz => fischendes Fahrzeug (Fz.), manövrierbehindertes Fz. , manövrierunfähiges Fz., tiefgangbehindertes Fz., Schleppzug, Segelfahrzeug.
 
->Schallsignal ca. jede Minute zwei lange Töne: Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht. (2 lange Töne mindestens alle 2 min). Nach Regel 19 e die Fahrt verringern, so dass die Steuerfähigkeit erhalten bleibt. Erforderlichenfalls Fahrzeug aufstoppen und mit äußerster Vorsicht weiter manövrieren, bis die Gefahr des Zusammenstoßes vorüber ist. Vor Insichtkommen keine
-Kursänderung, kein Ausweichmanöver! (KVR Abschnitt III: Verhalten von Fahrzeugen bei verminderter Sicht). Nebelsignal: einen langen Ton mindestens alle 2 min geben.
+>Diesen Fahrzeugen müssen Sie als Segelfahrzeug beim optischem Insichtkommen ausweichen:   
+Allen Fz. außer einem Schleppzug und, abhängig vom Wind, ggf. einem anderen Segelfahrzeug. Bei einem tiefgangbehinderten Fz. darf die sichere Durchfahrt nicht behindert werden.
+
+>Schallsignal Maschinenfahrzeug in Fahrt, das seine Maschine gestoppt hat und keine Fahrt durchs Wasser macht: 2 lange Töne mindestens alle 2 min.    Nach Regel 19 e die Fahrt verringern, so dass die Steuerfähigkeit erhalten bleibt. Erforderlichenfalls Fahrzeug aufstoppen und mit äußerster Vorsicht weiter manövrieren, bis die Gefahr des Zusammenstoßes vorüber ist. Vor Insichtkommen keine Kursänderung, kein Ausweichmanöver! (KVR Abschnitt III: Verhalten von Fahrzeugen bei verminderter Sicht). Nebelsignal: einen langen Ton mindestens alle 2 min geben.
 
 >Nebelsignale:  
-- Segler: -lang, kurz, kurz - mindestens alle 2 Minuten  
+- Segler: - lang, kurz, kurz - mindestens alle 2 Minuten   
 - Schleppende Fahrzeuge: -lang, kurz, kurz - mindestens alle 2 Minuten, unmittelbar danach wird vom letzten geschleppten Fahrzeug -lang, kurz, kurz, kurz - gegeben, - wenn dieses bemannt ist.  
 - Unter Motor: einen langen Ton mindestens alle 2 Minuten. Ohne Fdw:zwei lange Töne mindestens alle 2 min  
-- fischender Trawler: lang-kurz-kurz mindestens alle 2 min. 
+- fischender Trawler: lang-kurz-kurz mindestens alle 2 min.  
 
 >Tagsignale:  
 - Segelboot: einen Kegel, Spitze nach unten  
-- schleppendes Fahrzeug: Rhombus
-- Außergewöhnliche Schiffahrtsbehinderung: zwei schwarze Bälle übereinander und darunter ein schwarzer Kegel Spitze unten.
+- schleppendes Fahrzeug: Rhombus  
+- Außergewöhnliche Schiffahrtsbehinderung: zwei schwarze Bälle übereinander und darunter ein schwarzer Kegel Spitze unten.  
 
 >Nachtsignale: 
 Außergewöhnliche Schiffahrtsbehinderung:: drei feste Lichter übereinander, die beiden oberen rot, das untere grün.
@@ -343,7 +340,7 @@ Minuten.
 
 > KÜMO = Küstenmtorschiff
 
->Ein Segelfahrzeug von 12,5 m Länge führt, wenn sie auf Grund sitzt, am Tage drei Bälle senkrecht übereinander und bei Nacht im vorderen Teil ein weißes Rundumlicht und zwei rote Rundumlichter senkrecht übereinander (wo sie am besten gesehen werden können (Regel 30 d KVR))
+>Ein Segelfahrzeug von 12,5 m Länge führt, wenn es auf Grund sitzt, am Tage drei Bälle senkrecht übereinander und bei Nacht im vorderen Teil ein weißes Rundumlicht und zwei rote Rundumlichter senkrecht übereinander (wo sie am besten gesehen werden können (Regel 30 d KVR))
 
 >Als Nebelsignal ist in der Elbmündung außerhalb der Seeschiffahrtstraßenordnung von einem Grundsitzer zu geben: Mindestens jede Minute etwa 5 Sekunden lang die Glocke rasch läuten sowie zusätzlich unmittelbar vor und nach dem raschen Glockenläuten drei scharf voneinander getrennte Glockenschläge.   
 Ein Fahrzeug auf Grund darf zusätzlich ein Pfeifsignal kurz-lang-kurz geben (Regel 35 h)
@@ -352,7 +349,8 @@ Ein Fahrzeug auf Grund darf zusätzlich ein Pfeifsignal kurz-lang-kurz geben (Re
 Ein Fahrzeug von weniger als 12 m Länge, das die roten Rundumlichter senkrecht übereinander nicht führt, muss folgende Maßnahmen ergreifen:   
 1. Durch jedes andere verfügbare Mittel anzeigen, dass es manövrierunfähig ist, z.B. über UKWSprechfunk oder durch ein Schallsignal oder Lichtsignal lang, kurz, kurz.  
 2. Bei weiterer Annäherung das andere Fahrzeug mit einer starken Handlampe anleuchten und so auf sich aufmerksam machen.  
-3. Führen eines weißen Rundumlichtes, das mit keinem anderen Licht verwechselt werden kann. 4. Abfeuern eines Signals „weißer Stern“ oder „Blitz-Knall“.  
+3. Führen eines weißen Rundumlichtes, das mit keinem anderen Licht verwechselt werden kann.  
+4. Abfeuern eines Signals „weißer Stern“ oder „Blitz-Knall“.  
 5. Sofort bei Eintritt der Manövrierunfähigkeit Verkehrszentrale informieren (wenn vorhanden).  
 
 ## SeeSchStrO
@@ -363,7 +361,7 @@ Ein Fahrzeug von weniger als 12 m Länge, das die roten Rundumlichter senkrecht 
 
 3. Segelfahrzeuge < 12 m die die nach KVR vorgeschriebene Lichter nicht führen können, müssen mindestens ein weißes Rundumlicht führen. 
 
-4. Segelfahrzeuge < 12 m und Maschinenfahrzeuge < 7 m die die nach KVR vorgeschriebene Lichter nicht führen können, dürfen in der Zeit in der Lichterführung vorgeschrieben ist (Nacht), nicht fahren, es sei denn, dass ein Notstand vorliegt. Für diesen Fall ist ein weißes Licht ständig gebrauchsfertig mitzuführen und rechtzeitig zuzeigen, um einen Zusammenstoß zu vermeiden.  
+4. Segelfahrzeuge < 12 m und Maschinenfahrzeuge < 7 m die die nach KVR vorgeschriebene Lichter nicht führen können, dürfen in der Zeit in der Lichterführung vorgeschrieben ist (Nacht), nicht fahren, es sei denn, dass ein Notstand vorliegt. Für diesen Fall ist ein weißes Licht ständig gebrauchsfertig mitzuführen und rechtzeitig zu zeigen, um einen Zusammenstoß zu vermeiden.  
 
 5. **Achtungssignal** (einmal lang) ist zu geben in allen Fällen, in denen die Verkehrslage ein Achtungssignal erfordert:
 - Einlaufen/Auslaufen in andere Fahrwasser/Häfen/Schleusen
@@ -416,12 +414,14 @@ angegeben.
 >Ankern ist im Fahrwasser mit Ausnahme auf den Reeden und den bekanntgemachten Wasserflächen verboten. Außerhalb des Fahrwassers ist Ankern erlaubt:  
 - entfernt von engen Stellen und unübersichtlichen Krümmungen  
 - mehr als 300 m entfernt von schwimmenden Geräten, Wracks usw.  
-- mehr als 300 m entfernt bei verminderter Sicht von Hochspannungsleitungen - entfernt von Hafeneinfahrten, Anlegestellen, Schleusen, Fährstrecken usw. (ausführlich siehe § 32
+- mehr als 300 m entfernt bei verminderter Sicht von Hochspannungsleitungen   
+- entfernt von Hafeneinfahrten, Anlegestellen, Schleusen, Fährstrecken usw. (ausführlich siehe § 32
 SeeSchStrO).
 
 >Ankerlieger: Unterschied Grundsitzer:  
-- Ankerlieger am Tag 1 schwarzer Ball, Grundsitzer am Tag 3 schwarze Bälle im vorderen Teil senkrecht übereinander.  
-- Ankerlieger nachts 1. weißes Rundumlicht (< 50m), 2. weißes Rundumlicht hinten tiefer als das 1. vorn (>= 50m, < 100m), ab 100m Länge zusätzlich Decksbeleuchtung  
+- Ankerlieger am Tag: 1 schwarzer Ball,   
+- Grundsitzer am Tag 3 schwarze Bälle im vorderen Teil senkrecht übereinander.  
+- Ankerlieger nachts: 1 weißes Rundumlicht (< 50m), 2. weißes Rundumlicht hinten tiefer als das 1. vorn (>= 50m, < 100m), ab 100m Länge zusätzlich Decksbeleuchtung  
 - Grundsitzer nachts Nacht zusätzlich zu den Lichtern eines Ankerliegers zwei rote Rundumlichter im vorderen Teil senkrecht übereinander.
 - Ankerlieger bei Nebel mind. jede Minute etwa 5s rasches Läuten der Glocke (< 100m), wenn >= 100m unmittelbar danach 5sec rasches schlagen des Gongs im hinteren Schiffsbereich  
 - Grundsitzer zu den Schallsignalen des Ankerliegers zusätzlich unmittelbar vor und nach dem raschen Läuten der Glocke jeweils 3 einzelne Glockenschläge. Als Warnung an sich nähernde Fahrzeuge kann zusätzlich das Pfeifensignal kurz-lang-kurz gegeben werden.
@@ -447,7 +447,7 @@ SeeSchStrO).
 
 21. Alle mit einer UKW-Sprechfunkanalage ausgestatteten Fahrzeuge sind verpflichtet die von der **Verkehrszentrale** (Maritime Verkehrssicherung) gegebenen Verkehrsinformationen und -unterstützungen **abzuhören und zu berücksichtigen**. ([§3](https://www.gesetze-im-internet.de/seeschstro_1971/__3.html)) 
 
->zweimal hintereinander das Schallsignal:lang-kurz-kurz-kurz-kurz =>  allgemeines Gefahr- und Warnsignal
+>zweimal hintereinander das Schallsignal: lang-kurz-kurz-kurz-kurz =>  allgemeines Gefahr- und Warnsignal
 
 >Schiffahrtszeichen sind Sichtzeichen und Schallsignale, die Gebote, Verbote, Warnungen und Hinweise
 ausdrücken. 
@@ -470,7 +470,7 @@ oder Geschwindigkeit selbständig bestimmen.
 
 > Auf einem Containerschiff einen roten Doppelstander (Flagge B): Containerschiff, das Explosivstoffe geladen hat.
 
->bei Tage mitten im Fahrwasser ein Fahrzeug mit folgenden Signalkörpern: Ball-Rhombus-Ball senkrecht übereinander und auf beiden Seiten Rhombus-Rhombus senkrecht übereinander.: Manövrierbehindertes Fahrzeug mit oder ohne FdW (jeweils z.B. am Bugstau zu erkennen), das im Fahrwasser baggert und das an beiden Seiten passiert werden kann.
+>Bei Tage mitten im Fahrwasser ein Fahrzeug mit folgenden Signalkörpern: Ball-Rhombus-Ball senkrecht übereinander und auf beiden Seiten Rhombus-Rhombus senkrecht übereinander: Manövrierbehindertes Fahrzeug mit oder ohne FdW (jeweils z.B. am Bugstau zu erkennen), das im Fahrwasser baggert und das an beiden Seiten passiert werden kann.
 
 >Seeamt und Bundesoberseeamt als Widerspruchstelle haben die Aufgabe, Seeunfälle zu untersuchen und die Ursachen für solche Seeunfälle festzustellen. Außerdem haben sie zu prüfen, ob der Seeunfall auf Mängel zurückzuführen ist, die mit dem Schiff, der Ladung, der Wasserstraße usw. zu tun haben oder ob Mängel in der Besetzung des Schiffes vorhanden waren bzw. ob der Unfall auf einen Verstoß gegen Verkehrsvorschriften oder auf einen Fehler bei der Führung oder dem Betrieb des Schiffes zurückzuführen ist.
 >Die Spruchkörper der Seeämter und des Bundesoberamtes sind besetzt mit einem Vorsitzenden und vier Beisitzern (ein [hauptamtlicher] Ständiger Beisitzer, drei ehrenamtliche Beisitzer).
@@ -482,8 +482,15 @@ Abstand) und keine elektrischen Schalter bedienen, kein offenes Feuer.
 
 >"Vorfahrt beachten:" begründet eine Wartepflicht. wer die Vorfahrt zu beachten hat, muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass er warten wird. Er darf nur weiterfahren, wenn er übersehen kann, dass die Schiffahrt im Fahrwasser nicht beeinträchtigt wird. Ggf. hat der Wartepflichtige seinen Kurs und/oder seine Geschwindigkeit zu ändern (gilt rechtlich nicht als Ausweichen!).
 
->allgemeine Gefahrenstelle (z.B. Untiefe, Wracks) auf einer Seeschiffahrtsstraße südlich der Gefahrenstelle bei Tage und bei Nacht gekennzeichnet: Tonne mit Süd- Kardinal Zeichen; Farbe gelb über schwarz, Toppzeichen: zwei schwarze Kegel übereinander, Spitze unten. Feuer: weiß; Kennung: SFkl. (6) + Blk. oder Fkl. (6) + Blk.
+>Allgemeine Gefahrenstelle (z.B. Untiefe, Wracks) auf einer Seeschiffahrtsstraße südlich der Gefahrenstelle bei Tage und bei Nacht gekennzeichnet: Tonne mit Süd- Kardinal Zeichen; Farbe gelb über schwarz, Toppzeichen: zwei schwarze Kegel übereinander, Spitze unten. Feuer: weiß; Kennung: SFkl. (6) + Blk. oder Fkl. (6) + Blk.
 
+>Ein Unfall im Sinne des SeeUG liegt vor:  
+- Gefährdung oder Beeinträchtigung von Personen, des Verkehrs, des Gewässerzustandes  
+- Schiffsverlust,  
+- erheblicher Schaden am Schiff,  
+- Schiff oder Ladung als Schadensverursacher,  
+- Tod oder Verschollenheit einer Person,  
+- unterlassene Hilfeleistung.  
 
 # Radarplotten
 
@@ -533,7 +540,7 @@ Geschwindigkeit der relativen Bewegung von B
 
 # Seeunfalluntersuchung
 
-1. Aufgaben der **Bundesstelle für Seefalluntersuchung**:
+1. Aufgaben der **Bundesstelle für Seeunfalluntersuchung**:
 - Ermittlung der **Umstände** des Vorkomnisses
 - Ermittlung der unmittelbaren und mittelbaren **Ursachen** durch die es zum Vorkommnis gekommen ist. 
 - Ermittlung der Faktoren, die den Eintritt des Schadens oder der Gefahr begünstigt haben, unter Einbeziehung möglicher **Schwachstellen** des Sicherheitssystems. 
@@ -552,7 +559,7 @@ Geschwindigkeit der relativen Bewegung von B
 
 4. Ob ein Seeunfall im Rahmen des SUG untersucht wird, entscheidet der Direktor der Bundesstelle. 
 
-5. Ein Bericht umfasst Angaben zum Meldenden, shum Schiff, zu dessen Betreiber, zum Schiffsführer, zum Schaden, zum Ablauf des Unfalls und zu den Begleitumständen (andere Schiffe, Wetter, Meeresverschmutzung). 
+5. Ein Bericht umfasst Angaben zum Meldenden, zum Schiff, zu dessen Betreiber, zum Schiffsführer, zum Schaden, zum Ablauf des Unfalls und zu den Begleitumständen (andere Schiffe, Wetter, Meeresverschmutzung). 
 
 6. In [§ 7 der Verordnung über die Sicherung des Seefahrt](https://www.gesetze-im-internet.de/seefsichv_1993/BJNR141700993.html) ist geregelt, Angaben der Bundesstelle bei einem schaden- oder gefahrenverursachenden Vorkommnis (Seeunfall) zu melden ist. 
 
@@ -561,7 +568,7 @@ Geschwindigkeit der relativen Bewegung von B
 8. Die **Seeämter** (Kiel, Hamburg, Bremerhafen, Emden, Rostock) sind Untersuchungsausschüsse mit der **Aufgabe** zu Untersuchen, ob ein Befähigungszeugnis entzogen oder ein Fahrverbot verfügt werden soll. 
 
 >Generell sollen Ursachen und Umstände eines Seeunfalles festgestellt werden und ob ein fehlerhaftes Verhalten eines Beteiligten vorliegt, auch wenn letzteres nicht unfallursächlich war.  
-So betreffen z.B. den Skipper eines Sportbootes:
+So betreffen z.B. den Skipper eines Sportbootes:  
 - Mängel in der Besatzung des Schiffes,  
 - Fehler bei der Führung oder dem Betrieb des Schiffes,  
 - Verstoß gegen Verkehrs-, Sicherheits- und Umweltvorschriften,  
@@ -574,7 +581,8 @@ So betreffen z.B. den Skipper eines Sportbootes:
 Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:  
 - sind Personen verletzt und benötigen diese Hilfe.  
 - ist gegenseitiger Beistand (materieller Art) erforderlich.  
-- Austauschen: Schiffsname, Abgangs- und Bestimmungshafen, evtl. Unterscheidungssignal Reise erst fortsetzen, wenn kein Beistand (mehr) benötigt wird. Kann ein Schiffsführer seiner Verpflichtung zur Hilfeleistung nicht nachkommen, so hat er dieses unter Angabe der Gründe ins Logbuch einzutragen und das für seinen Heimathafen zuständige Seeamt zu informieren.
+- Austauschen: Schiffsname, Abgangs- und Bestimmungshafen, evtl. Unterscheidungssignal.  
+Reise erst fortsetzen, wenn kein Beistand (mehr) benötigt wird. Kann ein Schiffsführer seiner Verpflichtung zur Hilfeleistung nicht nachkommen, so hat er dieses unter Angabe der Gründe ins Logbuch einzutragen und das für seinen Heimathafen zuständige Seeamt zu informieren.
 
 
 # Umweltschutz
@@ -585,15 +593,16 @@ Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:
 
 3. Boardtoilette kann mit Wasser und Bürste sauber und geruchsfrei gehalten werden. 
 
-4. Gegen Öl in der **Motor-Bilge** sichert man sich mit einem **Abscheidegefäß**
+4. Gegen Öl in der **Motor-Bilge** sichert man sich mit einem **Abscheidegefäß**.
 
-5. Wenn Öl in die **allgemeine Schiffsbilge** gelangt ist sollte man mit einem **Ölbindemittel** abbinden, die Rückstände und betroffenes Gebrauchsmaterial in geeigneten Behältern sammeln und bei den Entsorgungsstationen in Häfen abgeben. 
+5. Wenn Öl in die **allgemeine Schiffsbilge** gelangt ist, sollte man mit einem **Ölbindemittel** abbinden, die Rückstände und betroffenes Gebrauchsmaterial in geeigneten Behältern sammeln und bei den Entsorgungsstationen in Häfen abgeben. 
 
-6. Die Grenzwerte für den Ölanteil bei Wasser, das bei Reinigungsarbeiten außenbords gepumpt wird beträgt 15 ppm (patrs per million)
+6. Die Grenzwerte für den Ölanteil bei Wasser, das bei Reinigungsarbeiten außenbords gepumpt wird. beträgt 15 ppm (patrs per million).
 
 >7. Sondergebiete nach MARPOL bedeuten, dass darin die **Beseitigung aller Kunsstoffgegenstände und sonstigen Mülls** verboten ist.
 
-> Sondergebiete in Europa sind: Ostsee, Nordsee, Mittelmeer 
+> Sondergebiete in Europa sind: Ostsee, Nordsee, Mittelmeer  
+
 > In Sondergebieten ist das Einleiten jeglicher Art von Schadstoffen verboten.
 
 >Für Yachten gilt in Sondergebieten das Verbot des Einleitens von Öl, festen und flüssigen Schadstoffen jeglicher Art sowie Schiffsmüll. Lebensmittelabfälle, zerkleinert oder nicht, dürfen nur im Mindestabstand 12 sm von Land ins Meer geleitet werden.
@@ -602,13 +611,14 @@ Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:
 
 9. Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen zugelassen sind, die Auflage, dass jegliche Einleitung von Abwässern innerhalb der 12sm Zone verboten ist. Die Yachten müssen, soweit sich eine Toilette an Bord befindet, mit einem geschlossenen Fäkalientank ausgestattet sein. 
 
->Lebensmittelabfälle sollten in Müllbehältern in Häfen entsorgt werden. Sie dürfen auf See
-nur in einem Abstand von Mindestens12sm von Land entfernt außenbords entsorgt werden.
+>Lebensmittelabfälle sollten in Müllbehältern in Häfen entsorgt werden. Sie dürfen auf See nur in einem Abstand von Mindestens 12sm von Land entfernt außenbords entsorgt werden.
+
 >Leere Flaschen aller Art dürfen nur an Land entsorgt werden.  
+
 >Fäkalien bzw. Abwässer müssen, da das Schiff für die Beförderung von mehr als 10 Personen vorgesehen ist, in einem Tank gesammelt und entweder an Land entsorgt oder in einer mäßigen Rate bei einer Geschwindigkeit von 4 kn in einem Abstand von mindestens 12 sm von Land eingeleitet werden. Wenn das Abwasser desinfiziert ist und die Rückstände zerkleinert sind, genügt ein Mindestabstand von Land von 4 sm.
 
 Ausnahmen: 
-- Sportboote, die vor 2003 gebaut wurden und weniger als 11,50m lang und weniger als 3,80m breit sind
+- Sportboote, die vor 2003 gebaut wurden und weniger als 11,50m lang und weniger als 3,80m breit sind  
 - Sportboote, die vor 1990 gebaut wurden. 
 
 10. **Chemie-Toiletten** haben ein Umweltproblem. Die geruchsbindenden und desinfizierenden Zusätze behindern den natürlichen Klärprozess. Ins Meer geleitet würden sie wegen ihrer aggressiv gitigen Eigenschaften großen Schaden anrichten. Sie sollen nur an den dafür vorgesehenen Entsorgungsstationen gelehrt werden. 
@@ -617,7 +627,7 @@ Ausnahmen:
 
 12. Die **Zonen I** sind besondere in den Seekarten verzeichnete Schutzzonen, in denen man sich **nur innerhalb der Fahrwasser** unbeschränkt aufhalten darf. 
 
-13 Die Flächen **außerhalb der Fahrwasser** in Zone 1 dürfen nur von 3h von bis 3h nach Hochwasser mit max 15km/h FdW befahren werden. Motorisiertes Wasserskifahren, Wassermotorräder oder sonstige motoriserte Wassersportgeräte sind verboten 
+13 Die Flächen **außerhalb der Fahrwasser** in Zone 1 dürfen nur von 3h vor bis 3h nach Hochwasser mit max 15km/h FdW befahren werden. Motorisiertes Wasserskifahren, Wassermotorräder oder sonstige motoriserte Wassersportgeräte sind verboten 
 
 
 # Seenotrettung- und Sicherheitsfunkdienst
@@ -631,7 +641,7 @@ Ausnahmen:
 
 5. Ein **aktivierter Seenot-Radartransponder (SART)** erscheint auf dem Radarschirm von dem Standort des Transponders radial nach außen weisend eine Perlenschnur von 12 Echos, die einer Länge von 7,5 sm enstpricht. 
 
-6. Ein **NAVTEX-Nutzer** kann verhindern, dass er nicht mit einer Flut von unnötigen Meldungen überschüttet wird. Hierzu dient ein **Buchstabe als Sendererkennung**. Mit dem Buchstabe kann man den gewünschten Sender in den Empfänger eingeben, sodass nur dieser empfangen wird. Auf gleiche Weise kann man **Meldungsarten auswählen**. **SARMedlungen und Wetterwarnungen** erscheinen auf jeden Fall. 
+6. Ein **NAVTEX-Nutzer** kann verhindern, dass er nicht mit einer Flut von unnötigen Meldungen überschüttet wird. Hierzu dient ein **Buchstabe als Sendererkennung**. Mit dem Buchstabe kann man den gewünschten Sender in den Empfänger eingeben, sodass nur dieser empfangen wird. Auf gleiche Weise kann man **Meldungsarten auswählen**. **SAR Medlungen und Wetterwarnungen** erscheinen auf jeden Fall. 
 
 7. Von **Inmarsat** werden folgende Fernmeldedienste geleistet: 
 - B: Telefonie, Telex und Datenübertragung 
