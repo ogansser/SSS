@@ -222,7 +222,7 @@ Das Seesicherheits-Untersuchungs-Gesetz (SUG), die Verordnung über die Sicherun
 
 7. Der Einbahnweg eines Verkehrstrennungsgebietes darf gequert werden, wenn ein Fahrzeug dazu gezwungen ist. Dies muss möglichst mit der Kielrichtug im rechten Winkel zur allgemeinen Verkehrsrichtung erfolgen. 
 
-8. Ein **Fahrzeug von weniger als 20 m** oder ein Segelfahrzeug darf die sichere Durchfahrt eines **Maschinen**fahrzeuges auf dem Einbahnweg nicht behindern [Regel 10 j](https://www.gesetze-im-internet.de/seestro_1972/regel_10.html#:~:text=i).
+>8. Ein Fahrzeug von weniger als 20 m** oder ein Segelfahrzeug darf die sichere Durchfahrt eines Maschinenfahrzeuges auf dem Einbahnweg nicht behindern (Regel 10 j)
 
 9. Fahrzeuge von weniger als 20m, Segelfahrzeuge und fischende Fahrzeuge dürfen die **Küstenverkehrszone** benutzen. Ebenso Fahrzeuge die sich auf dem Weg zu oder von einem Hafen, einer Einrichtung, oder einem Bauwerk vor der Küste, eine Lotsenstation oder einem sonstigen innerhalb der Küstenverkehrszone gelegenen Ort befindet. 
 
@@ -242,8 +242,7 @@ Das Seesicherheits-Untersuchungs-Gesetz (SUG), die Verordnung über die Sicherun
 >Wenn Wind von Bb => Baum wird an Stb geführt  
 >Wenn Wind von Stb => Baum wird an Bb geführt
 
->B muss A in jedem Falle ausweichen, weil er A in Luv sichtet und dessen Segelstellung nicht
-erkennen kann (Regel 12 a iii). A ist Kurshalter. 
+>B mit Wind von Bb muss entgegenkommenden A in jedem Falle ausweichen, wenn er A in Luv sichtet und dessen Segelstellung nicht erkennen kann (Regel 12 a iii). A ist Kurshalter. 
 
 >Wenn Kurshaltepflicht und Ausweichpflicht kollidieren, ist die Kurshaltepflicht nach Regel 2b KVR
 aufgehoben, Ausweichen hat Vorrang!
@@ -266,7 +265,7 @@ aufgehoben, Ausweichen hat Vorrang!
 
 18. Um einen Zusammenstoß zu vermeiden darf/muss der Kurshalter folgene Maßnahmen treffen: 
 
-- Muss: Kurs und Geschwindigkeit beibehalten. 
+- Muss: Kurs und Geschwindigkeit beibehalten. + 5 kurze Töne
 - Darf: selbst manövrieren zur Abwendung eines Zusammenstoßes (Manöver des vorletzten Augenblicks)
 - Muss: Wenn Zusammenstoß durch Manöver des Ausweichenden alleine nicht zu vermeiden ist (Manöver des letzten Augenblicks)
 
@@ -422,7 +421,7 @@ SeeSchStrO).
 - Ankerlieger am Tag: 1 schwarzer Ball,   
 - Grundsitzer am Tag 3 schwarze Bälle im vorderen Teil senkrecht übereinander.  
 - Ankerlieger nachts: 1 weißes Rundumlicht (< 50m), 2. weißes Rundumlicht hinten tiefer als das 1. vorn (>= 50m, < 100m), ab 100m Länge zusätzlich Decksbeleuchtung  
-- Grundsitzer nachts Nacht zusätzlich zu den Lichtern eines Ankerliegers zwei rote Rundumlichter im vorderen Teil senkrecht übereinander.
+- Grundsitzer nachts Nacht zusätzlich zu den Lichtern eines Ankerliegers zwei rote Rundumlichter im vorderen Teil senkrecht übereinander.  
 - Ankerlieger bei Nebel mind. jede Minute etwa 5s rasches Läuten der Glocke (< 100m), wenn >= 100m unmittelbar danach 5sec rasches schlagen des Gongs im hinteren Schiffsbereich  
 - Grundsitzer zu den Schallsignalen des Ankerliegers zusätzlich unmittelbar vor und nach dem raschen Läuten der Glocke jeweils 3 einzelne Glockenschläge. Als Warnung an sich nähernde Fahrzeuge kann zusätzlich das Pfeifensignal kurz-lang-kurz gegeben werden.
 
