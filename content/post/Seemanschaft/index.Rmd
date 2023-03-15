@@ -698,9 +698,9 @@ Ablauf des Strandungsmanövers:
 2. Hilfe ist anzufordern mit den in der KVR **vorgeschriebenen Notzeichen**, am besten jedoch über Funk.
 
 >Frequenzen für Seenotmeldung:    
-- Über Sprechfunk auf Grenzwelle 2182 kHz, UKW Kanal 16 (Seenot- und Anruffrequenz) ohne DSC     
-- Mit DSC über Sprechfunk auf Grenzwelle oder UKW – auch für die nicht ausrüstungspflichtigen Sportboote ist die Ausrüstung mit DSC zu empfehlen, da die Notmeldung sonst ohne Hörwache überhört werden kann.  
-- mit einer Seenotbake (z.B. Epirb)    
+- Über Sprechfunk auf **Grenzwelle 2182 kHz, UKW Kanal 16 **(Seenot- und Anruffrequenz) **ohne DSC**       
+- **Mit DSC** über Sprechfunk auf Grenzwelle oder UKW – auch für die nicht ausrüstungspflichtigen Sportboote ist die Ausrüstung mit DSC zu empfehlen, da die Notmeldung sonst ohne Hörwache überhört werden kann.  
+- mit einer **Seenotbake (z.B. Epirb)**  
 
 >Anrufverfahren über Sprechfunk (kommt keine Antwort nach ca 1 – 4 Min wiederholen):   
 - 3x Mayday,   
@@ -714,21 +714,21 @@ Ablauf des Strandungsmanövers:
 
 >Anrufverfahren mit DSC:  
 - DSC-Alarmierung (evtl. vorher Position und Grund des Seenotfalls ergänzen) (kommt keine Antwort automatische Wiederholung alle 4 Minuten)  
-- nach Bestätigung des Empfangsweiter über Kanal 16 - Mayday this is MMSI + Schiffsname + Rufzeichen (evtl. Position und Grund des Seenotfalls)   
+- nach Bestätigung des Empfangs **weiter über Kanal 16** - Mayday this is MMSI + Schiffsname + Rufzeichen (evtl. Position und Grund des Seenotfalls)   
 - Art der erbetenen Unterstützung   
 - OVER
 
 >Anrufverfahren über Epirb:  
-- nach manueller oder automatischer Auslösung wird der Notruf automatisch über Satelit an das nächstliegende MRCC (maritim rescue and coordination centre) weitergeleitet.
+- nach manueller oder automatischer Auslösung wird der Notruf automatisch über Satelit an das nächstliegende **MRCC** (maritim rescue and coordination centre) weitergeleitet.
 
 3. Nach Aufnahme des Funkkontakts sind dem Hilfeleistenden folgende Informationen zu übermitteln:  
 - Name  
 - Position  
 - Art der benötigten Hilfe  
 - Zustand des Fahrzeugs und der Besatzung  
-- Kurs und Geschwindigkeit zu einem gegebenenfalls verinbarten Treffpunkt  
+- Kurs und Geschwindigkeit zu einem gegebenenfalls vereinbarten Treffpunkt  
 - Wetter im Seegebiet  
-- Einzelheiten, die das Erkennen des Fahrzeugs erleichter
+- Einzelheiten, die das Erkennen des Fahrzeugs erleichtern
 
 4. **Vorbereitung zum Ausbooten in Rettungsfloß**:  
 - Sicherheitsrollen bei Einweisung  
@@ -764,7 +764,7 @@ Ablauf des Strandungsmanövers:
 >Maßnahmen bei Verlassen der Yacht laut Broschüre "Sicherheit im See- und Küstenbereich Sorgfaltsregeln für Wassersportler":   
 - Möglicht viel (warme gesüßte) Flüssigkeit zu sich nehmen.   
 - Vor dem Vonbordgehen enganliegende wärmende Kleidung anziehen (möglichst reichlich, mit Schuhen und Handschuhen).  
-- Falls Überlebensfahrzeug vorhanden (Boot, Floß), Decken, Lebensmittel mit Getränken, Erste-HilfeVerbandskasten, Sprechfunkgerät, Notsender usw. in dieses Fahrzeug geben.  
+- Falls Überlebensfahrzeug vorhanden (Boot, Floß), Decken, Lebensmittel mit Getränken, Erste-Hilfe Verbandskasten, Sprechfunkgerät, Notsender usw. in dieses Fahrzeug geben.  
 - Möglichst rot-weiß-farbige oder orangefarbige Gegenstände nach außenbords werfen, da diese aus der Luft gut auszumachen sind.  
 - Man sollte versuchen, möglicht trocken in ein Rettungsfahrzeug zu kommen.   
 - Nicht auf ein (bemanntes) Rettungsfloß springen.   
@@ -818,15 +818,15 @@ Letztendlich die Leine zur Yacht lösen.
 16. Die Rettungsschlinge wird mit dem Verschluss nach vorne über den Kopf und Arme gestülpt, sodass die **unter den Achseln** trägt. Es ist unbedingt darauf zu achten, dass das Kabel direkt ins Wasser hängt und nicht irgendwo **hinterhakt**. Auf Zeichen "Daumen nach oben" taut der Hubschrauber an und zieht die Person in der Schlinge **schräg seitlich vom Achterstag weg** nach oben. Nicht schaukeln und darauf achten, dass das Kabel sich nicht um das Achterstag schlingt.
 
 >Rote Leuchkugel in Sicht bei Nacht in weiter Entfernung:       
-Alarmierung der Mannschaft, Richtung des Notsignals und eigene Position feststellen, Funkverkehr abhören, weiter beobachten. Beobachtung an Küstenfunkstelle und die in der Nähe befindliche Schiffahrt weitergeben. Wenn Küstenfunkstelle nicht reagiert oder alles schweigt, selber rufen und Mayday-Relais an KüFSt geben, Anweisungen befolgen. Wenn möglich, auf Havaristen zulaufen (es besteht Pflicht zur Hilfeleistung), Funkverkehr mit anderen Schiffen abhören oder suchen, ...
+Alarmierung der Mannschaft, Richtung des Notsignals und eigene Position feststellen, Funkverkehr abhören, weiter beobachten. Beobachtung an Küstenfunkstelle und die in der Nähe befindliche Schiffahrt weitergeben. Wenn Küstenfunkstelle nicht reagiert oder alles schweigt, selber rufen und **Mayday-Relais** an KüFSt geben, Anweisungen befolgen. Wenn möglich, auf Havaristen zulaufen (es besteht Pflicht zur Hilfeleistung), Funkverkehr mit anderen Schiffen abhören oder suchen, ...
 
 >Planung zur Einleitung der Suche bei Hilfeleistung in entlegenem Seegebiet:    
-Zu Beginn der Suchplanung muss zunächst der Bezugspunkt (engl. datum) – Position des Schiffes in Not und Position des eigenen Schiffes - und das anfänglich wahrscheinlichste Aufenthaltsgebiet des Suchzieles bestimmt werden. Das wahrscheinlichste Gebiet wird festgelegt, nachdem mögliche Fehler bei der Bestimmung des Bezugspunktes aufgrund der Ungenauigkeit der gemeldeten Position des Unfalles und/oder bei der Schätzung der Vertreibung durch Strom und/oder Wind berücksichtigt worden sind.
+Zu Beginn der Suchplanung muss zunächst der **Bezugspunkt** (engl. datum) – Position des Schiffes in Not und Position des eigenen Schiffes - und das anfänglich **wahrscheinlichste Aufenthaltsgebiet** des Suchzieles bestimmt werden. Das wahrscheinlichste Gebiet wird festgelegt, nachdem mögliche Fehler bei der Bestimmung des Bezugspunktes aufgrund der Ungenauigkeit der gemeldeten Position des Unfalles und/oder bei der Schätzung der Vertreibung durch Strom und/oder Wind berücksichtigt worden sind.
 
 # Mensch über Bord (MOB)
 
 >MOB an Backbordseite, wenn hart am Wind und Wind von Backbord:  
-Gefahrenhalse: Man segelt einige Bootslängen weiter, um Höhe zu gewinnen. Ein Crewmitglied hat die Boje ständig unter Beobachtung. Nun fällt man ab, halst und luvt dann soweit an, dass ein Nahezuaufschießer gelingt. Bei diesem Manöver hat man einen Drehkreis gefahren. Die Boje hat man eben an Bbd. voraus. Durch Dichtholen der Segel kann jederzeit wieder kontrolliert Fahrt aufgenommen und reduziert werden. Nun Boje so ansteuern, dass man diese an Bb. bzw. an Stb. einholen kann. Evt. Schiff, wenn Boje querab an Bb. ist, Wende mit ehen (Fock back, Großschot lose und Ruder nach Luv).  
+Gefahrenhalse: Man segelt einige Bootslängen weiter, um Höhe zu gewinnen. Ein Crewmitglied hat die Boje ständig unter Beobachtung. Nun fällt man ab, halst und luvt dann soweit an, dass ein Nahezuaufschießer gelingt. Bei diesem Manöver hat man einen Drehkreis gefahren. Die Boje hat man eben an Bbd. voraus. Durch Dichtholen der Segel kann jederzeit wieder kontrolliert Fahrt aufgenommen und reduziert werden. Nun Boje so ansteuern, dass man diese an Bb. bzw. an Stb. einholen kann. Evt. Schiff, wenn Boje querab an Bb. ist, Wende mit Beidrehen (Fock back, Großschot lose und Ruder nach Luv).  
 - Leebergung: Vorteil: Man treibt auf die Person zu. Nachteil: Bei Seegang kann Person durch Yacht verletzt werden.   
 - Luvbergung: Vorteil: Person kann nicht durch Yacht verletzt werden. Nachteil: Yacht entfernt sich von Person.
 
@@ -960,9 +960,9 @@ Bei Unterkühlung 3. Grades: „Scheintod", Körpertemperatur unter 24°C, nicht
 - Kopf des Verletzten überstrecken und mit der Atemspende beginnen (Mund zu Mund/Mund zu Nase). Falls der Verletzte während der Beatmung erbrich, sofort Kopf auf die Seite und Mund ausräumen. 
 
 > Wie seekrankem Crewmitglied helfen:  
-- Wenn Cockpit lang genug ist, seekrankes Mitglied auf der Leeseite hinlegen.   
-- Pütz für Übergeben klarhalten, diese sofort ausspülen.   
-- Person eventuell festlaschen (Lifebelt einpicken).   
+- Wenn Cockpit lang genug ist, seekrankes Mitglied auf der **Leeseite** hinlegen.   
+- **Pütz** für Übergeben klarhalten, diese sofort ausspülen.   
+- Person eventuell **festlaschen** (Lifebelt einpicken).   
 - Für gute Luft sorgen; Raucherqualm und Dieselgeruch fördern die Seekrankheit.     
 - Falls machbar, Person Ruder übernehmen lassen, damit der Horizont als feste Bezugslinie beruhigt.   
 - Das Entstehen von Angstgefühlen reduzieren.   
@@ -979,8 +979,8 @@ Informationen über ein solches Gespräch finden sich u.a. im Yachtfunkdienst. F
 - Bisherige Maßnahmen, Angaben über die Möglichkeiten der Behandlung an Bord (z.B. Medikamente, ...),  
 - Standort des Schiffes.
 
->Allerletzte Maßnahme, wenn Beantmung nicht mehr möglich und Crewmitglied zu erstoicken droht:   
-Sollte in der Bordapotheke ein Kunststofftubus vorhanden sein, kann man versuchen, diesen in die Luftröhre zu schieben, was wegen zunehmender Schwellung aber schwierig wird. Letzte Maßnahme: Eröffnen der Luftröhre von außen mit einem spitzen Messer (Skalpell) zwischen Adamsapfel und Ringknorpel. Einlegen eines Schlauchstücks bzw. einer sonstigen Röhre (z.B. Kugelschreibervorderteil) und Beatmung hierdurch.
+>Allerletzte Maßnahme, wenn Beathmung nicht mehr möglich und Crewmitglied zu ersticken droht:   
+Sollte in der Bordapotheke ein **Kunststofftubus** vorhanden sein, kann man versuchen, diesen in die Luftröhre zu schieben, was wegen zunehmender Schwellung aber schwierig wird. Letzte Maßnahme: Eröffnen der Luftröhre von außen mit einem spitzen Messer (Skalpell) zwischen **Adamsapfel und Ringknorpel**. Einlegen eines Schlauchstücks bzw. einer sonstigen Röhre (z.B. Kugelschreibervorderteil) und Beatmung hierdurch.
 
 
 # Manövrierverhalten von Seeschiffen
@@ -1012,13 +1012,13 @@ Sportboot.
 7. Bei höheren Fahrgeschwindigkeiten in flachen Gewässern unterliegen Großschiffe dem **SQUATEFFEKT**. Der Squat-Effekt ist ein Sog, der durch die hohe Wasserströmungsgeschwindigkeit in der Düse z.B. zwischen Rumpfunterseite und dem Grund entsteht und das Schiff veranlasst, mit dem Heck tiefer einzutauchen. Kalkuliert man den Manövrierraum der Großschifffahrt nach den Wassertiefen, sind für diesen Effekt ein paar Meter hinzuzugeben/rechnen. Die Flachwasserverhältnisse beinträchtigen auch die Steuerfähigkeit großer Schiffe. Sie drehen schwerer an und schwingen weiter über. Das wirkt sich besonders unangenehm aus, wenn sich in dem Squatbereich das Bodenprofil zu beiden Seiten hin unregelmäßig verändert, wenn z.B. eine Uferböschung oder eine Bank passiert wird. Der Ansaugeffekt tritt dann unsymmetrisch auf und zieht das Heck zu der Untiefe hin (BANKEFFEKT). Große Schiffe können im Extremfall aus dem Ruder laufen. Sie meiden deshalb die Nähe solcher Untiefen.
 
 >Wenn ein größeres Küstenmotorschiff mehrere zunächst nicht erklärbare Kursänderungen fährt:   
-Das Schiff steuert wahrscheinlich nach den Tiefenlinien, um einen Flachwassereffekt (Squat) – das bedeutet ein Absenken des Schiffes über den normalen Tiefgang hinaus - zu vermeiden.
+Das Schiff steuert wahrscheinlich nach den Tiefenlinien, um einen Flachwassereffekt (**Squat**) – das bedeutet ein Absenken des Schiffes über den normalen Tiefgang hinaus - zu vermeiden.
 
 8. Großschiffe schieben in engen Fahrwassern und Kanälen, auch bei reduzierter Fahrt, zusätzlich zu der normalen Bugwelle einen Wasserstau vor sich her. Zum Ufer hin bildet dieser Stau stellenweise einen Berg von zwei bis drei Metern Höhe. Wird man mit einem Sportboot von einem solchen Schiff überholt, muss man mit gewaltigen **Wasserstandsänderungen** rechnen. Hinzu kommt, dass die Steuerfähigkeit auf dem eigenem Schiff reduziert wird.
 
 9. Nach IMO-Richtlinien (International Maritime Organisation) muss man von der Brücke aus die Wasseroberfläche **rechtvoraus** bis 10° nach beiden Seiten erst nach **zwei Schiffslängen**, höchstens jedoch in **500 Metern** sehen können. Bei einer Ladehöhe von 15 Metern über der Wasserlinie wäre eine drei Meter hohe Motoryacht bereits in 400 Meter Entfernung voll verdeckt! In allen anderen Richtungen muss von der Brücke aus lediglich der Horizont gesehen werden können.
 
->Wichtige Umrechnung: 1 kn ~ 30 Meter/Minute
+>Wichtige Umrechnung: **1 kn ~ 30 Meter/Minute**
 
 >Empfehlungen der See-Berufsgenossenschaft bezüglich der Mindestsichtweite auf Containerschiff nach voraus:   
 Der tote Winkel nach voraus soll 2 Schiffslängen, höchstens jedoch 500 m nicht überschreiten.
@@ -1053,7 +1053,7 @@ Bei Andrehen nach Stb. schwenkt Heck deutlich nach Bb. aus („verbreiterte Fahr
 
 Da für eine Ausweichentscheidung mindestens zwei Radarortungen in 6 Minuten Abstand erforderlich sind, ist die Ersterkennung in 3,5 sm Abstand sehr spät. Bei 25 Kn Fahrt, im Falle eines Fahrgastschiffes oder eines modernen Containerschiffes, wären in 6 Minuten schon 2,5 Sm zurückgelegt. Ein **erfolgreiches Ausweichen** wäre dann schon kritisch. Hätte die Yacht keinen guten Radarreflektor, wäre ein rechtzeitiges Ausweichen des großen Schiffes so gut wie **ausgeschlossen**.
 
->Nach ca. 2 SL verlässt die Bb.-Seite des Hecks die „alte“ Kurslinie. Es wird also zur Kollision des abdrehenden Hecks mit der Yacht kommen, wenn die Entfernung seit Abdrehen gereinger ist. 
+>Nach ca. 2 SL verlässt die Bb.-Seite des Hecks die „alte“ Kurslinie. Es wird also zur Kollision des abdrehenden Hecks mit der Yacht kommen, wenn die Entfernung seit Abdrehen geringer ist. 
 
 13. Wirkungsvollstes **Ausweichmanöver** eines langsam fahrenden Sportbootes ist gegenüber einem schnell fahrenden Großschiff: 
 
@@ -1073,7 +1073,7 @@ Die Verkehrsumstände diktieren, was ein **sicherer Passierabstand** ist. Hierbe
 
 - Klarmachen der Sturmsegel 
 
-- Ausbringen der Strecktaue (Jackstays). 
+- Ausbringen der **Strecktaue** (Jackstays). 
 
 - Anlegen von Rettungswesten und Lifebelts. 
 
@@ -1083,7 +1083,7 @@ Die Verkehrsumstände diktieren, was ein **sicherer Passierabstand** ist. Hierbe
 
 - Sichern aller losen Gegenstände unter Deck 
 
-- Sichern der Schapps und Spinde 
+- Sichern der **Schapps** und Spinte 
 
 - Kontrolle der Seeventile und Luken 
 
@@ -1099,7 +1099,7 @@ Die Verkehrsumstände diktieren, was ein **sicherer Passierabstand** ist. Hierbe
 >Vorkehrungen unter Deck bei Sturmerwartung:  
 - Auf Vorrat Essen und warme Getränke zubereiten.   
 - Aufklaren, so dass keine losen Gegenstände zum „Geschoss“ werden können.   
-- Türen vonund Schaps eventuell mit Klebeband usw. gegen Öffnen sichern.   
+- Türen und Schaps eventuell mit Klebeband usw. gegen Öffnen sichern.   
 - Werkzeug für Notreparaturen klar legen, des weiteren Notsignale und Lampen.   
 - Bilgen überprüfen und trocknen, alle Seeventile schließen.   
 - Toilette leer pumpen.    
@@ -1124,7 +1124,7 @@ Um mit einer Hochseeyacht schweres Wetter abzuwettern, gibt es nach allgemeinen 
 - Einigkeit über die anzuwendende Sturmtaktik   
 - Rechtzeitiges Abwechseln am Ruder
 
-3. Da man bei heftigem Stampfen im Vorschiff kaum schlafen kann und vielleicht auch andere Kojen nicht benutzbar sein werden, werden **heiße Kojen*"** gefahren. Das bedeutet, die benutzbaren Kojen werden im Wechsel jeweils von der Freiwache benutzt. Der Arbeitsbereich unter dem Niedergang einschließlich Pantry, Nav.-Ecke und WC wird zur **Ölzeugschleuse*"** erklärt. Der Zweck ist, solange wie möglich zu vermeiden, dass das ganze Schiff nass wird. Die Pflicht der Freiwache ist es, die Zeit zu nutzen um **Schlaf zu finden** und für die nächste Wache wieder fit zu sein (Crew-Rest). Dieser ist Nachdruck zu verleihen.
+3. Da man bei heftigem Stampfen im Vorschiff kaum schlafen kann und vielleicht auch andere Kojen nicht benutzbar sein werden, werden **heiße Kojen** gefahren. Das bedeutet, die benutzbaren Kojen werden im Wechsel jeweils von der Freiwache benutzt. Der Arbeitsbereich unter dem Niedergang einschließlich Pantry, Nav.-Ecke und WC wird zur **Ölzeugschleuse** erklärt. Der Zweck ist, solange wie möglich zu vermeiden, dass das ganze Schiff nass wird. Die Pflicht der Freiwache ist es, die Zeit zu nutzen um **Schlaf zu finden** und für die nächste Wache wieder fit zu sein (Crew-Rest). Dieser ist Nachdruck zu verleihen.
 
 4. Besondere Aufgaben der **Navigation**: Der Koppelarbeit ist besondere Aufmerksamkeit zu widmen. Die Standorte der elektronischen Navigationssysteme sind, wenn durch die Koppelnavigation bestätigt, in kürzeren Abständen als gewohnt in die Seekarte einzutragen. Abdriftwinkel und Geschwindigkeit sind zu berücksichtigen.
 
@@ -1159,16 +1159,16 @@ Luvgierigkeit wird erzeugt durch zu große Großsegel und im Verhältnis zu klei
 > Verminderung Luvgierigkeit:      
 Während der Seereise kann die Luvgierigkeit gemindert werden durch größere Vorsegel, analog kleinere Großsegel, gegebenenfalls durch Reffen. Durch Gewichtsverlagerung, also durch Umstauen nach achtern, kann die Luvgierigkeit ggfs. ebenfalls vermindert werden.
 
->ALuvgierigkeit bei achterlicher See:   
+>Luvgierigkeit bei achterlicher See:   
 Achterliche See vergrößert die Luvgierigkeit, weil die anrollende See das Heck anhebt. Das bedeutet, dass der Lateralschwerpunkt nach voraus wandert.
 
 >Durch Trimmen vor Beginn der ersten Reise erreicht man möglichst optimale Segeleigenschaften.
 
 >Überläufer auf der Winsch lösen:   
-- Luvschot provisorisch nach Lee scheren, evt. provisorische Leitöse herstellen und über Spinnakerwinsch oder mit Hilfe von Umlenkblöcken über die Luvwisch dichtholen und so Leeschot entlasten und Überläufer lösen.    
-- Reserveschot oder entsprechenden Tampen mit Stopperstek auf der Schot befestigen und über Spinnakerwinsch oder Luvwinsch dichtholen, Überläufer lösen, (auf größerem Schiff hat man schon einen extra Tampen dafür mit Kettenvorlauf gesehen, da Kette besser auf strammer Schot stoppt)
-- Kurz in den Wind gehen um Fockschot zu entlasten.     
-- letzte Maßnahmen: Kappen der Schot mit dem Messer
+- **Luvschot provisorisch nach Lee scheren**, evt. provisorische Leitöse herstellen und über Spinnakerwinsch oder mit Hilfe von Umlenkblöcken über die Luvwisch dichtholen und so Leeschot entlasten und Überläufer lösen.    
+- Reserveschot oder entsprechenden Tampen mit Stopperstek auf der Schot befestigen und über Spinnakerwinsch oder Luvwinsch dichtholen, Überläufer lösen, (auf größerem Schiff hat man schon einen extra Tampen dafür mit Kettenvorlauf gesehen, da Kette besser auf strammer Schot stoppt)  
+- Kurz in den Wind gehen um Fockschot zu entlasten.      
+- letzte Maßnahmen: Kappen der Schot mit dem Messer.  
 
 12. Gründe für die Prüfung, ob bei einem bevorstehenden Sturm die Reiseroute beibehalten werden kann:  
 Im Sturm ist die **Kursfreiheit eingeschränkt**. Je nach Art und Beschaffenheit der Yacht und Schwere des Sturms kann es schwierig oder ausgeschlossen sein, Luvraum gut zu machen. Bei schwerer See kann man gezwungen sein vor der See abzulaufen, beizuliegen oder sich passiv treiben zu lassen. In allen Fällen muss eine gewisse Menge Leeraum, die sich aus den Driftwerten des Schiffes ergibt, vorhanden sein.
@@ -1199,13 +1199,17 @@ Sogar ohne Sturmfock, also vor dem blanken Mast, nach Lee abzulaufen (**Lenzen v
 
 22. Unter der Abwettermethode **Treiben** versteht man, das Schiff sich selbst zu überlassen. Alle Segel werden weggenommen, das Ruder wird leicht auf Luv festgestellt, alles wird dichtgemacht und auch die Seewache wird unter Deck geholt. Das Schiff pendelt sich in diesem Zustand quer zu den Wellen ein und unterliegt einer sehr geringen Leedrift. Allerdings rollt es wie der Teufel und ist ein Spielball der Wellen. Brecher treffen es breitseits und bei äußerst steilen und sich überschlagenden Wellen ist ein seitlicher Absturz vorprogrammiert. Sich treiben zu lassen, kommt deshalb nur für stabile Stahlschiffe und hart gesottene Crews in Frage.
 
->3 Möglichkeiten bei schwerem Wetter abzuwettern: 
-- Lenzen vor Topp und Takel: Wind und See ca. 3 Strich von achtern, ohne Segel, steuern   
-- Treiben: das Schiff sich selbst überlassen: Alle Segel weg, Ruder leicht nach Luv legen, alle unter Deck   
-- Beiliegen: Wirbelschleppe hilft anrollende Wellen zu dämpfen. Problematisch, wenn Wirbelschleppe zu schräg nach achter verläuft (Boot beigedreht noch zu schnell ist), querschlagen möglich. 
+>3 Möglichkeiten bei schwerem Wetter abzuwettern:  
+- Lenzen vor Topp und Takel: Wind und See ca. 3 Strich von achtern, ohne Segel, steuern     
+- Treiben: das Schiff sich selbst überlassen: Alle Segel weg, Ruder leicht nach Luv legen, alle unter Deck     
+- Beiliegen: Wirbelschleppe hilft anrollende Wellen zu dämpfen. Problematisch, wenn Wirbelschleppe zu schräg nach achter verläuft (Boot beigedreht noch zu schnell ist), querschlagen möglich.  
 Wind und See ca. 3 Strich von vorn: Das Schiff so in die See legen, dass die Wellen aus der ungefähren Seitenpeilung 20° bis 40° anrollen und das Schiff dabei steuerfähig bleibt, aber kaum noch Fahrt voraus macht. Leinen oder Treibanker ausbringen.    
-Diese Maßnahmen sind nicht zwingend, sondern können unterschiedlich sein in Abhängigkeit vom Schiffstyp. Vorher dafür sorgen, dass das gesamte Inventar gezurrt und vor Verrutschen und Übergehen gesichert ist. Großsegel reffen. vorzugsweise bergen. Vorsegel möglichst dichtholen. Ruder ständig zur Luvseite, da leegierig. Das Steuern erfordert größte Aufmerksamkeit, um das Schiff durch ständiges Beobachten des Seeganges
-„kursrecht“ zu halten.
+Diese Maßnahmen sind nicht zwingend, sondern können unterschiedlich sein in Abhängigkeit vom Schiffstyp. Vorher dafür sorgen, dass das gesamte Inventar gezurrt und vor Verrutschen und Übergehen gesichert ist. Großsegel reffen. vorzugsweise bergen. Vorsegel möglichst dichtholen. Ruder ständig zur Luvseite, da leegierig. Das Steuern erfordert größte Aufmerksamkeit, um das Schiff durch ständiges Beobachten des Seeganges „kursrecht“ zu halten.
+
+>Alternativ: **Lenzen vor Topp und Takel**: Wenn die schwere See das Beidrehen, oder auch Beiliegen, nicht mehr als zweckmäßig erscheinen lässt, muss versucht werden, alle Segel zu bergen. Gesamtes Inventar zurren, um ein Verrutschen oder Übergehen zu verhindern. Versuchen, das Heck in die See zu drehen; gegebenenfalls mit Maschine. Dann von See und Wind treiben lassen. Das Steuern spielt hierbei die wichtigste Rolle. Um eine gewisse Steuerfähigkeit zu erreichen und die Driftgeschwindigkeit zu mindern, bringt man eine Leine aus, die auf beiden Seiten des Achterschiffes belegt und nachgeschleppt wird und somit im Wasser eine Bucht bildet. Die Leine kann beispielsweise zusätzlich mit Fendern beschwert werden, um die o.g. Bremswirkung zu erhöhen. Die Verwendung eines Treibankers verspricht dann Erfolg, wenn dieser so groß ist, dass sein Widerstand im Wasser größer ist als der des Bootes.  
+Alternativ: „Abwettern“. (Beiliegen oder) das Schiff sich selbst überlassen heißt, ohne Segel, ohne nachgeschleppte Leine oder ohne Treibanker das Schiff sich selbst in eine „natürliche“ Schwimmrichtung zum Seegang und zum Sturm steuerlos einschwingen zu lassen. Yacht driftet mehr oder weniger in Querlage. Die Mannschaft hat dabei nur ständig auf die Einrichtungen zu achten.  
+**Das Gelingen der beschriebenen Maßnahmen hängt erheblich vom Schiffstyp ab.**
+  
 
 >Sturm abwettern:   
 durch Beiliegen, Lenzen vor Topp und Takel, Leinen achteraus schleppen, Liegen vor Treibanker, oder unter Sturmbesegelung aktiv segelnd und nach Möglichkeit brechende Seen aussteuernd.
@@ -1220,7 +1224,7 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
 - Sturmfock nicht zu spitzwinklig  
 - Holepunkt weit nach außen  
 - gerefftes Groß oder Trysegel nicht völlig dicht fahren  
-- Fahrt im SChiff halten  
+- Fahrt im Schiff halten  
 
 
 >Gefahr bei Anlaufen eines Hafens bei auflandigem Starkwind bzw. schwerem Wetter:   
@@ -1306,10 +1310,10 @@ Abfahrtsposition gelangt.
 - Als Nachteil ist festzustellen, dass beim bordseitigen Einholen der Leine sich dieselbe oder das Auge an Konstruktionsteilen der Hafen- oder Pieranlagen oder am Poller verhaken kann.
 
 >Zweck eines Treibankers, wenn keine Segel mehr tragbar:   
-Driftgeschwindigkeit nach Lee verringern, beim Ablaufen vor dem Wind Querschlagen verhindern, Bug oder Heck beim Treibenlassen im Wind halten.
+**Driftgeschwindigkeit nach Lee verringern**, beim Ablaufen vor dem Wind **Querschlagen verhindern**, Bug oder Heck beim Treibenlassen im Wind halten.
 
 >Vorteil Leinenbucht gegenüber Treibanker:  
 Leinen sind immer verfügbar, leichter auszubringen, besser zu regulieren.
 
 >Probleme von Treibankern, insbesondere bei großen modernen Yachten:   
-Schiff wird zu großer Dimensionierung des Treibankers stark „festgehalten“, Schäden durch Seeschlag auf Bug oder Heck (ins Cockpit), Ruderbruch und Ausreißen der Decksbeschläge können die Folge sein.
+Schiff wird bei zu großer Dimensionierung des Treibankers stark „festgehalten“, Schäden durch **Seeschlag** auf Bug oder Heck (ins Cockpit), Ruderbruch und Ausreißen der Decksbeschläge können die Folge sein.
