@@ -17,11 +17,11 @@ output:
 # Grundlagen der Wetterkunde
 
 
->Wetter: Ist der augenblickliche Zustand der Atmosphäre am Betrachtungsort.  
-Witterung: Ist die Beschreibung eines über mehrere Tage anhaltenden Wettergeschehens, gekennzeichnet durch z.B. kalt, feucht.  
-Klima: ist die großräumige, langfristige Darstellung des mittleren Wetterverlaufs.
+>**Wetter**: Ist der augenblickliche **Zustand der Atmosphäre** am Betrachtungsort.  
+**Witterung**: Ist die **Beschreibung** eines über mehrere Tage anhaltenden **Wettergeschehens**, gekennzeichnet durch z.B. kalt, feucht.  
+**Klima**: ist die **großräumige, langfristige Darstellung** des mittleren **Wetterverlaufs**.
 
->Die Grundelemente des Wettergeschehens sind: Luftfeuchte, Temperatur, Luftdruck   
+>Die **Grundelemente** des Wettergeschehens sind: **Luftfeuchte, Temperatur, Luftdruck**   
 weitere Parameter: Windrichtung- und stärke, Wolkenbild und Niederschläge
 
 1. Gesetzliche Temperatureinheit (International) ist [Kelvin (K)](https://de.wikipedia.org/wiki/Kelvin) oder, als besonderer Name, in **Grad Celsius** gemessen. Eine Temperatur von 0 °C entspricht 273,15 K; der absolute Nullpunkt liegt bei 0 K (= −273,15 °C))
@@ -43,7 +43,7 @@ Extremwerte in Europa: +75 mit Strahlungsanteil
 4. Ein Flüssigkeitsbarometer ähnelt einem umgedrehten U, wobei es ein offenes und geschlossenes Ende besitzt. Es ist mit genau 760 Millimetern Quecksilber gefüllt. Im geschlossenen Ende ist ein Vakuum. Ändert sich der Luftdruck, wird das Quecksilber mehr oder weniger in das Vakuum gedrückt und die Höhe der Säule ändert sich. Auf einer Skala lässt sich dann der Luftdruck ablesen.
 Unter Normalbedinungen steht die Quecksilbersäule 76 cm hoch (= 760 mmHG, HG=chemisches Zeichen für Quecksilber)
 
->Luftdruck entsteht als Folge der Gewichtskraft (Masse mal Beschleunigung) der Atmosphäre. Durch den Druck der über einer Fläche in einem beliebigen Höhenniveau befindlichen Luftschichten wird die darunter liegende Luftmasse zusammengepresst und dadurch in Spannung versetzt. Diese Spannung hält zur Gewichtskraft der Luft ein Gleichgewicht.
+>**Luftdruck** entsteht als Folge der **Gewichtskraft** (Masse mal Beschleunigung) **der Atmosphäre**. Durch den Druck der über einer Fläche in einem beliebigen Höhenniveau befindlichen Luftschichten wird die darunter liegende Luftmasse zusammengepresst und dadurch in Spannung versetzt. Diese Spannung hält zur Gewichtskraft der Luft ein Gleichgewicht.
 
 5. Druck wird in **Pascal** angegeben. Die Luftsäule in Meereshöhe erzeugt unter Normbedingungen einen Druck von 1013,2 Hektopascal (hPa): 
 
@@ -70,20 +70,20 @@ $$Drucktendenz = \frac{\Delta p}{\Delta t}$$
 
 Gutes Erklärvideo: [Kraft auf Luft durch Druckunterschied](https://www.youtube.com/watch?v=qAmAwRPDihI)
 
->Gradient ist der Luftdruckunterschied in hPa auf einer Strecke von 60 sm senkrecht zu den Isobaren.
+>Gradient ist der **Luftdruckunterschied** in hPa auf einer Strecke von **60 sm** senkrecht zu den Isobaren.
 
->Berchnung des Gradienten: $$Druckgradient = \frac{\Delta hPa * 60}{Meilenabstand der Isobaren}$$  
+>Berchenung des Gradienten: $$Druckgradient = \frac{\Delta hPa * 60}{Meilenabstand der Isobaren}$$  
 
 8. p nimmt mit der höhe über der Erdoberfläche ab. In einer Höhe von ca. 5400m beträgt p 500hPa. 
 In Bodennähe gilt, dass ca. jede 8m p um 1hPa fällt. (vertigaler Druckgradient)
 
 9. Der **Wind wird in der Richtung angegeben** aus der er kommt.  
 
-> Wind ist bewegte Luft. Die Bewegung entsteht durch die Druckunterschiede zwischen Hoch- und Tiefdruckgebieten.
+> Wind ist **bewegte Luft**. Die Bewegung entsteht durch die Druckunterschiede zwischen Hoch- und Tiefdruckgebieten.
 
 > Skala für Windrichtung: 8-teilige Skala mit Auflösung in 45° Stufen.
 
->Die Schwankung in der Windrichtung kann bis zu 45 Grad um die Haupt windrichtung betragen, also bei Formulierung "Nordwest" von Westnordwest (WNW) bis Nordnordwest (NNW). Es können Böen auftreten, die etwa 1 bis 2 Bft über dem Mittelwind liegen.
+>Die Schwankung in der Windrichtung kann bis zu 45 Grad um die Hauptwindrichtung betragen, also bei Formulierung "Nordwest" von Westnordwest (WNW) bis Nordnordwest (NNW). Es können Böen auftreten, die etwa 1 bis 2 Bft über dem Mittelwind liegen.
 
 10. Die **Stärke des Windes** kann in m/s, km/h, kn (Seemeilen/h) ausgedrückt werden. Der DWD gibt entsprechend der seemännischen Praxis die Stärke häufig in Beaufort-Graden an. Im Allgemeinen wird man die Windstärke nach dem Seegang beurteilen. 
 
@@ -117,9 +117,9 @@ Regel: 1 Bft = 5 kn; bei 1 bis 7 Bft +1; bei 11 und 12 Bft -1
 - Krümmung der Windbahn
 
 >Scheinkräfte die die Windgeschwindigkeit beeinflussen:   
-- Der Coriolis-Effekt dreht die Richtung des Windes rechtwinklig nach rechts, wenn man auf der Nordhalbkugel vom hohen zum tiefen Druck schaut (Nordhalbkugel). Bei gleichem Isobarenabstand ist durch den Coriolis-Effekt in niederen Breiten die Windgeschwindigkeit größer als in höheren Breiten.   
-- Die Reibungskraft verringert die Geschwindigkeit des Windes (auf 66% von der des geostrophischen Windes; Zahlenangabe nicht erforderlich!) und lenkt die Richtung über See um 22° zu den Isobaren zum tiefen Druck hin.   
-- Die Zentrifugalkraft verstärkt/verringert die Windgeschwindigkeit bei antizyklonal/zyklonal gekrümmten Isobaren gegenüber parallel verlaufenden Isobaren mit gleichem Isobarenabstand. Infolge der Zentrifugalkraft ist bei gleichem Isobarenabstand die Windgeschwindigkeit an Hochdruckgebieten  größer als an Tiefdruckgebieten.
+- Der **Coriolis-Effekt** dreht die Richtung des Windes rechtwinklig nach rechts, wenn man auf der Nordhalbkugel vom hohen zum tiefen Druck schaut (Nordhalbkugel). Bei gleichem Isobarenabstand ist durch den Coriolis-Effekt in niederen Breiten die Windgeschwindigkeit größer als in höheren Breiten.   
+- Die **Reibungskraft** verringert die Geschwindigkeit des Windes (auf 66% von der des geostrophischen Windes; Zahlenangabe nicht erforderlich!) und lenkt die Richtung über See um 22° zu den Isobaren zum tiefen Druck hin.   
+- Die **Zentrifugalkraft** verstärkt/verringert die Windgeschwindigkeit bei antizyklonal/zyklonal gekrümmten Isobaren gegenüber parallel verlaufenden Isobaren mit gleichem Isobarenabstand. Infolge der Zentrifugalkraft ist bei gleichem Isobarenabstand die Windgeschwindigkeit an Hochdruckgebieten  größer als an Tiefdruckgebieten.
 
 16. In amerikanischen Wetterkarten wird der geostrophische Wind auf 65% verringert, um eine gute Näherung an den Bodenwind zu erhalten. 
 
@@ -135,8 +135,6 @@ Regel: 1 Bft = 5 kn; bei 1 bis 7 Bft +1; bei 11 und 12 Bft -1
 **Sturmwarnung**: Erwarung ab 8 Bft
 
 >20. Der **scheinbare Wind** setzt sich zusammen aus **wahrem Wind** und **Fahrtwind**.
-
-![](Wind2.png)
 
 ![](Wind.png)
 
@@ -198,8 +196,8 @@ Von Norden nach Südosten auf Mitteleuropa zu:
 
 >1. Definitionen
 
-- **absolute Feuchte a** = Anteil des unsichtbaren Wasserdampfes an allen Molekülen in der Luft. 
-- **Sättigungsfeuchte A** = maximal mögliche Wasserdampfmenge bei einer bestimmten Temperatur. 
+- **absolute Feuchte a** = Anteil des unsichtbaren **Wasserdampfes** an allen Molekülen in der Luft. 
+- **Sättigungsfeuchte A** = maximal mögliche **Wasserdampfmenge** bei einer bestimmten Temperatur. 
 
 $$relative\ Feuchte\ U= \frac{a}{A}*100$$ 
 
@@ -207,8 +205,8 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
 
 >2. Luft kann zur Sättigung gebracht werden durch
 
-- in dem Feuchte zugeführt wird (Feuchtezufuhr) => Verdunstungsnebel im Herbst 
-- in dem die Temperatur gesenkt wird (Abkühlung) => Abkühlungsnebel im Frühjahr
+- in dem Feuchte zugeführt wird (**Feuchtezufuhr**) => Verdunstungsnebel im Herbst 
+- in dem die Temperatur gesenkt wird (**Abkühlung**) => Abkühlungsnebel im Frühjahr
 
 3. Folgende Prozesse führen zu Regen: 
 
@@ -227,7 +225,7 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 - **Stratus oder Stratocumulus**: Wind und die allgemeine Rauhigleit der Landschaft lassen Luft bis zum Kondensationsniveau aufwirbeln (Turbulenzwolken). Es können dabei Schicht oder Schichthaufenwolken enstehen
 - **Wogenwolken**: Die Luft steigt wellenförmig in das Kondensationsniveau hinein und wieder heraus. Häufig in Lee von Gebirgen.
 
->Es gibt Haufenwolken (Cumulus) und Schichtwolken (Stratus). Cirrus, Cirrostratus, Cirrocumulus, Altostratus, Altocumulus, Nimbostratus, Stratocumulus, Stratus, Cumulus, Cumulonimbus.
+>Es gibt **Haufenwolken (Cumulus)** und **Schichtwolken (Stratus)**. Cirrus, Cirrostratus, Cirrocumulus, Altostratus, Altocumulus, Nimbostratus, Stratocumulus, Stratus, Cumulus, Cumulonimbus.
 
 >5. Wolkenfamilien International, nach Aufbau und Höhe:  
 - hohe Wolken (5.000 bis 13.000m überlappend): Cirrus, Cirrostratus, Cirrocumulus  
@@ -239,7 +237,7 @@ Bei der Wolken- und Nebelbildung verdichten sich durch  **Kondensation** kleine 
 
 >**Altocumulus castellanus** (mittelhohe türmchenartige Haufenwolken) kündigen oft schon vormittags kräftige Wärmegewitter an.
 
->Haufenwolken (Cumulus) zeigen sich am späten Vormittag über Land am Himmel und kündigt Seewind an.
+>**Haufenwolken (Cumulus)** zeigen sich am späten Vormittag über Land am Himmel und kündigt Seewind an.
 
  
 6. Die zehn amtlichen Wolkengattungen
@@ -287,7 +285,8 @@ Regenwolken => Nimbostratus
 - Bei den Luftmassengewittern treten die einzelnen Gewitterzellen im Bereich der Luftmasse verbreitet auf.   
 - Bei den Frontgewittern findet man die Gewitterentwicklungen direkt vor und an der Kaltfront.   
 
->Für die Sportschifffahrt stellen neben der Blitztätigkeit die Böenlinien (Squall-lines) mit Böen bis Orkanstärke eine besondere Gefahr dar.
+>Gefahr für die Sportschiffahrt:  
+Für die Sportschifffahrt stellen neben der Blitztätigkeit die Böenlinien (Squall-lines) mit Böen bis Orkanstärke eine besondere Gefahr dar.
 
 > Gefahren für Segelfahrzeug bei Gewitter:  
 - Böen bis Orkanstärke aus häufig wechselnden Richtungen   
@@ -296,10 +295,10 @@ Regenwolken => Nimbostratus
 - Hoher Seegang, Kreuzseen 
 
 >Markante Zeichen für das Herannahen eines Gewitters sind:  
-- mächtige, turmartige Haufenwolken (Cumulonimben),  
+- mächtige, turmartige Haufenwolken (Cumulonimben)   
 - sehr dunkle Wolkenunterseite mit vorgelagerter Böenwalze  
-- der bisher vorhandene Wind flaut ab, frischt danach aus anderen Richtungen auf,  
-- einsetzende Abkühlung der Luft, 
+- der bisher vorhandene Wind flaut ab, frischt danach aus anderen Richtungen auf    
+- einsetzende Abkühlung der Luft   
 - Auffallende Störgeräusche im Mittelwellenbereich des Rundfunkgerätes 
 
 >Die Böen weichen in der Windstärke insbesondere bei schweren Gewittern oft um ein Vielfaches vom Mittelwind ab, manchmal erreichen sie Orkanstärke. => Angabe deswegen extra in Seewetterberichten
@@ -338,7 +337,7 @@ bei Durchzug der Bodenfront in Sprühregen übergehen.
 
 ![](Kaltfront.jpg)
 
-- Kaltfront Typ A (aktive Kaltfreont): Kaltluft stößt heftig gegen Warmluft. Es enstehen Altocumulus  
+- Kaltfront Typ A (aktive Kaltfront): Kaltluft stößt heftig gegen Warmluft. Es enstehen Altocumulus  
 - Kaltfront Typ B (passive Kaltfront): Kaltluft schiebt sich langsam unter die Warmluft und hebt sie hoch. Warmluft wird von unten abgekühlt. Es entstehen Schichtwolken.
 
 12. **Okklusionsfront**: Kaltfronten, die mit Tiefdruckgebieten verbunden sind ziehen schneller als die Warmfronten der Tiefs. Dadurch holt die eine Front die andere ein und schiebt Luft, die dazwischen lag, in die Höhe.
@@ -392,7 +391,7 @@ Zwei Möglichkeiten:
 |Winter|- klirrender Frost bei strahlend blauem Himmel, aus trockener Kaltluft aufgebauten Hochs<br>- Vom Meer her kommende feuchte Luft => bodennahe zu Nebel neigende feuchte, diesige Schicht, Oberhalb wolkenlos und klar = Inversion => Hochnebel mit manchmal Sprühnebel oder Schnee|
 |Übergangszeit|Sonnneneinstrahlung löst winterlicher nächtlicher Charakter auf => sommerliches Hochdruckwetter|
 
->Oft nicht so schön, wie allgemein erwartet (z.B. im April/Mai in der Nordsee) weil Hochdruckgebiete haben eine warme Seite mit südlichen Winden und eine kalte Seite mit nördlichen Winden. Auf der kalten Seite wird über dem Wasser kalte, wolkenreiche Luft transportiert. In Hochdruckgebieten steigt erwärmte Luft ab, die die bodennahe Luft nicht wegräumen kann. Es bildet sich eine Übergangsschicht – eine Inversion. An dieser entstehen durchgehende Schichtwolken (Stratus).
+>Oft nicht so schön, wie allgemein erwartet (z.B. im April/Mai in der Nordsee) weil Hochdruckgebiete haben eine **warme Seite** mit **südlichen Winden** und eine **kalte Seite** mit **nördlichen Winden**. Auf der kalten Seite wird über dem Wasser kalte, wolkenreiche Luft transportiert. In Hochdruckgebieten steigt erwärmte Luft ab, die die bodennahe Luft nicht wegräumen kann. Es bildet sich eine Übergangsschicht – eine Inversion. An dieser entstehen durchgehende Schichtwolken (Stratus).
 
 
 3. Hochdruckgebiete
@@ -538,6 +537,7 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
  >Landwind: Gegen Mitternacht beginnt eine schwache Landbrise, die maximale Windstärke ist in der Regel zwischen ca. 03.00 Uhr und Sonnenaufgang. Nachts kühlt das Festland stärker ab als das Wasser, über dem Land bildet sich ein thermisches Hochdruckgebiet aus dem Luft zum Meer hin strömt.
  
 ![](Wind.jpg)
+
 >Wo: Bei intensiver Sonnenstrahlung in unmittelbarer Küstennähe. Verstärktes Auftreten bei trockener Küste, da sich dann das Land schneller erwärmt bzw. abkühlt.
 
 2. Effekte an gebirgigen Küsten: 
@@ -549,10 +549,9 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 - Leewirbel  
 - Fallwinde  
 
-> Windverhältnisse in der Nähe von Steilkästen:   
+> Windverhältnisse in der Nähe von Steilküsten:   
 - Auflandiger Wind: Der Wind wird aus Küstenführung zum Teil beschleunigt wenn er nahezu auflandig oder parallel zur Küste weht.     
-- Ablandiger Wind: Weht der Wind ablandig, muss örtlich mit umlaufenden Winden und erhöhter Böigkeit (Fallwinden) gerechnet  
-werden.
+- Ablandiger Wind: Weht der Wind ablandig, muss örtlich mit umlaufenden Winden und erhöhter Böigkeit (Fallwinden) gerechnet werden.
 
 >Düseneffekt: Küsten, insbesondere Steilküsten, beeinflussen die Luftströmung. Bildet die Küstenformation einen engen Durchlass, wird (nach dem Venturiprinzip) die Strömungsgeschwindigkeit beschleunigt, das ist der Düseneffekt. Die Windstärke kann an diesen Stellen erheblich zunehmen. 
 
@@ -578,7 +577,7 @@ werden.
 - Mittelmeerküste Frankreich (Golf de Lion) bis zum Golf von Genua.    
 - Ebrotal bei Tarragona (Spanien),   
 - Düsenwirkung bei Perpignan durch Pyrenäen und Zentralmasiv,   
-- Düsenwirkung bei der Rhonemündung durch Zentralmasiv und Alpen bis,  
+- Düsenwirkung bei der Rhonemündung durch Zentralmasiv und Alpen,  
 - Bereich Marseille-Toulon Hafen bis Bastia (Korsika).  
 
 >Wettermäßig (Anzeichen!) bei einer „mistralverdächtigen“ Wetterlage zu achten auf:    
@@ -587,11 +586,11 @@ werden.
 - Bildung eines Leetiefs im Golf von Genua  
 - Azorenhoch mit Ausbildung eines Keils über Biskaya/Spanien  
 
->Merkmale von Mistral:  
-- Merkbarer Temperaturrückgang hinter der Kaltfront. 
-- Klarer Himmel, diesige Luft 
-- Heftiger Seegang (Windstärke im Golfe du Lion häufig über 8 Bft.)
-- Dauer meist 3,5 Tage.
+>Merkmale von Mistral:   
+- Merkbarer Temperaturrückgang hinter der Kaltfront.   
+- Klarer Himmel, diesige Luft   
+- Heftiger Seegang (Windstärke im Golfe du Lion häufig über 8 Bft.)  
+- Dauer meist 3,5 Tage.  
 
 >Häufigkeiten eines Mistrals mit Sturmstärke und Dauer einer Mistralperiode:
 Volle Sturmstärke wird nur an wenigen Tagen im Jahr erreicht, Marseille z.B. an 10 bis 15 Tagen. Die Häufigkeit nimmt über See zu. Die häufigste Dauer beträgt 3,5 (3-4) Tage.
@@ -806,7 +805,7 @@ im Uhrzeigersinn
 
 32. AC cast (Altocumulus castellanus) oder AC floc (Altocumulus flocus) am Morgen kündigen meist eine Gewitterfront für die 2. Tageshälfte an
 
-# Weitere Regeln
+## Weitere Regeln
 
 33. Hat ein Tief zwei  nahezu gleichgroße Kerne beginnen diese um den gemeinsamen Schwerpunkt zu kreisen
 
