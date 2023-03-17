@@ -425,6 +425,7 @@ SeeSchStrO).
 - Ankerlieger bei Nebel mind. jede Minute etwa 5s rasches Läuten der Glocke (< 100m), wenn >= 100m unmittelbar danach 5sec rasches schlagen des Gongs im hinteren Schiffsbereich  
 - Grundsitzer zu den Schallsignalen des Ankerliegers zusätzlich unmittelbar vor und nach dem raschen Läuten der Glocke jeweils 3 einzelne Glockenschläge. Als Warnung an sich nähernde Fahrzeuge kann zusätzlich das Pfeifensignal kurz-lang-kurz gegeben werden.
 
+
 17. Hauptfaktoren für zulässige Geschwindigkeit: Sichere Geschwindigkeit zur Vermeidung von Gefährdung durch Sog oder Wellenschlag
 
 18. Fahrgeschwindigkeit ist zu reduzieren bei
