@@ -136,7 +136,7 @@ Falls nach dieser Entlüftung der Motor nicht startet, kann man noch die Hochdru
 - Sitz der Batteriebefestigungen nachsehen   
 - Einmal im Jahr Schalttafeln abnehmen und Verkabelungen auf festen Sitz und Korrosionsfreiheit prüfen.   
 - Kabelverbindungen am Mast einmal jährlich säubern, fetten und Dichtungen kontrollieren    
-- Starkstromkontakte am Starter, Ankerwisch, Bugstrahlruder einmaö jährlich säubern, fette und Dichtungen kontrollieren. 
+- Starkstromkontakte am Starter, Ankerwisch, Bugstrahlruder einmal jährlich säubern, fette und Dichtungen kontrollieren. 
 
 25. **Ladespannung** darf nie 14,3 Volt überschreiten => Batterien fangen sonst an zu kochen => Batterien leiden => explosiver Wasserstoff entsteht. 
 
@@ -198,7 +198,7 @@ Grundsätzlich muss die Anlage den geltenden **Sicherheitsvorschriften** entspre
 >Informationen bei Yachtübernahme:   
 - Schiffspapiere (vollständig und aktuell)   
 - Wer ist Eigner der Yacht? Heimathafen? Unterscheidungssignale? Baujahr/Baumaterial/ Hersteller?    
-- Abmessungen des Schiffes (u.a. Länge, breite, Tg., Höhe den über Wasser, Vermessung)   
+- Abmessungen des Schiffes (u.a. Länge, breite, Tg., Höhe über dem Wasser, Vermessung)   
 - Rigg (u.a. Bauart, Bedienung, Zustand)   
 - Segel (u.a. Anzahl, Machart/Material, Zustand, Stauplatz)   
 - Maschinenanlage (u.a. Hersteller, Baujahr, Leistung, Bedienung, Wartung bzw. Instandhaltung)   
@@ -206,7 +206,8 @@ Grundsätzlich muss die Anlage den geltenden **Sicherheitsvorschriften** entspre
 - Schraube (u.a. Bauart, rechts- oder linksgängig und welche Steuerwirkung)   
 - **Manövrierdaten** unter Segel und Maschine (u.a. Geschwindigkeit)   
 - Ruderanlage (u.a. Bauart) und Notruderbedienug   
-- Ankereinrichtung - Sicherheitseinrichtung (baulich)   
+- Ankereinrichtung   
+- Sicherheitseinrichtung (baulich)    
 - Ausstattung und Zustand der pers. Sicherheitsausrüstung bzw. Rettungsmittel der Besatzung.   
 - Brennstoff,  
 - Frischwasser- und Gasvorräte (u.a. Mengen, Lagerort, Wartung und Instandhaltung)   
@@ -356,7 +357,7 @@ CO2-Feuerlöscher nur für geschlossene Motorräume mit spezieller Löschöffnun
 
 11. Den Löschstrahl richtet man auf die Brandquelle, also das brennende Material und nicht die Flammen. Luftzufuhr vermeiden, bei Motorbrand wenn möglich Löschöffnung verwenden. 
 
-12. Die Boardapotheke sollte nach folgenden Richtlinien ausgesattet sein:  
+12. Die Bordapotheke sollte nach folgenden Richtlinien ausgesattet sein:  
 - Fahrbereich  
 - Anzahl Crewmittglieder  
 - Dauer der Reise  
@@ -662,7 +663,7 @@ Ablauf des Strandungsmanövers:
 2. Maßnahmen zur Sicherung der Unfallstelle in verkehrsreichem Gebiet:   
 - Die Schiffahrt über Funk mit wiederholten Sicherheitsmeldungen vor dem Schiffshinderniss warnen.     
 - Über die Küstenfunkstelle oder den Revierfunkdienst ist das zuständige Wasser- und Schiffahrtsamt zu informieren.    
-- Bei Schiffen über 12m sind die Lichter und Signalkörper manövrierunfähiger Fahrzeugenzu setzen (zwei schwarze Bälle oder zwei rote Rundumlichter)    
+- Bei Schiffen über 12m sind die Lichter und Signalkörper manövrierunfähiger Fahrzeugen zu setzen (zwei schwarze Bälle oder zwei rote Rundumlichter)    
 - Bei unsichtigem Wetter sind Schallsignale für manövrierunfähige Schiffe (lang-kurz-lang) zu geben.
 
 3. Wenn eines der Schiffe zu sinken droht, so ist das bedrohte Schiff aus eigener Kraft und mit Hilfe des anderen Schiffes aus dem Fahrwasser heraus und möglichst auf flachen Grund zu bugsieren.
@@ -803,7 +804,7 @@ Letztendlich die Leine zur Yacht lösen.
 - Nachts oder bei schlechter Sicht sich mit Signalpfeife bemerkbar machen und um ein schwimmfähiges Rettungslicht sammeln  
 - Nicht versuchen eine sichtbare Küste schwimmend zu erreichen (Strandnähe ausgenommen)
 
-12. **Im Seegang** arbeitet sich der Rettungskreuzer mit dem Bug von Lee achtern an den Havaristen heran, von wo ein Decksmann versucht eine Leine überzuwerfen. Mit ihr können weitere Leinen zum abbergen von Personen oder auch die Schlepptrosse übergebracht werden.  
+12. **Im Seegang** arbeitet sich der Rettungskreuzer mit dem **Bug von Lee achtern** an den Havaristen heran, von wo ein Decksmann versucht eine Leine überzuwerfen. Mit ihr können weitere Leinen zum abbergen von Personen oder auch die Schlepptrosse übergebracht werden.  
 
 13. Hauptgefahr beim Abbergen von Personen durch ein Frachtschiff liegt im **schlagenden Mast** => Abstand halten
 
@@ -818,7 +819,7 @@ Letztendlich die Leine zur Yacht lösen.
 16. Die Rettungsschlinge wird mit dem Verschluss nach vorne über den Kopf und Arme gestülpt, sodass die **unter den Achseln** trägt. Es ist unbedingt darauf zu achten, dass das Kabel direkt ins Wasser hängt und nicht irgendwo **hinterhakt**. Auf Zeichen "Daumen nach oben" taut der Hubschrauber an und zieht die Person in der Schlinge **schräg seitlich vom Achterstag weg** nach oben. Nicht schaukeln und darauf achten, dass das Kabel sich nicht um das Achterstag schlingt.
 
 >Rote Leuchkugel in Sicht bei Nacht in weiter Entfernung:       
-Alarmierung der Mannschaft, Richtung des Notsignals und eigene Position feststellen, Funkverkehr abhören, weiter beobachten. Beobachtung an Küstenfunkstelle und die in der Nähe befindliche Schiffahrt weitergeben. Wenn Küstenfunkstelle nicht reagiert oder alles schweigt, selber rufen und **Mayday-Relais** an KüFSt geben, Anweisungen befolgen. Wenn möglich, auf Havaristen zulaufen (es besteht Pflicht zur Hilfeleistung), Funkverkehr mit anderen Schiffen abhören oder suchen, ...
+Alarmierung der Mannschaft, Richtung des Notsignals und eigene Position feststellen, Funkverkehr abhören, weiter beobachten. Beobachtung an Küstenfunkstelle und die in der Nähe befindliche Schiffahrt weitergeben. Wenn Küstenfunkstelle nicht reagiert oder alles schweigt, selber rufen und **Mayday-Relay** (Weiterleitung eines Notrufs) an KüFSt geben, Anweisungen befolgen. Wenn möglich, auf Havaristen zulaufen (es besteht Pflicht zur Hilfeleistung), Funkverkehr mit anderen Schiffen abhören oder suchen, ...
 
 >Planung zur Einleitung der Suche bei Hilfeleistung in entlegenem Seegebiet:    
 Zu Beginn der Suchplanung muss zunächst der **Bezugspunkt** (engl. datum) – Position des Schiffes in Not und Position des eigenen Schiffes - und das anfänglich **wahrscheinlichste Aufenthaltsgebiet** des Suchzieles bestimmt werden. Das wahrscheinlichste Gebiet wird festgelegt, nachdem mögliche Fehler bei der Bestimmung des Bezugspunktes aufgrund der Ungenauigkeit der gemeldeten Position des Unfalles und/oder bei der Schätzung der Vertreibung durch Strom und/oder Wind berücksichtigt worden sind.
@@ -870,7 +871,7 @@ Gefahrenhalse: Man segelt einige Bootslängen weiter, um Höhe zu gewinnen. Ein 
 
 9. Die mit dem Aufschießer aufgestoppte Yacht lässt sich einigermaßen stabil halten, wenn der Rudergänger mit Gefühl **Luvruder gegenhält**. Wenn zur Personenaufnahme Ruder verlassen werde muss => Vorsegel back und **beidregen**, so dass Person in Lee.
 
-10. Mit einem Aufschießer der etwas kürzer angelegt ist, um bewusst etwas überzuschießen, kann man kann man die Rettungsleine einsetzen => **eine Schiffslänge** vor Person Treibanker ins Wsser => **großer Halbbogen** um die Person => Beiliegen => Leine **von Bord aus holen** so dass Personen nur noch zugreifen muss. 
+10. Mit einem Aufschießer der etwas kürzer angelegt ist, um bewusst etwas überzuschießen, kann man die Rettungsleine einsetzen => **eine Schiffslänge** vor Person Treibanker ins Wsser => **großer Halbbogen** um die Person => Beiliegen => Leine **von Bord aus holen** so dass Personen nur noch zugreifen muss. 
 
 11. Bei Amwindkursen, guten Sichtverhältnissen und ein paar Minuten Zeit bietet sich das Manöver mit der Halse an.
 
@@ -900,8 +901,8 @@ Gefahrenhalse: Man segelt einige Bootslängen weiter, um Höhe zu gewinnen. Ein 
 # Maßnahmen bei Verletzungen und Unterkühlung
 
 >Medizinische Vorbereitung einer Hochseereise:   
-- Man muss neben der Erste-Hilfe-Ausrüstung für eine Bordapotheke sorgen, für deren Inhalt ärztliche Beratung hinzugezogen werden sollte.  
-- Einschlägige Literatur beachten, die sachdienliche Hinweise zur praktischen Behandlung von Notfällen und Erkrankungen erteilt.  
+- Man muss neben der Erste-Hilfe-Ausrüstung für eine **Bordapotheke** sorgen, für deren Inhalt ärztliche Beratung hinzugezogen werden sollte.  
+- **Einschlägige Literatur** beachten, die sachdienliche Hinweise zur praktischen Behandlung von Notfällen und Erkrankungen erteilt.  
 - Potentielle Mitsegler zumindest in geeigneter Form darauf aufmerksam machen, noch vor Antritt der Reise Krankheiten zu offenbaren, die die Reisetauglichkeit in Frage stellen.
 
 1. Kenntnisse in Erster Hilfe für Unfälle oder Krankheitsfälle an Bord von Yachten sind nicht ausreichend, weil man an Bord in der Regel ohne den herbeigerufenen Arzt auskommen und sich gegebenenfalls mit der funkärztlichen Beratung begnügen muss.
@@ -1171,7 +1172,7 @@ Achterliche See vergrößert die Luvgierigkeit, weil die anrollende See das Heck
 - letzte Maßnahmen: Kappen der Schot mit dem Messer.  
 
 12. Gründe für die Prüfung, ob bei einem bevorstehenden Sturm die Reiseroute beibehalten werden kann:  
-Im Sturm ist die **Kursfreiheit eingeschränkt**. Je nach Art und Beschaffenheit der Yacht und Schwere des Sturms kann es schwierig oder ausgeschlossen sein, Luvraum gut zu machen. Bei schwerer See kann man gezwungen sein vor der See abzulaufen, beizuliegen oder sich passiv treiben zu lassen. In allen Fällen muss eine gewisse Menge Leeraum, die sich aus den Driftwerten des Schiffes ergibt, vorhanden sein.
+Im Sturm ist die **Kursfreiheit eingeschränkt**. Je nach Art und Beschaffenheit der Yacht und Schwere des Sturms kann es schwierig oder ausgeschlossen sein, Luvraum gut zu machen. Bei schwerer See kann man gezwungen sein vor der See **abzulaufen, beizuliegen oder sich passiv treiben zu lassen**. In allen Fällen muss eine gewisse Menge Leeraum, die sich aus den Driftwerten des Schiffes ergibt, vorhanden sein.
 
 13. Ermittelt der Windrichtungen und -stärken, denen man im Verlauf der Vorhersageperiode ausgesetzt ist:  
 Auf der Grundlage von Wetterinformationen **zeichnet man das Sturmgebilde** mit den wesentlichen Isobaren auf Transparentpapier, das auf den Übersegler mit der beabsichtigten Reiseroute gelegt wird. Je nach vorhergesagter Zugrichtung verschiebt man das Transparentpapier auf der Karte und studiert die Veränderung der Windrichtungen und -stärken entlang der Reiseroute für die nächsten 12 bis 24 Stunden.
