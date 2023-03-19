@@ -72,7 +72,7 @@ Gutes Erklärvideo: [Kraft auf Luft durch Druckunterschied](https://www.youtube.
 
 >Gradient ist der **Luftdruckunterschied** in hPa auf einer Strecke von **60 sm** senkrecht zu den Isobaren.
 
->Berchenung des Gradienten: $$Druckgradient = \frac{\Delta hPa * 60}{Meilenabstand der Isobaren}$$  
+>Berechnung des Gradienten: $$Druckgradient = \frac{\Delta hPa * 60}{Meilenabstand der Isobaren}$$  
 
 8. p nimmt mit der höhe über der Erdoberfläche ab. In einer Höhe von ca. 5400m beträgt p 500hPa. 
 In Bodennähe gilt, dass ca. jede 8m p um 1hPa fällt. (vertigaler Druckgradient)
@@ -606,7 +606,7 @@ Gebirgseinschnitte, Flusstäler und Fjorde => Verstärkung der Fallwinde
 
 6. Arten von Bora
 
-- **antizyklische Bora**: Bora ensteht an der südlichen Flanke eines umfangreichen Hochs oder Hochkeils. 
+- **antizyklonale Bora**: Bora ensteht an der südlichen Flanke eines umfangreichen Hochs oder Hochkeils. 
 - **zyklonale Bora**: Gebiet der Adria liegt im Einflussbereich der nördlichen Seite eines Tiefs
 
 Windgeschwindigkeiten: 48 bis 55kn (schwerer Sturm)  
@@ -616,25 +616,25 @@ Dauer: Bis zu einem Tag
 >Die Bora ist in der Adria ein gefürchteter Wind, der aus NNE bis NE aus den nördlichen Hochlagen des Balkans als Fallwind mit Sturmstärken in die Adria einfällt. Ursache: Hoher Druck über Mitteleuropa und tiefer Druck im Mittelmeer (im Süden der Adria oder südlich davon) führen (je nach Einfluss der Druckgebilde und deren Lagen zueinander) zur zyklonalen oder antizyklonalen Bora. Im Winter gefährlicher wegen der großen Temperaturunterschiede: Kaltes Hinterland – warmes Meer. Führt zu länger anhaltendem Sturm. Im Sommer sind auch große Windstärken möglich, jedoch nicht so anhaltend wie im Winter.
 
 >Wettererscheinungen:  
-- Antizyklonale Bora: Es überwiegt der Einfluss des Hochdruckgebietes über dem mittel- oder osteuropäischen Festland. Wolkenbildung an den Gebirgskämmen, Wolkenauflösung über See; klare, trockene Luft. Cumuluswolken.  
-- Zyklonale Bora: Es überwiegt der Einfluss der Mittelmeerzyklone, die mit ihren Fronten bei zeitweiser Schichtbewölkung heftige Sturmböen, ergiebige Niederschläge (Regen, Hagel, zeitlich auch Schnee) mit sich bringt. Sie gilt als gefährlicher.
+- **Antizyklonale Bora**: Es überwiegt der Einfluss des Hochdruckgebietes über dem mittel- oder osteuropäischen Festland. Wolkenbildung an den Gebirgskämmen, Wolkenauflösung über See; klare, trockene Luft. Cumuluswolken.  
+- **Zyklonale Bora**: Es überwiegt der Einfluss der Mittelmeerzyklone, die mit ihren Fronten bei zeitweiser Schichtbewölkung heftige Sturmböen, ergiebige Niederschläge (Regen, Hagel, zeitlich auch Schnee) mit sich bringt. Sie gilt als gefährlicher.
 
 >Die Bora ist ein an der adriatischen Ost-Küste auftretender kalter Fallwind aus Richtung NE (evtl. NNE).  
 - Aufgrund der thermischen Gegensätze zwischen hochgelegener Kaltluft im dalmatinischen Hochland und warmer Adria kommt es zu Fallwinden, der Bora, die durch Gebirgseinschnitte, Flusstäler und Fjorde beschleunigt werden.  
 - Werden die Luftmassen zusätzlich durch ein Tief südlich der Adria oder im Süden der Adria in die Adria transportiert, spricht man von einer zyklonalen Bora. Da die Temperaturgegensätze innerhalb dieses Tiefs groß sind, verstärken noch hohe Windgeschwindigkeiten, heftige Sturmböen, Regen und Hagel die Bora.   
 - Werden die Luftmassen unter dem Einfluss eines Hochs über den Alpen oder nordlich der Alpen in die Adria transportiert, liegt eine antizyklonale Bora vor. Die mitgeführten Luftmassen bestehen aus kalter und trockener kontinentaler Luft. Dadurch ist die Luft an der Küste wolkenlos, eventuell Wolkenbänke über den Bergkämmen. Feuchtezunahme und Wolkenbildung (Cu, Cb) über der Adria. Die Dauer einer Boralage richtet sich nach der Beständigkeit der Hochs und Tiefs und ihrer Position. Im Mittel dauert eine Boralage 1 Tag lang an. Im Winter sind örtlich schon Windgeschwindigkeiten von über 100 kn beobachtet worden. Das mittlere Windmaximum liegt um 50 kn. Auch im Sommer können schwere Sturmböen auftreten. Eine antizyklonale Bora kündigt sich wie ein Hoch an: Druckanstieg, Himmel tiefblau, gute Sicht, Wind hier NE, böig. Die Ankündigung einer zyklonalen Bora erfolgt wie die eines Tiefs mit einer Front: Druckfall, Regen, Hagel.
 
->Antizyklonale Bora: Es überwiegt der Einfluss des Hochdruckgebietes über dem mittel- oder osteuropäischen Festland. Wolkenbildung an den Gebirgskämmen, Wolkenauflösung über See, klare trockene Luft. Cummuluswolken.   
+>**Antizyklonale Bora**: Es überwiegt der Einfluss des Hochdruckgebietes über dem mittel- oder osteuropäischen Festland. Wolkenbildung an den Gebirgskämmen, Wolkenauflösung über See, klare trockene Luft. Cummuluswolken.   
 Ankündigung:   
 - deutlicher Druckanstieg über einige Stunden   
 - Fernsicht wird plötzlich sehr gut, Himmel leuchtet tiefblau    
 - Wind dreht auf NE und wird etwas böig  
 
->Zyklonale Bora: Es überwiegt der Einfluss der Mittelmeerzyklone, die mit ihren Fronten bei zeitweiliger Schichtbewölkung heftige Sturmböen, ergiebige Niederschläge (Regen, Hagel, zeitlich auch Schnee) mit sich bringt. Sie gilt als gefährlicher.   
-Ankündigung: 
-- es wird warm und diesig   
+>**Zyklonale Bora**: Es überwiegt der Einfluss der Mittelmeerzyklone, die mit ihren Fronten bei zeitweiliger Schichtbewölkung heftige Sturmböen, ergiebige Niederschläge (Regen, Hagel, zeitlich auch Schnee) mit sich bringt. Sie gilt als gefährlicher.   
+Ankündigung:   
+- es wird warm und diesig     
 - Regen zieht aus SE auf    
-- deutlicher Druckabfall  
+- deutlicher Druckabfall   
 
 >Bora allgemein: Dauer: Im Sommer sind einige Stunden typisch, mehrere Tage sind möglich   
 Ende: meistens um die Mittagszeit, Bewölkung hat sich aufgelöst, Wind hat auf NW gedreht, Luftdruck ist deutlich gestiegen
@@ -839,7 +839,7 @@ H~1/3~ = mittlere Wellenhöhe aus dem Drittel der höchsten Wellen eines Seegang
 
 => Es gibt hohe, mittelhohe und niedrige Wellen 
 
->Seegangshöhen in Europa werden in der Regel in Wetterberichten in Meter (m) angegeben. Die Seegangshöhe bezieht sich auf die durchschnittliche Höhe der höchsten Drittel der Wellen und wird oft als signifikante Wellenhöhe bezeichnet. Es ist jedoch wichtig zu beachten, dass die tatsächlichen Bedingungen auf See von vielen Faktoren abhängen, wie z.B. Windgeschwindigkeit, Wassertiefe und Strömungen, und dass es immer ratsam ist, spezifische Informationen von lokalen Wetterdiensten oder Behörden einzuholen, bevor man auf See geht.
+>**Seegangshöhen** in Europa werden in der Regel in Wetterberichten in Meter (m) angegeben. Die Seegangshöhe bezieht sich auf die **durchschnittliche Höhe der höchsten Drittel der Wellen und wird oft als signifikante Wellenhöhe** bezeichnet. Es ist jedoch wichtig zu beachten, dass die tatsächlichen Bedingungen auf See von vielen Faktoren abhängen, wie z.B. **Windgeschwindigkeit, Wassertiefe und Strömungen**, und dass es immer ratsam ist, spezifische Informationen von lokalen Wetterdiensten oder Behörden einzuholen, bevor man auf See geht.
 
 > In Seehandbüchern, Seegangskarten und Wetterberichten wird stets die signifikante Wellenhöhe angegeben.
 
@@ -864,7 +864,7 @@ Wellenhöhe: 2,5 - 4
 
 Windsee: Die Windsee ist der Anteil des Seegangs, der unmittelbar vom Wind angetrieben wird.
 
->Windsee ist Seegang, der durch den Wind am Ort oder in der näheren Umgebung angefacht wird. Windsee hängt ab von:
+>Windsee ist **Seegang**, der **durch den Wind** am Ort oder in der näheren Umgebung **angefacht** wird. Windsee hängt ab von:
 Windgeschwindigkeit, Fetch (Windwirklänge) und Wirkdauer des Windes.
 
 Die Wellenbewegung ist ein Schwingungszustand, der sich schneller ausbreitet, als das ihn hervorrufende Windfeld ziehen kann. 
@@ -920,7 +920,7 @@ Ursache: Wenn relativ lange und verhältnismäßig hohe Wellen aus tieferem Wass
 - Videotext
 - Revierzentralen
 - Internet
-- SEEWIS-online, SEEWIS-Fax
+- SEEWIS-online, SEEWIS-Fax (Seewis = Seewetterinformationssystem des DWD)
 - Privater Informationsdienst (PID) der Deutschen Telekom
 - private Beratung des DWD
 - NAVTEX Inhalte und Vorhersage
@@ -930,7 +930,7 @@ Ursache: Wenn relativ lange und verhältnismäßig hohe Wellen aus tieferem Wass
 - Küstenfunkstellen,  
 - Verkehrszentralen,  
 - NAVTEX,  
-- Online- Dienste (z.B. Seewis- Online des Deutschen Wetterdienstes, T-Online, u.a.),  
+- Online- Dienste (z.B. Seewis-Online des Deutschen Wetterdienstes, T-Online, u.a.),  
 ...weitere... 
 - RTTY (Funkfernschreiben),  
 - Wetterfax,  
@@ -973,7 +973,7 @@ Vorhersagen von 00,12,24,36,48,60,72 Stunden mit
   - Isobaren können sich niemals berühren, schneiden oder gabeln
   - Nie Isobaren auslassen oder zusätzlich einschalten
 
-=> Isobaren so zeichnen, dass auf See ein Winkel von 22 Grad (über Land mehr) zwischen ihnen und der Windrichtung entsteht. **Fähnchen zeigen auf der Nordhalbkugel immer zur linken Seite**. => tiefe Druck ligt, in Windrichtung geschaut, links.
+=> Isobaren so zeichnen, dass auf See ein Winkel von 22 Grad (über Land mehr) zwischen ihnen und der Windrichtung entsteht. **Fähnchen zeigen auf der Nordhalbkugel immer zur linken Seite**. => tiefe Druck liegt, in Windrichtung geschaut, links.
 
 3. Symbole für vereinfachtes Stationsmodell, siehe [Boardwetterkarte](https://www.dwd.de/DE/leistungen/lehrmittel/bordwetterkarte_nr9.html)
 
@@ -983,11 +983,11 @@ Internetseite: [https://www.deutschlandfunk.de/](https://www.deutschlandfunk.de/
 
 >Veröffentlichungen mit Sendezeiten und Frequenzen für Seewetterberichte:   
 
-- Amtlich:   
+- **Amtlich**:   
    - Handbuch Nautischer Funkdienst
    - Funkdienst für die Klein- und Sportschifffahrt
    - angelsächsische Veröffentlichung „Admiralty List of Radio Signals Volume 3“.    
-- Nicht-amtlich: „Sturmwarnungen und Seewetterberichte für die Sport- und Küstenschifffahrt“ des Deutschen Wetterdienstes (DWD).
+- **Nicht-amtlich**: „Sturmwarnungen und Seewetterberichte für die Sport- und Küstenschifffahrt“ des Deutschen Wetterdienstes (DWD).
 
 5. Vorschlag zur Gliederung von Wetterinformationen:
 
@@ -1009,9 +1009,9 @@ seemännische Sorgfaltspflicht => rechtliche/versicherungsrechtliche Bedeutung
 |Klimanavigation|Langfristvorhersage|-|
 
 >Genauigkeit von Windvorhersagen:  
-- Windrichtung: Es werden nur die Hauptrichtungen (N, NE, E, SE, S, SW, W, NW) angegeben mit einer Genauigkeit von +/- 25°.    
-- Windrichtungsänderung: recht- und rückdrehend nur bei jeweils mindestens 45° Änderungen, umlaufender Wind nur bis 5 kn.   
-- Windstärke: Mittelwert über einen längeren Zeitraum; bei labilen Luftmassen (Schauern) ist mit Böen zu rechnen, die 2 Bft. über dem Mittelwert liegen können. Bei der Angabe „böig“ mit 2 Bft. stärkerem Wind rechnen.
+- **Windrichtung**: Es werden nur die **Hauptrichtungen** (N, NE, E, SE, S, SW, W, NW) angegeben mit einer Genauigkeit von +/- 25°.    
+- **Windrichtungsänderung**: recht- und rückdrehend nur bei jeweils mindestens **45°** Änderungen, umlaufender Wind nur bis 5 kn.   
+- **Windstärke**: **Mittelwert** über einen **längeren Zeitraum**; bei labilen Luftmassen (Schauern) ist mit **Böen** zu rechnen, die **2 Bft. über dem Mittelwert** liegen können. Bei der Angabe „böig“ mit 2 Bft. stärkerem Wind rechnen.
 
 8. Prognose aus Wetterberichten zeichnen
  
