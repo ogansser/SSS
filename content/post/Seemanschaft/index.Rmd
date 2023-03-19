@@ -33,7 +33,6 @@ Das **Großsegel** muss **dreimal reffbar** sein, oder es muss ein **Trysegel** 
 >Bei einer **Ketsch** auf Amwindkurven darf das Großsegel **nicht ganz mittschiffs** bzw. zu dicht geholt werden:  
 Das Großsegel lenkt den Luftstrom um einen gewissen Winkel zur Mittelsschifflinie ab. Steht es zu dicht, bleibt ein zu geringer Anstellwinkel für den Besan, der dann keinen Vortrieb mehr gibt.
 
-
 6. **Schoner** (größstes Segel achtern => Schonersegel) => schlechtere Amwindleistung => bessere Raumwind und Vormwindeigenschaften.
 
 7. Moderne **Rollreffanlagen** => Sicherheitsgewinn => Reffen/Bergen aus Cockpit => einfacher und schneller Segelfläche bei veränderter Windstärke anpassen.

@@ -23,7 +23,7 @@ output:
 
 3. Das 7/8- oder das 3/4-Rigg einer **Slup** ermöglicht es, mit dem Achterstag den Mast so zu biegen, dass der Großsegelbauch nach vorn herausgezogen und das Segel flach getrimmt wird.  
 
->Sturmbesegelung bei einer normalen Slup (etwa 12 m lang) mit Rollgenua:   
+>Sturmbesegelung bei einer normalen Slup (etwa 12 m lang) mit Rollgenua:    
 Das **Großsegel** muss **dreimal reffbar** sein, oder es muss ein **Trysegel** vorhanden sein. Die teilweise eingerollte Genua ist als Sturmbesegelung nicht geeignet. Statt dessen sollte eine **Sturmfock** an einem **zweiten Vorstag** (Kutterstag oder auch Babystag) gesetzt werden können.
 
 4. Bei einer **Yawl** (zusätzlich kleines Segel achtern) steht der Besanmast so weit achtern, damit er einen Hebelarm bildet => Trimmwirkung leichter => Gierigkeit wegtrimmen.
