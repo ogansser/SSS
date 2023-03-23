@@ -610,13 +610,13 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 - Auflandiger Wind: Der Wind wird aus Küstenführung zum Teil beschleunigt wenn er nahezu auflandig oder parallel zur Küste weht.     
 - Ablandiger Wind: Weht der Wind ablandig, muss örtlich mit umlaufenden Winden und erhöhter Böigkeit (Fallwinden) gerechnet werden.
 
->Düseneffekt: Küsten, insbesondere Steilküsten, beeinflussen die Luftströmung. Bildet die Küstenformation einen engen Durchlass, wird (nach dem Venturiprinzip) die Strömungsgeschwindigkeit beschleunigt, das ist der Düseneffekt. Die Windstärke kann an diesen Stellen erheblich zunehmen. 
+>Düseneffekt: Küsten, insbesondere Steilküsten, beeinflussen die Luftströmung. Bildet die Küstenformation einen engen Durchlass, wird (nach dem **Venturiprinzip**) die Strömungsgeschwindigkeit beschleunigt, das ist der Düseneffekt. Die Windstärke kann an diesen Stellen erheblich zunehmen. 
 
 >Regionen in Europa mit Düseneffekt: Straße von Gibraltar, Straße von Bonifacio, Westausgang des Skagerraks, zwischen den Inseln der Ägäis, Straße von Messina.
 
 >Düseneffekt zwischen Inseln: Zwischen zwei Hindernissen, zum Beispiel Inseln oder einer Meerenge, wird die Luft hindurchgepresst und durch die Verringerung des Querschnitts beschleunigt. Der Wind kann um etwa 2 bis 5 Windstärken stärker sein als der Mittelwind.
 
->Kapeffekt: Ein aus einer Luftmasse herausragendes Kap engt den Luftstrom einseitig ein. Es wirkt ebenfalls der Venturieffekt. Zusätzlich wird die Windrichtung deutliche geändert, eine schräg auf die Steilküste treffende Luftströmung wird in die Richtung der Küste umgelenkt.
+>Kapeffekt: Ein aus einer Luftmasse herausragendes Kap engt den Luftstrom einseitig ein. Es wirkt ebenfalls der **Venturieffekt**. Zusätzlich wird die Windrichtung deutliche geändert, eine schräg auf die Steilküste treffende Luftströmung wird in die Richtung der Küste umgelenkt.
 
 >In einer Entfernung von etwa dem 10 bis maximal 30-fachen der Höhe des Hindernisses hat sich in etwa wieder ein normales Windfeld (in Lee von Hindernissen) eingestellt.
 
