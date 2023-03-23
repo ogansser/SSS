@@ -80,10 +80,21 @@ Die Aktionen verschiedener Crewmitglieder bedürfen der **Harmonisierung und Ste
 - Keilriemenspannung  
 - Motorbilge   
 
-Nach dem Starten K ontrolle von:  
+Nach dem Starten Kontrolle von:  
 - Kühlwasseraustritt   
 - Öldruck   
 - Ladestrom  
+
+>Lenzeinrichtungen/wo installiert:  
+- Bilgenpumpe => in Bilge  
+- Bilgenalarm => in Bilge    
+- Automatische Bilgenpumpe  => in Bilge  
+- Schwimmender Schalter  => in Bilge  
+- Bilgen-Handpumpe  => in Cockpit und Küche  
+
+>Germanische Lloyd für Yachten von 8-10 m Länge:  
+Eine Handpumpe mit 5 und eine elektrische Pumpe mit 6 Kubikmetern Pumpleistung pro Minute
+
 
 11. **Motorproblemlösungen**  
 - Kühlwassertemperatur zu hoch: Motor in jeden Fall abstellen  
@@ -256,7 +267,7 @@ Die Segelyacht muss sich aus jeder Schwimmlage wieder aufrichten, Gewichtsschwer
 
 4. Der **Stabilitätsumfang** einer hochseetauglichen Segelyacht sollte zwischen 90 und 120 Grad liegen 
 
-5. Bauliche Auslegungen
+>5. Bauliche Auslegungen
 
 **ranke Yacht** 
 
@@ -271,6 +282,11 @@ Die Segelyacht muss sich aus jeder Schwimmlage wieder aufrichten, Gewichtsschwer
 - **Druckmittelpunkt** ist der Punkt, in dem der **Druck aller Windkräfte** wirkt. Er liegt wegen der Segelwölbung vor dem Flächenschwerpunkt.  
 - Der Flächenschwerpunkt der Segel liegt bei Kielbooten ca. 10% der Wasserlinienlänge vor dem Lateralschwerpunkt.   
 - Der **Lateralschwerpunkt** ist der **Flächenschwerpunkt des Lateralplanes**, in dem der Widerstand gegen Abdrift vorzustellen ist.
+
+>Bootsbau:   
+- Verläuft die Deckslinie konkav, das heißt liegen Bug und Heck höher als das Mittelteil, wird dies als positiver Sprung bezeichnet.  
+- Verläuft die Deckslinie konvex, das heißt liegen Bug und Heck tiefer als das Mittelteil, wird dies als negativer Sprung bezeichnet.  
+- Verläuft die Deckslinie waagerecht, das heißt liegen Bug und Heck auf gleicher Höhe mit dem Mittelteil, so besitzt das Deck keinen Sprung.  
 
 
 # Sicherheitsausrüstung - Handhabung 
@@ -830,6 +846,11 @@ Gefahrenhalse: Man segelt einige Bootslängen weiter, um Höhe zu gewinnen. Ein 
 - Leebergung: Vorteil: Man treibt auf die Person zu. Nachteil: Bei Seegang kann Person durch Yacht verletzt werden.   
 - Luvbergung: Vorteil: Person kann nicht durch Yacht verletzt werden. Nachteil: Yacht entfernt sich von Person.
 
+
+>MOB mit Spinnacker oder ausgebaumtem Vorsegel:   
+Um nicht unnötig weit abzulaufen, wirft man sofort den Achterholer des Spi bzw. die Schot des ausgebaumten Vorsegels los, luvt unter dem auswehenden Spi oder Vorsegel an uns steuert direkt auf den Verunglückten zu. Der Motor ist zu starten und nötigenfalls zum Mitschieben einzusetzen. Sip oder Vorsegel lässt man während des ganzen Mövers fliegen. Es seid denn, es sind genügend Personen an Bord, die sich ausschließlich um das Bergen der Segel kümmern. Schlagende Segel sind in diesem Moment ein zusätzlicher Stressfaktor. Man vermeidet unter Motor aufzustoppen, um keinen Tampen in die Schraube zu bekommen. 
+
+
 1. Unmittelbare Aufgabe des Rudergängers, wenn jemand über Bord fällt:   
 - Wenn er MOB wahrnimmt: "Mensch-über-Bord" brüllen
 - Schallsignalgeber drücken und Dauerton geben
@@ -895,6 +916,15 @@ Gefahrenhalse: Man segelt einige Bootslängen weiter, um Höhe zu gewinnen. Ein 
 - wenn er entkräftet einige Meter weiter treibt, muss ein **Helfer angeleint zu ihm schwimmen**.
 
 20. Durch Beschweren mit einem Wurfgewicht, z.B. Kiessäckchen lässt sich eine Schwimmleine als Wurfleine verwenden
+
+
+>Suchverfahren:   
+Zunächst ist zu entscheiden, ob Streckensuche oder Raumsuche.  
+- **Streckensuche** führt man durch, wenn die Person seit einer bestimmten Zeit vermisst ist. Man läuft den zurückliegenden Kurs mit exakter Navigation ohne Stromberücksichtigung (Selbststeueranlage benutzen!) zurück, bis über den Punkt hinaus, von dem an die Person vermisst ist. Man kehrt dann parallel um einen Suchstrefen versetzt zurück und legt Suchstreifen an Suchstreifen nach beiden Seiten ausweitend.   
+- **Raumsuche** führt man durch, wenn während eines MOB der Sichtkontakt verloren gegangen ist. Man fährt mit paralellen Suchspuren ein angemessenes Quadrat von Bspw. 1 sm Kantenlänge ab, dessen Mittelpunkt der angenommene Ort bildet. Ist die Suche nicht erfolgreich, legt man weitere Suchstreifen spiralförmig ausweitend um das Quadrat.  
+- Die **Breite der Suchstreifen** ist entscheidend. Bedenkt man, dass aus dem Cockpit einer Segelyacht (Augeshöhe 2 m) 1 m hohe Wellen in 40 m Abstand schon nicht mehr eingesehen werden können, sollte man die Suchstreifen mit Segelyachten entsprechend schmal wählen. 100 bis 200 m wären bei mittlerem Seegang das Maximum. 
+
+
 
 
 # Maßnahmen bei Verletzungen und Unterkühlung
