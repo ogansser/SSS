@@ -94,13 +94,13 @@ In Bodennähe gilt, dass ca. jede 8m p um 1hPa fällt. (vertigaler Druckgradient
 | -------------------------- | --------  | -------- |
 | starker Wind               |    6      |   24 (22-27)    |
 | stürmischer Wind           |    8      |   37 (34-40)    |
-| Orkan                      |    12     |  >=24    |
+| Orkan                      |    12     |  >=64    |
 
 12. Befiederung 
 
-ganze Fieder = 10 kn
-halbe Fieder= 5 kn
-Dreieck = 5 ganze Fiedern
+ganze Fieder = 10 kn  
+halbe Fieder= 5 kn  
+Dreieck = 5 ganze Fiedern  
 
 Regel: 
 
@@ -584,13 +584,13 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
  
  - Seewind: Sonne => Land wird stärker erwärmt als See => Luftmassen über Land steigen auf => Druck in Bodennähe fällt => Druck auf See ist nun höher => Wind von See zum Land  
  
- > **Seewind**: Mittags/nachmittags kommt von der See her eine leichte bis mäßige Brise. Maximum des Seewindes ca. 2 Stunden nach Sonnenhöchststand, er flaut gegen Abend wieder ab. Über Land bildet sich infolge der starken Sonneneinstrahlung und der dadurch bewirkten Aufheizung der Luft ein thermisches Tiefdruckgebiet, in das von See her Wind einströmt.
+ > **Seewind**: Mittags/nachmittags kommt von der See her eine leichte bis mäßige Brise. Maximum des Seewindes ca. 2 Stunden nach Sonnenhöchststand, er flaut gegen Abend wieder ab. Über Land bildet sich infolge der starken Sonneneinstrahlung und der dadurch bewirkten Aufheizung der Luft ein **thermisches Tiefdruckgebiet**, in das von See her Wind einströmt.
 
  - Landwind (Zirkulation dreht sich): Abkühlung des Landes nachts => See ist warm => Luft strömt von Land über das Wasser.
  
- >**Landwind**: Gegen Mitternacht beginnt eine schwache Landbrise, die maximale Windstärke ist in der Regel zwischen ca. 03.00 Uhr und Sonnenaufgang. Nachts kühlt das Festland stärker ab als das Wasser, über dem Land bildet sich ein thermisches Hochdruckgebiet aus dem Luft zum Meer hin strömt.
+ >**Landwind**: Gegen Mitternacht beginnt eine schwache Landbrise, die maximale Windstärke ist in der Regel zwischen ca. 03.00 Uhr und Sonnenaufgang. Nachts kühlt das Festland stärker ab als das Wasser, über dem Land bildet sich ein **thermisches Hochdruckgebiet** aus dem Luft zum Meer hin strömt.
  
->Eine **Land-Seewind-Zirkulation** kann nachmittags durchGewitterbildung über Land (infolge Gewitterböhen) gestört werden. 
+>Eine **Land-Seewind-Zirkulation** kann nachmittags durch Gewitterbildung über Land (infolge Gewitterböhen) gestört werden. 
 
  
 ![](Wind.jpg)
@@ -627,13 +627,13 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 
 - Küstennaher Mistral: Thermische Zirkulation, eine Art Landwind  
 - Mistral mit thermischem Tief oder Leetief ohne Fronten im Ligurischen Meer oder Golf du Lion.  
-- Mistral verstärkt durch ein Tieff mit Fronten, dessen Rückseite Luft aus Südfrankreich ansaugt.  
+- Mistral verstärkt durch ein Tief mit Fronten, dessen Rückseite Luft aus Südfrankreich ansaugt.  
 - Mistral im Übergangsbereich zwischen einem ausgedehnten Tief über Nord- und Osteuropa und hohem Druck über West- und Südwesteuropa.
 
 >Wettermäßige Voraussetzungen für Mistral:   
 - Klassische Ausgangslage: Kräftiges **Tief über der Ostsee** (Nord- und Osteuropa), das nach Russland zieht, und **Hoch über dem Ostatlantik/Biskaya**.  
 - Kaltluftvorstoß auf der Rückseite des Tiefs über Frankreich nach Süden.  
-- Zusätzlich verstärkend wirkt Tiefdruckbildung über Genua-Golf (Genua Tief).
+- Zusätzlich verstärkend wirkt Tiefdruckbildung über Golf von Genua (Genua Tief).
 
 >Merkmale und Dauer von Mistral:   
 - **Merkbarer Temperaturrückgang hinter der Kaltfront.**   
@@ -648,7 +648,7 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 - Düsenwirkung bei der Rhonemündung durch Zentralmasiv und Alpen,  
 - Bereich Marseille-Toulon Hafen bis Bastia (Korsika).  
 
->Wettermäßig (Anzeichen!) bei einer „mistralverdächtigen“ Wetterlage zu achten auf:    
+>Wettermäßig (Anzeichen!) bei einer **mistralverdächtigen Wetterlage** zu achten auf:    
 - Verlagerung einer Kaltfront über Frankreich nach Süden oder Südosten,   
 - merkbarer Temperaturrückgang hinter der Kaltfront,   
 - Bildung eines Leetiefs im Golf von Genua  
@@ -658,9 +658,9 @@ Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der li
 Volle Sturmstärke wird nur an wenigen Tagen im Jahr erreicht, Marseille z.B. an 10 bis 15 Tagen. Die Häufigkeit nimmt über See zu. Die häufigste Dauer beträgt 3,5 (3-4) Tage.
 
 >Amtlichen Publikation über den Mistral und seine Folgen (Seegang, Wellenhöhe usw.):
-Seehandbuch: Mittelmeer-Handbuch 
+Seehandbuch Mittelmeer
 
-5. **Boraartige und föhnartike Fallwinde** sind die an der kroatischen und albanischen Küste auftretenden kalten Fallwinde.
+5. **Boraartige und föhnartige Fallwinde** sind die an der kroatischen und albanischen Küste auftretenden kalten Fallwinde.
 
 Kalte Luft im Hochland => Thermischer Gegensatz zu Adria => Bewegung  
 
