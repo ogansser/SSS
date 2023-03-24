@@ -313,7 +313,7 @@ Für die Sportschifffahrt stellen neben der Blitztätigkeit die Böenlinien (Squ
 - Hagelschlag, Blitzschlag  
 - Hoher Seegang, Kreuzseen 
 
->Markante **Zeichen für das Herannahen eines Gewitters**sind:  
+>Markante **Zeichen für das Herannahen eines Gewitters** sind:  
 - mächtige, turmartige Haufenwolken (Cumulonimben)   
 - sehr dunkle Wolkenunterseite mit vorgelagerter Böenwalze  
 - der bisher vorhandene Wind flaut ab, frischt danach aus anderen Richtungen auf    
@@ -948,11 +948,11 @@ Kreuzsee: Es überlagern sich Wellenzüge aus verschiedenen Richtungen
 ![](Kreuzsee.png)
 
 >Kreuzseen enstehen, wenn sich **Wellen aus unterschiedlichen Richtungen überlagern**. Dabei besteht die Möglichkeit, dass sich die maximale Wellenhöhe von jedem Wellensystem addiert zu einer entsprechend hohen Welle.   
-**Ferner werden die Wellen sehr steil**, so dass sie sichbrechen können. Im Extremfall ist keine Verlagerungsrichtung mehr erkennbar. 
->Wellen miut unterschiedlichen Laufrichtungen können durch folgende Überlagerungen auftreten:   
+**Ferner werden die Wellen sehr steil**, so dass sie sich brechen können. Im Extremfall ist keine Verlagerungsrichtung mehr erkennbar. 
+>Wellen mit unterschiedlichen Laufrichtungen können durch folgende Überlagerungen auftreten:   
 - von Windsee und einer (von fern kommenden) Dünung  
 - von Windsee und Dünung vor Kaltfronten, Okklusionen oder Trogachsen  
-- von sich drehenden Wellen in Leeeiner Bank oder Insel
+- von sich drehenden Wellen in Lee einer Bank oder Insel
 
 9. In einer Meereswelle verläuft die Bewegung der Wasserteilchen kreisförmig.
 
@@ -1009,7 +1009,7 @@ Wellensteilheit H/L > 1/7 und Grundsee => Brandung
 - NAVTEX,  
 - Online- Dienste (z.B. Seewis-Online des Deutschen Wetterdienstes, T-Online, u.a.),  
 ...weitere... 
-- RTTY (Funkfernschreiben),  
+- RTTY (Funkfernschreiben),     
 - Wetterfax,  
 - Faxpolling (z.B. SEEWIS-Fax des Deutschen Wetterdienstes),   
 - Telefonabruf, Törnberatung  
