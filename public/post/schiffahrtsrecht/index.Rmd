@@ -125,7 +125,7 @@ output:
 - unverzügliche Abgabe von **Gefahrmeldungen** (z.B. Eis, Wrack, Mine, Wirbelsturm) an in der Nähe befindliche Schiffe und Küstenfunkstellen,     
 - **Hilfeleistung in Seenotfällen **      
 - besondere **Beistandspflicht** nach Zusammenstößen,    
-- Pflicht zur Benutzung ( in der Anlage 2 ) vorgeschriebener **Rettungssignale**.  
+- Pflicht zur Benutzung ( in der Anlage 2 ) vorgeschriebener **Rettungssignale**.                                      
 
 > Nationalen Gesetze und Verordnungen die Vorschriften über das Verhalten nach einem Zusammenstoß enthalten:  
 Das Seesicherheits-Untersuchungs-Gesetz (**SUG**), die **Verordnung über die Sicherung der Seefahrt**, und die **Seeschifffahrtsstraßen-Ordnung**
@@ -196,20 +196,22 @@ Das Seesicherheits-Untersuchungs-Gesetz (**SUG**), die **Verordnung über die Si
 
 >**Kollisionsgefahr** ist eindeutig erkennbar durch **stehende Kompasspeilung** (bzw. stehende Seitenpeilung bei anliegendem Sollkurs) und **Annäherung**.
 
+>...eine solche Möglichkeit (der Gefahr eines Zusammenstoßes) ist anzunehmen, wenn die Kompasspeilung eines sich nähernden Fahrzeugs sich nicht merklich ändert...(Regel 7d)
+
+
 5. Unterschied Ausweichpflicht und Nichtbehinderungsgebot:
 
 - Ausweichpflicht: Bei der **Möglichkeit der Gefahr eines Zusammenstoßes** gibt es den Zwang des Ausweichpflichtigen zum Ausweichen (frühzeitig und durchgreifend) und des Kurshalters zum Kurshalten.  
 - Nichtbehinderungsgebot: Ein Fahrzeug das verpflichtet ist, die Durchfahrt eines anderen Fahrzeugs nicht zu behindern muss frühzeitig Maßnahmen ergreifen, um genügend Raum für die sichere Durchfahrt des anderen Fahrzeugs zu lassen. 
 
->Wenn Peilung eines nächerkommenden Fahrzeugs deutlich auswandert => Nichts unternehmen => Keine Kurshaltepflicht (Regel 17)
+>Regel 17:     
+- A muss Kurs und Geschwindigkeit beibehalten, wenn B ausweichpflichtig.    
+- Wenn Peilung eines nächerkommenden Fahrzeugs B deutlich auswandert => Nichts unternehmen => Keine Kurshaltepflicht 
 
->...eine solche Möglichkeit (der Gefahr eines Zusammenstoßes) ist anzunehmen, wenn die Kompasspeilung eines sich nähernden Fahrzeugs sich nicht merklich ändert...(Regel 7d)
+>Regel 18:   
+- Maschinenfahrzeug ausweichpflichtig gegenüber dem Segelfahrzeug => Maschinenfahrzeug muss Kurs und Geschwindigkeit beibehalten   
+- Maschinenfahrzeug und Segelfahrzeug in Fahrt müssen einem fischenden Fahrzeug ausweichen.
 
->Fz. C ist als Maschinenfahrzeug nach [Regel 18 KVR](https://www.gesetze-im-internet.de/seestro_1972/regel_18.html) ausweichpflichtig gegenüber dem Segelfahrzeug A. Fahrzeug A muss Kurs und Geschwindigkeit beibehalten
-
->Regel 18 a), b) iii): Ein Maschinenfahrzeug sowie ein Segelfahrzeug in Fahrt müssen einem fischenden Fahrzeug ausweichen.
-
->Regel 17: B muss Kurs und Geschwindigkeit beibehalten, wenn A ausweichpflichtig.
 
 6. **Enge Fahrwasser:**
 
@@ -223,11 +225,11 @@ Es hat **Vorfahrt** - In Tidengewässern und in tidefreien Gewässern mit Ström
 
 7. Der Einbahnweg eines Verkehrstrennungsgebietes darf gequert werden, wenn ein Fahrzeug dazu gezwungen ist. Dies muss möglichst mit der Kielrichtug im rechten Winkel zur allgemeinen Verkehrsrichtung erfolgen. 
 
->8. Ein Fahrzeug von weniger als 20 m oder ein Segelfahrzeug darf die sichere Durchfahrt eines Maschinenfahrzeuges auf dem Einbahnweg nicht behindern (Regel 10 j)
+>8. Ein Fahrzeug von weniger als 20 m oder ein Segelfahrzeug darf die sichere Durchfahrt eines Maschinenfahrzeuges auf dem Einbahnweg (VTG) nicht behindern (Regel 10 j)
 
 9. Fahrzeuge von weniger als 20m, Segelfahrzeuge und fischende Fahrzeuge dürfen die **Küstenverkehrszone** benutzen. Ebenso Fahrzeuge die sich auf dem Weg zu oder von einem Hafen, einer Einrichtung, oder einem Bauwerk vor der Küste, eine Lotsenstation oder einem sonstigen innerhalb der Küstenverkehrszone gelegenen Ort befindet. 
 
->Nach Regel 10 a wird ein Fahrzeug nicht von seiner Verpflichtung aufgrund einer anderen Regel befreit.
+>Nach Regel 10 a (für VTG) wird ein Fahrzeug nicht von seiner Verpflichtung aufgrund einer anderen Regel befreit.
 
 10. Auf den Einbahnwegen eines Verkehrstrennungsgebietes (VTG) gilt das **Rechtsfahrgebot** nicht.
 
