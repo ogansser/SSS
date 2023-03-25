@@ -123,9 +123,9 @@ output:
 >Pflichten für den Schiffsführer laut Verordnung über die Sicherung der Seefahrt:  
 - Meiden von **Eisgebieten und Fischgründen**,   
 - unverzügliche Abgabe von **Gefahrmeldungen** (z.B. Eis, Wrack, Mine, Wirbelsturm) an in der Nähe befindliche Schiffe und Küstenfunkstellen,     
-- **Hilfeleistung in Seenotfällen **   
+- **Hilfeleistung in Seenotfällen **      
 - besondere **Beistandspflicht** nach Zusammenstößen,    
-- Pflicht zur Benutzung ( in der Anlage 2 ) vorgeschriebener **Rettungssignale**.  
+- Pflicht zur Benutzung ( in der Anlage 2 ) vorgeschriebener **Rettungssignale**.                                      
 
 > Nationalen Gesetze und Verordnungen die Vorschriften über das Verhalten nach einem Zusammenstoß enthalten:  
 Das Seesicherheits-Untersuchungs-Gesetz (**SUG**), die **Verordnung über die Sicherung der Seefahrt**, und die **Seeschifffahrtsstraßen-Ordnung**
