@@ -319,7 +319,7 @@ Allen Fz. außer einem Schleppzug und, abhängig vom Wind, ggf. einem anderen Se
 - Segler: - lang, kurz, kurz - mindestens alle 2 Minuten   
 - Schleppende Fahrzeuge: -lang, kurz, kurz - mindestens alle 2 Minuten, unmittelbar danach wird vom letzten geschleppten Fahrzeug -lang, kurz, kurz, kurz - gegeben, - wenn dieses bemannt ist.  
 - Unter Motor: einen langen Ton mindestens alle 2 Minuten. Ohne Fdw:zwei lange Töne mindestens alle 2 min  
-- fischender Trawler: lang-kurz-kurz mindestens alle 2 min.  
+- fischender Trawler: lang-kurz-kurz mindestens alle 2 min.   
 
 >**Tagsignale:**  
 - Segelboot: einen Kegel, Spitze nach unten  
