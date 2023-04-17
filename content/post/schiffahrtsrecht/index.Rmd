@@ -16,6 +16,7 @@ output:
 
 # Schiffahrtsrecht allgemein
 
+
 1. Maßnahmen des Schiffsführers für die Sicherheit der Mitsegler:
 
 - Muss dafür sorgen, dass bei allen über die bevorstehende Unternehmung Klarheit besteht und dass jeder an Bord dieser Herausforderung gewachsen ist. 

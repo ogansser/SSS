@@ -737,7 +737,7 @@ Die hohen Annährungsgeschwindigkeiten der Großschiffe müssen richtig eingesch
 Die Verkehrsumstände diktieren, was ein **sicherer Passierabstand** ist. Hierbei ist die Manöversituation des Großen sowie dessen Gefahrenbereich (Flachwasserzwänge, Spurerweiterung, Bankeffekt) zu beurteilen. Notfalls hilft die Flucht ins flache Gewässer, in die die Großschifffahrt nicht folgen kann.
 
 # Fahren in schwerem Wetter 
->1. Wesentliche Punkte auf einer Checkliste zum Klarmachen einer Segelyacht für schweres Wetter sind: 
+1. Wesentliche Punkte auf einer Checkliste zum Klarmachen einer Segelyacht für schweres Wetter sind: 
 
 - **Einweisung der Crew** in das besondere Verhalten bei Sturm 
 
