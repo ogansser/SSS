@@ -16,6 +16,7 @@ output:
 
 # Grundlagen der Wetterkunde
 
+
 1. Gesetzliche Temperatureinheit (International) ist [Kelvin (K)](https://de.wikipedia.org/wiki/Kelvin) oder, als besonderer Name, in **Grad Celsius** gemessen. Eine Temperatur von 0 °C entspricht 273,15 K; der absolute Nullpunkt liegt bei 0 K (= −273,15 °C))
 
 Extremwerte in Deutschland: -35 bis +40 ohne Strahöungsanteil
