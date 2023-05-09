@@ -171,7 +171,7 @@ Krängungsmoment < aufrichtende Moment => Abnahme der Neigung bis zum stabilen K
 => Vermögen, sich gegen auftretende Krängungsmomente bis zu einer bestimmten verbleibenden Schräglage aufzurichten
 
 
-4. Der **Stabilitätsumfang** einer hochseetauglichen Segelyacht sollte zwischen 90 und 120 Grad liegen 
+4. Der **Stabilitätsumfang** einer hochseetauglichen Segelyacht sollte über 90 Grad hinaus und mindestens 120 Grad betragen.
 
 5. Bauliche Auslegungen
 
