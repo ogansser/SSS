@@ -1,10 +1,15 @@
 ---
 title: Zusammenfassung
 author: Oliver Gansser
-date: ''
+date: []
 slug: []
 categories: []
 tags: []
+summary: Schiffahrtsrecht, Seemnschaft, Wetter
+output:
+  blogdown::html_page:
+    toc: TRUE
+    number_sections: TRUE
 ---
 
 
@@ -165,11 +170,11 @@ Regel 5 Ausguck: Jederzeit durch Sehen + Hören + durch jedes andere Mittel
 => Ausguck halten  
 => Überblick über die Lage + Möglichkeit der Gefahr eines Zusammenstoßes
 
-Regel 33 Schallsignale:
-- kleine 12 m: anderes Gerät für kräftiges Schallsignal
-- größergleich 12 m : Pfeife
-- größergleich 20 m : Pfeife + Glocke
-- größergleich 100 m : Pfeife + Glocke + Gong
+- Regel 33 Schallsignale:
+  - kleine 12 m: anderes Gerät für kräftiges Schallsignal
+  - größergleich 12 m : Pfeife
+  - größergleich 20 m : Pfeife + Glocke
+  - größergleich 100 m : Pfeife + Glocke + Gong
 
 
 ### SeeSchStrO
