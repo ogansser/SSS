@@ -1,0 +1,1558 @@
+---
+title: Zusammenfassung
+author: Oliver Gansser
+date: []
+slug: []
+categories: []
+tags: []
+summary: Schiffahrtsrecht, Seemnschaft, Wetter
+output:
+  blogdown::html_page:
+    toc: TRUE
+    number_sections: TRUE
+---
+
+
+# Schiffahrtsrecht
+
+## Schiffahrtsrecht allgemein
+
+- Rumpflänge > 15 m  =>  Eintragung in Schiffsregister
+
+- Seeschiffsregister => Amtsgerichte  => Schiffszertifikat
+
+- < 15m => kann
+
+- BSH vermisst + Eigentummsnachweis als Deutscher  => Messbrief
+
+- Schiffszertifikat => Bundesflagge und Rufzeichen   
+
+- Nicht eintragungspflichtige Wassersportfahrzeuge => Flaggenzertifikat.
+
+- Frankreich:   
+  - Binnengewässer => Internationaler Bootsschein (ADAC)
+  - Seegewässer => Flaggenzertifikat (BSH)
+
+
+## Rechtsvorschriften
+
+
+- Nationalen Gesetze und Verordnungen die Vorschriften über das Verhalten nach einem Zusammenstoß enthalten:
+  - Das Seesicherheits-Untersuchungs-Gesetz (SUG)
+  - Verordnung über die Sicherung der Seefahrt
+  - Seeschifffahrtsstraßen-Ordnung
+  
+- Verordnung über die Sicherung der Seefahrt => Verhalten auf See:
+  - Pflicht zur Seenotrettung
+  - Verhalten bei Zusammenstößen
+  - Meldung bedeutsamer Ereignisse
+                                
+- Nachkommen der verkehrsrechtlichen Verantwortung einschließlich Schiffsführung und Wachdienst (längerer Segeltörn, bei dem nachts nicht immer ein Hafen angelaufen werden kann):
+  - Verantwortlicher Fahrzeugführer vor Reise festlegen
+  - Nötige Qualifikation (Seewache) bei mindestens einem weiteren Besatzungsmitglied
+  - Ordentliche Wachübergabe => Position, Kurs, Fahrt, Vorhandensein anderen Fahrzeugen.
+  - Beachtung der eigene vorgeschriebene Lichterführung
+  - Wachwechsel => Logbuch 
+  - Besondere Ereignisse => unverzügliche und rechtzeitige Info vom Wachführer an Schiffsführer 
+
+
+- Ein Unfall im Sinne des SeeUG liegt vor:
+  - Gefährdung oder Beeinträchtigung von Personen, des Verkehrs, des Gewässerzustandes
+  - Schiffsverlust,
+  - erheblicher Schaden am Schiff,
+  - Schiff oder Ladung als Schadensverursacher,
+  - Tod oder Verschollenheit einer Person,
+  - unterlassene Hilfeleistung.
+
+
+## Seeverkehrsrecht
+
+### KVR
+
+Kollisionsgefahr => stehende Kompasspeilung + Annäherung.
+
+*Hierarchie aus KVR Regel 18*:  
+
+Die Fahrzeuge müssen ausweichen:  
+
+1) Maschinenfahrzeuge
+2) Segelfahrzeuge
+3) Fischereifahrzeuge
+4) manövrierunfähig / -behindert
+5) tiefgangbehindert
+
+Und ggfs. muss ein Segelfahrzeug natürlich einem anderen ausweichen.
+
+
+*Ausweichregeln*: 1) Wer ist ausweichpflichtig? 2) Der andere ist Kurshalten!
+
+Segelfahrzeuge untereinander:  
+
+KVR Regel 12 a i (Wind NICHT von derselben Seite)  => Wind von Bb => ausweichpflichtig  
+KVR Regel 12 a ii (Wind von derselben Seite)  => luvwärtige => ausweichpflichtig  
+KVR Regel 12 a iii  (Nacht und Fzg in Luv) => Wind von Bb => ausweichpflichtig  
+KVR Regel 12 b (Def. Luvseite)  
+
+Maschinenfahrzeuge untereinander:  
+
+KVR Regel 14 (entgegengesetzte Kurse)  
+KVR Regel 15 (kreuzende Kurse)  
+KVR Regel 34 a (kurzer Ton)  
+
+
+*Kurshalter*:
+
+Maßnahmen des Kurshalters:  
+
+KVR Regel 17 a i (Kurs und Geschwindigkeit beibehalten)  
+KVR Regel 17 a ii (Manöver des vorletzten Augenblicks ("darf"))  
+KVR Regel 17 b (Manöver des letzten Augenblicks ("muss"))  
+
+Schallsignale:	5 kurze Töne  = Zweifel- und Gefahrensignal KVR Regel 34 d
+
+
+- *Engstellen* => zwei oder mehrere Schiffe nicht gleichzeitig nebeneinander
+  - Überholverbot
+  - Begegnungsverbot => Sichtzeichen A.2 (rechteckige weiße Tafeln mit rotem Rand, rotem Schrägstrich und zwei senkrechten schwarzen Pfeilen, Spitzen entgegengesetzt), § 25 Abs. 3. 
+  - Vorfahrt:
+    - In Tidengewässern und in tidefreien Gewässern mit Strömungen: das mit dem Strom fahrende Fahrzeug, bei Stromstillstand das Fahrzeug, das vorher gegen den Strom gefahren ist.
+    - In tidefreien Gewässern ohne Strömung:  das Fahrzeug, das grundsätzlich die Steuerbordseite des Fahrwassers zu benutzen hat. Das wartepflichtige Fahrzeug muss außerhalb der Engstelle so lange warten, bis das andere Fahrzeug vorbeigefahren ist.
+
+- *Wegerechtschiffe* (mit Ausnahme auf dem NOK) => überschreiten Abmessungen => gezwungen, tiefsten Teil des Fahrwassers zu nutzen => manövrierbehindert => am Tage senkrecht untereinander Ball Rhombus-Ball => Bei Nacht zusätzlich zu den vorgeschriebenen Lichtern eines Maschinenfahrzeuges in Fahrt drei Rundumlichter senkrecht übereinander, rot-weiß-rot => Nebelsignal: lang, kurz, kurz mindestens alle 2 Minuten.
+
+
+- Ein Fahrzeug von weniger als 20 m oder ein Segelfahrzeug darf die sichere Durchfahrt eines Maschinenfahrzeuges auf dem *Einbahnweg (VTG)* nicht behindern (Regel 10 j)
+
+- Nach *Regel 10 a (für VTG)* wird ein Fahrzeug nicht von seiner Verpflichtung aufgrund einer anderen Regel befreit.
+
+- Lageänderung beider Fahrzeuge zueinander ist ohne Belang. Maßgeblich für die *Ausweichpflicht* ist der Augenblick des Insichtkommens.
+
+- Wenn Kurshaltepflicht und Ausweichpflicht kollidieren, ist die Kurshaltepflicht nach Regel 2b KVR aufgehoben => Ausweichen hat Vorrang!
+
+
+- *Manövrierunfähig* ist Fahrzeug durch einen außergewöhnlichen Umstand 
+
+- *Manövrierbehindert* ist ein Fahrzeug durch seine Arte des Einsatzes. 
+
+
+- Flaggensignale:  
+  - O: gelb-rot diagonal geteilt
+  - Q: gelb  
+  => O über Q: Schiff dreht zur Regulierung nautischer Instrumente
+
+- Nebelmaßnahmen von Segelyacht bei dichtem Nebel: 
+  - Lichter kontrollieren
+  - Ausguck
+  - Ruhe im Schiff
+  - Rettungswesten anlegen
+  - mit sicherer Geschwindigkeit laufen
+  - Nebelsignale unter Segel
+  - gfs. Segel einholen und Maschine starten, Nebelsignal unter Motor
+
+- Ein (Peil)-Strich (Steuerbord oder Backbord) sind 11,25°
+  - 4 Strich => 45° 
+  - 8 Strich => querab.
+
+-  KÜMO = Küstenmtorschiff
+
+- Als Nebelsignal ist in der Elbmündung außerhalb der Seeschiffahrtstraßenordnung von einem Grundsitzer zu geben: Mindestens jede Minute etwa 5 Sekunden lang die Glocke rasch läuten sowie zusätzlich unmittelbar vor und nach dem raschen Glockenläuten drei scharf voneinander getrennte Glockenschläge.   
+Ein Fahrzeug auf Grund darf zusätzlich ein Pfeifsignal kurz-lang-kurz geben (Regel 35 h)
+
+- Eine Motoryacht, Länge 8 m, treibt nachts manövrierunfähig in der Nordsee und sieht ein großes Fahrzeug direkt auf sich zukommen. Welche Maßnahmen hat das Fahrzeug zu ergreifen?   
+Ein Fahrzeug von weniger als 12 m Länge, das die roten Rundumlichter senkrecht übereinander nicht führt, muss folgende Maßnahmen ergreifen:   
+  1. Durch jedes andere verfügbare Mittel anzeigen, dass es manövrierunfähig ist, z.B. über UKWSprechfunk oder durch ein Schallsignal oder Lichtsignal lang, kurz, kurz.
+  2. Bei weiterer Annäherung das andere Fahrzeug mit einer starken Handlampe anleuchten und so auf sich aufmerksam machen.
+  3. Führen eines weißen Rundumlichtes, das mit keinem anderen Licht verwechselt werden kann.
+  4. Abfeuern eines Signals „weißer Stern“ oder „Blitz-Knall“.
+  5. Sofort bei Eintritt der Manövrierunfähigkeit Verkehrszentrale informieren (wenn vorhanden).
+
+Regel 5 Ausguck: Jederzeit durch Sehen + Hören + durch jedes andere Mittel  
+=> Ausguck halten  
+=> Überblick über die Lage + Möglichkeit der Gefahr eines Zusammenstoßes
+
+Regel 33 Schallsignale:
+- kleine 12 m: anderes Gerät für kräftiges Schallsignal
+- größergleich 12 m : Pfeife
+- größergleich 20 m : Pfeife + Glocke
+- größergleich 100 m : Pfeife + Glocke + Gong
+
+
+### SeeSchStrO
+
+- §24: Beim Begegnen auf entgegengesetzten oder fast entgegengesetzten Kursen im Fahrwasser ist nach Steuerbord auszuweichen.
+
+- Dem Fahrwasserverlauf folgende Fahrzeuge haben Vorfahrt gegenüber Fahrzeugen die...
+  - in das Fahrwasser einlaufen
+  - das Fahrzeug queren
+  - im Fahrwasser drehen
+  - ihre Anker- oder Liegeplätze verlassen
+
+- *Vorfahrt beachten* begründet eine Wartepflicht. Wer die Vorfahrt zu beachten hat, muss rechtzeitig durch sein Fahrverhalten erkennen lassen, dass er warten wird. Er darf nur weiterfahren, wenn er übersehen kann, dass die Schiffahrt im Fahrwasser nicht beeinträchtigt wird. Ggf. hat der Wartepflichtige seinen Kurs und/oder seine Geschwindigkeit zu ändern (gilt rechtlich nicht als Ausweichen!)
+
+- Sofern Segelfahrzeuge nicht deutlich der Richtung eines Fahrwassers folgen, haben sie sich untereinander nach den KVR zu verhalten, wenn sie dadurch vorfahrtsberechtigte Fahrzeuge nicht gefährden oder behindern. 
+
+- Queren bedeutet deutliches Abweichen vom Fahrwasserverlauf, nach allgemeiner Verkehrsmeinung mehr als 10°. 
+
+- Generelle Richtung des Fahrwassers ist häufig durch Richtfeuerlinie und/oder Radarlinie in der Seekarte
+angegeben.
+
+- Wind gegenan bedeutet: häufiges Kreuzen des Fahrwassers. Dabei dürfen die im Fahrwasser in Fahrwasserrichtung fahrenden Fahrzeuge nicht durch kreuzende Segelfahrzeuge behindert werden, die dem Fahrwasser folgenden Schiffe haben Vorfahrt. Segelfahrzeuge dürfen nur kreuzen, wenn die durchgehende Schiffahrt nicht behindert wird.
+
+- Mit dem Wind segelnd bewegt sich das Segelfahrzeug in Richtung des Fahrwassers, es muss sich auf der rechten Fahrwasserseite halten. Segler haben Vorfahrt vor kreuzenden Fahrzeugen sowie in das Fahrwasser einlaufenden Fahrzeugen bzw. im Fahrwasser drehenden Fahrzeugen bzw. ihre Anker- oder Liegeplätze verlassenden Fahrzeugen.
+
+- Ankern ist im Fahrwasser mit Ausnahme auf den Reeden und den bekanntgemachten Wasserflächen verboten.   
+Außerhalb des Fahrwassers ist Ankern erlaubt:
+  - entfernt von engen Stellen und unübersichtlichen Krümmungen
+  - mehr als 300 m entfernt von schwimmenden Geräten, Wracks usw. 
+  - mehr als 300 m entfernt bei verminderter Sicht von Hochspannungsleitungen
+  - entfernt von Hafeneinfahrten, Anlegestellen, Schleusen, Fährstrecken usw. (ausführlich siehe § 32 SeeSchStrO).
+
+- Pflichten eines Schiffsführers bei einem Unfall bezüglich der Sicherheit des übrigen Verkehrs (§37):
+  - Bei Gefahr des Sinkens ist das Fahrzeug möglichst so weit aus dem Fahrwasser zu schaffen, dass die Schiffahrt nicht beeinträchtigt wird.
+  - Zuständiges Wasser- und Schiffahrtsamt oder die Verkehrszentrale ist zu unterrichten.
+  - Der Ort eines gesunkenen Fahrzeugs ist unverzüglich behelfsmäßig zu bezeichnen.
+
+- Alle mit einer UKW-Sprechfunkanalage ausgestatteten Fahrzeuge sind verpflichtet die von der Verkehrszentrale (Maritime Verkehrssicherung) gegebenen Verkehrsinformationen und -unterstützungen abzuhören und zu berücksichtigen. ([§3](https://www.gesetze-im-internet.de/seeschstro_1971/__3.html)) 
+
+- Schiffahrtszeichen sind Sichtzeichen und Schallsignale, die Gebote, Verbote, Warnungen und Hinweise
+ausdrücken. 
+
+- Sichtzeichen sind Lichter, Signalkörper, Flaggen und Tafeln.
+
+- Wer eine Blutalkoholkonzentration von 0,5 oder mehr Promille oder eine Blutalkoholmenge im Körper
+hat, die zu einer solchen Blutalkoholkonzentration führt, darf weder ein Fahrzeug führen noch dessen Kurs
+oder Geschwindigkeit selbständig bestimmen.
+
+- Schleppverband: die Zusammenstellung von einem oder mehreren schleppenden Maschinenfahrzeugen (Schlepper) mit einem oder mehreren dahinter oder daneben geschleppten Anhängen, die keine oder keine betriebsbereite Antriebsanlage besitzen oder in ihrer Manövrierfähigkeit eingeschränkt sind. (§ 2 Nr.7). 
+
+- Schubverband: eine starre Verbindung von schiebenden Fz. und geschobenen Fz.; mindestens ein geschobenes Fahrzeug befindet sich vor dem Fahrzeug mit Maschinenantrieb. (§ 2 Nr.8).
+
+- Schleppverband und Schubverband gelten jeweils als ein Maschinenfahrzeug.
+
+- Motorsportfahrzeuge beim Schleppen gelten nicht als schleppende Machinenfahrzeuge im Sinne der KVR (§ 2 Nr.7), Sie müssen nicht besonders gekennzeichnet sein.
+
+- Auf einem Containerschiff einen roten Doppelstander (Flagge B): Containerschiff, das Explosivstoffe geladen hat.
+
+- Rotes Rundumlicht, fortwährend das Schallsignal kurz – lang: Es handelt sich um das Bleib-weg-Signal, das von einem Fahrzeug gegeben wird, bei dem bestimmte gefährliche Güter oder radioaktive Stoffe frei werden oder drohen freizuwerden oder es besteht Explosionsgefahr. Man hat sich mit seinem Fahrzeug möglichst weit von dem anderen Fahrzeug zu entfernen (sicherer Abstand) und keine elektrischen Schalter bedienen, kein offenes Feuer.
+
+
+## Radarplotten
+
+- BCR  
+Passierabstand voraus (auf der Kurslinie) Bow crossing range
+
+- Verringerung des Passierabstandes, wenn Kompass- und Steuerfehler ausgeschlossen werden: Die Yacht wird durch Strom und/oder Wind nach Bb. versetzt.
+
+## Seeunfalluntersuchung
+
+- Die Seeämter (Kiel, Hamburg, Bremerhafen, Emden, Rostock) sind Untersuchungsausschüsse mit der Aufgabe zu untersuchen, ob ein Befähigungszeugnis entzogen oder ein Fahrverbot verfügt werden soll. 
+
+- Generell sollen Ursachen und Umstände eines Seeunfalles festgestellt werden und ob ein fehlerhaftes Verhalten eines Beteiligten vorliegt, auch wenn letzteres nicht unfallursächlich war.
+So betreffen z.B. den Skipper eines Sportbootes:  
+  - Mängel in der Besatzung des Schiffes,
+  - Fehler bei der Führung oder dem Betrieb des Schiffes,
+  - Verstoß gegen Verkehrs-, Sicherheits- und Umweltvorschriften,
+  - Unterlassung einer Hilfe- der Beistandsleistung,
+  - Fehlen der notwendigen Eigenschaft zur Führung eines Sportbootes
+
+- Widerspruch gegen einen Seeamtsspruch ist möglich beim Bundesoberseeamt (BOSA) in Hamburg. Gegen Entscheidungen des BOSA kann Berufung/Klage beim Verwaltungsgericht Hamburg erhoben werden.
+
+- Die Spruchkörper der Seeämter und des Bundesoberamtes sind besetzt mit einem Vorsitzenden und vier Beisitzern (ein [hauptamtlicher] Ständiger Beisitzer, drei ehrenamtliche Beisitzer).
+
+- Seeamt und Bundesoberseeamt können beim Vorliegen eines fehlerhaften Verhaltens bei einem der Beteiligten, hier Segler, den Sportbootführerschein entziehen, soweit der Segler im Besitz eines solchen Sportbootführerscheines ist. Sportsee- und/oder Sporthochseeschifferscheine können als freiwillige staatliche Scheine ebenfalls entzogen werden.
+
+- Verordnung über die Sicherung der Seefahrt:
+Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:  
+  - sind Personen verletzt und benötigen diese Hilfe.
+  - ist gegenseitiger Beistand (materieller Art) erforderlich.
+  - Austauschen: Schiffsname, Abgangs- und Bestimmungshafen, evtl. Unterscheidungssignal.
+Reise erst fortsetzen, wenn kein Beistand (mehr) benötigt wird. Kann ein Schiffsführer seiner Verpflichtung zur Hilfeleistung nicht nachkommen, so hat er dieses unter Angabe der Gründe ins Logbuch einzutragen und das für seinen Heimathafen zuständige Seeamt zu informieren.
+
+
+## Umweltschutz
+
+- MARPOL-Abkommen (Internationale Übereinkommen zur Verhütung der Meeresverschmutzung) gilt international und das Übereinkommen von Helsinki für die Anreinerstaaten der Ostsee für die Ostsee.
+
+- Sondergebiete nach MARPOL bedeuten, dass darin die Beseitigung aller Kunsstoffgegenstände und sonstigen Mülls verboten ist.
+
+- Sondergebiete in Europa sind: Ostsee, Nordsee, Mittelmeer   
+
+- In Sondergebieten ist das Einleiten jeglicher Art von Schadstoffen verboten.
+
+- Für Yachten gilt in Sondergebieten das Verbot des Einleitens von Öl, festen und flüssigen Schadstoffen jeglicher Art sowie Schiffsmüll. Lebensmittelabfälle, zerkleinert oder nicht, dürfen nur im Mindestabstand 12 sm von Land ins Meer geleitet werden.
+
+Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen zugelassen sind, die Auflage, dass jegliche Einleitung von Abwässern innerhalb der 12sm Zone verboten ist. Die Yachten müssen, soweit sich eine Toilette an Bord befindet, mit einem geschlossenen Fäkalientank ausgestattet sein. 
+
+- Lebensmittelabfälle sollten in Müllbehältern in Häfen entsorgt werden. Sie dürfen auf See nur in einem Abstand von Mindestens 12sm von Land entfernt außenbords entsorgt werden.
+
+- Leere Flaschen aller Art dürfen nur an Land entsorgt werden.  
+
+- Fäkalien bzw. Abwässer müssen, da das Schiff für die Beförderung von mehr als 10 Personen vorgesehen ist, in einem Tank gesammelt und entweder an Land entsorgt oder in einer mäßigen Rate bei einer Geschwindigkeit von 4 kn in einem Abstand von mindestens 12 sm von Land eingeleitet werden. Wenn das Abwasser desinfiziert ist und die Rückstände zerkleinert sind, genügt ein Mindestabstand von Land von 4 sm.
+                         
+                                         
+![](Schallsignale)
+
+
+
+\newpage
+
+# Seemanschaft
+
+## Segelfahrzeug 
+
+- Sturmbesegelung Slup (etwa 12 m lang) mit Rollgenua:
+    - Großsegel dreimal reffbar
+    - oder Trysegel vorhanden
+    - teilweise eingerollte Genua nicht geeignet
+    - Sturmfock an zweitem Vorstag (Kutterstag oder auch Babystag)
+
+- Ketsch auf Amwindkurven:
+  - Großsegel lenkt den Luftstrom um einen gewissen Winkel zur Mittelsschifflinie ab
+  - Wenn zu dicht => zu geringer Anstellwinkel für Besan => Kein Vertrieb mehr.
+  => Großsegel nicht ganz mittschiffs bzw. zu dichtholen 
+
+- Segel für Fahrtenyacht: Groß, Fock, Genua, Blister und Sturmfock.
+  - Bis ca. Bft. 3: Groß und Blister,
+  - bis ca. 5 Bft. Groß und Genua,
+  - bis ca. 7 Bft. Groß gerefft und Fock,
+  - über ca. 7 Bft. Groß (3 * gerefft) und Sturmfock.
+
+- Bullenstander:
+  - Leine (Talje) von Baumnock zum Vorschiff mit Rolle nach achtern ins Cockpit umgelenkt. 
+  - Wichtig auf Vorwindkursen, um unfreiwillige Halse (ironisch: „Patenhalse“ ) zu verhindern. 
+  - Baum wird durch den Bullenstander gesichert.
+
+- Wirkung einer Patenthalse:
+  - Starkes Anluven des Schiffes auf neuer Seite
+  - Querschlagen
+  - Unfallgefahr 
+  - sehr starke Belastung im Rigg (Fußblock reißt aus, Wantbruch in Lee, Baumstauch in den Mast)   
+  => Bullenstander 
+
+- Wind aus Richtung Bestimmungshafen:
+  => Kreuzen
+  => in bestimmten Zeitabständen abwechselnd mit dem wind von Stb. oder Bb. segeln. 
+  => Segeltechnisch in ebenso gewissen Zeitabständen Wende fahren.
+
+- Begriffe beim Kreuzen:
+  - Holebug: Kurs, auf dem man gegenüber dem Wind an Höhe gewinnt, sich aber dem Bestimmungsort nicht merklich nähert.
+  - Streckbug: Kurs, auf dem man wenig Höhe gewinnt, aber in Richtung des Zieles Strecke gutmacht.
+
+- Bedeutung von Kommandos für Ablauf Segelmanöver:
+  - Harmonisierung und Steuerung durch Schiffsführer
+  => Geordneten zeitlichen Ablauf
+  => Richtiges Ausmaß der Einzelhandlungen
+
+- Lenzeinrichtungen/wo installiert:
+  - Bilgenpumpe =>   in Bilge
+  - Bilgenalarm =>   in Bilge
+  - Automatische Bilgenpumpe  =>   in Bilge
+  - Schwimmender Schalter  =>   in Bilge
+  - Bilgen-Handpumpe  =>   in Cockpit und Küche
+
+- Pumpleistung nach Germanische Lloyd für Yachten von 8-10 m Länge:
+  - 1 Handpumpe mit 5 qm/h 
+  - 1 elektrische Pumpe mit 6 qm/h
+
+- Einrichtungen / Sicherheitsvorschriften Flüssiggasanlage/Gaskocheranlage:
+  - Geltenden Sicherheitsvorschriften 
+  - Abgenommen
+  - Gasbehälter im Kasten mit Ablauföffnung nach Außenbords
+  - Druckreduzierer
+  - Absperrventile
+  - weitgehend feste Leitungen
+  - Kocher mit Zündsicherung.
+
+- Nach Gebrauch Kocher: Ventil am Kocher + Ventil an Flasche schließen (evtl. Gasspürgerät in Bilge)
+
+- Einscheibiger Block der Tagelage (stehendes und laufendes Gut):   
+  => Richtungsänderung des durchlaufenden Gutes
+
+- Mehrscheibigen Taljen:
+  => Kraftersparnis => hängt ab von der Anzahl Parten am losen / beweglichen Block ab  
+  => Bsp: 4 Parten am beweglichen Block => aufzuwendende Kraft = 1/4
+
+- Informationen bei Yachtübernahme:
+  - Schiffspapiere (vollständig und aktuell)
+  - Wer ist Eigner der Yacht? Heimathafen? Unterscheidungssignale? Baujahr/Baumaterial/ Hersteller?
+  - Abmessungen des Schiffes (u.a. Länge, breite, Tg., Höhe über dem Wasser, Vermessung)
+  - Rigg (u.a. Bauart, Bedienung, Zustand)
+  - Segel (u.a. Anzahl, Machart/Material, Zustand, Stauplatz)
+  - Maschinenanlage (u.a. Hersteller, Baujahr, Leistung, Bedienung, Wartung bzw. Instandhaltung)
+  - Stromversorgung (u.a. Kapazität)
+  - Schraube (u.a. Bauart, rechts- oder linksgängig und welche Steuerwirkung)
+  - Manövrierdaten unter Segel und Maschine (u.a. Geschwindigkeit)
+  - Ruderanlage (u.a. Bauart) und Notruderbedienug
+  - Ankereinrichtung
+  - Sicherheitseinrichtung (baulich)
+  - Ausstattung und Zustand der pers. Sicherheitsausrüstung bzw. Rettungsmittel der Besatzung.
+  - Brennstoff,
+  - Frischwasser- und Gasvorräte (u.a. Mengen, Lagerort, Wartung und Instandhaltung)
+  - Funkanlage (u.a. Hersteller, Bedienung, Wartung und Instandhaltung)
+  - Mit welchen navigatorischen Geräten und Anlagen ist das Schiff ausgerüstet (u.a. Zustand , Wartung und Instandhaltung)
+  - Sind alle notwendigen und aktuellen Betriebsanleitungen vorhanden.
+  - Werkzeug und Reparaturmaterial vorhanden?
+  - Sonderausstattung (ggf. Bugstrahlruder)?
+
+
+## Stabilität 
+
+
+- Stabilität: Aufrichtvermögen einer Yacht, falls sie gekränkt wird. 
+
+- Neigung => Formschwerpunkt F wandert zur geneigten Seite => Kräftepaar mit Wirkungsgeraden des Massenmittelpunktes (Gewichtsschwerpunkt) => will aufrechte Schwimmlage wieder herstellen.
+
+- Dem Krängungsmoment (Winddruck, Wasser[quer]widerstand) wirkt das aufrichtende Moment (Hebelarm aus Auftriebskraft und Gewichtskraft) entgegen.
+
+- Archimedes: Die Auftriebskraft ist die Gewichtskraft des verdrängten Wasservolumens!
+
+- Metazentrum: Schnittpunkt der Auftriebskraft mit der Schiffsachse
+
+- Metazentrische Höhe muss immer Positiv sein => stabil
+
+- Auftriebskraft = Mittelpunkt des untergetauchten Schiffes.
+
+- Begriffe:
+  - Gewichtsschwerpunkt (Massenmittelpunkt)
+  - Formschwerpunkt
+  - Metazentrum
+  - Auftrieb
+  - aufrichtender Hebelarm  
+  => Gewichtsstabilen Schiff => Gewichtsschwerpunkt unterhalb Formschwerpunkt => Aufrichtendes Moment => Schiff kentert nicht
+
+- Stabilität wird beeinflusst von     
+  - Geometrie (Form),
+  - Gewichtsverteilung im Schiff (Ausrüstung, Crew, Ballast) und
+  - von außen wirkenden Störkräften (Wind, Seegang, Trossenzug).
+
+- Bauliche Auslegungen
+  - Ranke Yacht:
+    - schmale Spantform
+    - Gewichtsstabilität 
+    - Formschwerpunkt wandert bei Kränkung mangels Rumpfbreite nur wenig aus 
+    - aufrichtendes Moment steigt nur langsam an 
+    - geringe Anfangsstabilität 
+    - Yacht krängt leicht 
+    - früh reffen (Segeltragevermögen gering, weiches Rollverhalten) 
+    - Endstabilität groß, weil tief liegende Gewichtsschwerpunkt weit nach Luv auswandert, reicht tief in durchgekenterten Bereich hinein
+    - großer Stabilitätsumfang
+    - gutes Seegangsverhalten (Seetüchtig)
+  - steife Yacht:
+    - Breite Spantform
+    - Formstabilität 
+    - bei kleinem Krängungswinkel steigt Kurve des aufrichtenden Moments steil an 
+    - hohe Anfangsstabilität
+    - hohes Segeltragevermögen
+    - steifes, unangenehmes Rollverhalten
+    - durch mögliche Segelfläche bessere Amwindeigenschaften
+    - bei größeren Krängungswinkel verkleinert sich Hebelarm des aufrichtenden Moments 
+    - geringe Endstabilität
+    - kleiner Stabilitätsumfang
+    - Regattageeignet 
+
+- Schwerpunkte:
+  - Flächenschwerpunkt: Geometrische Schwerpunkt der gesamten Segelfläche (bei Kielbooten ca. 10% der Wasserlinienlänge vor dem Lateralschwerpunkt)
+  - Druckmittelpunkt: Punkt, in dem der Druck aller Windkräfte wirkt => liegt wegen Segelwölbung vor dem Flächenschwerpunkt.
+  - Lateralschwerpunkt: ist der Flächenschwerpunkt des Lateralplanes, in dem der Widerstand gegen Abdrift vorzustellen ist.
+
+- Bootsbau:
+  - Deckslinie konkav: Bug und Heck höher als das Mittelteil => positiver Sprung
+  - Deckslinie konvex: Bug und Heck tiefer als das Mittelteil => negativer Sprung
+  - Deckslinie waagerecht: Bug und Heck auf gleicher Höhe mit dem Mittelteil => keinen Sprung.
+
+
+## Sicherheitsausrüstung - Handhabung 
+
+- Sicherheitskontrollen bei Übernahme einer Yacht:
+  - Rettungsmittel (Rettungsfloß, (-insel), Westen, Lifebelts)
+  - Notsignale 
+  - Rettungsring/Rettungsboje
+  - Seeventile
+  - Lenzpumpen
+  - Werkzeug
+  - Motor
+  - Rigg
+  - Anker
+
+- Sicherheitsausrüstung für persönliche Sicherheit:
+  - Rettungsweste je Besatzugnsmitglied + 1 lifebelt 
+  - mindestens ein Rettungsring mit schwimmfähiger Wurfleine (lt. SeeBG: 28 m lang)
+
+- Mindestausstattung Fahrenyacht an Rettungseinrichtungen/Gegenstände (lt. Broschüre Sicherheit auf dem Wasser):
+  - Ohnmachtssichere Rettungswesten mit Signalpfeife,
+  - Sicherheitsgurte (Lifebelts) mit Karabinerhaken zum Einpicken,
+  - Rettungsring mit schwimmfähiger Wurfleine und Leuchte,
+  - Seenot-Signalmittel,
+  - Streichhölzer oder Feuerzeuge.
+  
+- Sonstige Ausrüstungsempfehlungen (lt. Broschüre Sicherheit auf dem Wasser)
+  - Zwei tragbare Feuerlöscher der Brandklassen ABC,
+  - Schöpfgefäß oder Pumpe zum Wasserschöpfen,
+  - Anker mit ausreichend langer Leine oder Kette,
+  - Handlampen, spritzwassergeschützt, mit Reservebatterien und –glühlampen,
+  - eine Erste-Hilfe-Ausrüstung,
+  - wichtige Flaggen und Signalkörper (Manövrierunfähigkeit, Ankern etc.),
+  - Absperrventile an allen Kraftstofftanks,
+  - ein Rundfunkempfänger für Wetterberichte,
+  - eine ausreichend lange schwimmfähige Rettungsleine,
+  - eine Rettungsinsel,
+  - Bootshaken und Fender,
+  - Fernglas, Barometer, Nebelhorn,
+  - Leuchtfeuerverzeichnis, Gezeitentafel sowie Handbücher für den Funkdienst,
+  - zwei Paddel oder Riemen,
+  - Reparaturanleitung, Werkzeug, Maschinenersatzteile,
+  - Reservekraftstoff/-schmiermittel.
+  
+
+- Inhalte Sicherheitseinweisung der gesamten Besatzung vor Reisebeginn: Einweisung in Gebrauch und Bedienung
+  - der Rettungswesten und Sicherheitsgurte,
+  - der Rettungsinsel,
+  - der Signalmittel,
+  - der Lenzpumpen,
+  - der Seeventile und des Bord-WC,
+  - der Kocheinrichtung,
+  - der Feuerlöscher,
+  - der Motoranlage,
+  - die Elektroanlage,
+  - des Rundfunkgerätes und der UKW-Seefunkstelle,
+  - Verhalten bei „MOB“,
+  - Erkennen und Verhalten bei Seekrankheit.
+
+- Notrolle "Wassereinbruch":
+  - Aufteilung Crewmitglieder: Lecksuche Vorschiff/WC, Salon/Pantry, Maschine/Achterschiff, 
+  - Bedienung Handlenzpumpe, 
+  - Bedienung elektr. Pumpe, 
+  - Bereitschaft mit Pütz, 
+  - Seenotfunkspruch (wenn notwendig).
+
+- Feuerlöscher:
+  - ABC-Pulverlöscher: Anwendung in allen Bereichen (Brandklassen A (feste Stoffe brennen), B(flüssige oder flüssig werdende Stoffe brennen) und C (Gase brennen)) 
+  - CO2-Löscher: für Maschinenraum (mit spezieller Löschöffnung optimal).   
+  => Empfehlenswert: mehrere Löscher, auch einer in der Backskiste, damit von allen Seiten bekämpft werden kann (Pantry oft direkt neben dem Niedergang)  
+  => CO2-Feuerlöscher Lagerung nur so, dass austretendes CO~2~ (schwerer als Luft!) nicht ins Schiff strömen kann (Erstickungsgefahr)  
+  => Aufstellung: Sichtbar oder mit entsprechendem Hinweisschild versehen, frei zugänglich.  
+  => Wartung: Auf Einhaltung der vorgeschriebenen Wartungsintervalle achten bzw. bei Druckverlust und nach Benutzung sofort wieder auffüllen bzw. auffüllen lassen.
+
+
+- Automatik-Sicherungsweste funktioniert mit Hilfe einer wasserlöslichen Tablette.
+  - blockiert federspannenden Bolzen 
+  - bei Wasserkontakt (durch z. B. Eintauchen in Wasser) löst sich Sperre
+  - Schlagbolzen schlägt Öffnung in Druckflasche
+  - Kohlendioxid strömt in  Schwimmkörper 
+  - zusätzlich Nachblaseschlauch und Signalpfeife
+  - Ohnmachtssicherheit durch übergroßen Brustschwimmkörper im Gleichgewicht mit  Nackenkissen  
+
+- Stichworte automatische Rettungsweste: CO2-Patrone, salzwasserlösliche Tablette, Auslösevorrichtung, manuelle Auslösevorrichtung, Mundaufblasvorrichtung, Gurte und Ringe, aufblasbarer Westenkörper, Signalpfeife, eventuell Nachtlicht mit Salzwasserbatterie.
+
+- Die Unversehrtheit der Tablette ist regelmäßig zu prüfen. Ist sie zerfallen, kann im Notfall die automatische Auslösung nicht mehr funktionieren. Die Füllung der Patrone (Gewicht) ist regelmäßig zu prüfen. Ist das Gewicht geringer, dann hat die Patrone Gas (i.d.R. Vollständig) verloren. Die Weste wird bei automatischer oder manueller Auslösung überhaupt nicht bzw. nicht vollständig aufgeblasen. Sie ist also mit dem Mund (fertig) aufzublasen.
+
+- Umgang mit Rettungswesten:
+  - anzulegen, wenn die Gefahr des Außenbordfallens gegeben ist
+  - bei Beginn jeder Rettungsaktion anzulegen und weder im Wasser noch in Rettungsfloß abzugelegen
+  - Gefahr des Verlierens sehr groß
+  - Mit angelegter Rettungsweste, wegen möglichen Verletzungsgefahr, nur aus geringen Höhen (nicht mehr als 5 m [Problem bei hochbordigen Motoryachten]) ins Wasser springen. 
+  - Rettungsweste mit beiden Händen fest nach unten zu halten 
+  - Anlegen der Rettungsweste sollte so oft geübt werden, bis jeder Handgriff im Dunkeln oder bei geschlossenen Augen sitzt. 
+  
+- Ausrüstung/Handhabung Rettungswesten:
+  - 1 ohnmachtssichere Rettungsweste pro Person an Bord
+  - dreht Person automatisch in die ohnmachtssichere Rückenlage 
+  - gut zugänglich lagern
+  - nach Möglichkeit immer tragen
+  - Kinder auch im Hafen
+  - Anlegen üben 
+  - Kinder im Sommer mit angelegter Rettungsweste baden lassen (=vertrauensbildende Maßnahme)
+  - Feststoffweste: Wenn von SeeBG zugelassen, dann absolut sicher aber schlechter Tragekomfort. 
+  - Automatik hat Handauslösung und Mundaufblasung mit integriertem Sicherheitsgurt
+  - Großer Tragekomfort, aber rettet Ohnmächtigen nur, wenn Automatik nicht versagt
+  - An jeder Weste sollte Doppeltonsignalpfeife angebändselt sein. Doppelton kann mit Möwenschrei nicht verwechselt werden
+  - Reflexfolien auf Westen kleben
+
+- Anforderungen an Rettungsweste:
+  - ausreichende, ohnmachtsichere Tragfähigkeit
+  - bequem am Körper sitzen
+  - größenmäßig passen
+  - gut erkennbare Farbe mit Reflexionsstoff
+  - zuverlässige und leicht bedienbare Aufblasvorrichtung
+  - Trillerpfeife
+  - Leuchtvorrichtung für Brenndauer von 8 Stunden (lt. SeeBG)
+
+- Funktionsweise Seenotfunkbake EPIRB (Emergency position-Indicating radiobeacon station):
+  - Cospas-Sarsat-Bake 406 Mhz (enthält Code und Identifizierungs-Nr.), 
+      - Position wird mit Dopplereffekt vom Satelliten aus gemessen (auf ca. 5 km genau), 
+      - bei neueren Geräten ist ein GPS integriert, sodass die GPSPosition mitgesendet wird. 
+      - Die Seenotbake sendet auch auf der Notfrequenz 121,5 Mhz der Luftfahrt, somit können Rettungsboote, Rettungsflieger und -hubschrauber die Bake im Nahbereich (bis 20sm Entfernung) peilen. 
+      - Die Alarmverzögerung kann im ungünstigen Fall einige Stunden dauern.
+  - Inmarsat-E Bake 
+    - sendet im L-Band (1,6Ghz), 
+    - ist mit GPS-Empfänger ausgerüstet,
+    - sendet so auch exakte Position. 
+    - Die Alarmverzögerung beträgt maximal 2 Minuten. 
+    - Die Bake funktioniert nut in der Abdeckung von Inmarsat zwischen etwa 70Grad Nord und 70Grad Süd. 
+  - Beide Baken per Hand auslösbar und automatisch
+
+## Seetüchtigkeit 
+
+- Veröffentlichungen:
+  - Offshore Special Regulations
+  - Sicherheit auf dem Wasser - Wichtige Regeln und Tipps für Wassersportler
+  - Unfallverhütungsvorschriften
+  - Deutscher Küsten Almanach
+
+- Das Schiff muss für einen seetüchtigen Zustand gehörig
+  - eingerichtet, 
+  - ausgerüstet, 
+  - bemannt und 
+  - verproviantiert sein,   
+  
+- Verantwortlich für die Seetüchtigkeit zu Beginn der Reise ist der Schiffsführer.
+
+- Seetüchtigkeit Yacht:
+  - Bauqualität und Wartung
+  - Größe und Stabilität
+  - Navigationsausrüstung
+  - Besatzung
+  - Sicherheitsausrüstung
+  
+  
+- Seetüchtigkeit der Inneneinrichtung:
+  - Stand- und Trittfestigkeit überall
+  - Handläufe und Griffe
+  - Kojen zu sichern mit Leesegeln
+  - Pantry bei Seegang nutzbar
+  - Stauräume so sichern, dass auch unter schwersten Bedingungen alles in den Fächern bleibt
+  - Stauraum für nasses Ölzeug
+  - angemessene Navigationsecke
+
+
+- Seetüchtigkeit Crew:
+  - Erfahrung und Qualifikation
+  - Gesundheit und körperliche Fitness
+  - Teamwork 
+  - Sicherheitsbewussein
+  - Verantwortungsbewusstsein
+  - Fähigkeit zur Kommunikation
+
+
+## Verhalten in Notfällen 
+
+- Wirksame Bekämpfung von Bränden an Bord:
+  - Alle Öffnungen schließen,
+  - Brennstoffzufuhr (Hauptschalter) unterbrechen,
+  - Feuerlöscher erst am Brandherd betätigen,
+  - Feuer von unten und von vorn bekämpfen,
+  - Löschdecke einsetze,
+  - Flüssigkeitsbrände und Brände in der elektrischen Anlage nicht mit Wasser bekämpfen.
+
+-  Leck im Vorschiff, weil Tonne gerammt:
+  - Sofort auf anderen Bug gehen
+  - überprüfen, ob das Leck von innen her dicht zu setzen ist.
+  - wenn ja Innenausbau in diesem Bereich beseitigen
+  - Evt. mit einem Kissen oder Holzplatten Loch soweit abgedichten, dass man Hafen erreichen kann, auch wenn die ganze Zeit gelenzt werden muss
+  - Evtl. Lecksegel mit Fock
+  - Leckschirm: wird von innen nach außen geschoben unddann geöffnet => Wasserdruck presst das Lecksegel gegen die Bordwand
+  
+- Mögliche Schäden bei Grundberührung:
+  - Kiel (sichtbare Schäden außen, Schäden im Bereich der Kielbolzen)
+  - Ruderanlage (sichtbare Beschädigung, Schäden am Ruderlager, Schäden an Ruderanlage zwischen Steuerrad (bzw. Pinne) und Ruderquadrant),
+  - Stevenrohr und Schraube,
+  - Rumpf (Außenhaut, Spanten, Verstärkungen (auch unter Bodenbretter schauen)),
+  - Ein- und Auslässe,
+  - Fahrtmessanlagen (Impeller),
+  - Echolotschwinger,
+  - Opferanoden  
+ 
+ 
+## Seenotfall 
+  
+- Frequenzen für Seenotmeldung:
+  - Grenzwelle 2182 kHz, 
+  - UKW Kanal 16 
+  - mit einer Seenotbake (z.B. Epirb)
+
+- Anrufverfahren über Sprechfunk (kommt keine Antwort nach ca 1 – 4 Min wiederholen):
+  - 3x Mayday,
+  - Schiffsname und Rufzeichen
+  - Position
+  - Grund des Seenotfalls
+  - Art der erbetenen Unterstützung
+  - evtl. 2x10sec die Sprechtaste drücken, damit Antenne gepeilt werden kann
+  - Schiffsname und Rufzeichen
+  - OVER  
+
+- Anrufverfahren mit DSC:
+  - DSC-Alarmierung (evtl. vorher Position und Grund des Seenotfalls ergänzen) 
+  - kommt keine Antwort automatische Wiederholung alle 4 Minuten
+  - nach Bestätigung des Empfangs weiter über Kanal 16 - Mayday this is MMSI + Schiffsname + Rufzeichen (evtl. Position und Grund des Seenotfalls)
+  - Art der erbetenen Unterstützung
+  - OVER
+
+- Anrufverfahren über Epirb:
+nach manueller oder automatischer Auslösung wird der Notruf automatisch über Satelit an das nächstliegende MRCC (maritim rescue and coordination centre) weitergeleitet.
+
+- Maßnahmen bei Eintritt eines Seenotfalles, mit Möglichkeit die Yacht verlassen zu müssen:
+  - Boot auf keinen Fall zu früh verlassen
+  - Schiffsführer muss klare, eindeutige Weisungen erteilen und so einer evtl. entstehenden Panikstimmung an Bord entgegenwirken
+  - Meldung über Seenotsituation abgeben
+  - Seenotsignalmittel klarlegen und ggfs. bei in Sicht kommen von anderen Schiffen bzw. Hubschraubern/Suchflugzeugen anwenden
+  - der Befehl zum Verlassen des Bootes wird grundsätzlich nur vom Bootsführer gegeben
+  - vor dem Verlassen der Yacht reichlich wärmende Kleidung anziehen, an Hand- und Fußgelenken zubinden, um Wasserzirkulation und damit Wärmeverlust zu verhindern 
+  - vor dem Verlassen des Schiffes Lebensmittel und reichlich Flüssigkeit zu sich nehmen
+  - besondere Sorgfalt beim Aussetzen der Rettungsinsel verwenden, damit diese nicht vor dem Bemannen abtreibt.
+
+- Maßnahmen an Bord bei Seenotfall:
+  - Rettungswesten anlegen
+  - So lange wie möglich an Bord bleiben.
+  - Nicht rauchen, keinen Alkohol zu sich nehmen.
+  - Mit vorgeschriebenen Notzeichen Hilfe anfordern.
+  - Angabe machen über Zustand des Fahrzeugs und der Besatzung, Kurs und Geschwindigkeit, Wetter in dem betreffenden Seegebiet Einzelheiten über das Erkennen des Fahrzeugs.
+
+- Maßnahmen bei Verlassen der Yacht:
+  - Möglicht viel Flüssigkeit zu sich nehmen.
+  - Vor dem Vonbordgehen enganliegende wärmende Kleidung anziehen (möglichst reichlich, mit Schuhen und Handschuhen).
+  - Falls Überlebensfahrzeug vorhanden (Boot, Floß), Decken, Lebensmittel mit Getränken, Erste-Hilfe Verbandskasten, Sprechfunkgerät, Notsender usw. in dieses Fahrzeug geben.
+  - Möglichst rot-weiß-farbige oder orangefarbige Gegenstände nach außenbords werfen, da diese aus der Luft gut auszumachen sind.
+  - Man sollte versuchen, möglicht trocken in ein Rettungsfahrzeug zu kommen.
+  - Nicht auf ein (bemanntes) Rettungsfloß springen.
+  - Ggf. mit angezogenen Beinen und Festhalten der Rettungsweste (mit beiden Händen) ins Wasser springen.
+
+- Einsatz einer Rettungsinsel von einer Yacht aus:
+  - Solange wie möglich an Bord bleiben
+  - Yacht nur auf Anweisung des Schiffsführers verlassen
+  - Vor dem Auslaufen ist die Rettungsinsel zu entsichern
+  - Vor den Überbordwerfen Reißleine an Bord befestigen
+  - An Reißleine ziehen, bis die Insel sich öffnet
+  - Einsteigen: Man springt bäuchlings auf das Dach und krabbelt in die Insel. 
+  - Sich innen so platzieren, dass man als Kontergewicht dient, wenn der nächste auf das Dach springt. 
+  - Die bereits in der Insel sich aufhaltenden Personen müssen helfen. 
+  - Leine zur Yacht lösen.
+
+- Rote Leuchkugel in Sicht bei Nacht in weiter Entfernung:
+  - Alarmierung der Mannschaft
+  - Richtung des Notsignals und eigene Position feststellen
+  - Funkkverkehr abhören
+  - weiter beobachten
+  - Beobachtung an Küstenfunkstelle und die in der Nähe befindliche Schiffahrt weitergeben
+  - Wenn Küstenfunkstelle nicht reagiert oder alles schweigt, selber rufen und Mayday-Relay (Weiterleitung eines Notrufs) an KüFSt geben
+  - Anweisungen befolgen
+  - Wenn möglich auf Havaristen zulaufen (es besteht Pflicht zur Hilfeleistung)
+  - Funkverkehr mit anderen Schiffen abhören oder suchen
+
+- Planung zur Einleitung der Suche bei Hilfeleistung in entlegenem Seegebiet:
+  - Bezugspunkt ermitteln => Position des Schiffes in Not und Position des eigenen Schiffes
+  - anfänglich wahrscheinlichste Aufenthaltsgebiet des Suchzieles bestimmen
+  - mögliche Fehler bei der Bestimmung des Bezugspunktes aufgrund der Ungenauigkeit der gemeldeten Position des Unfalles und/oder bei der Schätzung der Vertreibung durch Strom und/oder Wind berücksichtigen
+
+
+## Mensch über Bord (MOB)
+
+- MOB an Backbordseite, wenn hart am Wind und Wind von Backbord:
+  - Gefahrenhalse:
+    - einige Bootslängen weitersegeln, um Höhe zu gewinnen
+    - ein Crewmitglied hat die Boje ständig unter Beobachtung
+    - Abfallen, halsen, Anlufen, Nahezuaufschießer 
+    - durch Dichtholen der Segel kann jederzeit wieder kontrolliert Fahrt aufgenommen und reduziert werden. 
+    - Boje so ansteuern, dass man diese an Bb. bzw. an Stb. einholen kann. 
+    - wenn Boje querab an Bb. ist, Wende mit Beidrehen (Fock back, Großschot lose und Ruder nach Luv).
+  - Leebergung: Vorteil: Man treibt auf die Person zu. Nachteil: Bei Seegang kann Person durch Yacht verletzt werden.
+  - Luvbergung: Vorteil: Person kann nicht durch Yacht verletzt werden. Nachteil: Yacht entfernt sich von Person.
+
+- MOB mit Spinnacker oder ausgebaumtem Vorsegel:
+  - sofort den Achterholer des Spi bzw. die Schot des ausgebaumten Vorsegels loswerfen
+  - anluven unter dem auswehenden Spi oder Vorsegel
+  - direkt auf den Verunglückten zusteuern
+  - Motor starten und nötigenfalls zum Mitschieben einsetzen
+  - Spi oder Vorsegel lässt man während des ganzen Mövers fliegen
+  - Es seid denn, es sind genügend Personen an Bord, die sich ausschließlich um das Bergen der Segel kümmern
+  - Schlagende Segel sind in diesem Moment ein zusätzlicher Stressfaktor
+  - Man vermeidet unter Motor aufzustoppen, um keinen Tampen in die Schraube zu bekommen. 
+
+
+- Maßnahmen bei MOB:
+  - Alarmierung der gesamten Besatzung (MOB rufen),
+  - Nachwerfen von Rettungsmitteln, 
+  - Person möglichst im Auge behalten(Ausguck),
+  - Position festhalten (MOB-Taste auf modernen elektronischen Navigatoren),
+  - Einleiten des Bergemanövers,
+  - Durchführen des Bergemanövers, Person an Bord nehmen, ...,
+  - wenn Person „verloren“ : PAN PAN – Meldung und Einleiten von Suchmanöver (Suchkurse fahren), ...
+  
+- Schiffsführer müssen im Falle eines "Mensch über Bord"-Vorfalls
+  - schnell handeln, 
+  - Rettungsgeräte bereithalten, 
+  - die Schiffsposition bestimmen, 
+  - mit der Besatzung kommunizieren, 
+  - sich auf die Navigation konzentrieren, 
+  - mit anderen Schiffen zusammenarbeiten 
+  - und Erste Hilfe leisten, um die Sicherheit und das Wohlergehen aller an Bord zu gewährleisten. 
+  
+- Insgesamt kann ein Schiffsführer hochgradig fahrlässig handeln, wenn er
+  - nicht schnell, effektiv und sicher auf einen "Mensch über Bord"-Vorfall reagiert oder 
+  - wenn er nicht über die erforderlichen Ressourcen oder Schulungen verfügt, um die Rettung durchzuführen. 
+  - Dies kann nicht nur das Leben der betroffenen Person gefährden, sondern auch das Leben und die Sicherheit aller an Bord gefährden.  
+
+- Suchverfahren:
+  - Streckensuche: 
+    - Wenn die Person seit einer bestimmten Zeit vermisst
+    - zurückliegenden Kurs mit exakter Navigation ohne Stromberücksichtigung (Selbststeueranlage benutzen!) zurück bis über den Punkt hinaus, von dem an die Person vermisst ist. 
+    - Man kehrt dann parallel um einen Suchstrefen versetzt zurück und legt Suchstreifen an Suchstreifen nach beiden Seiten ausweitend.
+  - Raumsuche: Wenn während eines MOB der Sichtkontakt verloren gegangen ist. 
+    - Man fährt mit paralellen Suchspuren ein angemessenes Quadrat von Bspw. 1 sm Kantenlänge ab, dessen Mittelpunkt der angenommene Ort bildet. 
+    - Ist die Suche nicht erfolgreich, legt man weitere Suchstreifen spiralförmig ausweitend um das Quadrat.
+  - Breite der Suchstreifen ist entscheidend: Aus Cockpit einer Segelyacht (Augeshöhe 2 m) und 1 m hohe Wellen kann 40 m Abstand schon nicht mehr eingesehen werden.
+  - 100 bis 200 m sind bei mittlerem Seegang das Maximum. 
+
+## Maßnahmen bei Verletzungen und Unterkühlung
+
+- Medizinische Vorbereitung einer Hochseereise:
+  - Erste-Hilfe-Ausrüstung 
+  - Bordapotheke für deren Inhalt ärztliche Beratung hinzugezogen werden sollte.
+  - Einschlägige Literatur beachten, die sachdienliche Hinweise zur praktischen Behandlung von Notfällen und Erkrankungen erteilt.
+  - Potentielle Mitsegler zumindest in geeigneter Form darauf aufmerksam machen, noch vor Antritt der Reise Krankheiten zu offenbaren, die die Reisetauglichkeit in Frage stellen.
+
+- Maßnahmen bei Bewusstlosigkeit, keine Eigenathmung und Erbrechen:
+  - Verletzten flach auf den Rücken lagern
+  - Atemwege frei machen
+  - ggfs. Drehen des Kopfes und Ausräumen des Mundes
+  - gleichzeitig ein weiteres Besatzungsmitglied anweisen, die Herz-Kreislauf-Funktion zu überprüfen.
+  - Kopf des Verletzten überstrecken und mit der Atemspende beginnen (Mund zu Mund/Mund zu Nase). 
+  - Falls der Verletzte während der Beatmung erbrich, sofort Kopf auf die Seite und Mund ausräumen. 
+
+- Hilfe bei Seekrankheit:
+  - Kranken im Cockpit auf Leeseite legen
+  - Pütz für Übergeben klarhalten
+  - Bei Erbrechen sofort ausspülen
+  - Person eventuell festlaschen (Lifebelt einpicken)
+  - Für gute Luft sorgen
+  - Raucherqualm und Dieselgeruch meiden 
+  - Falls machbar, Person Ruder übernehmen lassen => Horizont als feste Bezugslinie beruhigt
+  - Entstehen von Angstgefühlen reduzieren
+  - Eventuell durch Kursänderung das Schiff ruhiger legen nach dem Motto: mit dem Kurs ändert sich das Wetter!
+
+- Maßnahmen bei Sonnenstich:
+  - In kühlere Umgebung bringen
+  - bequeme Lagerung
+  - Öffnung einengender Kleidung
+  - ausreichend Flüssigkeits- und Salzzufuhr
+  - Kühlung des Kopfes mit feuchten Tüchern
+  - eventuell schnellstens an Land und ins Krankenhaus
+
+- "Medico-Gespräch" mit Arzt über Funk:
+  - Schiffsname und Rufzeichen
+  - vom Kranken: Name, Alter, Geschlecht, Vorgeschichte und Unfallhergang,
+  - Befund (Puls, Atmung, Geisteszustand, Körpertemperatur, Beschwerden, Verletzungen, Schock?, Blutverlust?, und einiges mehr)
+  - Bisherige Maßnahmen, Angaben über die Möglichkeiten der Behandlung an Bord (z.B. Medikamente, ...),
+  - Standort des Schiffes.
+  
+=> Informationen über ein solches Gespräch finden sich u.a. im Yachtfunkdienst. 
+=> Funkärztliche Beratung kann man über die Küstenfunkstellen erhalten.
+
+- Allerletzte Maßnahme, wenn Beathmung nicht mehr möglich und Crewmitglied zu ersticken droht:   
+  - Kunststofftubus, wenn vorhanden, in die Luftröhre schieben
+  - Letzte Maßnahme: Eröffnen der Luftröhre von außen mit einem spitzen Messer (Skalpell) zwischen Adamsapfel und Ringknorpel und Einlegen eines Schlauchstücks bzw. einer sonstigen Röhre (z.B. Kugelschreibervorderteil)
+
+
+## Manövrierverhalten von Seeschiffen
+
+- Anschwenken: Übergang von der Geradeausfahrt des Schiffes in eine Drehbewegung
+
+- Je nach Größe des Schiffes benötigt es mehrere Schifflängen (1,5 bis 2,5 SL), bevor das ausgeschlagene Heck die „alte Kurslinie“ verlässt => "verbreiterte Fahrspur"
+
+- Stoppstrecke ca. 10 Schiffslängen, Umsteuerzeit ca. 5 Minuten bei Voll-Rückwärts 
+
+- Wenn größeres Küstenmotorschiff mehrere zunächst nicht erklärbare Kursänderungen fährt: Schiff steuert wahrscheinlich nach den Tiefenlinien, um einen Flachwassereffekt (Squat) – das bedeutet ein Absenken des Schiffes über den normalen Tiefgang hinaus - zu vermeiden.
+
+- Wichtige Umrechnung: 1 kn ~ 30 Meter/Minute (1800m/60Min)
+
+- Empfehlungen der See-Berufsgenossenschaft (SeeBG) bezüglich der Mindestsichtweite auf Containerschiff nach voraus: Toter Winkel nach voraus soll 2 Schiffslängen, höchstens jedoch 500 m nicht überschreiten.
+
+- Achtung bei Containerschiff: Es besteht außerdem die Gefahr, in den Bugstau oder in das Schraubenwasser zu geraten, dieses hätte eine kurzfristige Manövrierunfähigkeit zur Folge und somit Gefahr für Yacht und Besatzung.
+
+- Bedenken, wenn großes Schiff auf einen zukommt:
+  - Andere Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken).
+  - u.U. eingeschränkte Sicht des anderen Fahrzeugs insbesondere nach voraus.
+  - Möglichkeit des Übersehenwerdens, weil man sich im Radarschatten befindet.
+  - Beeinträchtigung durch Bugwellen des großen Schiffes.
+  - Mögliche Beeinträchtigung der Manövrierfähigkeit des eigenen Bootes durch Windabdeckung.
+
+
+## Fahren in schwerem Wetter 
+
+- Wesentliche Punkte auf einer Checkliste zum Klarmachen einer Segelyacht für schweres Wetter:
+  - Einweisung der Crew in das besondere Verhalten bei Sturm 
+  - Wach- und Rolleneinteilung
+  - Klarmachen der Sturmsegel
+  - Ausbringen der Strecktaue (Jackstays)
+  - Anlegen von Rettungswesten und Lifebelts
+  - Wegstauen und Sichern aller losen Gegenstände an Deck und unter Deck
+  - Verzurren schwerer Gegenstände
+  - Sichern aller losen Gegenstände unter Deck
+  - Sichern der Schapps und Spinte
+  - Kontrolle der Seeventile und Luken
+  - Standortbestimmung
+  - Navigationsplanung zur Vermeidung von Legerwallsituationen und zur Nutzung von Schutzmöglichkeiten
+  - Abhören der Anrufkanäle
+  - Vorbereiten der Verpflegung
+
+
+- Vorkehrungen unter Deck bei Sturmerwartung:
+  - Auf Vorrat Essen und warme Getränke zubereiten.
+  - Aufklaren, so dass keine losen Gegenstände zum „Geschoss“ werden können.
+  - Türen und Schaps eventuell mit Klebeband usw. gegen Öffnen sichern.
+  - Werkzeug für Notreparaturen klar legen, des weiteren Notsignale und Lampen.
+  - Bilgen überprüfen und trocknen, alle Seeventile schließen.
+  - Toilette leer pumpen.
+  - Saugkörbe der Lenzpumpen überprüfen. 
+  - Auf Vorrat schlafen, damit beim Sturm ausgeruhte Leute zur Verfügung stehen.
+  - Navigation updaten (ausführlicher erläutern).
+  - Frequenzen und Zeiten für Wetterberichte aufschreiben.
+
+- Bei Amwindkurs luft das Schiff ständig an:
+  - Segeldruckpunkt zu weit hinten
+  - Vorsegelfläche vergrößern oder 
+  - Großsegelfläche verkleinern
+  - Evt. hilft bereits ein leichtes Auffieren der Großschot.
+
+- Ursachen Luvgierigkeit:
+  - Zu große Großsegel
+  - Zu kleine Vorsegel
+  - Kopflastigkeit (Bug liegt tiefer als das Heck) durch Wassereinbruch oder durch Stauen gewichtiger Ausrüstungsgegenstände im Vorschiff
+
+=> Verlagerung Druckmittelpunkte und Segelflächenschwerpunktes nach achtern => Abstand des letzteren zum Lateralschwerpunkt wird geringer
+
+- Verminderung Luvgierigkeit:
+  - größere Vorsegel
+  - kleinere Großsegel
+  - Reffen
+  - Gewichtsverlagerung nach hinten
+
+=> Achterliche See vergrößert die Luvgierigkeit, weil die anrollende See das Heck anhebt => Lateralschwerpunkt wandert nach voraus
+
+- Durch Trimmen vor Beginn der ersten Reise erreicht man möglichst optimale Segeleigenschaften.
+
+- Überläufer auf der Winsch lösen:
+  - Luvschot provisorisch nach Lee scheren
+  - evt. provisorische Leitöse herstellen und über Spinnakerwinsch oder mit Hilfe von Umlenkblöcken über die Luvwisch dichtholen und so Leeschot entlasten und Überläufer lösen.
+  - Reserveschot oder entsprechenden Tampen mit Stopperstek auf der Schot befestigen und über Spinnakerwinsch oder Luvwinsch dichtholen, Überläufer lösen
+  - Kurz in den Wind gehen um Fockschot zu entlasten.
+  - letzte Maßnahmen: Kappen der Schot mit dem Messer.  
+
+- 3 Möglichkeiten bei schwerem Wetter abzuwettern:
+  - Lenzen vor Topp und Takel: Wind und See ca. 3 Strich von achtern, ohne Segel
+  - Treiben: das Schiff sich selbst überlassen: Alle Segel weg, Ruder leicht nach Luv legen, alle unter Deck
+  - Beiliegen: Wirbelschleppe hilft anrollende Wellen zu dämpfen. Problematisch, wenn Wirbelschleppe zu schräg nach achter verläuft (Boot beigedreht noch zu schnell ist), querschlagen möglich.  
+
+- Wind und See ca. 3 Strich von vorn:
+  - Das Schiff so in die See legen, dass die Wellen aus der ungefähren Seitenpeilung 20° bis 40° anrollen und das Schiff dabei steuerfähig bleibt, aber kaum noch Fahrt voraus macht. Leinen oder Treibanker ausbringen. 
+  - Inventar festgezurrt und vor Verrutschen und Übergehen gesichert
+  - Großsegel reffen, vorzugsweise bergen
+  - Vorsegel möglichst dichtholen
+  - Ruder ständig zur Luvseite, da leegierig
+  - mit größter Aufmerksamkeit steuern, um das „kursrecht“ zu halten.
+
+- Grundsatz hinsichtlich Zeitpunkt für das Einleiten von Maßnahmen:
+Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken des Beidrehens befasst hat, dann soll man nicht zögern, sondern beidrehen bzw. die entsprechende Maßnahme einleiten. Damit vermeidet man meistens Schäden, die durch zu spätes Handeln entstehen.
+
+- Gefahr bei Anlaufen eines Hafens bei auflandigem Starkwind bzw. schwerem Wetter:
+  - Gefahr durch Grundseen bzw. Kreuzseen.
+  - Möglichkeit von Querstrom.
+
+- Gefahr einer Leeküste bei schwerem Wetter:
+  - Keine Möglichkeit des Freikreuzens
+  - Strandung
+
+
+## Ankern
+
+- Schiffsführer sollte seine Crewmitglieder vor Antritt der Reise mit der Bedienung des Ankergeschirrs vertraut machen:
+  - Mannschaft muss in der Lage sein auch ohne Schiffsführer den Anker auszubringen
+  - Ankern muss im Notfall schnell gehen
+
+- Ankerboje:
+  - Schwimmkörper, der mit einer Leine am Anker befestigt ist und vorrangig die Lage des Ankers anzeigt,
+  - Bruch der Ankerleine => Bergung des Ankers möglich. 
+  - Festkommen an Unterwasserhindernis => Anker kann durch Ziehen entgegen der Zugrichtung der Ankerkette gelichtet werden.
+
+- Ankern bei Nacht in einer Bucht:
+  - Wind muss auch nach der Vorhersage ablandig sein
+  - Muss Schutz vor Schwell und Dünung bieten
+  - Ankergrund muss ausreichende Halteeigenschaften haben
+  - Für erforderliche Kettenlänge genügend Schwojraum vorhanden
+  - Wassertiefe muss zur Länge von Ankerkette und Ankerleine passen  
+
+- Vermuren:
+  - vor zwei Ketten oder vor Kette und Trosse zu liegen, die in V-Form ausgebracht sind
+  - Schwojraum soll begrenzt oder das unruhige hin und her schwojen unterbrochen werden
+  - Erste Ankerstelle mit halbem Wind anlaufen und dort den Zweitanker über Heck ausbringen
+  - Während laufend Trosse gesteckt wird, läuft man mit halbem Wind weiter zum zweiten Ankerpunkt
+  - Hier wird mit hart Luvruder aufgestoppt und Rückwärtsfahrt nach Lee aufgenommen, während der Buganker fällt 
+  - Die Trosse des Zweitankers wird nun nicht mehr über Heck, sondern vom Vorschiff aus gesteckt und auch bald belegt
+  - Die Hauptkette wird in Rückwärtsfahrt leewärts ausgelegt
+
+- Ausbringen der Anker unter Segel:
+  - Halbwind langsam segelnd ersten Anker (z.B.: Heckanker) an langer Leine mit Kettenvorlauf fallen lassen,
+  - danach bis zur Position des zweiten Ankers weiterlaufen, in den Wind schießen, Hauptanker über Bug fallen lassen, 
+  - an Kette/Leine nach Lee sacken lassen, 
+  - Trosse des ersten Ankers zum Bug führen, 
+  - beide Leinen unter gleicher Last, …
+
+- Im Gezeitenrevier gegen den Strom aufschießen:
+  - Anker 1 fallen lassen. 
+  - Durch den Strom wird das Schiff zurückgetrieben und man fiert Kette bis ca 8-10 fache Wassertief, 
+  - lässt den 2. Anker fallen und holt die Kette von Anker 1 auf bis etwa 3-4 fache Wassertiefe bleibt. 
+  - Schäkelt den 2. Anker an die Kette des 1. Ankers und lässt so viel Kette des 1. Ankers nach, dass die Kette/Trosse des 2. Ankers frei unter dem Kiel ist.
+
+- Leinenmanöver "Leine auf Slip":
+  - Vorleine wird um den am Liegeplatz vorhandenen Poller oder Ring geführt, 
+  - dann wieder an Bord zurückgebracht, wo das Auge der Leine über einen Poller, Kreuzpoller oder Klampe gehängt wird. 
+  -  Jetzt befinden sich an Bord sowohl das Auge als auch die holende Part der Leine, 
+  - die an Bord belegt wird, nachdem das Schiff längsseits geholt oder gehievt worden ist.
+
+- Vorteil:
+  - Kann ohne fremde Hilfe als letzte eingeholtwerden. 
+  - indem man von Bord aus das Auge loswirft und die Leine einholt, 
+  - Kein Besatzungsmitglied muss an Land loswerfen und dann auf das abtreibende Fahrzeug springen. 
+  - Landverbindung so lange zu behalten, bis das Schiff einen gewünschten Abstand zum Land hat oder auch in die passende Abfahrtsposition gelangt.
+  
+- Nachteil:
+  - Beim bordseitigen Einholen der Leine kann diese oder das Auge an Konstruktionsteilen der Hafen- oder Pieranlagen oder am Poller verhaken.
+
+- Zweck eines Treibankers, wenn keine Segel mehr tragbar:
+  - Driftgeschwindigkeit nach Lee verringern, 
+  - beim Ablaufen vor dem Wind Querschlagen verhindern, 
+  - Bug oder Heck beim Treibenlassen im Wind halten.
+
+- Vorteil Leinenbucht gegenüber Treibanker:
+  - immer verfügbar, 
+  - leichter auszubringen, 
+  - besser zu regulieren.
+
+- Probleme von Treibankern, insbesondere bei großen modernen Yachten:
+  - Schiff wird bei zu großer Dimensionierung des Treibankers stark „festgehalten“, 
+  - Schäden durch Seeschlag auf Bug oder Heck (ins Cockpit), 
+  - Ruderbruch und Ausreißen der Decksbeschläge möglich.
+
+
+\newpage
+
+# Wetterkunde
+
+## Grundlagen der Wetterkunde
+
+- Wetter: Augenblickliche Zustand der Atmosphäre am Betrachtungsort.  
+
+- Witterung: Beschreibung des über mehrere Tage anhaltenden Wettergeschehens.  
+
+- Klima: Großräumige, langfristige Darstellung des mittleren Wetterverlaufs.
+
+- Grundelemente des Wettergeschehens:
+  - Temperatur, 
+  - Luftdruck,
+  - Luftfeuchte
+  - weitere Parameter: Windrichtung- und stärke, Wolkenbild und Niederschläge
+
+- Luftdruck entsteht als Folge der Gewichtskraft (Masse mal Beschleunigung) der Atmosphäre. 
+
+- Isobaren: Linien, die die Orte gleichen Luftdrucks miteinander verbinden. 
+
+- In den Wetterkarten sind Isobaren im Abstand von 5 hPa gezeichnet (In England 4 mbar) 
+
+- Gradient: Luftdruckunterschied in hPa bezogen auf eine Strecke von 60 sm senkrecht zu den Isobaren => umso größer, je dichter die Isobaren. 
+
+- Berechnung des Gradienten: $$Druckgradient = \frac{\Delta hPa * 60}{Meilenabstand.der.Isobaren}$$  
+
+- Wind: Bewegte Luft => durch Druckunterschiede zwischen Hoch- und Tiefdruckgebieten.
+
+- Skala für Windrichtung: 8-teilige Skala mit Auflösung in 45° Stufen.
+
+- Schwankung der Windrichtung bis zu 45 Grad um Hauptwindrichtung 
+
+- Böen mit 1 bis 2 Bft über dem Mittelwind.
+
+- Scheinkräfte die die Windgeschwindigkeit beeinflussen:
+  - Coriolis-Effekt 
+    - dreht die Richtung des Windes rechtwinklig nach rechts, wenn man auf der Nordhalbkugel vom hohen zum tiefen Druck schaut (Nordhalbkugel). 
+    - Bei gleichem Isobarenabstand ist durch den Coriolis-Effekt in niederen Breiten die Windgeschwindigkeit größer als in höheren Breiten. 
+  - Reibungskraft: 
+    - Verringert die Geschwindigkeit des Windes 
+    - lenkt die Richtung über See um 22° zu den Isobaren zum tiefen Druck hin.
+  - Zentrifugalkraft:
+    - verstärkt/verringert die Windgeschwindigkeit bei antizyklonal/zyklonal gekrümmten Isobaren gegenüber parallel verlaufenden Isobaren mit gleichem Isobarenabstand. 
+    - Bei gleichem Isobarenabstand ist die Windgeschwindigkeit an Hochdruckgebieten größer als an Tiefdruckgebieten.
+
+- Höhe Vorhersage für Bodenwind aus Vorhersagekarte: 10 m
+
+- Einheit der Windgeschwindigkeit ist Knoten oder Beaufort für die Windstärke.
+
+- Scheinbare Wind setzt sich zusammen aus wahrem Wind und Fahrtwind.
+
+
+## Wolken und Nebel
+
+- absolute Feuchte a = Anteil unsichtbarer Wasserdampf an allen Molekülen in der Luft.
+
+- Sättigungsfeuchte A = maximal mögliche Wasserdampfmenge bei einer bestimmten Temperatur.
+
+- Taupunkttemperatur = Temperatur, bei der eine in der Luft vorhandene Wasserdampfmenge die Sättigungsmenge erreicht. 
+
+$$relative\ Feuchte\ U= \frac{a}{A}*100$$ 
+
+- Luft kann zur Sättigung gebracht werden durch
+  - Feuchtezufuhr =>  Verdunstungsnebel im Herbst
+  - Abkühlung =>  Abkühlungsnebel im Frühjahr
+
+- Kondensationsniveau: Höhe, auf die ein Luftpaket gehoben werden muss, damit die in ihm enthaltene Feuchte aus dem gasförmigen in den flüssigen Zustand übergeht, d.h. kondensiert.
+
+- Konvektion: Mechanismus zum Transport von thermischer Energie
+
+- Haufenwolken = Cumulus
+
+- Schichtwolken = Stratus
+
+- Konvektionswolken: Cumulus und Cumulonimbus. 
+
+- Cumuluswolken:
+  - Flache, abgerundete Basis und kuppelförmige Oberseite. 
+  - Oft weiß und können einzeln oder in Gruppen auftreten.
+  - zeigen sich am späten Vormittag über Land am Himmel und kündigt Seewind an.
+
+- Cumulonimbuswolken:
+  - Werden mit Gewittern assoziiert
+  - deutlich größer als Cumuluswolken
+  - hohe, eindrucksvolle Kuppel 
+  - In der Regel dunkle Basis, die mit Regen, Hagel oder sogar Blitzen verbunden sein kann.
+  - beim bzw. nach dem Durchgang einer (ausgeprägten) Kaltfront sowie über Inseln und stark aufgeheizten Landflächen zu erwarten
+  - Die Atmosphäre muss hochreichend labil oder feuchtlabil geschichtet sein
+
+- Wolkenfamilien International, nach Aufbau und Höhe:
+  - hohe Wolken (5 bis 13 km überlappend): Cirrus, Cirrostratus, Cirrocumulus
+  - mittelhohe Wolken (2 bis 7 km) Altostratus, Altocumulus, Nimbostratus
+  - tiefe Wolken  (0 bis 2 km) Stratus, Stratocumulus, Cumulus
+  - Wolken mit vertikaler Entwicklung  (ca. 600 bis 12.000 m, also von tiefen bis hohen Wolken): Cumulonimbus.
+
+- Wolkenarten
+  - Niedrige Schichtwolken =>  Stratus
+  - niedrige Haufenwolken =>  Cumulus
+  - niedrige Schichthaufenwolken =>  Stratocumulus
+  - mittelhohe Schichtwolken =>  Altostratus
+  - mittelhohe Haufenwolken =>  Altocumulus 
+  - hohe Schäfchenwolken =>  Cirrocumulus 
+  - hohe Schleierwolken =>  Cirrostratus 
+  - hohe Federwolken =>  Cirrus (Cirren)
+  - Gewitterwolken =>  Cumulonimbus
+  - Regenwolken =>  Nimbostratus
+
+- Altocumulus castellanus:
+  - mittelhohe türmchenartige Haufenwolken
+  - kündigen oft schon vormittags kräftige Wärmegewitter an
+
+- Gewitterarten über See: Luftmassengewitter (Wärmegewitter) und Frontgewitter (an Kaltfront)
+
+- Entstehung:
+  - Luftmassengewitter entstehen durch die feuchtwarme Luftmasse (hohe Taupunkte!) im Zusammenhang mit einer Bodenkonvergenz.
+  - Bei den Frontgewittern werden insbesonders an und vor Kaltfronten die Luftmassen aktiv gehoben.   
+
+- Räumliches Auftreten:
+  - Bei den Luftmassengewittern treten die einzelnen Gewitterzellen im Bereich der Luftmasse verbreitet auf.
+  - Bei den Frontgewittern findet man die Gewitterentwicklungen direkt vor und an der Kaltfront.   
+
+- Gefahr:
+  - Starke Regenfälle mit erheblicher Sichtminderung
+  - Hagelschlag, Blitzschlag
+  - Hoher Seegang, Kreuzseen
+  - Böen bis Orkanstärke aus häufig wechselnden Richtungen
+  - Böenlinien (Squall-lines) mit Böen bis Orkanstärke
+
+- Markante Zeichen für das Herannahen eines Gewitters sind:
+  - mächtige, turmartige Haufenwolken (Cumulonimben)
+  - sehr dunkle Wolkenunterseite mit vorgelagerter Böenwalze
+  - der bisher vorhandene Wind flaut ab, frischt danach aus anderen Richtungen auf
+  - einsetzende Abkühlung der Luft
+  - Auffallende Störgeräusche im Mittelwellenbereich des Rundfunkgerätes
+
+-  In Seewetterbericht bei Gefahr von Gewittern werden die erwarteten Böen explizit mit angegeben
+
+- Die Böen weichen in der Windstärke insbesondere bei schweren Gewittern oft um ein Vielfaches vom Mittelwind ab, manchmal erreichen sie Orkanstärke. 
+
+- Böhen
+  - Böhenkragen: Walzenförmige Wolke mit horizontal verlaufender Achse an der Vordderseite des Gewitters
+  - Böhenlinie: Äußerste Grenze des Kaltluftschwalls bei Gewitter
+
+- Aussage der Bewölkung über die Möglichkeit der Enstehung/Gefahr von Böen: 
+  - Wolkendecke geschlossen (Stratus) => Böigkeit gering
+  - Bewölkung aufgelockert (Cumulus) => Böhigkeit erhöht
+  - Besonders ausgeprägt ist die Böhigkeit bei gut entwickelten Cumuluswolken
+
+- Ursachen für Nebelbildung:
+  - Abkühlungsnebel (Warmluftadvektion): Warme Luft streicht über kaltes Wasser => Luft kühlt ab => Kondensation  => Frühjahrsnebel, Kaltwassernebel.
+  - Verdunstungsnebel (Kaltluftadvektion): Kalte Luft streicht über warmes Wasser  => Feuchigkeitszufuhr => Nebel durch Verdunstung => Herbstnebel, Warmwassernebel
+  - Mischungsnebel bzw. Küstennebel: kühle Seebrise mischt sich mit über Land liegender feuchtwarmer Luft
+
+- Entstehung von Strahlungsnebel:
+  - Nach Sonnenuntergang bei klarem Himmel 
+  - bodennahe Luftschicht kühlt sich über Land bis unter die Taupunktstemperatur ab
+  - durch den Wind verdriftet der Strahlungsnebel in Küstennähe auf die See
+  - ist aber auch besonders auf Flüssen und in engen Durchfahrten (zwischen Inseln) vorhanden.
+
+- Strahlungsnebel oft nur wenige Meter dick und sehr dicht => erheblichen Sichtbehinderung => Geschwindigkeit reduzieren
+
+
+## Druckgebilde
+
+- Wettererscheinungen Warmfront
+  - Vor der Front:
+    - Wolkenaufzug in bestimmten Höhen (Cirren, Cirrostratus, Altostratus, Nimbostratus)
+    - Cirren 500km (bis 1000km) als erste Anzeichen
+    - Wind schwach, nimmt zur Front hinzu, rechtdrehend, häufig aus SW
+    - Regen aus Nimbostratus (Landregen)
+    - Kaum Lufttemperaturänderung
+    - Luftdruck fällt
+    - Sicht wird schlechter
+  - Bei Durchgang der Warmfrontfront:
+    - Anstieg Lufttemperatur
+    - Endes des stetigen Druckabfalls
+    - Windsprung mit rechtdrehendekm Wind
+    - stärkste Niederschläge
+    - schlechte Sicht
+  - im Warmsektor: diesig oder mäßig Sicht, Wolkenauflockerung, zeitweise (Niesel)-Regen.    
+    
+- Wolkenenstehung an Warmfront:
+  - Wärmere Luftmasse gegen kältere
+  - Aufgleiten
+  - Untersiete streicht über kalte Schicht
+  - Schichtwolken mit Regen
+  
+- Wettererscheinungen an Kaltfront 
+  - Kurz vor der Kaltfront
+    - Luftdruck fällt wieder
+    - Windgeschwindigkeit nimmt zu
+    - Wolkenwand aus tief hängenden Nimbustratus (Cumulonimben möglich)
+    - beginnender Niederschlag
+  - Beim passieren der Front
+    - Luftdruck steigt sprunghaft
+    - Windsprung rechtdrehend
+    - Zunahme der Windgeschwindigkeit, Böhen
+    - schauerartige Niederschläge, schlecht Sicht
+    - Temperatur sinkt
+    - Sicht verbessert sich
+    - Rückseitenwetter
+  - hinter der Kaltfront: Sichtverbesserung, meist gute Sicht, Schauer mit zum Teil kräftigen Böhen.
+
+- Obwohl die Windstärke nach Durchgang der Kaltfront noch einmal leicht abnimmt, muss man im weiteren Verlauf mit erheblich zunehmendem Wind bis Sturmstärke und mit Rechtdrehung des Windes rechnen.
+
+- Wolkenenetwicklung an Kaltfront:
+  - Kaltluft heftig an Warmluft => Nimbostratus + Altocumulus => Typ A (aktive Kaltfront)
+  - Kaltluft schiebt langsam gegen Warmluft => Schichtwolken => Typ B (passive Kaltfront)
+
+- Okklusion ist die (enstandene) Front in einem Tiefdruckgebiet, bei der die Kaltfront die Warmfront eingeholt hat.
+
+- Enstehung einer Okklusion:
+  - Durch höhere Verlagerungsgeschwindigkeit holt die Kaltfront die Warmfront ein und hebt die Warmluft vom Boden ab. 
+  - Luft vor der Front kälter als hinter der Front => Warmfrontokklusion
+  - im anderen Fall => Kaltfrontokklusion
+
+- Ein okkludiertes Tief schwenkt auf der Nordhalbkugel nach links von seiner bisherigen Bahn (Poltendenz). Die Bahngeschwindigkeit verringert sich.
+
+- Typischen Wetterverlauf, wenn eine Zyklone auf Nordbreite südlich von einem Beobachter vorbeizieht:
+  - Nördlich der Zyklone ist Wetterverlauf gleichmäßiger als im Süden  => keine Fronten, Temperatursprünge, plötzlichen Luftdruckänderungen, Ausschießen des Windes.
+  - Wolkenaufzug: von Cirren über Cirrostratus, Altostratus, Stratocumulus; in der Nähe des Kerns Stratus mit Regen, nach Passieren des Kerns in Schauer übergehend. Rückseitenwetter mit abnehmender Intensität.
+  - Luftdruck: fällt allmählich vor dem Tief, um dahinter ebenso allmählich wieder anzusteigen.  
+  - Temperatur: ändert sich nicht auffällig, da der Beobachter immer im Bereich der Kaltluft bleibt. 
+  - Wind: rückdrehend von S/SE über E, NE, N auf NW.
+
+- Luftströmungen in einem Hoch und in einem Tief
+  - Im Zentrum des Hochs herrscht Flaute. 
+  - In Hochdruckgebieten steigt die Luft ab (kommt dabei unter höheren Druck, erwärmt sich, trocknet aus und die Wolken lösen sich auf). 
+  - Aus dem Hoch (Antizyklone) weht der Wind auf der Nordhalbkugel im Uhrzeigersinn (antizyklonal) heraus (22 Grad von den Isobaren vom Hoch weg).  
+  - Die Luft strömt entgegen dem Uhrzeigersinn (zyklonal) in ein Tief (Zyklone) hinein, 
+  - wo sie aufsteigt und in höhere Schichten abfließt (22 Grad von den Isobaren zum Tief hin).
+
+- Hochdruckgebiete:
+  - Oft nicht so schön, wie allgemein erwartet (z.B. im April/Mai in der Nordsee) 
+  - Hochdruckgebiete haben eine warme Seite mit südlichen Winden und eine kalte Seite mit nördlichen Winden. 
+  - Auf der kalten Seite wird über dem Wasser kalte, wolkenreiche Luft transportiert. 
+  - In Hochdruckgebieten steigt erwärmte Luft ab, die die bodennahe Luft nicht wegräumen kann. 
+  - Es bildet sich eine Übergangsschicht – eine Inversion. 
+  - An dieser entstehen durchgehende Schichtwolken (Stratus).
+
+- Wenn Isobaren nicht so dicht beieinander dann in Hochdruckgebieten:
+  - schwacher bis mäßiger Wind östlich des Hochs
+  - schwacher bis mäßiger Wind, leicht böig, (antizyklonaler Wind) westlich des Hochs
+  - flache Cumulusbewölkung, nachmittags stärkere Entwicklung
+  - Geringe Luftfreutigkeit; relativ gute Sicht, keine Nebelgefahr
+
+- Regel von Buys-Ballot
+  - Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der linken Seite, zwei Strich vorlicher als querab. 
+  - Das Hoch liegt auf der rechten Seite, zwei Strich achterlicher als querab. 
+  - Dies gilt für die Nordhalbkugel.
+  - Ein vor dem Winde segelndes Schiff hat auf der Nordhalbkugel den tieferen Druck stets etwas vorlicher
+(ca.20° ) als querab an Backbord. SP= 280° - 300°.
+  - Der hohe Druck befindet sich etwas achterlicher (ca. 20° ) als querab an Stb. SP=
+100° - 120°.
+
+- Zugbahnen:
+  - Randtief: Zieht auf zyklonaler Bahn (auf der Nordhalbkugel entgegen dem Uhrzeigersinn) polwärts um das Haupttief herum (wird also quasi von diesem gesteuert). 
+  - Je stärker sich das Randtief vertieft, umso größer ist die Tendenz polwärts einzudrehen.
+  - Teiltief: zieht auf antizyklonaler Bahn weiter, also nach Osten oder Südosten und entfernt sich vom Haupttief  
+
+- Bei einem trogförmig angeordneten Isobarenverlauf an einem Tief spricht man von einem Trog.
+  - Außer der Winddrehung und den Niederschlägen im Bereich der Trogachse sind normale Tröge ungefährlich. 
+  - Gewittergefahr. 
+  - Liegen die Isobaren im Trog jedoch sehr eng beieinander, können in Trögen die gefährlichsten Stürme der gemäßigten Breiten auftreten. 
+  - Durch die unterschiedliche Windrichtung hinter und vor der Trogachse entsteht Kreuzsee aus Dünung und Windsee.
+  - Mit der raschen Rechtdrehung des Windes im Bereich des Scheitels des Troges (Trogachse) wird eine sehr gefährliche Kreuzsee erzeugt
+
+- Erkennen eines herannahmender Trog in einem Tief:
+  - Nach Durchgang der Kaltfront dreht der Wind nicht auf NW bis NNW, ist also nicht rechtdrehend, sondern behält seine Richtung bei und ist sogar rückdrehend. 
+  - Der Druck steigt nach Durchgang der Kaltfront nicht an, ist gleichbleibend und beginnt schließlich zu fallen. 
+  - Die Bewölkung nimmt zu, und Niederschläge folgen.
+
+- Enstehung einer Trogwetterlage:
+  - Bei einem stark ausgeprägten Tief schwenken im Reifestadium die Fronten voraus und zusammen. 
+  - Die Okklusionsfront schwenkt auf der Nordhalbkugel nach Norden und das Tief zieht eine Tiefdruckschleppe hinter sich her; 
+  - diese wird als Trog bezeichnet.
+
+
+## Regionale Wettererscheinungen
+ 
+- Landwind und Seewind:
+  - Bei intensiver Sonneneinstrahlung in unmittelbarer Küstennähe. 
+  - Verstärktes auftreten bei trockenen Küsten, da sich dann das Land schneller erwärmt bzw. abkühlt.
+  
+- Seewind:
+  - starken Sonneneinstrahlung über Land 
+  - Aufheizung der Luft
+  - thermisches Tiefdruckgebiet über Land
+  - Gegen Mittag/Nachmittag beginnt eine leichte bis mäßige Seebrise, 
+  - Luft srömt vom Meer zum Land
+  - Maximum des Seewindes ca. 2 Stunden nach Sonnenhöchststand
+  - flaut gegen Abend wieder ab
+
+- Landwind:
+  - Nachts kühlt das Festland stärker ab als das Wasser
+  - thermisches Hochdruckgebiet über Land
+  - Gegen Mitternacht beginnt eine schwache Landbrise
+  - Luft srömt vom Land zum Meer
+  - die maximale Windstärke ist in der Regel zwischen ca. 03.00 Uhr und Sonnenaufgang.
+ 
+- Eine Land-Seewind-Zirkulation kann nachmittags durch Gewitterbildung über Land (infolge Gewitterböhen) gestört werden. 
+
+- Windverhältnisse in der Nähe von Steilküsten:   
+  - Auflandiger Wind: Durch Küstenführung beschleunigt wenn nahezu auflandig oder parallel zur Küste
+  - Ablandiger Wind: umlaufende Winden und erhöhter Böigkeit (Fallwinden) 
+
+- Düseneffekt: Bildet die Küstenformation engen Durchlass, wird (nach dem Venturiprinzip) die Strömungsgeschwindigkeit beschleunigt
+
+- Regionen in Europa mit Düseneffekt: Straße von Gibraltar, Straße von Bonifacio, Westausgang des Skagerraks, zwischen den Inseln der Ägäis, Straße von Messina.
+
+- Düseneffekt zwischen Inseln: Zwischen zwei Hindernissen, zum Beispiel Inseln oder einer Meerenge, wird die Luft hindurchgepresst und durch die Verringerung des Querschnitts beschleunigt. Der Wind kann um etwa 2 bis 5 Windstärken stärker sein als der Mittelwind.
+
+- Kapeffekt: Ein aus einer Luftmasse herausragendes Kap engt den Luftstrom einseitig ein. Es wirkt ebenfalls der Venturieffekt. Zusätzlich wird die Windrichtung deutliche geändert, eine schräg auf die Steilküste treffende Luftströmung wird in die Richtung der Küste umgelenkt.
+
+- In einer Entfernung von etwa dem 10 bis maximal 30-fachen der Höhe des Hindernisses hat sich in etwa wieder ein normales Windfeld (in Lee von Hindernissen) eingestellt.
+
+## Mistral 
+
+- Wettermäßige Voraussetzungen für Mistral:
+  - Klassische Ausgangslage:
+    - Kräftiges Tief über der Ostsee (Nord- und Osteuropa), das nach Russland zieht
+    - Hoch über dem Ostatlantik/Biskaya.
+  - Kaltluftvorstoß auf der Rückseite des Tiefs über Frankreich nach Süden.
+  - Zusätzlich verstärkend wirkt Tiefdruckbildung über Golf von Genua (Genua Tief).
+
+- Merkmale und Dauer von Mistral:
+  - Merkbarer Temperaturrückgang hinter der Kaltfront.
+  - Klarer Himmel, diesige Luft
+  - Heftiger Seegang (Windstärke im Golfe du Lion häufig über 8 Bft.)
+  - Dauer meist 3,5 Tage. 
+
+- Mistralgegenden:
+  - Mittelmeerküste Frankreich (Golf de Lion) bis zum Golf von Genua.
+  - Ebrotal bei Tarragona (Spanien),
+  - Düsenwirkung bei Perpignan durch Pyrenäen und Zentralmasiv,
+  - Düsenwirkung bei der Rhonemündung durch Zentralmasiv und Alpen,
+  - Bereich Marseille-Toulon Hafen bis Bastia (Korsika).  
+
+- Wettermäßig (Anzeichen!) bei einer mistralverdächtigen Wetterlage zu achten auf:
+  - Verlagerung einer Kaltfront über Frankreich nach Süden oder Südosten,
+  - merkbarer Temperaturrückgang hinter der Kaltfront,
+  - Bildung eines Leetiefs im Golf von Genua
+  - Azorenhoch mit Ausbildung eines Keils über Biskaya/Spanien
+
+- Häufigkeiten Mistral:
+  - Volle Sturmstärke nur an wenigen Tagen im Jahr: Marseille z.B. an 10 bis 15 Tagen. 
+  - Die Häufigkeit nimmt über See zu. 
+  - Die häufigste Dauer beträgt 3,5 (3-4) Tage.
+
+- Amtlichen Publikation über den Mistral und seine Folgen (Seegang, Wellenhöhe usw.):
+Seehandbuch Mittelmeer
+
+## Bora
+
+- Allgemein: 
+  - Dauer: Im Sommer sind einige Stunden typisch, mehrere Tage sind möglich   
+  - Ende: meistens um die Mittagszeit, Bewölkung hat sich aufgelöst, Wind hat auf NW gedreht, Luftdruck ist deutlich gestiegen
+
+- kalter Fallwind aus Richtung NE (evtl. NNE) an adriatischee Ost-Küste
+
+- Thermischen Gegensätze zwischen hochgelegener Kaltluft im dalmatinischen Hochland und warmer Adria
+
+- beschleunigt durch Gebirgseinschnitte, Flusstäler und Fjorde
+
+- zyklonal:
+  - Luftmassen werden zusätzlich durch ein Tief südlich der Adria oder im Süden der Adria in Adria transportiert
+  - Temperaturgegensätze innerhalb des Tiefs groß => höhere Windgeschwindigkeiten, heftige Sturmböen, Regen und Hagel
+  - Ankündigung erfolgt wie die eines Tiefs mit einer Front: Druckfall, Regen, Hagel.
+
+- antizyklonal:
+  - Luftmassen werden unter dem Einfluss eines Hochs über den Alpen oder nordlich der Alpen in die Adria transportiert
+  - bestehen aus kalter und trockener kontinentaler Luft. 
+  - Luft an der Küste wolkenlos, eventuell Wolkenbänke über den Bergkämmen. 
+  - Feuchtezunahme und Wolkenbildung (Cu, Cb) über der Adria. 
+  - kündigt sich wie ein Hoch an: Druckanstieg, Himmel tiefblau, gute Sicht, Wind hier NE, böig
+
+- Die Dauer einer Boralage richtet sich nach der Beständigkeit der Hochs und Tiefs und ihrer Position. 
+
+- Im Mittel dauert eine Boralage 1 Tag lang an. Im Winter sind örtlich schon Windgeschwindigkeiten von über 100 kn beobachtet worden. Das mittlere Windmaximum liegt um 50 kn. 
+
+- Auch im Sommer können schwere Sturmböen auftreten.
+
+
+## Etesien
+
+- (griechisch), türkisch: Meltemi sind jährlich wiederkehrende, nördliche Winde in der Ägäis. 
+
+- entstehen zwischen einem Hoch über Südeuropa (Balkan) und in einem Tief in Kleinasien und dem östlichen Mittelmeer. 
+
+- großräumige Druckverteilung ist sehr beständig. 
+
+- wehen von Mai bis Oktober mit einer Beständigkeit von 80%. 
+
+- durchschnittliche Windgeschwindigkeit beträgt im Juli/ August 5 Bft in einem Streifen in der Mitte des Ägäischen Meeres. 
+
+- Seegang kann unangenehm sein. 
+
+- kontinentale Luft wird transportiert => wolkenloses Wetter mit guter Sicht.
+
+- Antrieb beruht ausschließlich auf Thermik => tägliche Wiederkehr mit dem Sonnenlicht.
+
+ 
+## Luftdruckregeln 
+
+- Gleichbleibender Luftdruck => beständiges Wetter und Wind
+
+- Langsamer und gleichmäßiger Luftdruckanstieg => nachhaltige Wetterbesserung 
+
+- schneller Luftdruckanstieg => Wetterbesserung meist nur vorübergehend 
+
+- Druck steigt nach längerem tiefen Stand stark an => Starke Windzunahme (aufkommender stürmischer Wind) mit deutlicher Richtungsänderung.
+
+- Allmählichen Luftdruckabfall => Wetterumschlag => Annäherung einer Zyklone
+
+
+## Seegang
+
+- Seegangshöhe in Europa: in Meter (m)
+
+- bezieht sich auf die durchschnittliche Höhe der höchsten Drittel der Wellen
+
+- wird oft als signifikante (kennzeichnende) Wellenhöhe bezeichnet. 
+
+- Angabe in Seehandbüchern, Seegangskarten und Wetterberichten
+
+- Einflussfaktoren:
+  - Windgeschwindigkeit 
+  - Wassertiefe
+  - Strömungen
+    
+- Die tatsächliche Wellenhöhe kann häufiger den 1,5 fachen Wert ereichen, vereinzelt auch höher.
+
+- Verformung der Oberflächenwellen bei Gezeiten:
+  - Strom mit: Vergrößerung der Wellenlänge, Abnahme der Wellensteilheit
+  - Strom gegenan: Verkürzung der Wellenlänge, Zunahme der Wellensteilheit  
+
+- Seegang besteht aus
+  - Windsee
+  - Dünung
+
+- Windsee:
+  - Seegang, der durch den Wind am Ort oder in der näheren Umgebung angefacht wird. 
+  - Windsee hängt ab von:
+    - Windgeschwindigkeit
+    - Fetch (Windwirklänge)
+    - Wirkdauer 
+
+- Kreuzseen:
+  - enstehen, wenn sich Wellen aus unterschiedlichen Richtungen überlagern. 
+  - Dabei besteht die Möglichkeit, dass sich die maximale Wellenhöhe von jedem Wellensystem addiert zu einer entsprechend hohen Welle.
+  - Wellen werden sehr steil, so dass sie sich brechen können. 
+  - Im Extremfall ist keine Verlagerungsrichtung mehr erkennbar.
+  
+- Wellen mit unterschiedlichen Laufrichtungen können durch folgende Überlagerungen auftreten:
+  - von Windsee und einer (von fern kommenden) Dünung
+  - von Windsee und Dünung vor Kaltfronten, Okklusionen oder Trogachsen
+  - von sich drehenden Wellen in Lee einer Bank oder Insel
+
+- Grundsee:
+  - Meereswellen mit besonders hohen Brechern 
+  - enstehen durch Untiefen oder Küstennähe 
+  - Höhe etwa 2,5-fache der kennzeichnenden charakteristischen Wellenhöhe.
+
+- Wenn (theoretisch) die Wellenhöhe 1/7 der Wellenlänge übersteigt, brechen die Wellen.
+ 
+ 
+## Seewetterinformation
+
+- Wetterberichte
+  - BSH: Stationen, Vorhersagegebiete und Frequenzen für europäische Gewässer
+  - DWD: Wetterinformationen, Sturmwarnungen und Seewetterberichte weltweit
+
+- Wetterinformationen an Bord erhältlich über  
+  - Hörfunksender (UKW, KW, MW, LW)
+  - Küstenfunkstellen,
+  - Verkehrszentralen,
+  - NAVTEX,
+  - Online Dienste (z.B. Seewis (Seewetterinformationssystem) des DWD, T-Online, u.a.),
+  - RTTY (Funkfernschreiben),
+  - Wetterfax,
+  - Faxpolling (z.B. SEEWIS-Fax des DWD),
+  - Telefonabruf, Törnberatung
+
+- Starkwindwarnung (near gale warning) über NAVTEX:
+  - Zeitliche Abstand vom Erhalt der Warnung bis zum Eintreffen des Ereignisses i.d.R 6-8h, 
+  - in Einzelfällen auch kürzer
+
+
+
+## Verarbeitung von Seewetterberichten
+
+- Veröffentlichungen mit Sendezeiten und Frequenzen für Seewetterberichte:   
+  - Amtlich:
+    - Handbuch Nautischer Funkdienst
+    - Funkdienst für die Klein- und Sportschifffahrt
+    - Admiralty List of Radio Signals Volume 3    
+  - Nicht-amtlich:
+    - Sturmwarnungen und Seewetterberichte für die Sport- und Küstenschifffahrt (DWD)
+
+- Genauigkeit von Windvorhersagen:  
+  - Windrichtung:
+    - Nur Hauptrichtungen (N, NE, E, SE, S, SW, W, NW) 
+    - Genauigkeit 2 Strich
+  - Windrichtungsänderung:
+    - recht- und rückdrehend nur bei jeweils mindestens 4 Strich Änderung
+    - umlaufender Wind nur bis 5 kn.
+  - Windstärke:
+    - Mittelwert über einen längeren Zeitraum
+    - bei labilen Luftmassen (Schauern) => Böen > 2 Bft. über Mittelwert  
+    
+## Meteorologische Geräte
+
+- meteorologische Messgeräte die sich an Bord einer Yacht befinden sollten:
+  - Barometer(Barograph)
+  - Thermometer
+  - Windmesser
+
+- Windmesser (Anemometer) bestehen aus
+  - Windgeschwindigkeitsmesser
+  - Windrichtungsanzeiger. 
+
