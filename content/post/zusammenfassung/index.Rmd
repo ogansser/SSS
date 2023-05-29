@@ -176,7 +176,6 @@ Regel 5 Ausguck: Jederzeit durch Sehen + Hören + durch jedes andere Mittel
   - größergleich 20 m : Pfeife + Glocke
   - größergleich 100 m : Pfeife + Glocke + Gong
 
-
 ### SeeSchStrO
 
 - §24: Beim Begegnen auf entgegengesetzten oder fast entgegengesetzten Kursen im Fahrwasser ist nach Steuerbord auszuweichen.
