@@ -1210,7 +1210,7 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
   - Bei Durchgang der Warmfrontfront:
     - Anstieg Lufttemperatur
     - Endes des stetigen Druckabfalls
-    - Windsprung mit rechtdrehendekm Wind
+    - Windsprung mit rechtdrehendem Wind
     - stärkste Niederschläge
     - schlechte Sicht
   - im Warmsektor: diesig oder mäßig Sicht, Wolkenauflockerung, zeitweise (Niesel)-Regen.    
@@ -1218,7 +1218,7 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
 - Wolkenenstehung an Warmfront:
   - Wärmere Luftmasse gegen kältere
   - Aufgleiten
-  - Untersiete streicht über kalte Schicht
+  - Unterseite streicht über kalte Schicht
   - Schichtwolken mit Regen
   
 - Wettererscheinungen an Kaltfront 
@@ -1243,14 +1243,14 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
   - Kaltluft heftig an Warmluft => Nimbostratus + Altocumulus => Typ A (aktive Kaltfront)
   - Kaltluft schiebt langsam gegen Warmluft => Schichtwolken => Typ B (passive Kaltfront)
 
-- Okklusion ist die (enstandene) Front in einem Tiefdruckgebiet, bei der die Kaltfront die Warmfront eingeholt hat.
+- Okklusion ist die (entstandene) Front in einem Tiefdruckgebiet, bei der die Kaltfront die Warmfront eingeholt hat.
 
-- Enstehung einer Okklusion:
+- Entstehung einer Okklusion:
   - Durch höhere Verlagerungsgeschwindigkeit holt die Kaltfront die Warmfront ein und hebt die Warmluft vom Boden ab. 
   - Luft vor der Front kälter als hinter der Front => Warmfrontokklusion
   - im anderen Fall => Kaltfrontokklusion
 
-- Ein okkludiertes Tief schwenkt auf der Nordhalbkugel nach links von seiner bisherigen Bahn (Poltendenz). Die Bahngeschwindigkeit verringert sich.
+- Ein okkludierendes Tief schwenkt auf der Nordhalbkugel nach links von seiner bisherigen Bahn (Poltendenz). Die Bahngeschwindigkeit verringert sich.
 
 - Typischen Wetterverlauf, wenn eine Zyklone auf Nordbreite südlich von einem Beobachter vorbeizieht:
   - Nördlich der Zyklone ist Wetterverlauf gleichmäßiger als im Süden  => keine Fronten, Temperatursprünge, plötzlichen Luftdruckänderungen, Ausschießen des Windes.
