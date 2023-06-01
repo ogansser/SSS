@@ -1200,20 +1200,20 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
 
 - Wettererscheinungen Warmfront
   - Vor der Front:
-    - Wolkenaufzug in bestimmten Höhen (Cirren, Cirrostratus, Altostratus, Nimbostratus)
-    - Cirren 500km (bis 1000km) als erste Anzeichen
-    - Wind schwach, nimmt zur Front hinzu, rechtdrehend, häufig aus SW
-    - Regen aus Nimbostratus (Landregen)
-    - Kaum Lufttemperaturänderung
+    - Kaum Temperaturänderung
     - Luftdruck fällt
     - Sicht wird schlechter
+    - Wind schwach, nimmt zur Front hinzu, rechtdrehend
+    - Wolkenaufzug in bestimmten Höhen (Cirren, Cirrostratus, Altostratus, Nimbostratus)
+    - Cirren 500km (bis 1000km) als erste Anzeichen
+    - Regen aus Nimbostratus (Landregen)
   - Bei Durchgang der Warmfrontfront:
-    - Anstieg Lufttemperatur
-    - Endes des stetigen Druckabfalls
-    - Windsprung mit rechtdrehendem Wind
+    - Anstieg Temperatur
+    - Endes stetiger Druckabfall
+    - Windsprung, rechtdrehend
     - stärkste Niederschläge
     - schlechte Sicht
-  - im Warmsektor: diesig oder mäßig Sicht, Wolkenauflockerung, zeitweise (Niesel)-Regen.    
+  - im Warmsektor: mäßige Sicht, Wolkenauflockerung, zeitweise (Niesel)-Regen.    
     
 - Wolkenenstehung an Warmfront:
   - Wärmere Luftmasse gegen kältere
@@ -1228,14 +1228,17 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
     - Wolkenwand aus tief hängenden Nimbustratus (Cumulonimben möglich)
     - beginnender Niederschlag
   - Beim passieren der Front
+    - Temperatur sinkt
     - Luftdruck steigt sprunghaft
-    - Windsprung rechtdrehend
+    - Windsprung, rechtdrehend
     - Zunahme der Windgeschwindigkeit, Böhen
     - schauerartige Niederschläge, schlecht Sicht
-    - Temperatur sinkt
-    - Sicht verbessert sich
+  - hinter der Kaltfront
+    - stetiger Temperaturanstieg
+    - stetiger Luftsdruckanstieg
+    - Sichtverbesserung
     - Rückseitenwetter
-  - hinter der Kaltfront: Sichtverbesserung, meist gute Sicht, Schauer mit zum Teil kräftigen Böhen.
+    - Schauerböhen
 
 - Obwohl die Windstärke nach Durchgang der Kaltfront noch einmal leicht abnimmt, muss man im weiteren Verlauf mit erheblich zunehmendem Wind bis Sturmstärke und mit Rechtdrehung des Windes rechnen.
 
