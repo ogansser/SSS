@@ -1239,7 +1239,7 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
 
 - Obwohl die Windstärke nach Durchgang der Kaltfront noch einmal leicht abnimmt, muss man im weiteren Verlauf mit erheblich zunehmendem Wind bis Sturmstärke und mit Rechtdrehung des Windes rechnen.
 
-- Wolkenenetwicklung an Kaltfront:
+- Wolkenentwicklung an Kaltfront:
   - Kaltluft heftig an Warmluft => Nimbostratus + Altocumulus => Typ A (aktive Kaltfront)
   - Kaltluft schiebt langsam gegen Warmluft => Schichtwolken => Typ B (passive Kaltfront)
 
