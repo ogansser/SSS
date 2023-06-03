@@ -244,6 +244,13 @@ Passierabstand voraus (auf der Kurslinie) Bow crossing range
 
 ## Seeunfalluntersuchung
 
+- Ein Führer eine Sportbootes muss einen Seeunfall *unverzüglich melden* (mit Bericht) an: 
+  - Bundesstelle für Seeunfalluntersuchungen, alternativ
+  - Wasserschutzpolizei des Einlaufhafens
+  - Hafenbehörde (Ausland)
+  
+- Ob ein Seeunfall im Rahmen des SUG untersucht wird, entscheidet der Direktor der Bundesstelle. 
+
 - Die Seeämter (Kiel, Hamburg, Bremerhafen, Emden, Rostock) sind Untersuchungsausschüsse mit der Aufgabe zu untersuchen, ob ein Befähigungszeugnis entzogen oder ein Fahrverbot verfügt werden soll. 
 
 - Generell sollen Ursachen und Umstände eines Seeunfalles festgestellt werden und ob ein fehlerhaftes Verhalten eines Beteiligten vorliegt, auch wenn letzteres nicht unfallursächlich war.
@@ -592,6 +599,12 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
 
 ## Seetüchtigkeit 
 
+- Klassifikationsgesellschaften = Organisationen, die die Seetüchtigkeit von Yachten überprüfen
+
+- Europäische Organisation: European Maritime Safety Agency (EMSA)
+
+- Deutsche Organisation: Germanisch Lloyd (GL)
+
 - Veröffentlichungen:
   - Offshore Special Regulations
   - Sicherheit auf dem Wasser - Wichtige Regeln und Tipps für Wassersportler
@@ -605,6 +618,10 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - verproviantiert sein,   
   
 - Verantwortlich für die Seetüchtigkeit zu Beginn der Reise ist der Schiffsführer.
+
+- Reiseplanung vor der Reise (Wetterinfos, Seehandbücher, erforderliche Papiere, Notfallplanung, Sicherheitsübungen, Überprüfung von Fahrzeug, Crew)
+
+- Reiseplanung während der Reise (aktuelle Wetterinformationen, Überwachung von Kurs, Geschwindigkeit, Position, Karteneintragungen, Eintragungen ins Schiffstagebuch)
 
 - Seetüchtigkeit Yacht:
   - Bauqualität und Wartung
@@ -893,6 +910,15 @@ nach manueller oder automatischer Auslösung wird der Notruf automatisch über S
   - Abhören der Anrufkanäle
   - Vorbereiten der Verpflegung
 
+- Wichtigste Verhaltensregeln für die Seewache bei Surm: 
+  - Wetterbekleidung und Rettungswesten tragen, Sicherheitsgurte immer einpicken
+  - Niedergang und Lucken dicht
+  - Kein unnötiger Aufenthalt außerhalb des Cockpits
+  - Verschärfter Ausguck nach Luv, Zurufdistanz des Ausgucks zum Rudergänger
+  - Backkistedeckel verriegelt
+  - Rudergänger gesichert und mit gutem Halt sitzend
+  - Einigkeit über die anzuwendende Sturmtaktik
+  - Rechtzeitiges Abwechseln am Ruder
 
 - Vorkehrungen unter Deck bei Sturmerwartung:
   - Auf Vorrat Essen und warme Getränke zubereiten.
@@ -1239,7 +1265,7 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
     - Sichtverbesserung
     - Rückseitenwetter
     - Schauerböhen
-
+     
 - Obwohl die Windstärke nach Durchgang der Kaltfront noch einmal leicht abnimmt, muss man im weiteren Verlauf mit erheblich zunehmendem Wind bis Sturmstärke und mit Rechtdrehung des Windes rechnen.
 
 - Wolkenentwicklung an Kaltfront:
