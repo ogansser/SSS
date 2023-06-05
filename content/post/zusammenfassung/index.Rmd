@@ -314,10 +314,10 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
 
 - Ketsch auf Amwindkurven:
   - Großsegel lenkt den Luftstrom um einen gewissen Winkel zur Mittelsschifflinie ab
-  - Wenn zu dicht => zu geringer Anstellwinkel für Besan => Kein Vertrieb mehr.
+  - Wenn zu dicht => zu geringer Anstellwinkel für Besan => Kein Vortrieb mehr.
   => Großsegel nicht ganz mittschiffs bzw. zu dichtholen 
 
-- Segel für Fahrtenyacht: Groß, Fock, Genua, Blister und Sturmfock.
+- Segel für Fahrtenyacht: Groß, Genua, Fock, Blister und Sturmfock.
   - Bis ca. Bft. 3: Groß und Blister,
   - bis ca. 5 Bft. Groß und Genua,
   - bis ca. 7 Bft. Groß gerefft und Fock,
@@ -337,7 +337,7 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
 
 - Wind aus Richtung Bestimmungshafen:
   => Kreuzen
-  => in bestimmten Zeitabständen abwechselnd mit dem wind von Stb. oder Bb. segeln. 
+  => in bestimmten Zeitabständen abwechselnd mit Wind von Stb. oder Bb. segeln. 
   => Segeltechnisch in ebenso gewissen Zeitabständen Wende fahren.
 
 - Begriffe beim Kreuzen:
@@ -345,8 +345,8 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - Streckbug: Kurs, auf dem man wenig Höhe gewinnt, aber in Richtung des Zieles Strecke gutmacht.
 
 - Bedeutung von Kommandos für Ablauf Segelmanöver:
-  - Harmonisierung und Steuerung durch Schiffsführer
-  => Geordneten zeitlichen Ablauf
+  - Harmonisierung und Steuerung durch Schiffsführer  
+  => Geordneter zeitlicher Ablauf
   => Richtiges Ausmaß der Einzelhandlungen
 
 - Lenzeinrichtungen/wo installiert:
@@ -416,7 +416,9 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
 
 - Metazentrische Höhe muss immer Positiv sein => stabil
 
-- Auftriebskraft = Mittelpunkt des untergetauchten Schiffes.
+- Metazentrische Höhe = Höhe zwischen Gewichtsschwerpunkt und Metazentrum
+
+- Auftriebsschwerpunkt = Mittelpunkt des untergetauchten Schiffes.
 
 - Begriffe:
   - Gewichtsschwerpunkt (Massenmittelpunkt)
@@ -424,7 +426,7 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - Metazentrum
   - Auftrieb
   - aufrichtender Hebelarm  
-  => Gewichtsstabilen Schiff => Gewichtsschwerpunkt unterhalb Formschwerpunkt => Aufrichtendes Moment => Schiff kentert nicht
+  => GewichtsstabileS Schiff => Gewichtsschwerpunkt unterhalb Formschwerpunkt => Aufrichtendes Moment => Schiff kentert nicht
 
 - Stabilität wird beeinflusst von     
   - Geometrie (Form),
@@ -611,13 +613,24 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - Unfallverhütungsvorschriften
   - Deutscher Küsten Almanach
 
-- Das Schiff muss für einen seetüchtigen Zustand gehörig
+- Das Schiff muss für einen *seetüchtigen* Zustand gehörig
   - eingerichtet, 
   - ausgerüstet, 
   - bemannt und 
   - verproviantiert sein,   
-  
+
 - Verantwortlich für die Seetüchtigkeit zu Beginn der Reise ist der Schiffsführer.
+
+  
+- SOLAS V/34: 
+  1. Der Kapitän muss vor dem Auslaufen sicherstellen, dass die beabsichtigte Reise unter Verwendung der für das betreffende Gebiet **geeigneten Seekarten und nautischen Veröffentlichungen** sowie unter Berücksichtigung der von der Organisation erarbeiteten Richtlinien und Empfehlungen geplant worden ist.
+  2. Im Reiseplan ist eine Route festzulegen,
+    - welche die in Betracht kommenden Systeme der **Schiffswegeführung** berücksichtigt;
+    - auf der **ausreichend Seeraum** für die sichere Fahrt des Schiffes während der gesamten Reise gewährleistet ist;
+    - auf der alle **nautischen Gefahren und widrigen Wetterverhältnisse** in Betracht
+gezogen worden sind;
+  - welche die einschlägigen Maßnahmen des **Meeresumweltschutzes** berücksichtigt sowie Handlungen und Tätigkeiten so weit wie möglich vermeidet, die Schäden an der Umwelt verursachen könnten.
+
 
 - Reiseplanung vor der Reise (Wetterinfos, Seehandbücher, erforderliche Papiere, Notfallplanung, Sicherheitsübungen, Überprüfung von Fahrzeug, Crew)
 
@@ -657,16 +670,16 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - Brennstoffzufuhr (Hauptschalter) unterbrechen,
   - Feuerlöscher erst am Brandherd betätigen,
   - Feuer von unten und von vorn bekämpfen,
-  - Löschdecke einsetze,
+  - Löschdecke einsetzen,
   - Flüssigkeitsbrände und Brände in der elektrischen Anlage nicht mit Wasser bekämpfen.
 
--  Leck im Vorschiff, weil Tonne gerammt:
+- Leck im Vorschiff, weil Tonne gerammt:
   - Sofort auf anderen Bug gehen
-  - überprüfen, ob das Leck von innen her dicht zu setzen ist.
+  - überprüfen, ob das Leck von innen her dicht zu setzen ist
   - wenn ja Innenausbau in diesem Bereich beseitigen
   - Evt. mit einem Kissen oder Holzplatten Loch soweit abgedichten, dass man Hafen erreichen kann, auch wenn die ganze Zeit gelenzt werden muss
   - Evtl. Lecksegel mit Fock
-  - Leckschirm: wird von innen nach außen geschoben unddann geöffnet => Wasserdruck presst das Lecksegel gegen die Bordwand
+  - Leckschirm: wird von innen nach außen geschoben und dann geöffnet => Wasserdruck presst das Lecksegel gegen die Bordwand
   
 - Mögliche Schäden bei Grundberührung:
   - Kiel (sichtbare Schäden außen, Schäden im Bereich der Kielbolzen)
@@ -803,16 +816,15 @@ nach manueller oder automatischer Auslösung wird der Notruf automatisch über S
   - und Erste Hilfe leisten, um die Sicherheit und das Wohlergehen aller an Bord zu gewährleisten. 
   
 - Insgesamt kann ein Schiffsführer hochgradig fahrlässig handeln, wenn er
-  - nicht schnell, effektiv und sicher auf einen "Mensch über Bord"-Vorfall reagiert oder 
-  - wenn er nicht über die erforderlichen Ressourcen oder Schulungen verfügt, um die Rettung durchzuführen. 
+  - nicht **schnell, sicher und effektiv** auf einen "Mensch über Bord"-Vorfall reagiert oder 
+  - wenn er nicht über die erforderlichen **Ressourcen oder Schulungen** verfügt, um die Rettung durchzuführen. 
   - Dies kann nicht nur das Leben der betroffenen Person gefährden, sondern auch das Leben und die Sicherheit aller an Bord gefährden.  
 
 - Suchverfahren:
-  - Streckensuche: 
-    - Wenn die Person seit einer bestimmten Zeit vermisst
+  - **Streckensuche** (Wenn die Person seit einer bestimmten Zeit vermisst wird)
     - zurückliegenden Kurs mit exakter Navigation ohne Stromberücksichtigung (Selbststeueranlage benutzen!) zurück bis über den Punkt hinaus, von dem an die Person vermisst ist. 
-    - Man kehrt dann parallel um einen Suchstrefen versetzt zurück und legt Suchstreifen an Suchstreifen nach beiden Seiten ausweitend.
-  - Raumsuche: Wenn während eines MOB der Sichtkontakt verloren gegangen ist. 
+    - Man kehrt dann parallel um einen Suchstreixfen versetzt zurück und legt Suchstreifen an Suchstreifen nach beiden Seiten ausweitend.
+  - **Raumsuche** (Wenn während eines MOB der Sichtkontakt verloren gegangen ist)
     - Man fährt mit paralellen Suchspuren ein angemessenes Quadrat von Bspw. 1 sm Kantenlänge ab, dessen Mittelpunkt der angenommene Ort bildet. 
     - Ist die Suche nicht erfolgreich, legt man weitere Suchstreifen spiralförmig ausweitend um das Quadrat.
   - Breite der Suchstreifen ist entscheidend: Aus Cockpit einer Segelyacht (Augeshöhe 2 m) und 1 m hohe Wellen kann 40 m Abstand schon nicht mehr eingesehen werden.
@@ -860,8 +872,8 @@ nach manueller oder automatischer Auslösung wird der Notruf automatisch über S
   - Bisherige Maßnahmen, Angaben über die Möglichkeiten der Behandlung an Bord (z.B. Medikamente, ...),
   - Standort des Schiffes.
   
-=> Informationen über ein solches Gespräch finden sich u.a. im Yachtfunkdienst. 
-=> Funkärztliche Beratung kann man über die Küstenfunkstellen erhalten.
+=> Informationen über ein solches Gespräch finden sich u.a. im **Yachtfunkdienst**.   
+=> Funkärztliche Beratung kann man über die **Küstenfunkstellen** erhalten.
 
 - Allerletzte Maßnahme, wenn Beathmung nicht mehr möglich und Crewmitglied zu ersticken droht:   
   - Kunststofftubus, wenn vorhanden, in die Luftröhre schieben
@@ -957,8 +969,8 @@ nach manueller oder automatischer Auslösung wird der Notruf automatisch über S
 
 - Überläufer auf der Winsch lösen:
   - Luvschot provisorisch nach Lee scheren
-  - evt. provisorische Leitöse herstellen und über Spinnakerwinsch oder mit Hilfe von Umlenkblöcken über die Luvwisch dichtholen und so Leeschot entlasten und Überläufer lösen.
-  - Reserveschot oder entsprechenden Tampen mit Stopperstek auf der Schot befestigen und über Spinnakerwinsch oder Luvwinsch dichtholen, Überläufer lösen
+  - evt. provisorische Leitöse herstellen und über Spinnakerwinsch oder mit Hilfe von Umlenkblöcken über die Luvwinsch dichtholen und so Leeschot entlasten und Überläufer lösen.
+  - Reserveschot oder entsprechenden Tampen mit Stopperstek auf der Schot befestigen und über Spinnakerwinsch oder Luvwinsch dichtholen, Überläufer lösen.
   - Kurz in den Wind gehen um Fockschot zu entlasten.
   - letzte Maßnahmen: Kappen der Schot mit dem Messer.  
 
@@ -973,7 +985,7 @@ nach manueller oder automatischer Auslösung wird der Notruf automatisch über S
   - Großsegel reffen, vorzugsweise bergen
   - Vorsegel möglichst dichtholen
   - Ruder ständig zur Luvseite, da leegierig
-  - mit größter Aufmerksamkeit steuern, um das „kursrecht“ zu halten.
+  - mit größter Aufmerksamkeit steuern, um das Schiff „kursrecht“ zu halten.
 
 - Grundsatz hinsichtlich Zeitpunkt für das Einleiten von Maßnahmen:
 Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken des Beidrehens befasst hat, dann soll man nicht zögern, sondern beidrehen bzw. die entsprechende Maßnahme einleiten. Damit vermeidet man meistens Schäden, die durch zu spätes Handeln entstehen.
@@ -1030,16 +1042,12 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
 - Leinenmanöver "Leine auf Slip":
   - Vorleine wird um den am Liegeplatz vorhandenen Poller oder Ring geführt, 
   - dann wieder an Bord zurückgebracht, wo das Auge der Leine über einen Poller, Kreuzpoller oder Klampe gehängt wird. 
-  -  Jetzt befinden sich an Bord sowohl das Auge als auch die holende Part der Leine, 
-  - die an Bord belegt wird, nachdem das Schiff längsseits geholt oder gehievt worden ist.
-
-- Vorteil:
-  - Kann ohne fremde Hilfe als letzte eingeholtwerden. 
-  - indem man von Bord aus das Auge loswirft und die Leine einholt, 
+  -  Jetzt befinden sich an Bord sowohl das Auge als auch die holende Part der Leine, die an Bord belegt wird, nachdem das Schiff längsseits geholt oder gehievt worden ist.  
+  Vorteil:
+  - Kann ohne fremde Hilfe als letzte eingeholtwerden, indem man von Bord aus das Auge loswirft und die Leine einholt. 
   - Kein Besatzungsmitglied muss an Land loswerfen und dann auf das abtreibende Fahrzeug springen. 
-  - Landverbindung so lange zu behalten, bis das Schiff einen gewünschten Abstand zum Land hat oder auch in die passende Abfahrtsposition gelangt.
-  
-- Nachteil:
+  - Landverbindung so lange zu behalten, bis das Schiff einen gewünschten Abstand zum Land hat oder auch in die passende Abfahrtsposition gelangt.  
+  Nachteil:
   - Beim bordseitigen Einholen der Leine kann diese oder das Auge an Konstruktionsteilen der Hafen- oder Pieranlagen oder am Poller verhaken.
 
 - Zweck eines Treibankers, wenn keine Segel mehr tragbar:
