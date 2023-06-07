@@ -1304,8 +1304,10 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
   - wo sie aufsteigt und in höhere Schichten abfließt (22 Grad von den Isobaren zum Tief hin).
 
 - Hochdruckgebiete:
+  - haben eine warme Seite mit südlichen Winden und eine kalte Seite mit nördlichen Winden
+  - können auf der westlichen Seite warme Luftmassen nach Norden transportieren
+  - können auf der östlichen Seite kalte Luftmassen nach Süden transportieren
   - Oft nicht so schön, wie allgemein erwartet (z.B. im April/Mai in der Nordsee) 
-  - Hochdruckgebiete haben eine warme Seite mit südlichen Winden und eine kalte Seite mit nördlichen Winden. 
   - Auf der kalten Seite wird über dem Wasser kalte, wolkenreiche Luft transportiert. 
   - In Hochdruckgebieten steigt erwärmte Luft ab, die die bodennahe Luft nicht wegräumen kann. 
   - Es bildet sich eine Übergangsschicht – eine Inversion. 
