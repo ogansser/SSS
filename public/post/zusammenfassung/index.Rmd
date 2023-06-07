@@ -1427,33 +1427,25 @@ Seehandbuch Mittelmeer
 
 ## Bora
 
-- Allgemein: 
-  - Dauer: Im Sommer sind einige Stunden typisch, mehrere Tage sind möglich   
-  - Ende: meistens um die Mittagszeit, Bewölkung hat sich aufgelöst, Wind hat auf NW gedreht, Luftdruck ist deutlich gestiegen
+- Die Bora ist in der Adria ein gefürchteter Wind, der aus NNE bis NE aus den nördlichen Hochlagen des Balkans als Fallwind mit Sturmstärken in die Adria einfällt. 
 
-- kalter Fallwind aus Richtung NE (evtl. NNE) an adriatischee Ost-Küste
+- Ursache: Hoher Druck über Mitteleuropa und tiefer Druck im Mittelmeer (im Süden der Adria oder südlich davon) führen (je nach Einfluss der Druckgebilde und deren Lagen zueinander) zur zyklonalen oder antizyklonalen Bora. Im Winter gefährlicher wegen der großen Temperaturunterschiede: Kaltes Hinterland – warmes Meer. Führt zu länger anhaltendem Sturm. Im Sommer sind auch große Windstärken möglich, jedoch nicht so anhaltend wie im Winter.
 
-- Thermischen Gegensätze zwischen hochgelegener Kaltluft im dalmatinischen Hochland und warmer Adria
+- Wettererscheinungen:  
+  - **Antizyklonale Bora**: Es überwiegt der Einfluss des Hochdruckgebietes über dem mittel- oder osteuropäischen Festland. Wolkenbildung an den Gebirgskämmen, Wolkenauflösung über See; klare, trockene Luft. Cumuluswolken.   
+**Ankündigung**:   
+    - deutlicher Druckanstieg über einige Stunden
+    - Fernsicht wird plötzlich sehr gut, Himmel leuchtet tiefblau
+    - Wind dreht auf NE und wird etwas böig
+  - **Zyklonale Bora**: Es überwiegt der Einfluss der Mittelmeerzyklone, die mit ihren Fronten bei zeitweiliger Schichtbewölkung heftige Sturmböen, ergiebige Niederschläge (Regen, Hagel, zeitlich auch Schnee) mit sich bringt. Sie gilt als gefährlicher.
+**Ankündigung**:  
+    - es wird warm und diesig 
+    - Regen zieht aus SE auf 
+    - deutlicher Druckabfall
 
-- beschleunigt durch Gebirgseinschnitte, Flusstäler und Fjorde
-
-- zyklonal:
-  - Luftmassen werden zusätzlich durch ein Tief südlich der Adria oder im Süden der Adria in Adria transportiert
-  - Temperaturgegensätze innerhalb des Tiefs groß => höhere Windgeschwindigkeiten, heftige Sturmböen, Regen und Hagel
-  - Ankündigung erfolgt wie die eines Tiefs mit einer Front: Druckfall, Regen, Hagel.
-
-- antizyklonal:
-  - Luftmassen werden unter dem Einfluss eines Hochs über den Alpen oder nordlich der Alpen in die Adria transportiert
-  - bestehen aus kalter und trockener kontinentaler Luft. 
-  - Luft an der Küste wolkenlos, eventuell Wolkenbänke über den Bergkämmen. 
-  - Feuchtezunahme und Wolkenbildung (Cu, Cb) über der Adria. 
-  - kündigt sich wie ein Hoch an: Druckanstieg, Himmel tiefblau, gute Sicht, Wind hier NE, böig
-
-- Die Dauer einer Boralage richtet sich nach der Beständigkeit der Hochs und Tiefs und ihrer Position. 
-
-- Im Mittel dauert eine Boralage 1 Tag lang an. Im Winter sind örtlich schon Windgeschwindigkeiten von über 100 kn beobachtet worden. Das mittlere Windmaximum liegt um 50 kn. 
-
-- Auch im Sommer können schwere Sturmböen auftreten.
+- Bora allgemein:   
+**Dauer**: Im Sommer sind einige Stunden typisch, mehrere Tage sind möglich   
+**Ende**: meistens um die Mittagszeit, Bewölkung hat sich aufgelöst, Wind hat auf NW gedreht, Luftdruck ist deutlich gestiegen
 
 
 ## Etesien
