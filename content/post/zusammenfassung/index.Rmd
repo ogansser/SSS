@@ -1072,17 +1072,21 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
 
 ## Grundlagen der Wetterkunde
 
-- Wetter: Augenblickliche Zustand der Atmosphäre am Betrachtungsort.  
+- Wetter: aktuelle physikalische Zustand der Atmosphäre an einem bestimmten Ort.
 
-- Witterung: Beschreibung des über mehrere Tage anhaltenden Wettergeschehens.  
+- Witterung: beschreibt den Verlauf des Wetters in einem Zeitraum von ein paar Tagen.  
 
-- Klima: Großräumige, langfristige Darstellung des mittleren Wetterverlaufs.
+- Klima: bezieht sich auf den durchschnittlichen Zustand des Wetters an einem bestimmten Ort. Die Daten sind über Jahrzehnte gemittelt.
 
-- Grundelemente des Wettergeschehens:
-  - Temperatur, 
-  - Luftdruck,
+- Wetterparameter:
+  - Temperatur 
+  - Luftdruck
   - Luftfeuchte
-  - weitere Parameter: Windrichtung- und stärke, Wolkenbild und Niederschläge
+  - Windrichtung und -stärke
+  - Wolkenbild
+  - Niederschläge
+
+- Taupunkt: Wenn bei Abkühlung einer Luftmasse die Sättigungsfeuchte (= 100% relative Feuchte) erreciht wird, bezeichnet man die Temperatur bei der dies stattfindet, als Taupunkt
 
 - Luftdruck entsteht als Folge der Gewichtskraft (Masse mal Beschleunigung) der Atmosphäre. 
 
@@ -1117,8 +1121,13 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
 
 - Einheit der Windgeschwindigkeit ist Knoten oder Beaufort für die Windstärke.
 
-- Scheinbare Wind setzt sich zusammen aus wahrem Wind und Fahrtwind.
+- Scheinbare Wind = Fahrtwind + wahrer Wind. 
 
+- Luftruck fällt in unserern Breiten (30 bis 50 Grad N) bei sonnigem Wetter relativ stark (0,5 bis 1 hPa), abends hört der Luftdruckabfall auf, am Tag vorhandene Wolken lösen sich weitgehend auf.   
+=> Täglichen Luftdruckwelle, voraussichtlich dauert das schöne Wetter noch an. Solange der **Tagesgang des Luftdrucks** nicht gestört wird, bleibt das Wetter unverändert gut. 
+
+- Luftdruck fällt stark (über 1 hPa pro Stunde) und mindert sich auf abends nicht wesentlich, mit gleichzeitiger Zunahme von Wind und Wolken   
+=> Dem Tagesgang ist ein Druckabfall überlagert, Wetterverschlechterung stellt sich ein. Da Baromter stark fällt, naht ein kräftiger Tiefruckwirbel, Sturm ist wahrscheinlich
 
 ## Wolken und Nebel
 
@@ -1189,16 +1198,14 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
   - Bei den Luftmassengewittern treten die einzelnen Gewitterzellen im Bereich der Luftmasse verbreitet auf.
   - Bei den Frontgewittern findet man die Gewitterentwicklungen direkt vor und an der Kaltfront.   
 
-- Gefahr:
+- Gefahr bei Gewitter:
+  - Böen bis Orkanstärke aus häufig wechselnden Richtungen
   - Starke Regenfälle mit erheblicher Sichtminderung
   - Hagelschlag, Blitzschlag
   - Hoher Seegang, Kreuzseen
-  - Böen bis Orkanstärke aus häufig wechselnden Richtungen
-  - Böenlinien (Squall-lines) mit Böen bis Orkanstärke
-
+  
 - Markante Zeichen für das Herannahen eines Gewitters sind:
   - mächtige, turmartige Haufenwolken (Cumulonimben)
-  - sehr dunkle Wolkenunterseite mit vorgelagerter Böenwalze
   - der bisher vorhandene Wind flaut ab, frischt danach aus anderen Richtungen auf
   - einsetzende Abkühlung der Luft
   - Auffallende Störgeräusche im Mittelwellenbereich des Rundfunkgerätes
@@ -1208,7 +1215,7 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
 - Die Böen weichen in der Windstärke insbesondere bei schweren Gewittern oft um ein Vielfaches vom Mittelwind ab, manchmal erreichen sie Orkanstärke. 
 
 - Böhen
-  - Böhenkragen: Walzenförmige Wolke mit horizontal verlaufender Achse an der Vordderseite des Gewitters
+  - Böhenwalze/-kragen: Walzenförmige Wolke mit horizontal verlaufender Achse an der Vordderseite des Gewitters
   - Böhenlinie: Äußerste Grenze des Kaltluftschwalls bei Gewitter
 
 - Aussage der Bewölkung über die Möglichkeit der Enstehung/Gefahr von Böen: 
@@ -1284,13 +1291,14 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
 
 - Entstehung einer Okklusion:
   - Durch höhere Verlagerungsgeschwindigkeit holt die Kaltfront die Warmfront ein und hebt die Warmluft vom Boden ab. 
-  - Luft vor der Front kälter als hinter der Front => Warmfrontokklusion
+  - Wenn Luft vor der Front kälter als hinter der Front => Warmfrontokklusion
   - im anderen Fall => Kaltfrontokklusion
 
 - Ein okkludierendes Tief schwenkt auf der Nordhalbkugel nach links von seiner bisherigen Bahn (Poltendenz). Die Bahngeschwindigkeit verringert sich.
 
 - Typischen Wetterverlauf, wenn eine Zyklone auf Nordbreite südlich von einem Beobachter vorbeizieht:
-  - Nördlich der Zyklone ist Wetterverlauf gleichmäßiger als im Süden  => keine Fronten, Temperatursprünge, plötzlichen Luftdruckänderungen, Ausschießen des Windes.
+  - Nördlich der Zyklone ist Wetterverlauf gleichmäßiger als im Süden     
+    => keine Fronten, Temperatursprünge, plötzlichen Luftdruckänderungen, Ausschießen des Windes.
   - Wolkenaufzug: von Cirren über Cirrostratus, Altostratus, Stratocumulus; in der Nähe des Kerns Stratus mit Regen, nach Passieren des Kerns in Schauer übergehend. Rückseitenwetter mit abnehmender Intensität.
   - Luftdruck: fällt allmählich vor dem Tief, um dahinter ebenso allmählich wieder anzusteigen.  
   - Temperatur: ändert sich nicht auffällig, da der Beobachter immer im Bereich der Kaltluft bleibt. 
@@ -1353,7 +1361,7 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
 
 ## Regionale Wettererscheinungen
  
-- Landwind und Seewind:
+- Wo Landwind und Seewind:
   - Bei intensiver Sonneneinstrahlung in unmittelbarer Küstennähe. 
   - Verstärktes auftreten bei trockenen Küsten, da sich dann das Land schneller erwärmt bzw. abkühlt.
   
@@ -1385,7 +1393,7 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
 
 - Düseneffekt zwischen Inseln: Zwischen zwei Hindernissen, zum Beispiel Inseln oder einer Meerenge, wird die Luft hindurchgepresst und durch die Verringerung des Querschnitts beschleunigt. Der Wind kann um etwa 2 bis 5 Windstärken stärker sein als der Mittelwind.
 
-- Kapeffekt: Ein aus einer Luftmasse herausragendes Kap engt den Luftstrom einseitig ein. Es wirkt ebenfalls der Venturieffekt. Zusätzlich wird die Windrichtung deutliche geändert, eine schräg auf die Steilküste treffende Luftströmung wird in die Richtung der Küste umgelenkt.
+- Kapeffekt: Ein aus einer Luftmasse herausragendes Kap engt den Luftstrom einseitig ein. Es tritt ebenfalls der Venturieeffekt ein, zusätzlich mit deutlicher Änderung der Windrichtung.  
 
 - In einer Entfernung von etwa dem 10 bis maximal 30-fachen der Höhe des Hindernisses hat sich in etwa wieder ein normales Windfeld (in Lee von Hindernissen) eingestellt.
 
@@ -1448,21 +1456,9 @@ Seehandbuch Mittelmeer
 
 ## Etesien
 
-- (griechisch), türkisch: Meltemi sind jährlich wiederkehrende, nördliche Winde in der Ägäis. 
+- Die Etesien - in türkischen Gewässern Meltemi genannt - ist ein großräumiger, die ganze Sommerzeit täglich wiederkehrender nordöstlicher Wind (Bft. 5 bis 7) in der Ägäis.
 
-- entstehen zwischen einem Hoch über Südeuropa (Balkan) und in einem Tief in Kleinasien und dem östlichen Mittelmeer. 
-
-- großräumige Druckverteilung ist sehr beständig. 
-
-- wehen von Mai bis Oktober mit einer Beständigkeit von 80%. 
-
-- durchschnittliche Windgeschwindigkeit beträgt im Juli/ August 5 Bft in einem Streifen in der Mitte des Ägäischen Meeres. 
-
-- Seegang kann unangenehm sein. 
-
-- kontinentale Luft wird transportiert => wolkenloses Wetter mit guter Sicht.
-
-- Antrieb beruht ausschließlich auf Thermik => tägliche Wiederkehr mit dem Sonnenlicht.
+- Er entsteht durch das festliegende Sommertief über Kleinasien und dem östlichen Mittelmeer und hohen Luftdruck über dem Balkan. Da das Sommertief im wesentlichen wolkenlos ist, beruht der Antrieb dieses Windsystems ausschließlich auf Thermik und bedingt die tägliche Wiederkehr mit dem Sonnenlicht.
 
  
 ## Luftdruckregeln 
@@ -1521,13 +1517,10 @@ Seehandbuch Mittelmeer
   - von Windsee und Dünung vor Kaltfronten, Okklusionen oder Trogachsen
   - von sich drehenden Wellen in Lee einer Bank oder Insel
 
-- Grundsee:
-  - Meereswellen mit besonders hohen Brechern 
-  - enstehen durch Untiefen oder Küstennähe 
-  - Höhe etwa 2,5-fache der kennzeichnenden charakteristischen Wellenhöhe.
-
-- Wenn (theoretisch) die Wellenhöhe 1/7 der Wellenlänge übersteigt, brechen die Wellen.
- 
+- Grundsee
+  - Man spricht allgemein von einer Grundsee, wenn eine Welle aufgrund ihrer Länge auf flachem Wasser vom Meeresboden aufgestellt wird. Es kommt zum Überbrechen hoher bzw. steiler Wellen.
+  - Ursache: Wenn relativ lange und verhältnismäßig hohe Wellen aus tieferem Wasser in Gebiete mit geringer Wassertiefe einlaufen, so kommt es zur Störung der kreisförmigen (schleifenförmigen) Orbitalbewegung der Wasserteilchen durch *Grundberührung*, die Orbitalbewegung wird abgebremst. Die ursprüngliche Kreisbewegung nimmt eine stark elliptische Form an, dies führt zur Destabilisierung der Wellen. Die Brechung von Meereswellen setzt ein, wenn die Orbitalbewegung der Wasserteilchen in den Wellenkämmen größer als die Wellengeschwindigkeit ist (theoretisch ist dies der Falle, wenn die Wellenhöhe 1/7 der Wellenlänge übersteigt)
+  
  
 ## Seewetterinformation
 
@@ -1580,7 +1573,7 @@ Seehandbuch Mittelmeer
   - Thermometer
   - Windmesser
 
-- Windmesser (Anemometer) bestehen aus
-  - Windgeschwindigkeitsmesser
-  - Windrichtungsanzeiger. 
+- Windmesser (Anemometer) bestehen aus / Wind wird gemessen mit
+  - Windgeschwindigkeitsmesser (Schalenkreuz)
+  - Windrichtungsanzeiger (Windfahne). 
 
