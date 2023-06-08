@@ -1496,8 +1496,8 @@ Seehandbuch Mittelmeer
   - Strom gegenan: Verkürzung der Wellenlänge, Zunahme der Wellensteilheit  
 
 - Seegang besteht aus
-  - Windsee
-  - Dünung
+  - Windsee => Assymetrisches Aussehen  
+  - Dünung => Symetrisches Aussehen 
 
 - Windsee:
   - Seegang, der durch den Wind am Ort oder in der näheren Umgebung angefacht wird. 

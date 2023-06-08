@@ -333,7 +333,7 @@ TCPA
 Zeitspanne bis zum Erreichen des CPA  
 SPCPA   
 Seitenpeilung Zum Gegner zum TCA  
-PCPA  
+PCPA   
 Peilung zum Gegner zum TCA  
 vA  
 Eigene Geschwindigkeit vB Geschwindigkeit von B  

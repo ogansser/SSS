@@ -234,6 +234,33 @@ oder Geschwindigkeit selbständig bestimmen.
 
 - Rotes Rundumlicht, fortwährend das Schallsignal kurz – lang: Es handelt sich um das Bleib-weg-Signal, das von einem Fahrzeug gegeben wird, bei dem bestimmte gefährliche Güter oder radioaktive Stoffe frei werden oder drohen freizuwerden oder es besteht Explosionsgefahr. Man hat sich mit seinem Fahrzeug möglichst weit von dem anderen Fahrzeug zu entfernen (sicherer Abstand) und keine elektrischen Schalter bedienen, kein offenes Feuer.
 
+## Schallsignale vermindert Sicht
+
+- lang	▬	Maschinenfahrzeug in Fahrt mit Fahrt durchs Wasser, mind. alle 2 Minuten  
+- lang, lang	▬  ▬	Maschinenfahrzeug in Fahrt ohne Fahrt durchs Wasser (d. h. treibend), mind. alle 2 Minuten  
+- lang, kurz, kurz	▬  ● ●	segelnde, schleppende, schiebende, manövrierunfähige und tiefgangbehinderte Fahrzeuge in Fahrt; manövrierbehinderte und - - fischende Fahrzeuge in Fahrt oder vor Anker, mind. alle 2 Minuten  
+- lang, kurz, kurz, kurz	▬ ● ● ●	geschleppte/geschobene Fahrzeuge im Anschluss an das Signal des schleppenden/schiebenden Fahrzeugs  
+
+## Schallsignale Ankerlieger
+
+- lang (mind. 5 sec)	🔔...🔔	Ankerlieger ab 20 m bis 100 m Länge einmal pro Minute ein mind. 5 s dauerndes Glockensignal  
+- lang (mind. 5 sec)	🔔...🔔 + Gong	Ankerlieger ab 100 m Länge einmal pro Minute ein mind. 5 s dauerndes Glockensignal, direkt im Anschluss mind. 5 s lang Gongschlagen am Heck
+
+## Schallsignal Grundsitzer
+
+- 🔔 🔔 🔔 + 🔔...🔔 + 🔔 🔔 🔔	Grundsitzer bis 100 m Länge einmal pro Minute 3 Glockenschläge, 5 s rasches Glockenläuten gefolgt von 3 Glockenschlägen  
+- 🔔 🔔 🔔 + 🔔...🔔 + 🔔 🔔 🔔 + Gong	Grundsitzer ab 100 m Länge einmal pro Minute 3 Glockenschläge, 5 s rasches Glockenläuten, 3 Glockenschläge gefolgt von 5 s raschem Gongschlagen am Heck
+
+## Manöversignale
+
+- kurz	●	Ich ändere meinen Kurs nach Steuerbord
+- kurz, kurz	● ●  	Ich ändere meinen Kurs nach Backbord
+- kurz, kurz, kurz	● ● ●	Meine Maschine geht rückwärts
+- 5 × kurz oder mehr	● ● ● ● ●  ...	Gefahr eines Zusammenstoßes, Sie sind ausweichpflichtig! (sehr kurze Töne)
+
+## Sonstige Signale
+
+- 3× lang, Pause, 3× lang	▬  ▬  ▬ Pause ▬  ▬  ▬	Seeschifffahrtsstraße gesperrt
 
 ## Radarplotten
 
@@ -371,6 +398,10 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
 
 - Nach Gebrauch Kocher: Ventil am Kocher + Ventil an Flasche schließen (evtl. Gasspürgerät in Bilge)
 
+- Gasdetektor => Alarm sobald bestimmte Gaskonzentration erreicht wird, optional mit Gasabschaltvorichtung
+
+- Gasanlage hat ein Prüfstempel bzw. ein Prüfzertifikat von der zuständigen Prüfstelle. Die Farbe der PLakette ändert sich jährlich. 
+
 - Einscheibiger Block der Tagelage (stehendes und laufendes Gut):   
   => Richtungsänderung des durchlaufenden Gutes
 
@@ -404,7 +435,7 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
 ## Stabilität 
 
 
-- Stabilität: Aufrichtvermögen einer Yacht, falls sie gekränkt wird. 
+- Stabilität: Aufrichtvermögen einer Yacht, falls sie gekrängt wird. 
 
 - Neigung => Formschwerpunkt F wandert zur geneigten Seite => Kräftepaar mit Wirkungsgeraden des Massenmittelpunktes (Gewichtsschwerpunkt) => will aufrechte Schwimmlage wieder herstellen.
 
@@ -426,12 +457,14 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - Metazentrum
   - Auftrieb
   - aufrichtender Hebelarm  
-  => GewichtsstabileS Schiff => Gewichtsschwerpunkt unterhalb Formschwerpunkt => Aufrichtendes Moment => Schiff kentert nicht
+  => Gewichtsstabile Schiff => Gewichtsschwerpunkt unterhalb Formschwerpunkt => Aufrichtendes Moment => Schiff kentert nicht
 
 - Stabilität wird beeinflusst von     
   - Geometrie (Form),
   - Gewichtsverteilung im Schiff (Ausrüstung, Crew, Ballast) und
   - von außen wirkenden Störkräften (Wind, Seegang, Trossenzug).
+  
+- Durch extreme Vereisung der Takelage verlagert sich der Gewichtsschwerpunkt gefährlich nach oben. 
 
 - Bauliche Auslegungen
   - Ranke Yacht:
@@ -512,7 +545,7 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - Reservekraftstoff/-schmiermittel.
   
 
-- Inhalte Sicherheitseinweisung der gesamten Besatzung vor Reisebeginn: Einweisung in Gebrauch und Bedienung
+- Inhalte Sicherheitseinweisung der gesamten Besatzung vor Reisebeginn (Sicherheitsvorkehrungen): Einweisung in Gebrauch und Bedienung
   - der Rettungswesten und Sicherheitsgurte,
   - der Rettungsinsel,
   - der Signalmittel,
@@ -736,7 +769,7 @@ nach manueller oder automatischer Auslösung wird der Notruf automatisch über S
   - Mit vorgeschriebenen Notzeichen Hilfe anfordern.
   - Angabe machen über Zustand des Fahrzeugs und der Besatzung, Kurs und Geschwindigkeit, Wetter in dem betreffenden Seegebiet Einzelheiten über das Erkennen des Fahrzeugs.
 
-- Maßnahmen bei Verlassen der Yacht:
+- Maßnahmen bei Verlassen des Fahrzeugs:
   - Möglicht viel Flüssigkeit zu sich nehmen.
   - Vor dem Vonbordgehen enganliegende wärmende Kleidung anziehen (möglichst reichlich, mit Schuhen und Handschuhen).
   - Falls Überlebensfahrzeug vorhanden (Boot, Floß), Decken, Lebensmittel mit Getränken, Erste-Hilfe Verbandskasten, Sprechfunkgerät, Notsender usw. in dieses Fahrzeug geben.
@@ -1009,8 +1042,10 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
   - Schwimmkörper, der mit einer Leine am Anker befestigt ist und vorrangig die Lage des Ankers anzeigt,
   - Bruch der Ankerleine => Bergung des Ankers möglich. 
   - Festkommen an Unterwasserhindernis => Anker kann durch Ziehen entgegen der Zugrichtung der Ankerkette gelichtet werden.
+  
+- Verzicht auf Ankerboje, wenn geringes Verkehrsaufkommen, flaches Wasser, guter Ankergrund  
 
-- Ankern bei Nacht in einer Bucht:
+- Ankern bei Nacht/über längere Zeit in einer Bucht:
   - Wind muss auch nach der Vorhersage ablandig sein
   - Muss Schutz vor Schwell und Dünung bieten
   - Ankergrund muss ausreichende Halteeigenschaften haben
@@ -1496,8 +1531,8 @@ Seehandbuch Mittelmeer
   - Strom gegenan: Verkürzung der Wellenlänge, Zunahme der Wellensteilheit  
 
 - Seegang besteht aus
-  - Windsee
-  - Dünung
+  - Windsee => Assymetrisches Aussehen  
+  - Dünung => Symetrisches Aussehen 
 
 - Windsee:
   - Seegang, der durch den Wind am Ort oder in der näheren Umgebung angefacht wird. 
@@ -1519,6 +1554,8 @@ Seehandbuch Mittelmeer
 
 - Grundsee
   - Man spricht allgemein von einer Grundsee, wenn eine Welle aufgrund ihrer Länge auf flachem Wasser vom Meeresboden aufgestellt wird. Es kommt zum Überbrechen hoher bzw. steiler Wellen.
+  - Entstehung: Durch Untiefen oder in Küstennähe. Eine Grundsee kann etwa das 2,5 fache
+der signifikanten Wellenhöhe erreichen.
   - Ursache: Wenn relativ lange und verhältnismäßig hohe Wellen aus tieferem Wasser in Gebiete mit geringer Wassertiefe einlaufen, so kommt es zur Störung der kreisförmigen (schleifenförmigen) Orbitalbewegung der Wasserteilchen durch *Grundberührung*, die Orbitalbewegung wird abgebremst. Die ursprüngliche Kreisbewegung nimmt eine stark elliptische Form an, dies führt zur Destabilisierung der Wellen. Die Brechung von Meereswellen setzt ein, wenn die Orbitalbewegung der Wasserteilchen in den Wellenkämmen größer als die Wellengeschwindigkeit ist (theoretisch ist dies der Falle, wenn die Wellenhöhe 1/7 der Wellenlänge übersteigt)
   
  
