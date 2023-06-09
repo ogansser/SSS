@@ -278,7 +278,7 @@ Passierabstand voraus (auf der Kurslinie) Bow crossing range
   
 - Ob ein Seeunfall im Rahmen des SUG untersucht wird, entscheidet der Direktor der Bundesstelle. 
 
-- Die Seeämter (Kiel, Hamburg, Bremerhafen, Emden, Rostock) sind Untersuchungsausschüsse mit der Aufgabe zu untersuchen, ob ein Befähigungszeugnis entzogen oder ein Fahrverbot verfügt werden soll. 
+- Die Seeämter (Emden, Bremerhaven, Hamburg, Kiel, Rostock) sind Untersuchungsausschüsse mit der Aufgabe zu untersuchen, ob ein Befähigungszeugnis entzogen oder ein Fahrverbot verfügt werden soll. 
 
 - Generell sollen Ursachen und Umstände eines Seeunfalles festgestellt werden und ob ein fehlerhaftes Verhalten eines Beteiligten vorliegt, auch wenn letzteres nicht unfallursächlich war.
 So betreffen z.B. den Skipper eines Sportbootes:  
