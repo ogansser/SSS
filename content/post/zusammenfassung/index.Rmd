@@ -241,7 +241,7 @@ oder Geschwindigkeit selbständig bestimmen.
 - lang, kurz, kurz	▬  ● ●	segelnde, schleppende, schiebende, manövrierunfähige und tiefgangbehinderte Fahrzeuge in Fahrt; manövrierbehinderte und fischende Fahrzeuge in Fahrt oder vor Anker, mind. alle 2 Minuten  
 - lang, kurz, kurz, kurz	▬ ● ● ●	geschleppte/geschobene Fahrzeuge im Anschluss an das Signal des schleppenden/schiebenden Fahrzeugs  
 
-## Schallsignale Ankerlieger
+## Schallsignale Ankerlieger bei verminderter Sicht
 
 - lang (mind. 5 sec)	🔔...🔔	Ankerlieger ab 20 m bis 100 m Länge einmal pro Minute ein mind. 5 s dauerndes Glockensignal  
 - lang (mind. 5 sec)	🔔...🔔 + Gong	Ankerlieger ab 100 m Länge einmal pro Minute ein mind. 5 s dauerndes Glockensignal, direkt im Anschluss mind. 5 s lang Gongschlagen am Heck
@@ -253,10 +253,10 @@ oder Geschwindigkeit selbständig bestimmen.
 
 ## Manöversignale
 
-- kurz	●	Ich ändere meinen Kurs nach Steuerbord
-- kurz, kurz	● ●  	Ich ändere meinen Kurs nach Backbord
-- kurz, kurz, kurz	● ● ●	Meine Maschine geht rückwärts
-- 5 × kurz oder mehr	● ● ● ● ●  ...	Gefahr eines Zusammenstoßes, Sie sind ausweichpflichtig! (sehr kurze Töne)
+- kurz	●	Ich ändere meinen Kurs nach Steuerbord (34a)
+- kurz, kurz	● ●  	Ich ändere meinen Kurs nach Backbord (34a)
+- kurz, kurz, kurz	● ● ●	Meine Maschine geht rückwärts (34a)
+- 5 × kurz oder mehr	● ● ● ● ●  ...	Gefahr eines Zusammenstoßes, Sie sind ausweichpflichtig! (sehr kurze Töne) (34d)
 
 ## Sonstige Signale
 
