@@ -39,8 +39,8 @@ output:
 
 - Nationalen Gesetze und Verordnungen die Vorschriften über das Verhalten nach einem Zusammenstoß enthalten:
   - Das Seesicherheits-Untersuchungs-Gesetz (SUG)
-  - Verordnung über die Sicherung der Seefahrt
-  - Seeschifffahrtsstraßen-Ordnung
+  - Verordnung über die Sicherung der Seefahrt (SeeFSichV)
+  - Seeschifffahrtsstraßen-Ordnung (SeeSchStrO)
   
 - Verordnung über die Sicherung der Seefahrt => Verhalten auf See:
   - Pflicht zur Seenotrettung
@@ -108,8 +108,7 @@ KVR Regel 17 a i (Kurs und Geschwindigkeit beibehalten)
 KVR Regel 17 a ii (Manöver des vorletzten Augenblicks ("darf"))  
 KVR Regel 17 b (Manöver des letzten Augenblicks ("muss"))  
 
-Schallsignale:	5 kurze Töne  = Zweifel- und Gefahrensignal KVR Regel 34 d
-
+- Lageänderung beider Fahrzeuge zueinander ist ohne Belang. Maßgeblich für die *Ausweichpflicht* ist der Augenblick des Insichtkommens.
 
 - *Engstellen* => zwei oder mehrere Schiffe nicht gleichzeitig nebeneinander
   - Überholverbot
@@ -118,17 +117,15 @@ Schallsignale:	5 kurze Töne  = Zweifel- und Gefahrensignal KVR Regel 34 d
     - In Tidengewässern und in tidefreien Gewässern mit Strömungen: das mit dem Strom fahrende Fahrzeug, bei Stromstillstand das Fahrzeug, das vorher gegen den Strom gefahren ist.
     - In tidefreien Gewässern ohne Strömung:  das Fahrzeug, das grundsätzlich die Steuerbordseite des Fahrwassers zu benutzen hat. Das wartepflichtige Fahrzeug muss außerhalb der Engstelle so lange warten, bis das andere Fahrzeug vorbeigefahren ist.
 
-- *Wegerechtschiffe* (mit Ausnahme auf dem NOK) => überschreiten Abmessungen => gezwungen, tiefsten Teil des Fahrwassers zu nutzen => manövrierbehindert => am Tage senkrecht untereinander Ball Rhombus-Ball => Bei Nacht zusätzlich zu den vorgeschriebenen Lichtern eines Maschinenfahrzeuges in Fahrt drei Rundumlichter senkrecht übereinander, rot-weiß-rot => Nebelsignal: lang, kurz, kurz mindestens alle 2 Minuten.
+- *Wegerechtschiffe* (mit Ausnahme auf dem NOK) => manövrierbehindert
 
+- Regel 2b: Wenn Kurshaltepflicht und Ausweichpflicht kollidieren, ist die Kurshaltepflicht aufgehoben => Ausweichen hat Vorrang!
 
-- Ein Fahrzeug von weniger als 20 m oder ein Segelfahrzeug darf die sichere Durchfahrt eines Maschinenfahrzeuges auf dem *Einbahnweg (VTG)* nicht behindern (Regel 10 j)
+- Regel 10 a: Diese Regel gilt in Verkehrstrennungsgebieten, die von der Organisation festgelegt worden sind; sie befreit ein Fahrzeug nicht von seiner Verpflichtung auf Grund einer anderen Regel.
 
-- Nach *Regel 10 a (für VTG)* wird ein Fahrzeug nicht von seiner Verpflichtung aufgrund einer anderen Regel befreit.
+- Regel 10 j: Ein Fahrzeug von weniger als 20 Meter Länge oder ein Segelfahrzeug darf die sichere Durchfahrt eines Maschinenfahrzeugs auf dem Einbahnweg nicht behindern.
 
-- Lageänderung beider Fahrzeuge zueinander ist ohne Belang. Maßgeblich für die *Ausweichpflicht* ist der Augenblick des Insichtkommens.
-
-- Wenn Kurshaltepflicht und Ausweichpflicht kollidieren, ist die Kurshaltepflicht nach Regel 2b KVR aufgehoben => Ausweichen hat Vorrang!
-
+- Regel 13: jedes Fahrzeug muss beim Überholen dem anderen ausweichen.
 
 - *Manövrierunfähig* ist Fahrzeug durch einen außergewöhnlichen Umstand 
 
@@ -155,9 +152,6 @@ Schallsignale:	5 kurze Töne  = Zweifel- und Gefahrensignal KVR Regel 34 d
 
 -  KÜMO = Küstenmtorschiff
 
-- Als Nebelsignal ist in der Elbmündung außerhalb der Seeschiffahrtstraßenordnung von einem Grundsitzer zu geben: Mindestens jede Minute etwa 5 Sekunden lang die Glocke rasch läuten sowie zusätzlich unmittelbar vor und nach dem raschen Glockenläuten drei scharf voneinander getrennte Glockenschläge.   
-Ein Fahrzeug auf Grund darf zusätzlich ein Pfeifsignal kurz-lang-kurz geben (Regel 35 h)
-
 - Eine Motoryacht, Länge 8 m, treibt nachts manövrierunfähig in der Nordsee und sieht ein großes Fahrzeug direkt auf sich zukommen. Welche Maßnahmen hat das Fahrzeug zu ergreifen?   
 Ein Fahrzeug von weniger als 12 m Länge, das die roten Rundumlichter senkrecht übereinander nicht führt, muss folgende Maßnahmen ergreifen:   
   1. Durch jedes andere verfügbare Mittel anzeigen, dass es manövrierunfähig ist, z.B. über UKWSprechfunk oder durch ein Schallsignal oder Lichtsignal lang, kurz, kurz.
@@ -166,7 +160,7 @@ Ein Fahrzeug von weniger als 12 m Länge, das die roten Rundumlichter senkrecht 
   4. Abfeuern eines Signals „weißer Stern“ oder „Blitz-Knall“.
   5. Sofort bei Eintritt der Manövrierunfähigkeit Verkehrszentrale informieren (wenn vorhanden).
 
-Regel 5 Ausguck: Jederzeit durch Sehen + Hören + durch jedes andere Mittel  
+- Regel 5 Ausguck: Jederzeit durch Sehen + Hören + durch jedes andere Mittel    
 => Ausguck halten  
 => Überblick über die Lage + Möglichkeit der Gefahr eines Zusammenstoßes
 
@@ -234,6 +228,35 @@ oder Geschwindigkeit selbständig bestimmen.
 
 - Rotes Rundumlicht, fortwährend das Schallsignal kurz – lang: Es handelt sich um das Bleib-weg-Signal, das von einem Fahrzeug gegeben wird, bei dem bestimmte gefährliche Güter oder radioaktive Stoffe frei werden oder drohen freizuwerden oder es besteht Explosionsgefahr. Man hat sich mit seinem Fahrzeug möglichst weit von dem anderen Fahrzeug zu entfernen (sicherer Abstand) und keine elektrischen Schalter bedienen, kein offenes Feuer.
 
+## Schallsignale vermindert Sicht
+
+- lang	▬	Maschinenfahrzeug in Fahrt mit Fahrt durchs Wasser, mind. alle 2 Minuten  
+- lang, lang	▬  ▬	Maschinenfahrzeug in Fahrt ohne Fahrt durchs Wasser (d. h. treibend), mind. alle 2 Minuten  
+- lang, kurz, kurz	▬  ● ●	segelnde, schleppende, schiebende, manövrierunfähige und tiefgangbehinderte Fahrzeuge in Fahrt; manövrierbehinderte und fischende Fahrzeuge in Fahrt oder vor Anker, mind. alle 2 Minuten  
+- lang, kurz, kurz, kurz	▬ ● ● ●	geschleppte/geschobene Fahrzeuge im Anschluss an das Signal des schleppenden/schiebenden Fahrzeugs  
+
+## Schallsignale Ankerlieger bei verminderter Sicht
+
+- lang (mind. 5 sec)	🔔...🔔	Ankerlieger ab 20 m bis 100 m Länge einmal pro Minute ein mind. 5 s dauerndes Glockensignal  
+- lang (mind. 5 sec)	🔔...🔔 + Gong	Ankerlieger ab 100 m Länge einmal pro Minute ein mind. 5 s dauerndes Glockensignal, direkt im Anschluss mind. 5 s lang Gongschlagen am Heck
+
+## Schallsignal Grundsitzer
+
+- 🔔 🔔 🔔 + 🔔...🔔 + 🔔 🔔 🔔	Grundsitzer bis 100 m Länge einmal pro Minute 3 Glockenschläge, 5 s rasches Glockenläuten gefolgt von 3 Glockenschlägen  
+- 🔔 🔔 🔔 + 🔔...🔔 + 🔔 🔔 🔔 + Gong	Grundsitzer ab 100 m Länge einmal pro Minute 3 Glockenschläge, 5 s rasches Glockenläuten, 3 Glockenschläge gefolgt von 5 s raschem Gongschlagen am Heck
+
+Ein Fahrzeug auf Grund darf zusätzlich ein Pfeifsignal kurz-lang-kurz geben (Regel 35 h)
+
+## Manöversignale
+
+- kurz	●	Ich ändere meinen Kurs nach Steuerbord (34a)
+- kurz, kurz	● ●  	Ich ändere meinen Kurs nach Backbord (34a)
+- kurz, kurz, kurz	● ● ●	Meine Maschine geht rückwärts (34a)
+- 5 × kurz oder mehr	● ● ● ● ●  ...	Gefahr eines Zusammenstoßes, Sie sind ausweichpflichtig! (sehr kurze Töne) (34d)
+
+## Sonstige Signale
+
+- 3× lang, Pause, 3× lang	▬  ▬  ▬ Pause ▬  ▬  ▬	Seeschifffahrtsstraße gesperrt
 
 ## Radarplotten
 
@@ -245,15 +268,15 @@ Passierabstand voraus (auf der Kurslinie) Bow crossing range
 ## Seeunfalluntersuchung
 
 - Ein Führer eine Sportbootes muss einen Seeunfall *unverzüglich melden* (mit Bericht) an: 
-  - Bundesstelle für Seeunfalluntersuchungen, alternativ
+  - Bundesstelle für Seeunfalluntersuchungen (BSU), alternativ
   - Wasserschutzpolizei des Einlaufhafens
   - Hafenbehörde (Ausland)
   
 - Ob ein Seeunfall im Rahmen des SUG untersucht wird, entscheidet der Direktor der Bundesstelle. 
 
-- Die Seeämter (Kiel, Hamburg, Bremerhafen, Emden, Rostock) sind Untersuchungsausschüsse mit der Aufgabe zu untersuchen, ob ein Befähigungszeugnis entzogen oder ein Fahrverbot verfügt werden soll. 
+- Die Seeämter (Emden, Bremerhaven, Hamburg, Kiel, Rostock) sind Untersuchungsausschüsse mit der Aufgabe zu untersuchen, ob ein Befähigungszeugnis entzogen oder ein Fahrverbot verfügt werden soll. 
 
-- Generell sollen Ursachen und Umstände eines Seeunfalles festgestellt werden und ob ein fehlerhaftes Verhalten eines Beteiligten vorliegt, auch wenn letzteres nicht unfallursächlich war.
+- Generell sollen Ursachen und Umstände eines Seeunfalles festgestellt werden und ob ein *fehlerhaftes Verhalten* eines Beteiligten vorliegt, auch wenn letzteres nicht unfallursächlich war.
 So betreffen z.B. den Skipper eines Sportbootes:  
   - Mängel in der Besatzung des Schiffes,
   - Fehler bei der Führung oder dem Betrieb des Schiffes,
@@ -265,41 +288,37 @@ So betreffen z.B. den Skipper eines Sportbootes:
 
 - Die Spruchkörper der Seeämter und des Bundesoberamtes sind besetzt mit einem Vorsitzenden und vier Beisitzern (ein [hauptamtlicher] Ständiger Beisitzer, drei ehrenamtliche Beisitzer).
 
-- Seeamt und Bundesoberseeamt können beim Vorliegen eines fehlerhaften Verhaltens bei einem der Beteiligten, hier Segler, den Sportbootführerschein entziehen, soweit der Segler im Besitz eines solchen Sportbootführerscheines ist. Sportsee- und/oder Sporthochseeschifferscheine können als freiwillige staatliche Scheine ebenfalls entzogen werden.
+- Seeamt und Bundesoberseeamt können beim Vorliegen eines *fehlerhaften Verhaltens* bei einem der Beteiligten, hier Segler, den Sportbootführerschein entziehen, soweit der Segler im Besitz eines solchen Sportbootführerscheines ist. Sportsee- und/oder Sporthochseeschifferscheine können als freiwillige staatliche Scheine ebenfalls entzogen werden.
 
 - Verordnung über die Sicherung der Seefahrt:
 Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:  
   - sind Personen verletzt und benötigen diese Hilfe.
   - ist gegenseitiger Beistand (materieller Art) erforderlich.
   - Austauschen: Schiffsname, Abgangs- und Bestimmungshafen, evtl. Unterscheidungssignal.
-Reise erst fortsetzen, wenn kein Beistand (mehr) benötigt wird. Kann ein Schiffsführer seiner Verpflichtung zur Hilfeleistung nicht nachkommen, so hat er dieses unter Angabe der Gründe ins Logbuch einzutragen und das für seinen Heimathafen zuständige Seeamt zu informieren.
+  - Reise erst fortsetzen, wenn kein Beistand (mehr) benötigt wird. 
+  - Kann ein Schiffsführer seiner Verpflichtung zur Hilfeleistung nicht nachkommen, so hat er dieses unter Angabe der Gründe ins Logbuch einzutragen und das für seinen Heimathafen zuständige Seeamt zu informieren.
 
 
 ## Umweltschutz
 
-- MARPOL-Abkommen (Internationale Übereinkommen zur Verhütung der Meeresverschmutzung) gilt international und das Übereinkommen von Helsinki für die Anreinerstaaten der Ostsee für die Ostsee.
+- MARPOL-Abkommen (Internationale Übereinkommen zur Verhütung der Meeresverschmutzung) gilt international 
+
+- Übereinkommen von Helsinki für die Anreinerstaaten der Ostsee für die Ostsee.
 
 - Sondergebiete nach MARPOL bedeuten, dass darin die Beseitigung aller Kunsstoffgegenstände und sonstigen Mülls verboten ist.
 
 - Sondergebiete in Europa sind: Ostsee, Nordsee, Mittelmeer   
 
-- In Sondergebieten ist das Einleiten jeglicher Art von Schadstoffen verboten.
+- In Sondergebieten ist das Einleiten jeglicher Art von Schadstoffen (Öl, festen und flüssigen Schadstoffen jeglicher Art sowie Schiffsmüll) verboten.
 
-- Für Yachten gilt in Sondergebieten das Verbot des Einleitens von Öl, festen und flüssigen Schadstoffen jeglicher Art sowie Schiffsmüll. Lebensmittelabfälle, zerkleinert oder nicht, dürfen nur im Mindestabstand 12 sm von Land ins Meer geleitet werden.
+- Lebensmittelabfälle, zerkleinert oder nicht, dürfen nur im Mindestabstand 12 sm von Land ins Meer geleitet werden.
 
-Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen zugelassen sind, die Auflage, dass jegliche Einleitung von Abwässern innerhalb der 12sm Zone verboten ist. Die Yachten müssen, soweit sich eine Toilette an Bord befindet, mit einem geschlossenen Fäkalientank ausgestattet sein. 
-
-- Lebensmittelabfälle sollten in Müllbehältern in Häfen entsorgt werden. Sie dürfen auf See nur in einem Abstand von Mindestens 12sm von Land entfernt außenbords entsorgt werden.
-
-- Leere Flaschen aller Art dürfen nur an Land entsorgt werden.  
-
-- Fäkalien bzw. Abwässer müssen, da das Schiff für die Beförderung von mehr als 10 Personen vorgesehen ist, in einem Tank gesammelt und entweder an Land entsorgt oder in einer mäßigen Rate bei einer Geschwindigkeit von 4 kn in einem Abstand von mindestens 12 sm von Land eingeleitet werden. Wenn das Abwasser desinfiziert ist und die Rückstände zerkleinert sind, genügt ein Mindestabstand von Land von 4 sm.
+- Abwasserbeseitigung an der Ostsee (für Fzg mit Zulassung bis 15 Personen)
+  - Einleitung von Abwässern innerhalb der 12sm Zone verboten (wenn desinfiziert und zerkleiner 4sm).
+  - außerhalb der 12sm Zone einleiten mit mäßigen Rate von 4 kn. 
+  - Die Yachten müssen, soweit sich eine Toilette an Bord befindet, mit einem geschlossenen Fäkalientank ausgestattet sein.
+  
                          
-                                         
-![](Schallsignale)
-
-
-
 \newpage
 
 # Seemanschaft
@@ -335,26 +354,23 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - sehr starke Belastung im Rigg (Fußblock reißt aus, Wantbruch in Lee, Baumstauch in den Mast)   
   => Bullenstander 
 
-- Wind aus Richtung Bestimmungshafen:
-  => Kreuzen
-  => in bestimmten Zeitabständen abwechselnd mit Wind von Stb. oder Bb. segeln. 
-  => Segeltechnisch in ebenso gewissen Zeitabständen Wende fahren.
+- Wind aus Richtung Bestimmungshafen:  
+  - Kreuzen  
+  - in bestimmten Zeitabständen abwechselnd mit Wind von Stb. oder Bb. segeln.   
+  - Segeltechnisch in ebenso gewissen Zeitabständen Wende fahren.  
 
 - Begriffe beim Kreuzen:
   - Holebug: Kurs, auf dem man gegenüber dem Wind an Höhe gewinnt, sich aber dem Bestimmungsort nicht merklich nähert.
   - Streckbug: Kurs, auf dem man wenig Höhe gewinnt, aber in Richtung des Zieles Strecke gutmacht.
 
-- Bedeutung von Kommandos für Ablauf Segelmanöver:
+- Bedeutung von Kommandos für Ablauf Segelmanöver:  
   - Harmonisierung und Steuerung durch Schiffsführer  
-  => Geordneter zeitlicher Ablauf
-  => Richtiges Ausmaß der Einzelhandlungen
+  - Geordneter zeitlicher Ablauf  
+  - Richtiges Ausmaß der Einzelhandlungen
 
 - Lenzeinrichtungen/wo installiert:
-  - Bilgenpumpe =>   in Bilge
-  - Bilgenalarm =>   in Bilge
-  - Automatische Bilgenpumpe  =>   in Bilge
-  - Schwimmender Schalter  =>   in Bilge
-  - Bilgen-Handpumpe  =>   in Cockpit und Küche
+  - Bilgenpumpe (auotmatisch), Schwimmschalter, Bildgenalarm => Bilge
+  - Bilgen-Handpumpe  =>  Cockpit und Küche
 
 - Pumpleistung nach Germanische Lloyd für Yachten von 8-10 m Länge:
   - 1 Handpumpe mit 5 qm/h 
@@ -364,12 +380,16 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - Geltenden Sicherheitsvorschriften 
   - Abgenommen
   - Gasbehälter im Kasten mit Ablauföffnung nach Außenbords
-  - Druckreduzierer
+  - Druckminderer
   - Absperrventile
   - weitgehend feste Leitungen
   - Kocher mit Zündsicherung.
 
 - Nach Gebrauch Kocher: Ventil am Kocher + Ventil an Flasche schließen (evtl. Gasspürgerät in Bilge)
+
+- Gasdetektor => Alarm sobald bestimmte Gaskonzentration erreicht wird, optional mit Gasabschaltvorichtung
+
+- Gasanlage hat ein Prüfstempel bzw. ein Prüfzertifikat von der zuständigen Prüfstelle. Die Farbe der Plakette ändert sich jährlich. 
 
 - Einscheibiger Block der Tagelage (stehendes und laufendes Gut):   
   => Richtungsänderung des durchlaufenden Gutes
@@ -386,7 +406,7 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - Segel (u.a. Anzahl, Machart/Material, Zustand, Stauplatz)
   - Maschinenanlage (u.a. Hersteller, Baujahr, Leistung, Bedienung, Wartung bzw. Instandhaltung)
   - Stromversorgung (u.a. Kapazität)
-  - Schraube (u.a. Bauart, rechts- oder linksgängig und welche Steuerwirkung)
+  - Schraube (u.a. Bauart, rechts- oder linksgängig und welche Steuerwirkung, Stb oder Bb)
   - Manövrierdaten unter Segel und Maschine (u.a. Geschwindigkeit)
   - Ruderanlage (u.a. Bauart) und Notruderbedienug
   - Ankereinrichtung
@@ -404,21 +424,21 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
 ## Stabilität 
 
 
-- Stabilität: Aufrichtvermögen einer Yacht, falls sie gekränkt wird. 
+- Stabilität: Aufrichtungsvermögen einer Yacht, falls sie gekrängt wird. 
 
-- Neigung => Formschwerpunkt F wandert zur geneigten Seite => Kräftepaar mit Wirkungsgeraden des Massenmittelpunktes (Gewichtsschwerpunkt) => will aufrechte Schwimmlage wieder herstellen.
+- Neigung => Formschwerpunkt wandert zur geneigten Seite => Kräftepaar mit Wirkungsgeraden des Massenmittelpunktes (Gewichtsschwerpunkt) => will aufrechte Schwimmlage wieder herstellen.
 
 - Dem Krängungsmoment (Winddruck, Wasser[quer]widerstand) wirkt das aufrichtende Moment (Hebelarm aus Auftriebskraft und Gewichtskraft) entgegen.
 
 - Archimedes: Die Auftriebskraft ist die Gewichtskraft des verdrängten Wasservolumens!
 
-- Metazentrum: Schnittpunkt der Auftriebskraft mit der Schiffsachse
+- Auftriebsschwerpunkt = Mittelpunkt des untergetauchten Schiffes.
 
-- Metazentrische Höhe muss immer Positiv sein => stabil
+- Metazentrum: Schnittpunkt der Auftriebskraft mit der Schiffsachse
 
 - Metazentrische Höhe = Höhe zwischen Gewichtsschwerpunkt und Metazentrum
 
-- Auftriebsschwerpunkt = Mittelpunkt des untergetauchten Schiffes.
+- Metazentrische Höhe muss immer positiv sein => stabil 
 
 - Begriffe:
   - Gewichtsschwerpunkt (Massenmittelpunkt)
@@ -426,12 +446,13 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - Metazentrum
   - Auftrieb
   - aufrichtender Hebelarm  
-  => GewichtsstabileS Schiff => Gewichtsschwerpunkt unterhalb Formschwerpunkt => Aufrichtendes Moment => Schiff kentert nicht
-
+  
 - Stabilität wird beeinflusst von     
   - Geometrie (Form),
   - Gewichtsverteilung im Schiff (Ausrüstung, Crew, Ballast) und
   - von außen wirkenden Störkräften (Wind, Seegang, Trossenzug).
+  
+- Durch extreme Vereisung der Takelage verlagert sich der Gewichtsschwerpunkt gefährlich nach oben. 
 
 - Bauliche Auslegungen
   - Ranke Yacht:
@@ -483,7 +504,7 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - Anker
 
 - Sicherheitsausrüstung für persönliche Sicherheit:
-  - Rettungsweste je Besatzugnsmitglied + 1 lifebelt 
+  - Für jedes Besatzungsmitglied 1 Rettungsweste, 1 Lifebelt 
   - mindestens ein Rettungsring mit schwimmfähiger Wurfleine (lt. SeeBG: 28 m lang)
 
 - Mindestausstattung Fahrenyacht an Rettungseinrichtungen/Gegenstände (lt. Broschüre Sicherheit auf dem Wasser):
@@ -512,7 +533,7 @@ Für die Abwasserbeseitigung an der Ostsee haben Yachten, die bis zu 15 Personen
   - Reservekraftstoff/-schmiermittel.
   
 
-- Inhalte Sicherheitseinweisung der gesamten Besatzung vor Reisebeginn: Einweisung in Gebrauch und Bedienung
+- Inhalte Sicherheitseinweisung der gesamten Besatzung vor Reisebeginn (Sicherheitsvorkehrungen): Einweisung in Gebrauch und Bedienung
   - der Rettungswesten und Sicherheitsgurte,
   - der Rettungsinsel,
   - der Signalmittel,
@@ -736,7 +757,7 @@ nach manueller oder automatischer Auslösung wird der Notruf automatisch über S
   - Mit vorgeschriebenen Notzeichen Hilfe anfordern.
   - Angabe machen über Zustand des Fahrzeugs und der Besatzung, Kurs und Geschwindigkeit, Wetter in dem betreffenden Seegebiet Einzelheiten über das Erkennen des Fahrzeugs.
 
-- Maßnahmen bei Verlassen der Yacht:
+- Maßnahmen bei Verlassen des Fahrzeugs:
   - Möglicht viel Flüssigkeit zu sich nehmen.
   - Vor dem Vonbordgehen enganliegende wärmende Kleidung anziehen (möglichst reichlich, mit Schuhen und Handschuhen).
   - Falls Überlebensfahrzeug vorhanden (Boot, Floß), Decken, Lebensmittel mit Getränken, Erste-Hilfe Verbandskasten, Sprechfunkgerät, Notsender usw. in dieses Fahrzeug geben.
@@ -1009,8 +1030,10 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
   - Schwimmkörper, der mit einer Leine am Anker befestigt ist und vorrangig die Lage des Ankers anzeigt,
   - Bruch der Ankerleine => Bergung des Ankers möglich. 
   - Festkommen an Unterwasserhindernis => Anker kann durch Ziehen entgegen der Zugrichtung der Ankerkette gelichtet werden.
+  
+- Verzicht auf Ankerboje, wenn geringes Verkehrsaufkommen, flaches Wasser, guter Ankergrund  
 
-- Ankern bei Nacht in einer Bucht:
+- Ankern bei Nacht/über längere Zeit in einer Bucht:
   - Wind muss auch nach der Vorhersage ablandig sein
   - Muss Schutz vor Schwell und Dünung bieten
   - Ankergrund muss ausreichende Halteeigenschaften haben
@@ -1519,6 +1542,8 @@ Seehandbuch Mittelmeer
 
 - Grundsee
   - Man spricht allgemein von einer Grundsee, wenn eine Welle aufgrund ihrer Länge auf flachem Wasser vom Meeresboden aufgestellt wird. Es kommt zum Überbrechen hoher bzw. steiler Wellen.
+  - Entstehung: Durch Untiefen oder in Küstennähe. Eine Grundsee kann etwa das 2,5 fache
+der signifikanten Wellenhöhe erreichen.
   - Ursache: Wenn relativ lange und verhältnismäßig hohe Wellen aus tieferem Wasser in Gebiete mit geringer Wassertiefe einlaufen, so kommt es zur Störung der kreisförmigen (schleifenförmigen) Orbitalbewegung der Wasserteilchen durch *Grundberührung*, die Orbitalbewegung wird abgebremst. Die ursprüngliche Kreisbewegung nimmt eine stark elliptische Form an, dies führt zur Destabilisierung der Wellen. Die Brechung von Meereswellen setzt ein, wenn die Orbitalbewegung der Wasserteilchen in den Wellenkämmen größer als die Wellengeschwindigkeit ist (theoretisch ist dies der Falle, wenn die Wellenhöhe 1/7 der Wellenlänge übersteigt)
   
  
