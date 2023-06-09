@@ -354,26 +354,23 @@ Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:
   - sehr starke Belastung im Rigg (Fußblock reißt aus, Wantbruch in Lee, Baumstauch in den Mast)   
   => Bullenstander 
 
-- Wind aus Richtung Bestimmungshafen:
-  => Kreuzen
-  => in bestimmten Zeitabständen abwechselnd mit Wind von Stb. oder Bb. segeln. 
-  => Segeltechnisch in ebenso gewissen Zeitabständen Wende fahren.
+- Wind aus Richtung Bestimmungshafen:  
+  - Kreuzen  
+  - in bestimmten Zeitabständen abwechselnd mit Wind von Stb. oder Bb. segeln.   
+  - Segeltechnisch in ebenso gewissen Zeitabständen Wende fahren.  
 
 - Begriffe beim Kreuzen:
   - Holebug: Kurs, auf dem man gegenüber dem Wind an Höhe gewinnt, sich aber dem Bestimmungsort nicht merklich nähert.
   - Streckbug: Kurs, auf dem man wenig Höhe gewinnt, aber in Richtung des Zieles Strecke gutmacht.
 
-- Bedeutung von Kommandos für Ablauf Segelmanöver:
+- Bedeutung von Kommandos für Ablauf Segelmanöver:  
   - Harmonisierung und Steuerung durch Schiffsführer  
-  => Geordneter zeitlicher Ablauf
-  => Richtiges Ausmaß der Einzelhandlungen
+  - Geordneter zeitlicher Ablauf  
+  - Richtiges Ausmaß der Einzelhandlungen
 
 - Lenzeinrichtungen/wo installiert:
-  - Bilgenpumpe =>   in Bilge
-  - Bilgenalarm =>   in Bilge
-  - Automatische Bilgenpumpe  =>   in Bilge
-  - Schwimmender Schalter  =>   in Bilge
-  - Bilgen-Handpumpe  =>   in Cockpit und Küche
+  - Bilgenpumpe (auotmatisch), Schwimmschalter, Bildgenalarm => Bilge
+  - Bilgen-Handpumpe  =>  Cockpit und Küche
 
 - Pumpleistung nach Germanische Lloyd für Yachten von 8-10 m Länge:
   - 1 Handpumpe mit 5 qm/h 
@@ -383,7 +380,7 @@ Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:
   - Geltenden Sicherheitsvorschriften 
   - Abgenommen
   - Gasbehälter im Kasten mit Ablauföffnung nach Außenbords
-  - Druckreduzierer
+  - Druckminderer
   - Absperrventile
   - weitgehend feste Leitungen
   - Kocher mit Zündsicherung.
