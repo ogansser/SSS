@@ -108,8 +108,7 @@ KVR Regel 17 a i (Kurs und Geschwindigkeit beibehalten)
 KVR Regel 17 a ii (Manöver des vorletzten Augenblicks ("darf"))  
 KVR Regel 17 b (Manöver des letzten Augenblicks ("muss"))  
 
-Schallsignale:	5 kurze Töne  = Zweifel- und Gefahrensignal KVR Regel 34 d
-
+- Lageänderung beider Fahrzeuge zueinander ist ohne Belang. Maßgeblich für die *Ausweichpflicht* ist der Augenblick des Insichtkommens.
 
 - *Engstellen* => zwei oder mehrere Schiffe nicht gleichzeitig nebeneinander
   - Überholverbot
@@ -118,17 +117,15 @@ Schallsignale:	5 kurze Töne  = Zweifel- und Gefahrensignal KVR Regel 34 d
     - In Tidengewässern und in tidefreien Gewässern mit Strömungen: das mit dem Strom fahrende Fahrzeug, bei Stromstillstand das Fahrzeug, das vorher gegen den Strom gefahren ist.
     - In tidefreien Gewässern ohne Strömung:  das Fahrzeug, das grundsätzlich die Steuerbordseite des Fahrwassers zu benutzen hat. Das wartepflichtige Fahrzeug muss außerhalb der Engstelle so lange warten, bis das andere Fahrzeug vorbeigefahren ist.
 
-- *Wegerechtschiffe* (mit Ausnahme auf dem NOK) => überschreiten Abmessungen => gezwungen, tiefsten Teil des Fahrwassers zu nutzen => manövrierbehindert => am Tage senkrecht untereinander Ball Rhombus-Ball => Bei Nacht zusätzlich zu den vorgeschriebenen Lichtern eines Maschinenfahrzeuges in Fahrt drei Rundumlichter senkrecht übereinander, rot-weiß-rot => Nebelsignal: lang, kurz, kurz mindestens alle 2 Minuten.
+- *Wegerechtschiffe* (mit Ausnahme auf dem NOK) => manövrierbehindert
 
+- Regel 2b: Wenn Kurshaltepflicht und Ausweichpflicht kollidieren, ist die Kurshaltepflicht aufgehoben => Ausweichen hat Vorrang!
 
-- Ein Fahrzeug von weniger als 20 m oder ein Segelfahrzeug darf die sichere Durchfahrt eines Maschinenfahrzeuges auf dem *Einbahnweg (VTG)* nicht behindern (Regel 10 j)
+- Regel 10 a: Diese Regel gilt in Verkehrstrennungsgebieten, die von der Organisation festgelegt worden sind; sie befreit ein Fahrzeug nicht von seiner Verpflichtung auf Grund einer anderen Regel.
 
-- Nach *Regel 10 a (für VTG)* wird ein Fahrzeug nicht von seiner Verpflichtung aufgrund einer anderen Regel befreit.
+- Regel 10 j: Ein Fahrzeug von weniger als 20 Meter Länge oder ein Segelfahrzeug darf die sichere Durchfahrt eines Maschinenfahrzeugs auf dem Einbahnweg nicht behindern.
 
-- Lageänderung beider Fahrzeuge zueinander ist ohne Belang. Maßgeblich für die *Ausweichpflicht* ist der Augenblick des Insichtkommens.
-
-- Wenn Kurshaltepflicht und Ausweichpflicht kollidieren, ist die Kurshaltepflicht nach Regel 2b KVR aufgehoben => Ausweichen hat Vorrang!
-
+- Regel 13: jedes Fahrzeug muss beim Überholen dem anderen ausweichen.
 
 - *Manövrierunfähig* ist Fahrzeug durch einen außergewöhnlichen Umstand 
 
@@ -155,9 +152,6 @@ Schallsignale:	5 kurze Töne  = Zweifel- und Gefahrensignal KVR Regel 34 d
 
 -  KÜMO = Küstenmtorschiff
 
-- Als Nebelsignal ist in der Elbmündung außerhalb der Seeschiffahrtstraßenordnung von einem Grundsitzer zu geben: Mindestens jede Minute etwa 5 Sekunden lang die Glocke rasch läuten sowie zusätzlich unmittelbar vor und nach dem raschen Glockenläuten drei scharf voneinander getrennte Glockenschläge.   
-Ein Fahrzeug auf Grund darf zusätzlich ein Pfeifsignal kurz-lang-kurz geben (Regel 35 h)
-
 - Eine Motoryacht, Länge 8 m, treibt nachts manövrierunfähig in der Nordsee und sieht ein großes Fahrzeug direkt auf sich zukommen. Welche Maßnahmen hat das Fahrzeug zu ergreifen?   
 Ein Fahrzeug von weniger als 12 m Länge, das die roten Rundumlichter senkrecht übereinander nicht führt, muss folgende Maßnahmen ergreifen:   
   1. Durch jedes andere verfügbare Mittel anzeigen, dass es manövrierunfähig ist, z.B. über UKWSprechfunk oder durch ein Schallsignal oder Lichtsignal lang, kurz, kurz.
@@ -166,7 +160,7 @@ Ein Fahrzeug von weniger als 12 m Länge, das die roten Rundumlichter senkrecht 
   4. Abfeuern eines Signals „weißer Stern“ oder „Blitz-Knall“.
   5. Sofort bei Eintritt der Manövrierunfähigkeit Verkehrszentrale informieren (wenn vorhanden).
 
-Regel 5 Ausguck: Jederzeit durch Sehen + Hören + durch jedes andere Mittel  
+- Regel 5 Ausguck: Jederzeit durch Sehen + Hören + durch jedes andere Mittel    
 => Ausguck halten  
 => Überblick über die Lage + Möglichkeit der Gefahr eines Zusammenstoßes
 
@@ -250,6 +244,8 @@ oder Geschwindigkeit selbständig bestimmen.
 
 - 🔔 🔔 🔔 + 🔔...🔔 + 🔔 🔔 🔔	Grundsitzer bis 100 m Länge einmal pro Minute 3 Glockenschläge, 5 s rasches Glockenläuten gefolgt von 3 Glockenschlägen  
 - 🔔 🔔 🔔 + 🔔...🔔 + 🔔 🔔 🔔 + Gong	Grundsitzer ab 100 m Länge einmal pro Minute 3 Glockenschläge, 5 s rasches Glockenläuten, 3 Glockenschläge gefolgt von 5 s raschem Gongschlagen am Heck
+
+Ein Fahrzeug auf Grund darf zusätzlich ein Pfeifsignal kurz-lang-kurz geben (Regel 35 h)
 
 ## Manöversignale
 
