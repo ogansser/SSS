@@ -39,8 +39,8 @@ output:
 
 - Nationalen Gesetze und Verordnungen die Vorschriften über das Verhalten nach einem Zusammenstoß enthalten:
   - Das Seesicherheits-Untersuchungs-Gesetz (SUG)
-  - Verordnung über die Sicherung der Seefahrt
-  - Seeschifffahrtsstraßen-Ordnung
+  - Verordnung über die Sicherung der Seefahrt (SeeFSichV)
+  - Seeschifffahrtsstraßen-Ordnung (SeeSchStrO)
   
 - Verordnung über die Sicherung der Seefahrt => Verhalten auf See:
   - Pflicht zur Seenotrettung
@@ -272,7 +272,7 @@ Passierabstand voraus (auf der Kurslinie) Bow crossing range
 ## Seeunfalluntersuchung
 
 - Ein Führer eine Sportbootes muss einen Seeunfall *unverzüglich melden* (mit Bericht) an: 
-  - Bundesstelle für Seeunfalluntersuchungen, alternativ
+  - Bundesstelle für Seeunfalluntersuchungen (BSU), alternativ
   - Wasserschutzpolizei des Einlaufhafens
   - Hafenbehörde (Ausland)
   
