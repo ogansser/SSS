@@ -280,7 +280,7 @@ Passierabstand voraus (auf der Kurslinie) Bow crossing range
 
 - Die Seeämter (Emden, Bremerhaven, Hamburg, Kiel, Rostock) sind Untersuchungsausschüsse mit der Aufgabe zu untersuchen, ob ein Befähigungszeugnis entzogen oder ein Fahrverbot verfügt werden soll. 
 
-- Generell sollen Ursachen und Umstände eines Seeunfalles festgestellt werden und ob ein fehlerhaftes Verhalten eines Beteiligten vorliegt, auch wenn letzteres nicht unfallursächlich war.
+- Generell sollen Ursachen und Umstände eines Seeunfalles festgestellt werden und ob ein *fehlerhaftes Verhalten* eines Beteiligten vorliegt, auch wenn letzteres nicht unfallursächlich war.
 So betreffen z.B. den Skipper eines Sportbootes:  
   - Mängel in der Besatzung des Schiffes,
   - Fehler bei der Führung oder dem Betrieb des Schiffes,
@@ -292,7 +292,7 @@ So betreffen z.B. den Skipper eines Sportbootes:
 
 - Die Spruchkörper der Seeämter und des Bundesoberamtes sind besetzt mit einem Vorsitzenden und vier Beisitzern (ein [hauptamtlicher] Ständiger Beisitzer, drei ehrenamtliche Beisitzer).
 
-- Seeamt und Bundesoberseeamt können beim Vorliegen eines fehlerhaften Verhaltens bei einem der Beteiligten, hier Segler, den Sportbootführerschein entziehen, soweit der Segler im Besitz eines solchen Sportbootführerscheines ist. Sportsee- und/oder Sporthochseeschifferscheine können als freiwillige staatliche Scheine ebenfalls entzogen werden.
+- Seeamt und Bundesoberseeamt können beim Vorliegen eines *fehlerhaften Verhaltens* bei einem der Beteiligten, hier Segler, den Sportbootführerschein entziehen, soweit der Segler im Besitz eines solchen Sportbootführerscheines ist. Sportsee- und/oder Sporthochseeschifferscheine können als freiwillige staatliche Scheine ebenfalls entzogen werden.
 
 - Verordnung über die Sicherung der Seefahrt:
 Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:  
