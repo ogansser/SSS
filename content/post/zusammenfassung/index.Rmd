@@ -424,21 +424,21 @@ Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:
 ## Stabilität 
 
 
-- Stabilität: Aufrichtvermögen einer Yacht, falls sie gekrängt wird. 
+- Stabilität: Aufrichtungsvermögen einer Yacht, falls sie gekrängt wird. 
 
-- Neigung => Formschwerpunkt F wandert zur geneigten Seite => Kräftepaar mit Wirkungsgeraden des Massenmittelpunktes (Gewichtsschwerpunkt) => will aufrechte Schwimmlage wieder herstellen.
+- Neigung => Formschwerpunkt wandert zur geneigten Seite => Kräftepaar mit Wirkungsgeraden des Massenmittelpunktes (Gewichtsschwerpunkt) => will aufrechte Schwimmlage wieder herstellen.
 
 - Dem Krängungsmoment (Winddruck, Wasser[quer]widerstand) wirkt das aufrichtende Moment (Hebelarm aus Auftriebskraft und Gewichtskraft) entgegen.
 
 - Archimedes: Die Auftriebskraft ist die Gewichtskraft des verdrängten Wasservolumens!
 
-- Metazentrum: Schnittpunkt der Auftriebskraft mit der Schiffsachse
+- Auftriebsschwerpunkt = Mittelpunkt des untergetauchten Schiffes.
 
-- Metazentrische Höhe muss immer Positiv sein => stabil
+- Metazentrum: Schnittpunkt der Auftriebskraft mit der Schiffsachse
 
 - Metazentrische Höhe = Höhe zwischen Gewichtsschwerpunkt und Metazentrum
 
-- Auftriebsschwerpunkt = Mittelpunkt des untergetauchten Schiffes.
+- Metazentrische Höhe muss immer positiv sein => stabil 
 
 - Begriffe:
   - Gewichtsschwerpunkt (Massenmittelpunkt)
@@ -446,8 +446,7 @@ Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:
   - Metazentrum
   - Auftrieb
   - aufrichtender Hebelarm  
-  => Gewichtsstabile Schiff => Gewichtsschwerpunkt unterhalb Formschwerpunkt => Aufrichtendes Moment => Schiff kentert nicht
-
+  
 - Stabilität wird beeinflusst von     
   - Geometrie (Form),
   - Gewichtsverteilung im Schiff (Ausrüstung, Crew, Ballast) und
