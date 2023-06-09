@@ -406,7 +406,7 @@ Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:
   - Segel (u.a. Anzahl, Machart/Material, Zustand, Stauplatz)
   - Maschinenanlage (u.a. Hersteller, Baujahr, Leistung, Bedienung, Wartung bzw. Instandhaltung)
   - Stromversorgung (u.a. Kapazität)
-  - Schraube (u.a. Bauart, rechts- oder linksgängig und welche Steuerwirkung)
+  - Schraube (u.a. Bauart, rechts- oder linksgängig und welche Steuerwirkung, Stb oder Bb)
   - Manövrierdaten unter Segel und Maschine (u.a. Geschwindigkeit)
   - Ruderanlage (u.a. Bauart) und Notruderbedienug
   - Ankereinrichtung
