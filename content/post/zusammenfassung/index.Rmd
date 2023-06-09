@@ -389,7 +389,7 @@ Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:
 
 - Gasdetektor => Alarm sobald bestimmte Gaskonzentration erreicht wird, optional mit Gasabschaltvorichtung
 
-- Gasanlage hat ein Prüfstempel bzw. ein Prüfzertifikat von der zuständigen Prüfstelle. Die Farbe der PLakette ändert sich jährlich. 
+- Gasanlage hat ein Prüfstempel bzw. ein Prüfzertifikat von der zuständigen Prüfstelle. Die Farbe der Plakette ändert sich jährlich. 
 
 - Einscheibiger Block der Tagelage (stehendes und laufendes Gut):   
   => Richtungsänderung des durchlaufenden Gutes
