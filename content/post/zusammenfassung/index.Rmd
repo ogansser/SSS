@@ -504,7 +504,7 @@ Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:
   - Anker
 
 - Sicherheitsausrüstung für persönliche Sicherheit:
-  - Rettungsweste je Besatzungsmitglied + 1 Lifebelt 
+  - Für jedes Besatzungsmitglied 1 Rettungsweste, 1 Lifebelt 
   - mindestens ein Rettungsring mit schwimmfähiger Wurfleine (lt. SeeBG: 28 m lang)
 
 - Mindestausstattung Fahrenyacht an Rettungseinrichtungen/Gegenstände (lt. Broschüre Sicherheit auf dem Wasser):
