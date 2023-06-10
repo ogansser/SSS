@@ -562,7 +562,6 @@ Beide Fahrzeuge müssen am Unfallort bleiben und feststellen:
   => Aufstellung: Sichtbar oder mit entsprechendem Hinweisschild versehen, frei zugänglich.  
   => Wartung: Auf Einhaltung der vorgeschriebenen Wartungsintervalle achten bzw. bei Druckverlust und nach Benutzung sofort wieder auffüllen bzw. auffüllen lassen.
 
-
 - Automatik-Sicherungsweste funktioniert mit Hilfe einer wasserlöslichen Tablette.
   - blockiert federspannenden Bolzen 
   - bei Wasserkontakt (durch z. B. Eintauchen in Wasser) löst sich Sperre
@@ -672,8 +671,8 @@ gezogen worden sind;
   - Bauqualität und Wartung
   - Größe und Stabilität
   - Navigationsausrüstung
-  - Besatzung
   - Sicherheitsausrüstung
+  - Besatzung
   
   
 - Seetüchtigkeit der Inneneinrichtung:
@@ -681,7 +680,7 @@ gezogen worden sind;
   - Handläufe und Griffe
   - Kojen zu sichern mit Leesegeln
   - Pantry bei Seegang nutzbar
-  - Stauräume so sichern, dass auch unter schwersten Bedingungen alles in den Fächern bleibt
+  - Stauräume sicherbar
   - Stauraum für nasses Ölzeug
   - angemessene Navigationsecke
 
@@ -719,7 +718,7 @@ gezogen worden sind;
   - Stevenrohr und Schraube,
   - Rumpf (Außenhaut, Spanten, Verstärkungen (auch unter Bodenbretter schauen)),
   - Ein- und Auslässe,
-  - Fahrtmessanlagen (Impeller),
+  - Impeller,
   - Echolotschwinger,
   - Opferanoden  
  
