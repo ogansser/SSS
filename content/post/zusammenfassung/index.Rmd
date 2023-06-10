@@ -653,9 +653,20 @@ gezogen worden sind;
   - welche die einschlägigen Maßnahmen des **Meeresumweltschutzes** berücksichtigt sowie Handlungen und Tätigkeiten so weit wie möglich vermeidet, die Schäden an der Umwelt verursachen könnten.
 
 
-- Reiseplanung vor der Reise (Wetterinfos, Seehandbücher, erforderliche Papiere, Notfallplanung, Sicherheitsübungen, Überprüfung von Fahrzeug, Crew)
+- Reiseplanung vor der Reise
+  - Wetterinfos, 
+  - Seehandbücher, 
+  - erforderliche Papiere, 
+  - Notfallplanung, 
+  - Sicherheitsübungen, 
+  - Überprüfung von Fahrzeug, 
+  - Crew
 
-- Reiseplanung während der Reise (aktuelle Wetterinformationen, Überwachung von Kurs, Geschwindigkeit, Position, Karteneintragungen, Eintragungen ins Schiffstagebuch)
+- Reiseplanung während der Reise
+  - aktuelle Wetterinformationen, 
+  - Überwachung von Kurs, Geschwindigkeit, Position, 
+  - Karteneintragungen, 
+  - Eintragungen ins Schiffstagebuch
 
 - Seetüchtigkeit Yacht:
   - Bauqualität und Wartung
