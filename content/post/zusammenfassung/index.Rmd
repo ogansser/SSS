@@ -913,26 +913,26 @@ nach manueller oder automatischer Auslösung wird der Notruf automatisch über S
 
 ## Manövrierverhalten von Seeschiffen
 
-- Anschwenken: Übergang von der Geradeausfahrt des Schiffes in eine Drehbewegung
+- **Anschwenken**: Übergang von der Geradeausfahrt des Schiffes in eine Drehbewegung
 
 - Je nach Größe des Schiffes benötigt es mehrere Schifflängen (1,5 bis 2,5 SL), bevor das ausgeschlagene Heck die „alte Kurslinie“ verlässt => "verbreiterte Fahrspur"
 
-- Stoppstrecke ca. 10 Schiffslängen, Umsteuerzeit ca. 5 Minuten bei Voll-Rückwärts 
+- **Stoppstrecke** ca. 10 Schiffslängen, Umsteuerzeit ca. 5 Minuten bei Voll-Rückwärts 
 
 - Wenn größeres Küstenmotorschiff mehrere zunächst nicht erklärbare Kursänderungen fährt: Schiff steuert wahrscheinlich nach den Tiefenlinien, um einen Flachwassereffekt (Squat) – das bedeutet ein Absenken des Schiffes über den normalen Tiefgang hinaus - zu vermeiden.
 
 - Wichtige Umrechnung: 1 kn ~ 30 Meter/Minute (1800m/60Min)
 
-- Empfehlungen der See-Berufsgenossenschaft (SeeBG) bezüglich der Mindestsichtweite auf Containerschiff nach voraus: Toter Winkel nach voraus soll 2 Schiffslängen, höchstens jedoch 500 m nicht überschreiten.
+- Empfehlungen der See-Berufsgenossenschaft (SeeBG) bezüglich der Mindestsichtweite auf Containerschiff nach voraus: Toter Winkel nach voraus soll 2 Schiffslängen, höchstens jedoch 500 m nicht überschreiten. 
 
-- Achtung bei Containerschiff: Es besteht außerdem die Gefahr, in den Bugstau oder in das Schraubenwasser zu geraten, dieses hätte eine kurzfristige Manövrierunfähigkeit zur Folge und somit Gefahr für Yacht und Besatzung.
+- Achtung bei Containerschiff: Es besteht außerdem die Gefahr, in den **Bugstau** oder in das **Schraubenwasser** zu geraten, dieses hätte eine kurzfristige Manövrierunfähigkeit zur Folge und somit Gefahr für Yacht und Besatzung.
 
 - Bedenken, wenn großes Schiff auf einen zukommt:
   - Andere Manövrierfähigkeit (größere Drehkreise, längere Stoppstrecken).
   - u.U. eingeschränkte Sicht des anderen Fahrzeugs insbesondere nach voraus.
   - Möglichkeit des Übersehenwerdens, weil man sich im Radarschatten befindet.
   - Beeinträchtigung durch Bugwellen des großen Schiffes.
-  - Mögliche Beeinträchtigung der Manövrierfähigkeit des eigenen Bootes durch Windabdeckung.
+  - Mögliche Beeinträchtigung der Manövrierfähigkeit des eigenen Bootes durch **Windabdeckung**.
 
 
 ## Fahren in schwerem Wetter 
