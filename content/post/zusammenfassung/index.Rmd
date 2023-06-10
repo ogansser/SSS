@@ -672,8 +672,8 @@ gezogen worden sind;
   - Bauqualität und Wartung
   - Größe und Stabilität
   - Navigationsausrüstung
-  - Besatzung
   - Sicherheitsausrüstung
+  - Besatzung
   
   
 - Seetüchtigkeit der Inneneinrichtung:
@@ -681,7 +681,7 @@ gezogen worden sind;
   - Handläufe und Griffe
   - Kojen zu sichern mit Leesegeln
   - Pantry bei Seegang nutzbar
-  - Stauräume so sichern, dass auch unter schwersten Bedingungen alles in den Fächern bleibt
+  - Stauräume sicherbar
   - Stauraum für nasses Ölzeug
   - angemessene Navigationsecke
 
