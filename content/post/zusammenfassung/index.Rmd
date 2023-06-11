@@ -1119,7 +1119,7 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
   - Wolkenbild
   - Niederschläge
 
-- Taupunkt: Wenn bei Abkühlung einer Luftmasse die Sättigungsfeuchte (= 100% relative Feuchte) erreciht wird, bezeichnet man die Temperatur bei der dies stattfindet, als Taupunkt
+- Taupunkt: Wenn bei Abkühlung einer Luftmasse die Sättigungsfeuchte (= 100% relative Feuchte) erreicht wird, bezeichnet man die Temperatur bei der dies stattfindet, als Taupunkt
 
 - Luftdruck entsteht als Folge der Gewichtskraft (Masse mal Beschleunigung) der Atmosphäre. 
 
@@ -1140,9 +1140,9 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
 - Böen mit 1 bis 2 Bft über dem Mittelwind.
 
 - Scheinkräfte die die Windgeschwindigkeit beeinflussen:
-  - Coriolis-Effekt 
+  - Coriolis-Kraft 
     - dreht die Richtung des Windes rechtwinklig nach rechts, wenn man auf der Nordhalbkugel vom hohen zum tiefen Druck schaut (Nordhalbkugel). 
-    - Bei gleichem Isobarenabstand ist durch den Coriolis-Effekt in niederen Breiten die Windgeschwindigkeit größer als in höheren Breiten. 
+    - Bei gleichem Isobarenabstand ist durch die Coriolis-Kraft in niederen Breiten die Windgeschwindigkeit größer als in höheren Breiten. 
   - Reibungskraft: 
     - Verringert die Geschwindigkeit des Windes 
     - lenkt die Richtung über See um 22° zu den Isobaren zum tiefen Druck hin.
@@ -1157,26 +1157,22 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
 - Scheinbare Wind = Fahrtwind + wahrer Wind. 
 
 - Luftruck fällt in unserern Breiten (30 bis 50 Grad N) bei sonnigem Wetter relativ stark (0,5 bis 1 hPa), abends hört der Luftdruckabfall auf, am Tag vorhandene Wolken lösen sich weitgehend auf.   
-=> Täglichen Luftdruckwelle, voraussichtlich dauert das schöne Wetter noch an. Solange der **Tagesgang des Luftdrucks** nicht gestört wird, bleibt das Wetter unverändert gut. 
+=> **Täglichen Luftdruckwelle**, voraussichtlich dauert das schöne Wetter noch an. Solange der **Tagesgang des Luftdrucks** nicht gestört wird, bleibt das Wetter unverändert gut. 
 
 - Luftdruck fällt stark (über 1 hPa pro Stunde) und mindert sich auf abends nicht wesentlich, mit gleichzeitiger Zunahme von Wind und Wolken   
-=> Dem Tagesgang ist ein Druckabfall überlagert, Wetterverschlechterung stellt sich ein. Da Baromter stark fällt, naht ein kräftiger Tiefruckwirbel, Sturm ist wahrscheinlich
+=> Dem Tagesgang ist ein Druckabfall überlagert, Wetterverschlechterung stellt sich ein. Da Baromter stark fällt, naht ein kräftiger Tiefruckwirbel, Sturm ist wahrscheinlich.
 
 ## Wolken und Nebel
 
-- absolute Feuchte a = Anteil unsichtbarer Wasserdampf an allen Molekülen in der Luft.
-
-- Sättigungsfeuchte A = maximal mögliche Wasserdampfmenge bei einer bestimmten Temperatur.
-
-- Taupunkttemperatur = Temperatur, bei der eine in der Luft vorhandene Wasserdampfmenge die Sättigungsmenge erreicht. 
-
-$$relative\ Feuchte\ U= \frac{a}{A}*100$$ 
+- Die **relative Luftfeuchtigkeit** ist eine Prozentangabe. Sie ist das Verhältnis
+  - der **tatsächlichen Feuchte**, die in der Luft unsichtbar gespeichert ist (Wasserdampf),
+  - zu der **höchst möglichen Feuchte**, die bei der vorherrschenden Temperatur gespeichert werden kann.
 
 - Luft kann zur Sättigung gebracht werden durch
   - Feuchtezufuhr =>  Verdunstungsnebel im Herbst
   - Abkühlung =>  Abkühlungsnebel im Frühjahr
 
-- Kondensationsniveau: Höhe, auf die ein Luftpaket gehoben werden muss, damit die in ihm enthaltene Feuchte aus dem gasförmigen in den flüssigen Zustand übergeht, d.h. kondensiert.
+- Die Höhe, bei der es zur Tröpfchenbildung kommt, nennt man Kondensationsniveau.
 
 - Konvektion: Mechanismus zum Transport von thermischer Energie
 
@@ -1277,7 +1273,7 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
     - Kaum Temperaturänderung
     - Luftdruck fällt
     - Sicht wird schlechter
-    - Wind schwach, nimmt zur Front hinzu, rechtdrehend
+    - Wind schwach, nimmt zur Front hin zu, rechtdrehend
     - Wolkenaufzug in bestimmten Höhen (Cirren, Cirrostratus, Altostratus, Nimbostratus)
     - Cirren 500km (bis 1000km) als erste Anzeichen
     - Regen aus Nimbostratus (Landregen)
@@ -1309,7 +1305,7 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
     - schauerartige Niederschläge, schlecht Sicht
   - hinter der Kaltfront
     - stetiger Temperaturanstieg
-    - stetiger Luftsdruckanstieg
+    - stetiger Luftdruckanstieg
     - Sichtverbesserung
     - Rückseitenwetter
     - Schauerböhen
@@ -1329,9 +1325,13 @@ $$relative\ Feuchte\ U= \frac{a}{A}*100$$
 
 - Ein okkludierendes Tief schwenkt auf der Nordhalbkugel nach links von seiner bisherigen Bahn (Poltendenz). Die Bahngeschwindigkeit verringert sich.
 
-- Typischen Wetterverlauf, wenn eine Zyklone auf Nordbreite südlich von einem Beobachter vorbeizieht:
-  - Nördlich der Zyklone ist Wetterverlauf gleichmäßiger als im Süden     
-    => keine Fronten, Temperatursprünge, plötzlichen Luftdruckänderungen, Ausschießen des Windes.
+- Nördlich vom Zentrum:
+  - homogenes Wetter
+    - keine Fronten, 
+    - keine Windsprünge,
+    - keine Temperatursprünge, 
+    - keine p-/T-Sprüngep
+  - aber kälter  
   - Wolkenaufzug: von Cirren über Cirrostratus, Altostratus, Stratocumulus; in der Nähe des Kerns Stratus mit Regen, nach Passieren des Kerns in Schauer übergehend. Rückseitenwetter mit abnehmender Intensität.
   - Luftdruck: fällt allmählich vor dem Tief, um dahinter ebenso allmählich wieder anzusteigen.  
   - Temperatur: ändert sich nicht auffällig, da der Beobachter immer im Bereich der Kaltluft bleibt. 

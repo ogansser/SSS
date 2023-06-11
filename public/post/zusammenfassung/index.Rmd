@@ -923,7 +923,7 @@ nach manueller oder automatischer Auslösung wird der Notruf automatisch über S
 
 - Wichtige Umrechnung: 1 kn ~ 30 Meter/Minute (1800m/60Min)
 
-- Empfehlungen der See-Berufsgenossenschaft (SeeBG) bezüglich der Mindestsichtweite auf Containerschiff nach voraus: Toter Winkel nach voraus soll 2 Schiffslängen, höchstens jedoch 500 m nicht überschreiten.
+- Empfehlungen der See-Berufsgenossenschaft (SeeBG) bezüglich der Mindestsichtweite auf Containerschiff nach voraus: Toter Winkel nach voraus soll 2 Schiffslängen, höchstens jedoch 500 m nicht überschreiten. 
 
 - Achtung bei Containerschiff: Es besteht außerdem die Gefahr, in den **Bugstau** oder in das **Schraubenwasser** zu geraten, dieses hätte eine kurzfristige Manövrierunfähigkeit zur Folge und somit Gefahr für Yacht und Besatzung.
 
