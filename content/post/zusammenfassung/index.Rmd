@@ -132,7 +132,7 @@ KVR Regel 17 b (Manöver des letzten Augenblicks ("muss"))
 - Regel 13: jedes Fahrzeug muss beim Überholen dem anderen ausweichen.
 
 - Regel 33 Schallsignale:
-  - kleine 12 m: anderes Gerät für kräftiges Schallsignal
+  - kleiner 12 m: anderes Gerät für kräftiges Schallsignal
   - größergleich 12 m : Pfeife
   - größergleich 20 m : Pfeife + Glocke
   - größergleich 100 m : Pfeife + Glocke + Gong
