@@ -121,11 +121,22 @@ KVR Regel 17 b (Manöver des letzten Augenblicks ("muss"))
 
 - Regel 2b: Wenn Kurshaltepflicht und Ausweichpflicht kollidieren, ist die Kurshaltepflicht aufgehoben => Ausweichen hat Vorrang!
 
+- Regel 5 Ausguck: Jederzeit durch Sehen + Hören + durch jedes andere Mittel    
+=> Ausguck halten  
+=> Überblick über die Lage + Möglichkeit der Gefahr eines Zusammenstoßes
+
 - Regel 10 a: Diese Regel gilt in Verkehrstrennungsgebieten, die von der Organisation festgelegt worden sind; sie befreit ein Fahrzeug nicht von seiner Verpflichtung auf Grund einer anderen Regel.
 
 - Regel 10 j: Ein Fahrzeug von weniger als 20 Meter Länge oder ein Segelfahrzeug darf die sichere Durchfahrt eines Maschinenfahrzeugs auf dem Einbahnweg nicht behindern.
 
 - Regel 13: jedes Fahrzeug muss beim Überholen dem anderen ausweichen.
+
+- Regel 33 Schallsignale:
+  - kleine 12 m: anderes Gerät für kräftiges Schallsignal
+  - größergleich 12 m : Pfeife
+  - größergleich 20 m : Pfeife + Glocke
+  - größergleich 100 m : Pfeife + Glocke + Gong
+
 
 - *Manövrierunfähig* ist Fahrzeug durch einen außergewöhnlichen Umstand 
 
@@ -160,15 +171,6 @@ Ein Fahrzeug von weniger als 12 m Länge, das die roten Rundumlichter senkrecht 
   4. Abfeuern eines Signals „weißer Stern“ oder „Blitz-Knall“.
   5. Sofort bei Eintritt der Manövrierunfähigkeit Verkehrszentrale informieren (wenn vorhanden).
 
-- Regel 5 Ausguck: Jederzeit durch Sehen + Hören + durch jedes andere Mittel    
-=> Ausguck halten  
-=> Überblick über die Lage + Möglichkeit der Gefahr eines Zusammenstoßes
-
-- Regel 33 Schallsignale:
-  - kleine 12 m: anderes Gerät für kräftiges Schallsignal
-  - größergleich 12 m : Pfeife
-  - größergleich 20 m : Pfeife + Glocke
-  - größergleich 100 m : Pfeife + Glocke + Gong
 
 ### SeeSchStrO
 
