@@ -1297,7 +1297,7 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
     - Windgeschwindigkeit nimmt zu
     - Wolkenwand aus tief hängenden Nimbustratus (Cumulonimben möglich)
     - beginnender Niederschlag
-  - Beim passieren der Front
+  - Beim Passieren der Front
     - Temperatur sinkt
     - Luftdruck steigt sprunghaft
     - Windsprung, rechtdrehend
@@ -1329,14 +1329,17 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
   - homogenes Wetter
     - keine Fronten, 
     - keine Windsprünge,
-    - keine Temperatursprünge, 
-    - keine p-/T-Sprüngep
-  - aber kälter  
-  - Wolkenaufzug: von Cirren über Cirrostratus, Altostratus, Stratocumulus; in der Nähe des Kerns Stratus mit Regen, nach Passieren des Kerns in Schauer übergehend. Rückseitenwetter mit abnehmender Intensität.
-  - Luftdruck: fällt allmählich vor dem Tief, um dahinter ebenso allmählich wieder anzusteigen.  
+    - keine p-/T-Sprünge
+  - aber kälter
   - Temperatur: ändert sich nicht auffällig, da der Beobachter immer im Bereich der Kaltluft bleibt. 
+  - Luftdruck: fällt allmählich vor dem Tief, um dahinter ebenso allmählich wieder anzusteigen.
   - Wind: rückdrehend von S/SE über E, NE, N auf NW.
-
+  - Wolkenaufzug: von Cirren über Cirrostratus, Altostratus, Stratocumulus
+  - In der Nähe des Kerns Stratus mit Regen, 
+  - nach Passieren des Kerns in Schauer übergehend. 
+  - Rückseitenwetter mit abnehmender Intensität.
+    
+  
 - Luftströmungen in einem Hoch und in einem Tief
   - Im Zentrum des Hochs herrscht Flaute. 
   - In Hochdruckgebieten steigt die Luft ab (kommt dabei unter höheren Druck, erwärmt sich, trocknet aus und die Wolken lösen sich auf). 
@@ -1354,41 +1357,33 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
   - Es bildet sich eine Übergangsschicht – eine Inversion. 
   - An dieser entstehen durchgehende Schichtwolken (Stratus).
 
-- Wenn Isobaren nicht so dicht beieinander dann in Hochdruckgebieten:
-  - schwacher bis mäßiger Wind östlich des Hochs
-  - schwacher bis mäßiger Wind, leicht böig, (antizyklonaler Wind) westlich des Hochs
-  - flache Cumulusbewölkung, nachmittags stärkere Entwicklung
-  - Geringe Luftfreutigkeit; relativ gute Sicht, keine Nebelgefahr
-
 - Regel von Buys-Ballot
   - Stellt man sich mit dem Rücken zum Wind, dann befindet sich das Tief auf der linken Seite, zwei Strich vorlicher als querab. 
   - Das Hoch liegt auf der rechten Seite, zwei Strich achterlicher als querab. 
   - Dies gilt für die Nordhalbkugel.
-  - Ein vor dem Winde segelndes Schiff hat auf der Nordhalbkugel den tieferen Druck stets etwas vorlicher
-(ca.20° ) als querab an Backbord. SP= 280° - 300°.
-  - Der hohe Druck befindet sich etwas achterlicher (ca. 20° ) als querab an Stb. SP=
+  - Ein vor dem Winde segelndes Schiff hat auf der Nordhalbkugel den tieferen Druck stets **ca. 2 Strich vorlicher als querab an Bd**. SP= 280° - 300°.
+  - Der hohe Druck befindet sich **ca. 2 Strich achterlicher als querab an Stb**. SP=
 100° - 120°.
 
 - Zugbahnen:
-  - Randtief: Zieht auf zyklonaler Bahn (auf der Nordhalbkugel entgegen dem Uhrzeigersinn) polwärts um das Haupttief herum (wird also quasi von diesem gesteuert). 
-  - Je stärker sich das Randtief vertieft, umso größer ist die Tendenz polwärts einzudrehen.
-  - Teiltief: zieht auf antizyklonaler Bahn weiter, also nach Osten oder Südosten und entfernt sich vom Haupttief  
+  - Randtief zieht auf **zyklonaler Bahn polwärts** um das Haupttief herum. 
+  - Teiltief zieht auf **antizyklonaler Bahn weiter**, also nach Osten oder Südosten und entfernt sich vom Haupttief  
 
 - Bei einem trogförmig angeordneten Isobarenverlauf an einem Tief spricht man von einem Trog.
   - Außer der Winddrehung und den Niederschlägen im Bereich der Trogachse sind normale Tröge ungefährlich. 
   - Gewittergefahr. 
-  - Liegen die Isobaren im Trog jedoch sehr eng beieinander, können in Trögen die gefährlichsten Stürme der gemäßigten Breiten auftreten. 
-  - Durch die unterschiedliche Windrichtung hinter und vor der Trogachse entsteht Kreuzsee aus Dünung und Windsee.
-  - Mit der raschen Rechtdrehung des Windes im Bereich des Scheitels des Troges (Trogachse) wird eine sehr gefährliche Kreuzsee erzeugt
+  - Liegen die **Isobaren im Trog jedoch sehr eng** beieinander, können in Trögen die **gefährlichsten Stürme** der gemäßigten Breiten auftreten. 
+  - Kreuzseen vor und nach der Trogachse  
+  => Rasche **Rechtsdrechung im Bereich der Trogachse**
 
-- Erkennen eines herannahmender Trog in einem Tief:
-  - Nach Durchgang der Kaltfront dreht der Wind nicht auf NW bis NNW, ist also nicht rechtdrehend, sondern behält seine Richtung bei und ist sogar rückdrehend. 
-  - Der Druck steigt nach Durchgang der Kaltfront nicht an, ist gleichbleibend und beginnt schließlich zu fallen. 
-  - Die Bewölkung nimmt zu, und Niederschläge folgen.
+- Erkennen eines herannahmenden Trogs in einem Tief:
+  - rückdrehender Wind
+  - fallender Luftdruck
+  - Wetterverschlechterung
 
-- Enstehung einer Trogwetterlage:
-  - Bei einem stark ausgeprägten Tief schwenken im Reifestadium die Fronten voraus und zusammen. 
-  - Die Okklusionsfront schwenkt auf der Nordhalbkugel nach Norden und das Tief zieht eine Tiefdruckschleppe hinter sich her; 
+- Entstehung einer Trogwetterlage:
+  - Bei einem stark ausgeprägten Tief **schwenken** im Reifestadium die Fronten **voraus und zusammen**. 
+  - Die Okklusionsfront schwenkt auf der Nordhalbkugel nach Norden und das Tief zieht eine **Tiefdruckschleppe** hinter sich her; 
   - diese wird als Trog bezeichnet.
 
 
@@ -1401,7 +1396,7 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
 - Seewind:
   - starken Sonneneinstrahlung über Land 
   - Aufheizung der Luft
-  - thermisches Tiefdruckgebiet über Land
+  - **thermisches Tiefdruckgebiet** über Land
   - Gegen Mittag/Nachmittag beginnt eine leichte bis mäßige Seebrise, 
   - Luft srömt vom Meer zum Land
   - Maximum des Seewindes ca. 2 Stunden nach Sonnenhöchststand
@@ -1409,7 +1404,7 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
 
 - Landwind:
   - Nachts kühlt das Festland stärker ab als das Wasser
-  - thermisches Hochdruckgebiet über Land
+  - **thermisches Hochdruckgebiet** über Land
   - Gegen Mitternacht beginnt eine schwache Landbrise
   - Luft srömt vom Land zum Meer
   - die maximale Windstärke ist in der Regel zwischen ca. 03.00 Uhr und Sonnenaufgang.
@@ -1417,16 +1412,16 @@ Wenn man erstmalig nach reiflicher Beurteilung der Lage sich mit dem Gedanken de
 - Eine Land-Seewind-Zirkulation kann nachmittags durch Gewitterbildung über Land (infolge Gewitterböhen) gestört werden. 
 
 - Windverhältnisse in der Nähe von Steilküsten:   
-  - Auflandiger Wind: Durch Küstenführung beschleunigt wenn nahezu auflandig oder parallel zur Küste
-  - Ablandiger Wind: umlaufende Winden und erhöhter Böigkeit (Fallwinden) 
+  - Auflandiger Wind: Durch Küstenführung **beschleunigt** wenn nahezu auflandig oder parallel zur Küste
+  - Ablandiger Wind: **umlaufende Winden** und erhöhter **Böigkeit** (Fallwinden) 
 
-- Düseneffekt: Bildet die Küstenformation engen Durchlass, wird (nach dem Venturiprinzip) die Strömungsgeschwindigkeit beschleunigt
+- Düseneffekt: Bildet die Küstenformation engen Durchlass, wird (nach dem **Venturiprinzip**) die Strömungsgeschwindigkeit beschleunigt
 
 - Regionen in Europa mit Düseneffekt: Straße von Gibraltar, Straße von Bonifacio, Westausgang des Skagerraks, zwischen den Inseln der Ägäis, Straße von Messina.
 
 - Düseneffekt zwischen Inseln: Zwischen zwei Hindernissen, zum Beispiel Inseln oder einer Meerenge, wird die Luft hindurchgepresst und durch die Verringerung des Querschnitts beschleunigt. Der Wind kann um etwa 2 bis 5 Windstärken stärker sein als der Mittelwind.
 
-- Kapeffekt: Ein aus einer Luftmasse herausragendes Kap engt den Luftstrom einseitig ein. Es tritt ebenfalls der Venturieeffekt ein, zusätzlich mit deutlicher Änderung der Windrichtung.  
+- Kapeffekt: Ein aus einer Luftmasse herausragendes Kap engt den Luftstrom einseitig ein. Es tritt ebenfalls der **Venturieeffekt** ein, zusätzlich mit deutlicher Änderung der Windrichtung.  
 
 - In einer Entfernung von etwa dem 10 bis maximal 30-fachen der Höhe des Hindernisses hat sich in etwa wieder ein normales Windfeld (in Lee von Hindernissen) eingestellt.
 
